@@ -1,182 +1,137 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T22:35:17.783699+00:00",
+  "generated_at": "2026-06-17T22:53:14.957526+00:00",
   "vocab_level": 3,
   "script": [
     {
       "speaker": "Alex",
-      "text": "Good morning, Japan! You're tuning into 'Morning Blend' on this rather damp Wednesday, June 17, 2026! I'm Alex, and I've already managed to step in every single puddle on the way in.",
-      "ja": "日本のみなさん、おはようございます！2026年6月17日、かなり湿った水曜日、『モーニングブレンド』にお付き合いいただきありがとうございます！Alexです。出勤途中、すでにすべての水たまりに足を踏み入れてしまいましたよ。"
+      "text": "Good morning, good morning, Tanu-chan fans! Welcome back to The Daily Tanu-chan Show! It is Wednesday, June 17th, 2026, and wow, what a way to start the day!",
+      "ja": "おはようございます、おはようございます、タヌちゃんファンの皆さん！『The Daily Tanu-chan Show』へようこそ！2026年6月17日水曜日です、いやはや、なんて一日の始まりだ！"
     },
     {
       "speaker": "Sarah",
-      "text": "And I'm Sarah, here to remind Alex that umbrellas exist. Welcome back, everyone! Yes, it's June 17th, and if you're looking out your window in Tokyo, you're probably seeing quite the downpour.",
-      "ja": "そしてSarahです。Alexに傘というものが存在することを思い出させるためにここにいます。皆さん、こんにちは！ええ、6月17日。もし東京で窓の外を見ているなら、かなりの土砂降りを目の当たりにしていることでしょうね。"
+      "text": "Alex, you sound surprisingly cheerful for someone who just walked through a monsoon. Good morning, everyone! You're listening to Alex and Sarah, ready to brighten your Wednesday.",
+      "ja": "Alex、モンスーンの中を歩いてきたばかりなのに、驚くほど陽気ね。皆さん、おはようございます！水曜日を明るくするAlexとSarahがお届けしています。"
     },
     {
       "speaker": "Alex",
-      "text": "Quite the downpour is an understatement, Sarah. It feels less like rain and more like the sky just decided to empty a giant bucket over our heads. My hair is... well, it's a *smattering* of various states of dampness right now.",
-      "ja": "かなりの土砂降り、なんてサラは控えめな表現ですよ。雨というよりは、空が巨大なバケツを頭の上にひっくり返したような感じです。僕の髪は…ええ、今、様々な湿り具合の*smattering*、つまりまばらに濡れています。"
+      "text": "Well, Sarah, I try to be as... what's the word... 'vivacious' as you, even when it's raining cats and dogs out there! Speaking of, let's talk about this weather!",
+      "ja": "ええと、Sarah、僕は君と同じくらい…なんて言うか…『vivacious』でいようと努力してるんだ、外が大雨でもね！そういえば、この天気の話をしよう！"
     },
     {
       "speaker": "Sarah",
-      "text": "A *smattering*, Alex? That's an interesting choice of word. For our listeners, a 'smattering' means a small, scattered amount of something. So, your hair isn't completely soaked, just a bit here and there?",
-      "ja": "Alex、*smattering*ですか？面白い言葉の選択ですね。リスナーの皆さんのために説明すると、『smattering』とは、何かが少量、まばらにある状態を意味します。つまり、あなたの髪は完全にずぶ濡れではなく、あちこちに少しだけ濡れている、ということですか？"
+      "text": "Ah, 'vivacious.' That's a good one, Alex! It means full of life, lively, energetic. It definitely describes you... sometimes. And yes, Tokyo weather today: moderate rain, 100% chance of it all day.",
+      "ja": "ああ、『vivacious』ね。いい言葉ね、Alex！活気に満ちている、生き生きとしている、エネルギッシュな、という意味よ。確かにあなたのことを表しているわ…時々ね。そして、そう、今日の東京の天気：小雨、一日中雨の確率は100%です。"
     },
     {
       "speaker": "Alex",
-      "text": "Exactly! Like a gentle sprinkle decided to get aggressive in specific spots. So, what's the official word from the atmospheric experts on this aquatic onslaught?",
-      "ja": "その通りです！まるで優しい霧雨が特定の場所でだけアグレッシブになった、みたいな感じです。それで、この水攻めについて、気象の専門家たちの公式見解はどうなんでしょう？"
+      "text": "One hundred percent! So no surprises then, right? It's just a constant flow of water. The high will be 22.1°C, and the low a cool 19.5°C. Perfect weather for staying inside and... doing laundry?",
+      "ja": "100パーセント！じゃあ、驚きはないってことだね？ひたすら水が流れ続けてる。最高気温は22.1℃、最低気温は涼しい19.5℃。家の中で…洗濯をするのに最適な天気かな？"
     },
     {
       "speaker": "Sarah",
-      "text": "Well, the official word is: don't put away that umbrella. Today, June 17th, Tokyo is experiencing moderate rain, with a 100% chance of precipitation throughout the day. The high is expected to reach 22.1 degrees Celsius, and it won't dip much below that, with a low of 19.5 degrees. So, a warm, wet one.",
-      "ja": "ええ、公式見解は「傘をしまうな」です。今日6月17日の東京は、一日中100%の降水確率で、並の雨が降っています。最高気温は22.1度、最低気温も19.5度と、あまり下がりません。ですから、暖かくて湿った一日ですね。"
+      "text": "Or reading a good book, or having a hot cup of tea. Or perhaps planning your next great adventure, even if it's just to the convenience store for a snack. Don't let the rain dampen your spirits, Alex!",
+      "ja": "それか、良い本を読むとか、温かいお茶を飲むとか。あるいは、たとえコンビニにおやつを買いに行くだけだとしても、次の素晴らしい冒険を計画するとか。雨に気分を湿らせないで、Alex！"
     },
     {
       "speaker": "Alex",
-      "text": "Warm and wet. My two least favorite adjectives for weather. I much prefer 'crisp' and 'sunny,' or 'bright' and 'breezy.' But 100% rain, huh? That's quite a commitment from the clouds.",
-      "ja": "暖かくて湿っている。天気に関する形容詞で一番嫌いな2つです。僕は『さわやかで晴れやか』とか『明るくてそよ風が吹く』方がずっと好きですね。しかし、降水確率100%ですか？雲からの、かなりの覚悟を感じますね。"
+      "text": "I'll try! I guess it means fewer people out, so maybe I can finally get a seat at that popular ramen shop. See, always a silver lining!",
+      "ja": "頑張るよ！ということは、外に出る人が減るから、あの人気のラーメン屋さんでようやく席に座れるかもしれないな。ほら、いつも良い面がある！"
     },
     {
       "speaker": "Sarah",
-      "text": "Indeed it is. So, pack your rain gear, drive carefully, and maybe embrace the coziness of an indoor day. Perhaps some good English listening practice?",
-      "ja": "本当にそうですね。なので、雨具を準備して、運転は慎重に。そして、もしかしたら家で過ごす心地よさを楽しむのもいいかもしれませんね。例えば、良い英語のリスニング練習とか？"
+      "text": "That's the spirit! Now, moving on to some broader news... We've been seeing a lot of discussions lately about the balance between our digital lives and our real-world connections. It feels like everyone is talking about 'digital detoxes.'",
+      "ja": "その意気よ！さて、もう少し大きなニュースに目を向けて…最近、デジタルの生活と現実世界でのつながりのバランスについての議論を多く目にするわね。みんなが『デジタルデトックス』について話している気がするわ。"
     },
     {
       "speaker": "Alex",
-      "text": "Like what we're doing right now! Excellent suggestion, Sarah. Always bringing it back to the learning. Speaking of important things...",
-      "ja": "今まさに僕たちがやっていることみたいに！素晴らしい提案ですね、サラ。いつも学習につなげてくれますね。重要なことと言えば…"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Did you know that on this very day, June 17th, but back in 1992, something pretty significant happened on the world stage?",
-      "ja": "この6月17日という日、ですが、1992年の今日、世界の舞台でかなり重要な出来事があったのを知っていますか？"
+      "text": "Oh, absolutely! My phone basically lives in my hand. It's hard to put it down. I mean, how else would I get all my Tanu-chan updates?",
+      "ja": "ああ、まったくその通り！僕の携帯は基本的に手にくっついてるよ。手放すのが難しい。だって、そうじゃなきゃ、どうやってタヌちゃんからの最新情報を受け取るんだい？"
     },
     {
       "speaker": "Sarah",
-      "text": "Oh, are we delving into historical moments now, Alex? I'm intrigued. Tell me, what pivotal event are you referring to?",
-      "ja": "あら、歴史的な瞬間に踏み込むのね、Alex？興味津々だわ。どの決定的な出来事のことかしら？"
+      "text": "True, true. But it's a good reminder to look up from our screens sometimes. Maybe this rainy day is a perfect excuse to disconnect for a bit. Find a cozy spot, listen to the rain, and just... be.",
+      "ja": "そうね、そうね。でも、時々画面から顔を上げる良いきっかけになるわ。この雨の日は、少しデジタルから離れるのに完璧な言い訳かもしれないわね。居心地の良い場所を見つけて、雨の音を聞いて、ただ…存在するのよ。"
     },
     {
       "speaker": "Alex",
-      "text": "Well, on June 17, 1992, U.S. President George Bush and Russian President Boris Yeltsin signed a 'joint understanding' agreement on arms reduction. This was a crucial step towards what later became known as START II, a treaty aimed at further reducing strategic offensive arms.",
-      "ja": "ええと、1992年6月17日、アメリカ大統領ジョージ・ブッシュとロシア大統領ボリス・エリツィンが、軍備削減に関する『共同理解』協定に署名したんです。これは、後にSTART IIとして知られることになる、戦略攻撃兵器のさらなる削減を目的とした条約への決定的な一歩でした。"
+      "text": "That sounds surprisingly peaceful, Sarah. You really have a knack for finding the calm in the storm, or maybe just a good way to get me to stop scrolling.",
+      "ja": "それは驚くほど穏やかだね、Sarah。君は本当に嵐の中で落ち着きを見つけるのがうまい、というか、僕にスクロールをやめさせる良い方法を知っている、とでも言うべきか。"
     },
     {
       "speaker": "Sarah",
-      "text": "Ah, yes, START II. A significant agreement indeed, especially in the post-Cold War era. It really symbolized a shift in the global power dynamic and a move towards greater stability, at least in certain aspects.",
-      "ja": "ああ、START IIですね。特に冷戦後の時代においては、確かに重要な合意でした。それは、世界の力関係の変化と、少なくともある側面での安定への動きを象徴するものでしたね。"
+      "text": "A 'knack' means a special skill or talent, Alex, often one that's easy for you. And yes, it's a useful knack! Alright, let's take a quick look back at history with our 'On This Day' segment.",
+      "ja": "『knack』とは、Alex、特別な技術や才能のことよ。しばしば、あなたにとって簡単だと感じるものね。そう、それは役立つ特技よ！さて、私たちの『On This Day』のコーナーで、歴史を少し振り返ってみましょう。"
     },
     {
       "speaker": "Alex",
-      "text": "It's fascinating to look back at moments like that, isn't it? When leaders from historically adversarial nations come together to sign something that, at least in theory, aims to make the world a safer place. It feels like a stark contrast to some of the... well, the global *volatility* we sometimes see today.",
-      "ja": "ああいう瞬間を振り返るのは、実に興味深いですよね？歴史的に敵対してきた国々のリーダーたちが集まり、少なくとも理論上は世界をより安全にするための合意に署名するなんて。今日の私たちが時々目にする、世界的な*変動性*とは対照的だと感じます。"
+      "text": "What happened on June 17th in years past, Sarah?",
+      "ja": "過去の6月17日には何が起こったんだい、Sarah？"
     },
     {
       "speaker": "Sarah",
-      "text": "You've hit on a very relevant point, Alex. 'Volatility' – that's a great word for our listeners. It refers to the tendency of something to change rapidly and unpredictably, especially for the worse. Like the sudden shifts we often observe in financial markets, or indeed, in international relations.",
-      "ja": "とても的を得た点を指摘しましたね、Alex。『Volatility』—リスナーの皆さんにとって素晴らしい言葉です。これは、何かが急速に、予測不可能に変化する傾向、特に悪い方向へ変化する傾向を指します。金融市場でよく見られる突然の変動や、まさに国際関係における変動のようにね。"
+      "text": "On this day, June 17th, in 2015, a tragic event occurred in Charleston, South Carolina, in the United States. Nine people were killed in a mass shooting at the Emanuel African Methodist Episcopal Church.",
+      "ja": "この日、6月17日、2015年に、アメリカのサウスカロライナ州チャールストンで悲劇的な出来事がありました。エマニュエル・アフリカン・メソジスト・エピスコパル教会で、銃乱射事件により9人が命を落としました。"
     },
     {
       "speaker": "Alex",
-      "text": "Precisely! One day you're signing peace treaties, the next day, who knows what's going to happen. It's a reminder that progress isn't always linear, I suppose.",
-      "ja": "その通りです！ある日は和平条約に署名して、次の日には何が起こるかわからない。進歩は必ずしも直線的ではない、ということを思い出させられますね。"
+      "text": "Oh, that's incredibly sad. A terrible day to remember. My thoughts go out to everyone affected by that.",
+      "ja": "ああ、それは信じられないほど悲しい。思い出すのもつらい日だ。その事件に影響を受けたすべての人々に心を寄せます。"
     },
     {
       "speaker": "Sarah",
-      "text": "Absolutely. Diplomatic efforts like the START agreements are vital precisely because the world can be so unpredictable. They're attempts to build frameworks that can withstand some of that inherent instability.",
-      "ja": "全くその通りです。START合意のような外交努力は、世界がこれほど予測不能であるからこそ極めて重要なのです。それらは、その本質的な不安定さの一部に耐えうる枠組みを構築しようとする試みですね。"
+      "text": "Indeed, Alex. It's important to remember these moments, to acknowledge the pain, and to reflect on how we can work towards a more peaceful future. History teaches us many lessons, some of them very difficult.",
+      "ja": "本当にそうね、Alex。こうした瞬間を記憶し、痛みを認め、より平和な未来のためにどう努力できるかを考えることは大切よ。歴史は私たちに多くの教訓を与えてくれるけれど、中には非常に困難なものもあるわね。"
     },
     {
       "speaker": "Alex",
-      "text": "Makes you wonder if they ever thought they'd see a day where people would be debating about AI safety and climate change instead of missile counts. The world moves fast.",
-      "ja": "彼らが、ミサイルの数ではなく、AIの安全性や気候変動について議論する日を目の当たりにするなんて、想像もしなかったでしょうね。世界は本当に速く動いています。"
+      "text": "A very true point, Sarah. Let's carry that thought with us as we move on to something that helps build a better future, one family at a time: our parenting tip!",
+      "ja": "本当にその通りだね、Sarah。その思いを胸に、一度に一家族ずつ、より良い未来を築くのに役立つものへと移りましょう。育児のヒントだよ！"
     },
     {
       "speaker": "Sarah",
-      "text": "It certainly does. And speaking of moving fast, for our listeners who are parents, or perhaps soon-to-be parents, we have a wonderfully insightful tip today from the organization 'Zero to Three'.",
-      "ja": "確かにそうね。そして、物事が速く進むと言えば、親御さん、あるいはもうすぐ親になるリスナーの皆さんのために、今日は『Zero to Three』という団体から、素晴らしい洞察に満ちたヒントがあります。"
+      "text": "Absolutely! Today's tip comes from Zero to Three, and it's about their 'Caring Conversations Café Model.' It's essentially a guide for facilitators to help parents and caregivers have open, supportive conversations.",
+      "ja": "もちろんです！今日のヒントはZero to Threeからで、彼らの『Caring Conversations Café Model』についてです。これは、親や介護者がオープンで協力的な会話をできるよう支援するための、ファシリテーター向けのガイドのようなものね。"
     },
     {
       "speaker": "Alex",
-      "text": "Zero to Three, excellent resource! What wisdom do they have for us today?",
-      "ja": "Zero to Three、素晴らしい情報源ですね！今日はどんな知恵を授けてくれるんでしょう？"
+      "text": "A 'café model'? So, like, they sit around with coffee and chat about their kids?",
+      "ja": "『カフェモデル』？つまり、コーヒーを飲みながら、子供たちのことについておしゃべりする、みたいな？"
     },
     {
       "speaker": "Sarah",
-      "text": "They're highlighting their 'Caring Conversations Café Model Facilitator Guide.' Now, that's a bit of a mouthful, but essentially, it's a guide for setting up supportive discussion groups for parents and providers.",
-      "ja": "彼らが注目しているのは、『Caring Conversations Café Model Facilitator Guide（思いやりある会話カフェモデル進行役ガイド）』です。ちょっと長い名前ですが、基本的には、親と支援者のための支援的なディスカッショングループを立ち上げるためのガイドですね。"
+      "text": "Exactly, but with a purpose. It emphasizes the importance of culture woven through these conversations. The guide has seven agendas to help parent-provider groups discuss child care, early development, and family life in a way that respects everyone's background.",
+      "ja": "その通りよ、でも目的があるの。これらの会話を通して、文化が織り込まれることの重要性を強調しているの。このガイドには、親と提供者のグループが、みんなの背景を尊重しながら、育児、早期発達、家族生活について話し合うための7つのアジェンダが用意されているわ。"
     },
     {
       "speaker": "Alex",
-      "text": "A café for caring conversations? Sounds rather lovely and... *approachable*.",
-      "ja": "思いやりのある会話のためのカフェ？なんだかとても素敵で...*親しみやすい*ですね。"
+      "text": "That sounds really valuable. Creating a space where different cultural approaches to parenting can be shared and understood.",
+      "ja": "それは本当に価値があるね。子育てに対する多様な文化的アプローチが共有され、理解される場を作るんだ。"
     },
     {
       "speaker": "Sarah",
-      "text": "Spot on, Alex! 'Approachable' is exactly the right word here. It means easy to understand and use, or friendly and easy to talk to. This guide aims to make those crucial conversations about parenting and child development less intimidating and more accessible.",
-      "ja": "その通りよ、Alex！『approachable』はまさにぴったりの言葉ね。理解しやすく、使いやすい、またはフレンドリーで話しかけやすい、という意味です。このガイドは、子育てや子どもの発達に関する重要な会話を、威圧的ではなく、よりアクセスしやすいものにすることを目指しています。"
+      "text": "It is! It helps to build stronger communities and better support networks for families, acknowledging that there's no single 'right way' to raise a child, just many loving ways. It's all about sharing and learning from each other.",
+      "ja": "そうなのよ！これにより、より強いコミュニティと家族のためのより良い支援ネットワークが構築され、子育てに単一の『正しい方法』はなく、ただ多くの愛情深い方法があることを認めることにつながるわ。すべては共有し、お互いから学ぶことなのよ。"
     },
     {
       "speaker": "Alex",
-      "text": "So, it's not some dry, academic textbook, but something designed to be user-friendly, right?",
-      "ja": "つまり、堅苦しい学術書ではなく、ユーザーフレンドリーになるように設計されているわけですね？"
+      "text": "That's a wonderful message to end on, Sarah. Even on a rainy Wednesday, it's good to remember that connection and understanding are so important.",
+      "ja": "それは素晴らしい締めくくりのメッセージだね、Sarah。雨の水曜日でも、つながりと理解がいかに大切かを思い出すのは良いことだ。"
     },
     {
       "speaker": "Sarah",
-      "text": "Precisely. The guide includes seven parent-provider café agendas, and what's really key is how it emphasizes the importance of culture, weaving it through all their 'Parents and Providers: Sharing the Care' handouts. It acknowledges that parenting practices and beliefs are deeply rooted in cultural contexts.",
-      "ja": "その通りです。このガイドには、親と支援者のためのカフェの議題が7つ含まれていて、本当に重要なのは、文化の重要性を強調している点です。『Parents and Providers: Sharing the Care（親と支援者：ケアを共有する）』という彼らの資料全体に文化の要素が織り込まれているんです。子育ての習慣や信念が文化的な背景に深く根ざしていることを認識しています。"
+      "text": "They certainly are, Alex. Thank you for joining us on The Daily Tanu-chan Show today. We hope your Wednesday is a little brighter now.",
+      "ja": "その通りよ、Alex。今日も『The Daily Tanu-chan Show』にご参加いただきありがとうございます。皆さんの水曜日が少しでも明るくなったことを願っています。"
     },
     {
       "speaker": "Alex",
-      "text": "That's brilliant. Because parenting isn't a one-size-fits-all thing, is it? What works in one culture might not make sense in another, and understanding that is so important for support.",
-      "ja": "それは素晴らしいですね。子育ては万能なものではないですよね？ある文化でうまくいくことが別の文化では意味をなさないこともありますし、それを理解することがサポートにおいては非常に重要です。"
+      "text": "And remember, tomorrow is another day, with new adventures and, hopefully, less rain! Until then, stay dry and keep smiling!",
+      "ja": "そして覚えておいてください、明日はまた別の日、新しい冒険と、願わくは雨が少ない一日です！それでは、濡れずに笑顔でいてください！"
     },
     {
       "speaker": "Sarah",
-      "text": "Exactly. It's all about fostering a supportive environment where diverse perspectives are valued, and parents feel empowered. Making those conversations culturally sensitive and easy to engage with.",
-      "ja": "その通りです。多様な視点が尊重され、親が力づけられるような支援的な環境を育むことが全てです。文化的に配慮され、気軽に参加できるような会話にする、ということです。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "I love that. It's like, instead of telling parents what to do, it gives them a safe space to talk, share, and learn from each other, considering their own backgrounds.",
-      "ja": "それは良いですね。親に何をすべきか指示するのではなく、自身の背景を考慮しながら、話し合い、共有し、お互いから学ぶための安全な場所を提供する、といった感じですね。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Couldn't have said it better myself, Alex. A truly thoughtful approach to supporting families.",
-      "ja": "Alex、私にはそれ以上うまく言えないわ。家族を支援するための、本当に思慮深いアプローチね。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "And on that wonderfully empathetic note, it brings us to the end of another 'Morning Blend'!",
-      "ja": "そして、その素晴らしい共感的なメッセージとともに、『モーニングブレンド』の時間がまた終わりを告げます！"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Time truly does fly when you're having fun, and learning! Thank you for joining us on this rainy Wednesday, June 17th, 2026.",
-      "ja": "楽しく学んでいると、本当に時間が経つのが早いですね！2026年6月17日、雨の水曜日に私たちにお付き合いいただき、ありがとうございました。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Don't forget your umbrellas, folks! And if you do forget, maybe you'll just end up with a *smattering* of dampness, like me. It's character-building!",
-      "ja": "皆さん、傘を忘れないでくださいね！もし忘れても、僕みたいに*まばらに*濡れる程度で済むかも。これも人間形成の一部ですよ！"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Oh, Alex. Always finding the silver lining, even in a downpour. We'll be back tomorrow with more insights and banter. Until then, stay dry and keep learning!",
-      "ja": "あら、Alex。土砂降りの中でも常に良い面を見つけるのね。明日もより多くの洞察と軽妙なやり取りをお届けします。それまでは、体を濡らさないようにして、学び続けてくださいね！"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Bye for now, everyone!",
-      "ja": "皆さん、またね！"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "See you tomorrow!",
-      "ja": "また明日ね！"
+      "text": "Bye for now!",
+      "ja": "またね！"
     }
   ],
   "sources": {
@@ -189,8 +144,8 @@
     },
     "news": [],
     "wikipedia": {
-      "year": 1992,
-      "text": "A \"joint understanding\" agreement on arms reduction is signed by U.S. president George Bush and Russian president Boris Yeltsin (this would be later codified in START II)."
+      "year": 2015,
+      "text": "Nine people are killed in a mass shooting at Emanuel African Methodist Episcopal Church in Charleston, South Carolina."
     },
     "parenting": {
       "source": "Zero to Three",
