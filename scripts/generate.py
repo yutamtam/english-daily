@@ -163,7 +163,8 @@ def generate_script(prompt: str) -> list[dict]:
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0.8,
-            max_output_tokens=8192,
+            max_output_tokens=16384,
+            thinking_config=types.ThinkingConfig(thinking_budget=0),
         ),
     )
 
@@ -174,6 +175,12 @@ def generate_script(prompt: str) -> list[dict]:
         if raw.startswith("json"):
             raw = raw[4:]
         raw = raw.rsplit("```", 1)[0].strip()
+
+    # Extract JSON array if there's surrounding text
+    start = raw.find("[")
+    end = raw.rfind("]")
+    if start != -1 and end != -1:
+        raw = raw[start:end + 1]
 
     return json.loads(raw)
 
