@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Daily</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>English Daily</h1>
+    <p class="subtitle">Alex & Sarah の朝のラジオ番組</p>
+  </header>
+
+  <main>
+    <div id="episode-list">
+      <p class="loading">読み込み中...</p>
+    </div>
+  </main>
+
+  <script>
+    const REPO = 'yutamtam/english-daily';
+    const CONTENT_BASE = 'content';
+
+    async function loadEpisodes() {
+      const list = document.getElementById('episode-list');
+      try {
+        // Fetch the list of content files via GitHub API
+        const resp = await fetch(
+          `https://api.github.com/repos/${REPO}/contents/${CONTENT_BASE}`,
+          { headers: { Accept: 'application/vnd.github.v3+json' } }
+        );
+        if (!resp.ok) throw new Error('Failed to fetch episode list');
+        const files = await resp.json();
+
+        const jsonFiles = files
+          .filter(f => f.name.endsWith('.json'))
+          .sort((a, b) => b.name.localeCompare(a.name));
+
+        if (jsonFiles.length === 0) {
+          list.innerHTML = '<p class="empty">まだエピソードがありません。明日の朝6時をお楽しみに！</p>';
+          return;
+        }
+
+        const items = jsonFiles.map(f => {
+          const date = f.name.replace('.json', '');
+          const d = new Date(date + 'T00:00:00+09:00');
+          const label = d.toLocaleDateString('ja-JP', {
+            year: 'numeric', month: 'long', day: 'numeric', weekday: 'short'
+          });
+          return `
+            <a class="episode-card" href="player.html?date=${date}">
+              <span class="episode-date">${label}</span>
+              <span class="episode-arrow">▶</span>
+            </a>`;
+        }).join('');
+
+        list.innerHTML = items;
+      } catch (e) {
+        list.innerHTML = `<p class="error">エピソード一覧の取得に失敗しました。<br>${e.message}</p>`;
+      }
+    }
+
+    loadEpisodes();
+  </script>
+</body>
+</html>

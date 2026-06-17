@@ -1,0 +1,26 @@
+{
+  "user": {
+    "name": "Yuta",
+    "vocab_level": 3,
+    "location": {
+      "name": "Tokyo",
+      "latitude": 35.6762,
+      "longitude": 139.6503
+    }
+  },
+  "content": {
+    "weather": true,
+    "nhk_news": true,
+    "wikipedia": true,
+    "parenting": true,
+    "guardian": false
+  },
+  "show": {
+    "duration_minutes": 7,
+    "host_male": "Alex",
+    "host_female": "Sarah"
+  },
+  "email": {
+    "to": "yuta.m0920@gmail.com"
+  }
+}

@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Daily - 構想・技術概要</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f7fa; color: #2d3748; line-height: 1.7; }
+
+  header { background: linear-gradient(135deg, #1a365d, #2b6cb0); color: white; padding: 48px 32px; text-align: center; }
+  header h1 { font-size: 2.4rem; font-weight: 700; letter-spacing: -0.5px; }
+  header p { margin-top: 10px; font-size: 1.1rem; opacity: 0.85; }
+
+  nav { background: white; border-bottom: 1px solid #e2e8f0; padding: 0 32px; display: flex; gap: 0; overflow-x: auto; }
+  nav a { padding: 14px 20px; color: #4a5568; text-decoration: none; font-size: 0.9rem; white-space: nowrap; border-bottom: 3px solid transparent; }
+  nav a:hover { color: #2b6cb0; border-bottom-color: #2b6cb0; }
+
+  main { max-width: 960px; margin: 0 auto; padding: 40px 24px 80px; }
+
+  section { margin-bottom: 48px; }
+  h2 { font-size: 1.4rem; font-weight: 700; color: #1a365d; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #bee3f8; }
+  h3 { font-size: 1.05rem; font-weight: 600; color: #2d3748; margin: 20px 0 10px; }
+
+  .card { background: white; border-radius: 12px; padding: 24px; margin-bottom: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+
+  .flow { display: flex; flex-direction: column; gap: 0; }
+  .flow-item { display: flex; align-items: flex-start; gap: 16px; padding: 16px 20px; background: white; border-radius: 10px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.07); }
+  .flow-num { width: 32px; height: 32px; background: #2b6cb0; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.9rem; flex-shrink: 0; }
+  .flow-content strong { display: block; margin-bottom: 3px; }
+  .flow-content span { font-size: 0.88rem; color: #718096; }
+  .flow-arrow { text-align: center; color: #a0aec0; font-size: 1.2rem; margin: -4px 0; }
+
+  .chars { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .char-card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+  .char-card.alex { border-top: 4px solid #3182ce; }
+  .char-card.sarah { border-top: 4px solid #d53f8c; }
+  .char-name { font-size: 1.3rem; font-weight: 700; margin-bottom: 4px; }
+  .char-card.alex .char-name { color: #3182ce; }
+  .char-card.sarah .char-name { color: #d53f8c; }
+  .char-role { font-size: 0.85rem; color: #718096; margin-bottom: 12px; }
+  .char-card ul { padding-left: 18px; font-size: 0.9rem; color: #4a5568; }
+  .char-card li { margin-bottom: 6px; }
+
+  .dialog-example { background: #f7fafc; border-radius: 10px; padding: 20px; margin-top: 16px; font-size: 0.9rem; }
+  .dialog-example .line { margin-bottom: 10px; display: flex; gap: 10px; }
+  .dialog-example .speaker { font-weight: 700; flex-shrink: 0; }
+  .dialog-example .speaker.alex { color: #3182ce; }
+  .dialog-example .speaker.sarah { color: #d53f8c; }
+  .dialog-example .highlight { background: #fefcbf; padding: 1px 4px; border-radius: 3px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  th { background: #ebf8ff; color: #2b6cb0; padding: 10px 14px; text-align: left; font-weight: 600; }
+  td { padding: 10px 14px; border-bottom: 1px solid #e2e8f0; }
+  tr:last-child td { border-bottom: none; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+  .badge-on { background: #c6f6d5; color: #276749; }
+  .badge-off { background: #fed7d7; color: #9b2c2c; }
+
+  .levels { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+  .level { background: white; border-radius: 10px; padding: 16px 12px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+  .level-name { font-weight: 700; font-size: 0.95rem; margin-bottom: 4px; }
+  .level-words { font-size: 0.8rem; color: #718096; margin-bottom: 6px; }
+  .level-bar { height: 4px; border-radius: 2px; background: #e2e8f0; overflow: hidden; }
+  .level-bar-fill { height: 100%; border-radius: 2px; }
+  .l1 .level-bar-fill { background: #68d391; width: 9%; }
+  .l2 .level-bar-fill { background: #4299e1; width: 18%; }
+  .l3 .level-bar-fill { background: #9f7aea; width: 35%; }
+  .l4 .level-bar-fill { background: #ed8936; width: 70%; }
+  .l5 .level-bar-fill { background: #f56565; width: 100%; }
+
+  .algo { background: white; border-radius: 12px; padding: 24px; margin-bottom: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+  .algo-title { font-weight: 700; color: #1a365d; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; font-size: 1rem; }
+  .algo-num { width: 26px; height: 26px; background: #ebf8ff; color: #2b6cb0; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.85rem; flex-shrink: 0; }
+  .algo-steps { padding-left: 0; list-style: none; }
+  .algo-steps li { padding: 6px 0 6px 16px; border-left: 2px solid #bee3f8; margin-left: 4px; font-size: 0.9rem; color: #4a5568; margin-bottom: 4px; }
+  .algo-steps li:last-child { margin-bottom: 0; }
+  .code { font-family: 'SF Mono', Consolas, monospace; background: #edf2f7; padding: 1px 5px; border-radius: 3px; font-size: 0.85rem; }
+
+  .arch-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .arch-item { background: white; border-radius: 10px; padding: 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.07); }
+  .arch-item h4 { font-size: 0.85rem; font-weight: 700; color: #718096; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+  .arch-item p { font-size: 0.9rem; color: #2d3748; }
+  .arch-item .tech { font-size: 0.82rem; color: #2b6cb0; margin-top: 4px; }
+
+  .concerns { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .concern { background: white; border-radius: 10px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.07); font-size: 0.88rem; }
+  .concern-label { font-weight: 700; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .dot-future { background: #a0aec0; }
+
+  @media (max-width: 640px) {
+    .chars, .arch-grid, .concerns { grid-template-columns: 1fr; }
+    .levels { grid-template-columns: repeat(3, 1fr); }
+    header h1 { font-size: 1.8rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>English Daily</h1>
+  <p>毎朝届く、英語で学ぶ10分間のラジオ教材</p>
+</header>
+
+<nav>
+  <a href="#flow">体験の流れ</a>
+  <a href="#chars">キャラクター</a>
+  <a href="#content">コンテンツ</a>
+  <a href="#levels">語彙レベル</a>
+  <a href="#algo">アルゴリズム</a>
+  <a href="#arch">技術構成</a>
+  <a href="#future">将来の改善</a>
+</nav>
+
+<main>
+
+  <!-- 体験の流れ -->
+  <section id="flow">
+    <h2>体験の流れ</h2>
+    <div class="flow">
+      <div class="flow-item">
+        <div class="flow-num">1</div>
+        <div class="flow-content">
+          <strong>毎朝6時：コンテンツ自動取得</strong>
+          <span>GitHub Actionsが起動。NHK World・天気・Wikipedia・子育て情報などを取得</span>
+        </div>
+      </div>
+      <div class="flow-arrow">↓</div>
+      <div class="flow-item">
+        <div class="flow-num">2</div>
+        <div class="flow-content">
+          <strong>Gemini AIがスクリプトを生成</strong>
+          <span>取得した情報をもとに、AlexとSarahの会話台本を指定語彙レベルで作成</span>
+        </div>
+      </div>
+      <div class="flow-arrow">↓</div>
+      <div class="flow-item">
+        <div class="flow-num">3</div>
+        <div class="flow-content">
+          <strong>コンテンツを保存・メール送信</strong>
+          <span>日付ごとにJSONで保存。成功なら「今日の教材リンク」、失敗なら「生成エラー」をメールで通知</span>
+        </div>
+      </div>
+      <div class="flow-arrow">↓</div>
+      <div class="flow-item">
+        <div class="flow-num">4</div>
+        <div class="flow-content">
+          <strong>ウェブアプリで聴く</strong>
+          <span>リンクを開くとスクリプト表示＋音声再生。再生速度調整可能。続きから再生できる</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- キャラクター -->
+  <section id="chars">
+    <h2>キャラクター</h2>
+    <div class="chars">
+      <div class="char-card alex">
+        <div class="char-name">Alex</div>
+        <div class="char-role">男性 · 好奇心旺盛</div>
+        <ul>
+          <li>テンションが高めで反応が素直</li>
+          <li>知らない単語が出たら素直に聞く</li>
+          <li>リスナーの代わりに質問する役</li>
+        </ul>
+      </div>
+      <div class="char-card sarah">
+        <div class="char-name">Sarah</div>
+        <div class="char-role">女性 · しっかり者</div>
+        <ul>
+          <li>知識が豊富で落ち着いている</li>
+          <li>Alexの質問をわかりやすく説明</li>
+          <li>笑いながらツッコめる雰囲気</li>
+        </ul>
+      </div>
+    </div>
+    <div class="dialog-example">
+      <div class="line">
+        <span class="speaker sarah">Sarah:</span>
+        <span>So the study found that <span class="highlight">bilingual</span> children develop stronger executive function skills earlier than monolingual children.</span>
+      </div>
+      <div class="line">
+        <span class="speaker alex">Alex:</span>
+        <span>Wait — <span class="highlight">bilingual</span>? What does that mean exactly?</span>
+      </div>
+      <div class="line">
+        <span class="speaker sarah">Sarah:</span>
+        <span>It just means someone who speaks two languages. So kids who grow up using both Japanese and English, for example.</span>
+      </div>
+      <div class="line">
+        <span class="speaker alex">Alex:</span>
+        <span>Oh, that's pretty cool! So speaking two languages actually helps your brain develop faster?</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- コンテンツ -->
+  <section id="content">
+    <h2>コンテンツカテゴリ</h2>
+    <div class="card">
+      <table>
+        <thead>
+          <tr><th>カテゴリ</th><th>デフォルト</th><th>ソース</th><th>備考</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>天気予報</td>
+            <td><span class="badge badge-on">ON</span></td>
+            <td>Open-Meteo</td>
+            <td>APIキー不要・完全無料</td>
+          </tr>
+          <tr>
+            <td>日本のニュース</td>
+            <td><span class="badge badge-on">ON</span></td>
+            <td>NHK World RSS</td>
+            <td>カテゴリ横断で幅広く取得</td>
+          </tr>
+          <tr>
+            <td>今日の出来事</td>
+            <td><span class="badge badge-on">ON</span></td>
+            <td>Wikipedia「On This Day」</td>
+            <td>完全無料・毎日更新</td>
+          </tr>
+          <tr>
+            <td>子育て・発達</td>
+            <td><span class="badge badge-on">ON</span></td>
+            <td>HealthyChildren.org / Zero to Three</td>
+            <td>アーカイブからランダム取得</td>
+          </tr>
+          <tr>
+            <td>世界ニュース</td>
+            <td><span class="badge badge-off">OFF</span></td>
+            <td>Guardian API</td>
+            <td>設定でON可能</td>
+          </tr>
+          <tr>
+            <td>スポーツ</td>
+            <td><span class="badge badge-off">OFF</span></td>
+            <td>未定</td>
+            <td>競技・チームを指定可能</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:0.88rem; color:#718096; margin-top:8px;">※ 重複対策：使用済み記事URLを記録し、同じ記事を連続で出さない</p>
+  </section>
+
+  <!-- 語彙レベル -->
+  <section id="levels">
+    <h2>語彙レベル</h2>
+    <div class="levels">
+      <div class="level l1">
+        <div class="level-name">初級</div>
+        <div class="level-words">〜3,000語</div>
+        <div class="level-bar"><div class="level-bar-fill"></div></div>
+        <div style="font-size:0.78rem; color:#718096; margin-top:6px;">中学英語</div>
+      </div>
+      <div class="level l2">
+        <div class="level-name">中級</div>
+        <div class="level-words">〜6,000語</div>
+        <div class="level-bar"><div class="level-bar-fill"></div></div>
+        <div style="font-size:0.78rem; color:#718096; margin-top:6px;">高校英語</div>
+      </div>
+      <div class="level l3">
+        <div class="level-name">上級</div>
+        <div class="level-words">〜12,000語</div>
+        <div class="level-bar"><div class="level-bar-fill"></div></div>
+        <div style="font-size:0.78rem; color:#718096; margin-top:6px;">TOEIC 900</div>
+      </div>
+      <div class="level l4">
+        <div class="level-name">超上級</div>
+        <div class="level-words">〜24,000語</div>
+        <div class="level-bar"><div class="level-bar-fill"></div></div>
+        <div style="font-size:0.78rem; color:#718096; margin-top:6px;">英字新聞</div>
+      </div>
+      <div class="level l5">
+        <div class="level-name">ネイティブ</div>
+        <div class="level-words">〜34,847語</div>
+        <div class="level-bar"><div class="level-bar-fill"></div></div>
+        <div style="font-size:0.78rem; color:#718096; margin-top:6px;">ほぼネイティブ</div>
+      </div>
+    </div>
+    <div style="margin-top:14px; font-size:0.88rem; color:#718096;">
+      データ：SVL level 1-12（12,000語）＋ 極限の英単語（12,000語）＋ 終極の英単語（10,847語）= 計 <strong>34,847語</strong>
+    </div>
+  </section>
+
+  <!-- アルゴリズム -->
+  <section id="algo">
+    <h2>技術アルゴリズム</h2>
+
+    <div class="algo">
+      <div class="algo-title"><div class="algo-num">1</div>コンテンツ取得</div>
+      <ul class="algo-steps">
+        <li>設定ファイルからONのカテゴリ・ユーザー情報（地域など）を読み込む</li>
+        <li>各ソース（NHK World RSS・Open-Meteo・Wikipedia API・HealthyChildren.org）から並列でデータ取得</li>
+        <li>使用済みURLリスト（<span class="code">used_articles.json</span>）と照合し、重複記事を除外</li>
+        <li>各カテゴリから1〜2本を選択し、タイトル・本文・URLをまとめる</li>
+      </ul>
+    </div>
+
+    <div class="algo">
+      <div class="algo-title"><div class="algo-num">2</div>語彙チェック</div>
+      <ul class="algo-steps">
+        <li>ユーザーの設定レベルに対応するSVL JSONファイルを読み込む（例：初級なら svl_01〜svl_03）</li>
+        <li>許可語彙セット（Set型）を構築する</li>
+        <li>このセットをGeminiへのプロンプトに含め、「この語彙範囲で会話を生成してください」と指示</li>
+        <li>生成後に会話を単語ごとに分割し、セット外の単語を検出 → 「レベル外単語リスト」を作成</li>
+      </ul>
+    </div>
+
+    <div class="algo">
+      <div class="algo-title"><div class="algo-num">3</div>スクリプト生成（Gemini API）</div>
+      <ul class="algo-steps">
+        <li>取得したコンテンツ・語彙リスト・キャラクター設定をプロンプトに組み込む</li>
+        <li>指示内容：「AlexとSarahが朝のラジオで自然に会話する台本を生成。レベル外の単語が出たらAlexが質問し、Sarahが会話内で説明する」</li>
+        <li>出力形式：<span class="code">[{ speaker: "Alex", text: "..." }, { speaker: "Sarah", text: "..." }, ...]</span> の配列</li>
+        <li>将来のカラオケ表示に備え、テキストは単語単位で分割できる形で保存</li>
+      </ul>
+    </div>
+
+    <div class="algo">
+      <div class="algo-title"><div class="algo-num">4</div>コンテンツ保存</div>
+      <ul class="algo-steps">
+        <li>日付をキーにJSONファイルとして保存：<span class="code">content/2026-06-17.json</span></li>
+        <li>保存内容：スクリプト配列・使用ソース・語彙レベル・生成日時・レベル外単語リスト</li>
+        <li>使用済みURLを <span class="code">used_articles.json</span> に追記</li>
+        <li>GitHubリポジトリにコミット＆プッシュ → GitHub Pagesから自動で参照できる</li>
+      </ul>
+    </div>
+
+    <div class="algo">
+      <div class="algo-title"><div class="algo-num">5</div>音声再生（ブラウザ）</div>
+      <ul class="algo-steps">
+        <li>スクリプトのJSONを読み込み、speaker別に音声を割り当て（Alex：男性声、Sarah：女性声）</li>
+        <li>発話を順番にWeb Speech APIで再生。再生速度は <span class="code">rate</span> パラメータで調整（0.5〜2倍）</li>
+        <li>再生位置（何番目の発話か）を10秒ごとにlocalStorageに自動保存</li>
+        <li>ページを開いたとき、保存された位置があれば「続きから再生しますか？」と表示</li>
+      </ul>
+    </div>
+
+    <div class="algo">
+      <div class="algo-title"><div class="algo-num">6</div>メール通知</div>
+      <ul class="algo-steps">
+        <li>成功時：「今日の English Daily が届きました」＋ウェブアプリへのリンクをGmail SMTPで送信</li>
+        <li>失敗時：「今日のコンテンツ生成に失敗しました」＋エラー内容を送信</li>
+        <li>送信先・送信元はすべて設定ファイルから読み込む（コードに直接書かない）</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 技術構成 -->
+  <section id="arch">
+    <h2>技術構成（全て無料）</h2>
+    <div class="arch-grid">
+      <div class="arch-item">
+        <h4>スケジューラー</h4>
+        <p>毎朝6時（JST）に自動実行</p>
+        <div class="tech">GitHub Actions（cron: UTC 21:00）</div>
+      </div>
+      <div class="arch-item">
+        <h4>AIスクリプト生成</h4>
+        <p>会話台本の自動生成</p>
+        <div class="tech">Google Gemini API（無料枠 1,500回/日）</div>
+      </div>
+      <div class="arch-item">
+        <h4>天気データ</h4>
+        <p>地域の天気情報取得</p>
+        <div class="tech">Open-Meteo（APIキー不要・完全無料）</div>
+      </div>
+      <div class="arch-item">
+        <h4>ニュース・コンテンツ</h4>
+        <p>各ソースからRSS・API取得</p>
+        <div class="tech">NHK World RSS / Wikipedia API / Guardian API</div>
+      </div>
+      <div class="arch-item">
+        <h4>メール送信</h4>
+        <p>成功・失敗を毎朝通知</p>
+        <div class="tech">Gmail SMTP</div>
+      </div>
+      <div class="arch-item">
+        <h4>ホスティング・保存</h4>
+        <p>ウェブアプリ配信＋過去コンテンツ保存</p>
+        <div class="tech">GitHub Pages ＋ GitHubリポジトリ</div>
+      </div>
+      <div class="arch-item">
+        <h4>音声読み上げ</h4>
+        <p>2人の声で会話を再生。再生速度調整・再生位置の記憶</p>
+        <div class="tech">Web Speech API（ブラウザ内蔵・後で差し替え可）</div>
+      </div>
+      <div class="arch-item">
+        <h4>語彙データ</h4>
+        <p>レベル判定・チェックに使用</p>
+        <div class="tech">SVL + 極限 + 終極（計34,847語のJSON）</div>
+      </div>
+      <div class="arch-item">
+        <h4>日本語字幕</h4>
+        <p>ボタン一つでON/OFF。スクリプト生成時にGeminiが英語と同時に日本語訳を生成</p>
+        <div class="tech">Gemini API（追加コストなし）</div>
+      </div>
+      <div class="arch-item">
+        <h4>単語辞書</h4>
+        <p>スクリプトのテキストは選択可能。iPhoneの内蔵辞書（「調べる」）がそのまま使える</p>
+        <div class="tech">iOS内蔵辞書（アプリ側の実装不要）</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 将来の改善 -->
+  <section id="future">
+    <h2>将来の改善候補</h2>
+    <div class="concerns">
+      <div class="concern">
+        <div class="concern-label"><div class="dot dot-future"></div>カラオケ式ハイライト</div>
+        <div style="font-size:0.88rem; color:#4a5568;">再生中に現在読んでいる箇所をリアルタイムでハイライト表示。Web Speech APIのonboundaryイベントで実現可能。スクリプトは最初から単語単位で保存しておく。</div>
+      </div>
+      <div class="concern">
+        <div class="concern-label"><div class="dot dot-future"></div>お気に入り・ブックマーク</div>
+        <div style="font-size:0.88rem; color:#4a5568;">気になった単語や会話をブックマークして後から復習できる機能。</div>
+      </div>
+      <div class="concern">
+        <div class="concern-label"><div class="dot dot-future"></div>複数ユーザー対応</div>
+        <div style="font-size:0.88rem; color:#4a5568;">設定ファイル駆動の設計なので、ユーザーが増えたときは設定を追加するだけで対応できる構造にしておく。</div>
+      </div>
+      <div class="concern">
+        <div class="concern-label"><div class="dot dot-future"></div>高品質音声への差し替え</div>
+        <div style="font-size:0.88rem; color:#4a5568;">ElevenLabsなど自然な音声サービスへの差し替え。音声生成部分をモジュール化しておくことで後から容易に変更可能。</div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+</body>
+</html>

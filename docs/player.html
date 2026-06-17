@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Daily — Player</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <a href="index.html" class="back-link">← 一覧</a>
+    <h1>English Daily</h1>
+    <p id="episode-date" class="subtitle"></p>
+  </header>
+
+  <main>
+    <!-- Controls -->
+    <div class="player-controls">
+      <button id="btn-play" class="btn-primary" disabled>▶ 再生</button>
+      <button id="btn-pause" class="btn-secondary" disabled>⏸ 一時停止</button>
+      <button id="btn-restart" class="btn-secondary" disabled>⏮ 最初から</button>
+
+      <div class="control-row">
+        <label for="speed-select">速度</label>
+        <select id="speed-select">
+          <option value="0.5">0.5x</option>
+          <option value="0.75">0.75x</option>
+          <option value="1" selected>1.0x</option>
+          <option value="1.25">1.25x</option>
+          <option value="1.5">1.5x</option>
+          <option value="2">2.0x</option>
+        </select>
+
+        <label class="toggle-label">
+          <input type="checkbox" id="toggle-ja" checked>
+          日本語字幕
+        </label>
+      </div>
+    </div>
+
+    <!-- Resume banner -->
+    <div id="resume-banner" class="resume-banner hidden">
+      <span id="resume-text"></span>
+      <button id="btn-resume">続きから再生</button>
+      <button id="btn-dismiss">最初から</button>
+    </div>
+
+    <!-- Script -->
+    <div id="script-container" class="script-container">
+      <p class="loading">読み込み中...</p>
+    </div>
+  </main>
+
+  <script>
+    const REPO_RAW = 'https://raw.githubusercontent.com/yutamtam/english-daily/main';
+
+    // --- State ---
+    let script = [];
+    let currentLine = 0;
+    let isPlaying = false;
+    let utterance = null;
+    let speed = 1.0;
+    let showJa = true;
+    let dateKey = '';
+
+    // --- Elements ---
+    const btnPlay = document.getElementById('btn-play');
+    const btnPause = document.getElementById('btn-pause');
+    const btnRestart = document.getElementById('btn-restart');
+    const speedSelect = document.getElementById('speed-select');
+    const toggleJa = document.getElementById('toggle-ja');
+    const scriptContainer = document.getElementById('script-container');
+    const resumeBanner = document.getElementById('resume-banner');
+    const resumeText = document.getElementById('resume-text');
+    const btnResume = document.getElementById('btn-resume');
+    const btnDismiss = document.getElementById('btn-dismiss');
+
+    // --- Load episode ---
+    async function loadEpisode() {
+      const params = new URLSearchParams(location.search);
+      const date = params.get('date');
+      if (!date) {
+        scriptContainer.innerHTML = '<p class="error">日付が指定されていません。</p>';
+        return;
+      }
+      dateKey = date;
+      document.getElementById('episode-date').textContent = formatDate(date);
+      document.title = `English Daily — ${date}`;
+
+      try {
+        const resp = await fetch(`${REPO_RAW}/content/${date}.json`);
+        if (!resp.ok) throw new Error(`${resp.status}`);
+        const data = await resp.json();
+        script = data.script;
+        renderScript();
+        enableControls();
+        checkResume();
+      } catch (e) {
+        scriptContainer.innerHTML = `<p class="error">エピソードの読み込みに失敗しました。<br>${e.message}</p>`;
+      }
+    }
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr + 'T00:00:00+09:00');
+      return d.toLocaleDateString('ja-JP', {
+        year: 'numeric', month: 'long', day: 'numeric', weekday: 'short'
+      });
+    }
+
+    // --- Render ---
+    function renderScript() {
+      scriptContainer.innerHTML = script.map((line, i) => `
+        <div class="script-line ${line.speaker === 'Alex' ? 'alex' : 'sarah'}" id="line-${i}">
+          <span class="speaker-name">${line.speaker}</span>
+          <p class="line-text">${escapeHtml(line.text)}</p>
+          <p class="line-ja ${showJa ? '' : 'hidden'}">${escapeHtml(line.ja)}</p>
+        </div>
+      `).join('');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    function updateJaVisibility() {
+      document.querySelectorAll('.line-ja').forEach(el => {
+        el.classList.toggle('hidden', !showJa);
+      });
+    }
+
+    // --- Playback ---
+    function enableControls() {
+      btnPlay.disabled = false;
+      btnRestart.disabled = false;
+    }
+
+    function highlightLine(index) {
+      document.querySelectorAll('.script-line').forEach(el => el.classList.remove('active'));
+      const el = document.getElementById(`line-${index}`);
+      if (el) {
+        el.classList.add('active');
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+
+    function speakLine(index) {
+      if (index >= script.length) {
+        isPlaying = false;
+        btnPlay.disabled = false;
+        btnPause.disabled = true;
+        document.querySelectorAll('.script-line').forEach(el => el.classList.remove('active'));
+        saveProgress(script.length); // Mark as complete
+        return;
+      }
+
+      currentLine = index;
+      highlightLine(index);
+      saveProgress(index);
+
+      const line = script[index];
+      utterance = new SpeechSynthesisUtterance(line.text);
+      utterance.lang = 'en-US';
+      utterance.rate = speed;
+
+      // Try to assign different voices for Alex and Sarah
+      const voices = speechSynthesis.getVoices();
+      const maleVoices = voices.filter(v => v.lang.startsWith('en') &&
+        (v.name.toLowerCase().includes('male') || v.name.includes('Daniel') || v.name.includes('Alex')));
+      const femaleVoices = voices.filter(v => v.lang.startsWith('en') &&
+        (v.name.toLowerCase().includes('female') || v.name.includes('Samantha') || v.name.includes('Karen')));
+
+      if (line.speaker === 'Alex' && maleVoices.length > 0) {
+        utterance.voice = maleVoices[0];
+      } else if (line.speaker === 'Sarah' && femaleVoices.length > 0) {
+        utterance.voice = femaleVoices[0];
+      } else {
+        const enVoices = voices.filter(v => v.lang.startsWith('en'));
+        if (enVoices.length > 0) utterance.voice = enVoices[0];
+      }
+
+      utterance.onend = () => {
+        if (isPlaying) speakLine(index + 1);
+      };
+
+      speechSynthesis.speak(utterance);
+    }
+
+    function play(fromLine) {
+      speechSynthesis.cancel();
+      isPlaying = true;
+      btnPlay.disabled = true;
+      btnPause.disabled = false;
+      speakLine(fromLine ?? currentLine);
+    }
+
+    function pause() {
+      isPlaying = false;
+      speechSynthesis.cancel();
+      btnPlay.disabled = false;
+      btnPause.disabled = true;
+    }
+
+    function restart() {
+      pause();
+      currentLine = 0;
+      document.querySelectorAll('.script-line').forEach(el => el.classList.remove('active'));
+    }
+
+    // --- Progress persistence ---
+    function progressKey() {
+      return `english-daily-progress-${dateKey}`;
+    }
+
+    function saveProgress(lineIndex) {
+      localStorage.setItem(progressKey(), lineIndex);
+    }
+
+    function checkResume() {
+      const saved = parseInt(localStorage.getItem(progressKey()) ?? '-1', 10);
+      if (saved > 0 && saved < script.length) {
+        currentLine = saved;
+        const lineNum = saved + 1;
+        resumeText.textContent = `前回の続き（${lineNum}行目）から再生しますか？`;
+        resumeBanner.classList.remove('hidden');
+      }
+    }
+
+    // --- Event listeners ---
+    btnPlay.addEventListener('click', () => play());
+    btnPause.addEventListener('click', pause);
+    btnRestart.addEventListener('click', () => { restart(); play(0); });
+
+    btnResume.addEventListener('click', () => {
+      resumeBanner.classList.add('hidden');
+      play(currentLine);
+    });
+
+    btnDismiss.addEventListener('click', () => {
+      resumeBanner.classList.add('hidden');
+      currentLine = 0;
+      play(0);
+    });
+
+    speedSelect.addEventListener('change', () => {
+      speed = parseFloat(speedSelect.value);
+      if (isPlaying) {
+        const savedLine = currentLine;
+        pause();
+        setTimeout(() => play(savedLine), 100);
+      }
+    });
+
+    toggleJa.addEventListener('change', () => {
+      showJa = toggleJa.checked;
+      updateJaVisibility();
+    });
+
+    // Voices load asynchronously on some browsers
+    speechSynthesis.onvoiceschanged = () => {};
+
+    loadEpisode();
+  </script>
+</body>
+</html>
