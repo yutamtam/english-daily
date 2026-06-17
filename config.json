@@ -16,6 +16,7 @@
     "guardian": false
   },
   "show": {
+    "name": "The Daily Tanu-chan Show",
     "duration_minutes": 7,
     "host_male": "Alex",
     "host_female": "Sarah"

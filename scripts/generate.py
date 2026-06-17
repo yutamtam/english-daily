@@ -111,9 +111,10 @@ def sample_unknown_words(vocab_level: int, n: int = 40) -> list[str]:
 def build_gemini_prompt(config: dict, sources: dict) -> str:
     cfg = config
     level = cfg["user"]["vocab_level"]
-    level_label = VOCAB_LEVEL_LABELS.get(level, VOCAB_LEVEL_LABELS[3])
+    level_label = VOCAB_LEVEL_LABELS.get(level, VOCAB_LEVEL_LABELS[4])
     host_m = cfg["show"]["host_male"]
     host_f = cfg["show"]["host_female"]
+    show_name = cfg["show"].get("name", "The Daily Tanu-chan Show")
     duration = cfg["show"]["duration_minutes"]
     today = datetime.now().strftime("%B %d, %Y")
 
@@ -169,10 +170,12 @@ VOCABULARY:
     prompt = f"""You are writing a fun, engaging morning radio show script for a Japanese adult learning English.
 
 SHOW FORMAT:
+- Show name: {show_name}
 - Today's date: {today}
 - Two hosts: {host_m} (male) and {host_f} (female)
 - Duration: approximately {duration} minutes when read aloud at a natural pace
 - Style: warm, witty, entertaining radio banter — like two genuinely funny friends who also happen to be informative
+- The hosts should refer to the show by its name ("{show_name}") at least once — naturally, not forced
 
 HOST PERSONALITIES:
 - {host_m}: Curious, slightly goofy, asks the questions listeners are thinking. Occasionally makes a bad pun or joke that {host_f} gently teases him about. Enthusiastic and likeable.
