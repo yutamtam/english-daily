@@ -260,6 +260,85 @@ def generate_script(prompt: str) -> list[dict]:
     return json.loads(raw)
 
 
+def build_email_html(date_str: str, script: list[dict], player_url: str, config: dict) -> tuple[str, str]:
+    """Return (plain_text, html) for the success email."""
+    show_name = config["show"].get("name", "The Daily Tanu-chan Show")
+    level = config["user"]["vocab_level"]
+    level_label = VOCAB_LEVEL_LABELS.get(level, "")
+
+    # Plain text fallback
+    lines_plain = []
+    for line in script:
+        lines_plain.append(f"[{line['speaker']}] {line['text']}")
+        lines_plain.append(f"  {line['ja']}")
+        lines_plain.append("")
+    plain = (
+        f"{show_name} — {date_str}\n"
+        f"語彙レベル: {level} ({level_label})\n\n"
+        f"▶ 再生: {player_url}\n\n"
+        + "\n".join(lines_plain)
+    )
+
+    # HTML
+    script_rows = []
+    for line in script:
+        is_alex = line["speaker"] == config["show"]["host_male"]
+        bg = "#e8f4fd" if is_alex else "#fdf0e8"
+        border = "#93c5fd" if is_alex else "#fca5a5"
+        script_rows.append(f"""
+        <div style="background:{bg};border-left:4px solid {border};border-radius:8px;
+                    padding:10px 14px;margin-bottom:8px;">
+          <div style="font-size:11px;font-weight:700;text-transform:uppercase;
+                      letter-spacing:0.08em;color:#6b7280;margin-bottom:4px;">
+            {line['speaker']}
+          </div>
+          <div style="font-size:15px;line-height:1.6;color:#1a1a1a;">
+            {line['text']}
+          </div>
+          <div style="font-size:13px;color:#6b7280;margin-top:3px;line-height:1.5;">
+            {line['ja']}
+          </div>
+        </div>""")
+
+    script_html = "\n".join(script_rows)
+
+    html = f"""<!DOCTYPE html>
+<html lang="ja">
+<head><meta charset="UTF-8"></head>
+<body style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+             background:#f8f6f1;margin:0;padding:20px;">
+  <div style="max-width:600px;margin:0 auto;">
+    <div style="background:#2d6a4f;color:white;border-radius:12px 12px 0 0;
+                padding:20px 24px;text-align:center;">
+      <div style="font-size:20px;font-weight:700;">{show_name}</div>
+      <div style="font-size:13px;opacity:0.85;margin-top:4px;">{date_str} ／ 語彙レベル {level}</div>
+    </div>
+
+    <div style="background:white;padding:16px 24px;border-left:1px solid #e5e7eb;
+                border-right:1px solid #e5e7eb;">
+      <a href="{player_url}"
+         style="display:block;background:#2d6a4f;color:white;text-decoration:none;
+                text-align:center;padding:12px;border-radius:8px;font-weight:700;
+                font-size:15px;margin-bottom:16px;">
+        ▶ ブラウザで再生する
+      </a>
+    </div>
+
+    <div style="background:white;padding:16px 24px;border:1px solid #e5e7eb;
+                border-radius:0 0 12px 12px;">
+      {script_html}
+    </div>
+
+    <div style="text-align:center;font-size:12px;color:#9ca3af;margin-top:12px;">
+      良い一日を！
+    </div>
+  </div>
+</body>
+</html>"""
+
+    return plain, html
+
+
 def save_content(date_str: str, script: list[dict], sources: dict, config: dict) -> Path:
     CONTENT_DIR.mkdir(exist_ok=True)
     output = {
@@ -352,11 +431,14 @@ def main():
     # Send success email
     base_url = "https://yutamtam.github.io/english-daily"
     player_url = f"{base_url}/player.html?date={date_str}"
+    show_name = config["show"].get("name", "The Daily Tanu-chan Show")
 
+    plain, html = build_email_html(date_str, script, player_url, config)
     send_email(
         to=email_to,
-        subject=f"[English Daily] {date_str} の放送が届きました",
-        body=f"今日の English Daily が生成されました。\n\n▶ 再生はこちら:\n{player_url}\n\n良い一日を！",
+        subject=f"[{show_name}] {date_str} の放送が届きました",
+        body=plain,
+        html=html,
     )
     print("  ✓ Email sent")
     print("Done!")
