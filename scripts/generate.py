@@ -29,33 +29,50 @@ CONTENT_DIR = REPO_ROOT / "content"
 CONFIG_PATH = REPO_ROOT / "config.json"
 VOCAB_DIR = REPO_ROOT / "data" / "vocab"
 
+def _svl(n): return [f"svl_{i:02d}.json" for i in range(1, n + 1)]
+def _kyo(n): return [f"kyokugen_{i}.json" for i in range(13, n + 1)]
+def _shu(n): return [f"shukyoku_{i}.json" for i in range(25, n + 1)]
+
 VOCAB_LEVEL_FILES = {
-    1: ["svl_01.json", "svl_02.json", "svl_03.json"],
-    2: ["svl_01.json", "svl_02.json", "svl_03.json",
-        "svl_04.json", "svl_05.json", "svl_06.json"],
-    3: [f"svl_{i:02d}.json" for i in range(1, 13)],
-    4: [f"svl_{i:02d}.json" for i in range(1, 13)] +
-       [f"kyokugen_{i}.json" for i in range(13, 25)],
-    5: [f"svl_{i:02d}.json" for i in range(1, 13)] +
-       [f"kyokugen_{i}.json" for i in range(13, 25)] +
-       [f"shukyoku_{i}.json" for i in range(25, 35)],
+    1:  _svl(3),
+    2:  _svl(6),
+    3:  _svl(9),
+    4:  _svl(12),
+    5:  _svl(12) + _kyo(15),
+    6:  _svl(12) + _kyo(18),
+    7:  _svl(12) + _kyo(21),
+    8:  _svl(12) + _kyo(24),
+    9:  _svl(12) + _kyo(24) + _shu(27),
+    10: _svl(12) + _kyo(24) + _shu(30),
+    11: _svl(12) + _kyo(24) + _shu(34),
 }
 
-# Files that contain words ABOVE a given level (used to sample "unknown" words)
 ABOVE_LEVEL_FILES = {
-    1: ["svl_04.json", "svl_05.json", "svl_06.json"],
-    2: ["svl_07.json", "svl_08.json", "svl_09.json"],
-    3: [f"kyokugen_{i}.json" for i in range(13, 17)],
-    4: [f"shukyoku_{i}.json" for i in range(25, 29)],
-    5: [],  # native level — nothing above
+    1:  [f"svl_{i:02d}.json" for i in range(4, 7)],
+    2:  [f"svl_{i:02d}.json" for i in range(7, 10)],
+    3:  [f"svl_{i:02d}.json" for i in range(10, 13)],
+    4:  [f"kyokugen_{i}.json" for i in range(13, 16)],
+    5:  [f"kyokugen_{i}.json" for i in range(16, 19)],
+    6:  [f"kyokugen_{i}.json" for i in range(19, 22)],
+    7:  [f"kyokugen_{i}.json" for i in range(22, 25)],
+    8:  [f"shukyoku_{i}.json" for i in range(25, 28)],
+    9:  [f"shukyoku_{i}.json" for i in range(28, 31)],
+    10: [f"shukyoku_{i}.json" for i in range(31, 34)],
+    11: [],
 }
 
 VOCAB_LEVEL_LABELS = {
-    1: "beginner (~3,000 words, junior high school level)",
-    2: "intermediate (~6,000 words, high school level)",
-    3: "advanced (~12,000 words, TOEIC 900 level)",
-    4: "very advanced (~24,000 words, English newspaper level)",
-    5: "near-native (~34,000 words)",
+    1:  "beginner (~3,000 words, junior high school level)",
+    2:  "lower-intermediate (~6,000 words, high school level)",
+    3:  "intermediate (~9,000 words, TOEIC 600-700 level)",
+    4:  "upper-intermediate (~12,000 words, TOEIC 800 level)",
+    5:  "pre-advanced (~15,000 words, TOEIC 850 level)",
+    6:  "advanced (~18,000 words, TOEIC 900 level)",
+    7:  "advanced+ (~21,000 words)",
+    8:  "very advanced (~24,000 words, English newspaper level)",
+    9:  "very advanced+ (~27,000 words)",
+    10: "near-native (~30,000 words)",
+    11: "native (~34,000 words)",
 }
 
 
@@ -260,7 +277,7 @@ def main():
 
     # Override vocab_level from environment variable if provided (set by workflow_dispatch input)
     env_level = os.environ.get("VOCAB_LEVEL", "").strip()
-    if env_level and env_level.isdigit() and int(env_level) in VOCAB_LEVEL_FILES:
+    if env_level and env_level.isdigit() and int(env_level) in range(1, 12):
         new_level = int(env_level)
         if new_level != config["user"]["vocab_level"]:
             print(f"  Overriding vocab_level: {config['user']['vocab_level']} → {new_level}")
