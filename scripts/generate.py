@@ -164,7 +164,6 @@ def generate_script(prompt: str) -> list[dict]:
         config=types.GenerateContentConfig(
             temperature=0.8,
             max_output_tokens=16384,
-            thinking_config=types.ThinkingConfig(thinking_budget=0),
         ),
     )
 
