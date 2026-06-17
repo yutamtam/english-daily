@@ -4,7 +4,20 @@ on:
   schedule:
     # JST 06:00 = UTC 21:00 (previous day)
     - cron: '0 21 * * *'
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      vocab_level:
+        description: '語彙レベル (1=初級 / 2=中級 / 3=上級 / 4=超上級 / 5=ネイティブ)'
+        required: false
+        default: ''
+        type: choice
+        options:
+          - ''
+          - '1'
+          - '2'
+          - '3'
+          - '4'
+          - '5'
 
 permissions:
   contents: write  # Needed to commit generated JSON
@@ -29,6 +42,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          VOCAB_LEVEL: ${{ github.event.inputs.vocab_level }}
         run: python scripts/generate.py
 
       - name: Commit and push generated content

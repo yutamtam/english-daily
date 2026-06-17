@@ -6,6 +6,7 @@ Run daily via GitHub Actions at UTC 21:00 (JST 06:00).
 
 import json
 import os
+import random
 import sys
 import traceback
 from datetime import datetime, timezone
@@ -40,6 +41,15 @@ VOCAB_LEVEL_FILES = {
        [f"shukyoku_{i}.json" for i in range(25, 35)],
 }
 
+# Files that contain words ABOVE a given level (used to sample "unknown" words)
+ABOVE_LEVEL_FILES = {
+    1: ["svl_04.json", "svl_05.json", "svl_06.json"],
+    2: ["svl_07.json", "svl_08.json", "svl_09.json"],
+    3: [f"kyokugen_{i}.json" for i in range(13, 17)],
+    4: [f"shukyoku_{i}.json" for i in range(25, 29)],
+    5: [],  # native level — nothing above
+}
+
 VOCAB_LEVEL_LABELS = {
     1: "beginner (~3,000 words, junior high school level)",
     2: "intermediate (~6,000 words, high school level)",
@@ -54,16 +64,31 @@ def load_config() -> dict:
         return json.load(f)
 
 
-def load_known_words(vocab_level: int) -> set[str]:
-    files = VOCAB_LEVEL_FILES.get(vocab_level, VOCAB_LEVEL_FILES[3])
-    known = set()
-    for filename in files:
+def save_config(config: dict) -> None:
+    with open(CONFIG_PATH, "w", encoding="utf-8") as f:
+        json.dump(config, f, ensure_ascii=False, indent=2)
+
+
+def load_words_from_files(filenames: list[str]) -> list[str]:
+    words = []
+    for filename in filenames:
         path = VOCAB_DIR / filename
         if path.exists():
             with open(path, encoding="utf-8") as f:
                 data = json.load(f)
-                known.update(w.lower() for w in data.get("words", []))
-    return known
+                words.extend(w.lower() for w in data.get("words", []))
+    return words
+
+
+def sample_unknown_words(vocab_level: int, n: int = 40) -> list[str]:
+    """Sample words from the level just above the listener's current level."""
+    above_files = ABOVE_LEVEL_FILES.get(vocab_level, [])
+    if not above_files:
+        return []
+    words = load_words_from_files(above_files)
+    if not words:
+        return []
+    return random.sample(words, min(n, len(words)))
 
 
 def build_gemini_prompt(config: dict, sources: dict) -> str:
@@ -108,29 +133,47 @@ Rain probability: {weather['rain_probability']}%""")
 
     content_section = "\n\n".join(content_blocks)
 
-    prompt = f"""You are writing a morning radio show script for a Japanese adult learning English.
+    # Sample unknown words for calibration
+    unknown_words = sample_unknown_words(level)
+    if unknown_words:
+        unknown_sample = ", ".join(unknown_words[:40])
+        vocab_guidance = f"""
+VOCABULARY CALIBRATION:
+- Write all dialogue naturally at the {level_label} level.
+- Do NOT simplify unnecessarily — maintain natural, engaging {level_label} English throughout.
+- Words like these are ABOVE the listener's level: {unknown_sample}
+- Choose 1 to 4 of these (or similar above-level words) to naturally weave into the conversation as "teaching moments": {host_m} encounters the word, asks {host_f} what it means, and {host_f} explains it simply and memorably within the flow of the conversation.
+- For all other above-level words you might want to use, choose a natural {level_label}-appropriate alternative instead — do not water down the overall language level."""
+    else:
+        vocab_guidance = f"""
+VOCABULARY:
+- Write all dialogue naturally at the {level_label} level throughout."""
+
+    prompt = f"""You are writing a fun, engaging morning radio show script for a Japanese adult learning English.
 
 SHOW FORMAT:
 - Today's date: {today}
-- Two hosts: {host_m} (male, curious and enthusiastic) and {host_f} (female, knowledgeable and warm)
+- Two hosts: {host_m} (male) and {host_f} (female)
 - Duration: approximately {duration} minutes when read aloud at a natural pace
-- Style: friendly, natural radio conversation — upbeat but not exhausting
+- Style: warm, witty, entertaining radio banter — like two genuinely funny friends who also happen to be informative
 
-LISTENER PROFILE:
-- Japanese adult, English learner
-- Vocabulary level: {level_label}
-- When a less common word appears that this learner might not know, {host_m} naturally asks "What does [word] mean?" and {host_f} explains it simply within the conversation
+HOST PERSONALITIES:
+- {host_m}: Curious, slightly goofy, asks the questions listeners are thinking. Occasionally makes a bad pun or joke that {host_f} gently teases him about. Enthusiastic and likeable.
+- {host_f}: Sharp, knowledgeable, warmly sarcastic. Enjoys correcting {host_m} with a smile. Brings the facts but never sounds like a textbook.
+- Their dynamic: playful back-and-forth, light teasing, genuine warmth. NOT a straight news read — more like a podcast with personality.
+{vocab_guidance}
 
-CONTENT TO COVER (use all sections naturally in conversation):
+CONTENT TO COVER (weave all sections naturally into the conversation):
 {content_section}
 
 SCRIPT REQUIREMENTS:
-1. Open with a warm greeting and mention today's date and day of the week
-2. Cover the weather forecast naturally
-3. Discuss the news headlines (keep each one brief, 2-3 exchanges)
-4. Include the "On This Day" historical fact as a fun moment
-5. End with the parenting tip in a warm, practical way
-6. If you use a word outside the listener's vocabulary level, have {host_m} ask about it and {host_f} explain it simply
+1. Open with a warm, energetic greeting — mention today's date and something immediately interesting or funny
+2. Cover the weather with personality, not just facts (e.g., {host_m} complains, {host_f} teases)
+3. Discuss news headlines conversationally — brief reactions, genuine opinions, not just summaries
+4. Include the "On This Day" fact as a fun discovery moment, let the hosts react to it naturally
+5. End with the parenting tip warmly and practically
+6. Sprinkle in at least one genuine laugh moment (a joke, a funny reaction, an unexpected observation)
+7. Handle vocabulary teaching moments naturally — they should feel like real conversation, not a lesson
 
 OUTPUT FORMAT:
 Return ONLY a valid JSON array — no markdown, no explanation, no code fences.
@@ -167,7 +210,7 @@ def generate_script(prompt: str) -> list[dict]:
                 model="gemini-2.5-flash",
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    temperature=0.8,
+                    temperature=0.9,
                     max_output_tokens=16384,
                 ),
             )
@@ -214,10 +257,20 @@ def save_content(date_str: str, script: list[dict], sources: dict, config: dict)
 
 def main():
     config = load_config()
+
+    # Override vocab_level from environment variable if provided (set by workflow_dispatch input)
+    env_level = os.environ.get("VOCAB_LEVEL", "").strip()
+    if env_level and env_level.isdigit() and int(env_level) in VOCAB_LEVEL_FILES:
+        new_level = int(env_level)
+        if new_level != config["user"]["vocab_level"]:
+            print(f"  Overriding vocab_level: {config['user']['vocab_level']} → {new_level}")
+            config["user"]["vocab_level"] = new_level
+            save_config(config)
+
     date_str = datetime.now().strftime("%Y-%m-%d")
     email_to = config["email"]["to"]
 
-    print(f"[{date_str}] Starting generation...")
+    print(f"[{date_str}] Starting generation (vocab_level={config['user']['vocab_level']})...")
 
     sources = {}
 

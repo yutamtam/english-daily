@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Daily — 設定</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .settings-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    .settings-card h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 14px;
+      color: var(--primary-dark);
+    }
+
+    .level-options {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .level-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 12px 14px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .level-option:hover {
+      border-color: var(--accent);
+      background: #f0faf5;
+    }
+
+    .level-option.selected {
+      border-color: var(--primary);
+      background: #f0faf5;
+    }
+
+    .level-option input[type="radio"] {
+      margin-top: 3px;
+      accent-color: var(--primary);
+      flex-shrink: 0;
+    }
+
+    .level-label {
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    .level-vocab {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--primary);
+      background: #e8f5ee;
+      border-radius: 4px;
+      padding: 1px 6px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    .level-desc {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .pat-input {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      font-size: 0.9rem;
+      font-family: monospace;
+      background: var(--surface);
+      color: var(--text);
+      margin-top: 8px;
+    }
+
+    .pat-input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .pat-note {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 6px;
+      line-height: 1.5;
+    }
+
+    .pat-note a {
+      color: var(--primary);
+    }
+
+    .btn-generate {
+      width: 100%;
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: 10px;
+      padding: 14px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+      margin-top: 4px;
+    }
+
+    .btn-generate:hover:not(:disabled) {
+      background: var(--primary-dark);
+    }
+
+    .btn-generate:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .status-box {
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 0.9rem;
+      margin-top: 12px;
+      line-height: 1.5;
+      display: none;
+    }
+
+    .status-box.success {
+      background: #d1fae5;
+      border: 1px solid #6ee7b7;
+      color: #065f46;
+      display: block;
+    }
+
+    .status-box.error {
+      background: #fee2e2;
+      border: 1px solid #fca5a5;
+      color: #991b1b;
+      display: block;
+      text-align: left;
+      padding: 12px 16px;
+    }
+
+    .current-level-badge {
+      display: inline-block;
+      background: var(--accent);
+      color: var(--primary-dark);
+      border-radius: 6px;
+      padding: 2px 10px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="index.html" class="back-link">← 一覧</a>
+    <h1>English Daily</h1>
+    <p class="subtitle">設定</p>
+  </header>
+
+  <main>
+    <!-- Level selector -->
+    <div class="settings-card">
+      <h2>語彙レベル <span id="current-level-badge" class="current-level-badge" style="display:none"></span></h2>
+      <div class="level-options" id="level-options">
+        <label class="level-option" data-level="1">
+          <input type="radio" name="vocab_level" value="1">
+          <div>
+            <div class="level-label">レベル 1 — 初級 <span class="level-vocab">約3,000語</span></div>
+            <div class="level-desc">中学卒業レベル。英語をゼロから始める人向け。</div>
+          </div>
+        </label>
+        <label class="level-option" data-level="2">
+          <input type="radio" name="vocab_level" value="2">
+          <div>
+            <div class="level-label">レベル 2 — 中級 <span class="level-vocab">約6,000語</span></div>
+            <div class="level-desc">高校卒業レベル。日常会話なら通じるレベル。</div>
+          </div>
+        </label>
+        <label class="level-option" data-level="3">
+          <input type="radio" name="vocab_level" value="3">
+          <div>
+            <div class="level-label">レベル 3 — 上級 <span class="level-vocab">約12,000語</span></div>
+            <div class="level-desc">TOEIC 800〜900レベル。英語ニュースを聴き取れる。</div>
+          </div>
+        </label>
+        <label class="level-option" data-level="4">
+          <input type="radio" name="vocab_level" value="4">
+          <div>
+            <div class="level-label">レベル 4 — 超上級 <span class="level-vocab">約24,000語</span></div>
+            <div class="level-desc">英字新聞・学術論文レベル。専門的な英語も読める。</div>
+          </div>
+        </label>
+        <label class="level-option" data-level="5">
+          <input type="radio" name="vocab_level" value="5">
+          <div>
+            <div class="level-label">レベル 5 — ネイティブ <span class="level-vocab">約34,000語</span></div>
+            <div class="level-desc">ほぼ全語彙カバー。ネイティブと同等レベル。</div>
+          </div>
+        </label>
+      </div>
+    </div>
+
+    <!-- GitHub PAT -->
+    <div class="settings-card">
+      <h2>GitHub 個人アクセストークン（PAT）</h2>
+      <p style="font-size:0.875rem; color:var(--muted); line-height:1.6;">
+        「今すぐ再生成」を使うために必要です。このブラウザにのみ保存され、コードには一切残りません。
+      </p>
+      <input type="password" id="pat-input" class="pat-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
+      <p class="pat-note">
+        取得方法：GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)<br>
+        スコープ：<strong>repo</strong> と <strong>workflow</strong> にチェック
+      </p>
+    </div>
+
+    <!-- Action -->
+    <button id="btn-generate" class="btn-generate" disabled>
+      設定を保存して今すぐ再生成
+    </button>
+    <div id="status-box" class="status-box"></div>
+  </main>
+
+  <script>
+    const REPO = 'yutamtam/english-daily';
+    const WORKFLOW_FILE = 'generate.yml';
+    const RAW_BASE = 'https://raw.githubusercontent.com/yutamtam/english-daily/main';
+
+    const patInput = document.getElementById('pat-input');
+    const btnGenerate = document.getElementById('btn-generate');
+    const statusBox = document.getElementById('status-box');
+    const currentLevelBadge = document.getElementById('current-level-badge');
+
+    // --- Load current level from config.json ---
+    async function loadCurrentLevel() {
+      try {
+        const resp = await fetch(`${RAW_BASE}/config.json`);
+        if (!resp.ok) return;
+        const config = await resp.json();
+        const level = config?.user?.vocab_level;
+        if (level) {
+          currentLevelBadge.textContent = `現在: レベル ${level}`;
+          currentLevelBadge.style.display = '';
+          selectLevel(level);
+        }
+      } catch (e) {
+        // ignore
+      }
+    }
+
+    // --- Level selection ---
+    function selectLevel(level) {
+      document.querySelectorAll('.level-option').forEach(el => {
+        el.classList.remove('selected');
+      });
+      const radio = document.querySelector(`input[name="vocab_level"][value="${level}"]`);
+      if (radio) {
+        radio.checked = true;
+        radio.closest('.level-option').classList.add('selected');
+      }
+    }
+
+    document.querySelectorAll('.level-option').forEach(el => {
+      el.addEventListener('click', () => {
+        const level = el.dataset.level;
+        selectLevel(level);
+        updateButtonState();
+      });
+    });
+
+    // --- PAT handling ---
+    const savedPat = localStorage.getItem('english-daily-pat') || '';
+    if (savedPat) patInput.value = savedPat;
+
+    patInput.addEventListener('input', updateButtonState);
+
+    function updateButtonState() {
+      const hasPat = patInput.value.trim().length > 0;
+      const hasLevel = !!document.querySelector('input[name="vocab_level"]:checked');
+      btnGenerate.disabled = !(hasPat && hasLevel);
+    }
+
+    updateButtonState();
+
+    // --- Trigger generation ---
+    btnGenerate.addEventListener('click', async () => {
+      const pat = patInput.value.trim();
+      const levelRadio = document.querySelector('input[name="vocab_level"]:checked');
+      if (!pat || !levelRadio) return;
+
+      const level = levelRadio.value;
+      localStorage.setItem('english-daily-pat', pat);
+
+      btnGenerate.disabled = true;
+      btnGenerate.textContent = '送信中...';
+      showStatus('', '');
+
+      try {
+        const resp = await fetch(
+          `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
+          {
+            method: 'POST',
+            headers: {
+              Authorization: `token ${pat}`,
+              Accept: 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              ref: 'main',
+              inputs: { vocab_level: level },
+            }),
+          }
+        );
+
+        if (resp.status === 204) {
+          showStatus('success',
+            `✅ レベル ${level} で再生成をリクエストしました。<br>` +
+            `数分後に <a href="index.html">一覧ページ</a> に今日のエピソードが届きます。`
+          );
+          currentLevelBadge.textContent = `現在: レベル ${level}`;
+          currentLevelBadge.style.display = '';
+        } else {
+          const body = await resp.json().catch(() => ({}));
+          showStatus('error',
+            `❌ エラー (${resp.status}): ${body.message || '不明なエラー'}<br>` +
+            `PATのスコープ（repo・workflow）を確認してください。`
+          );
+        }
+      } catch (e) {
+        showStatus('error', `❌ 通信エラー: ${e.message}`);
+      }
+
+      btnGenerate.disabled = false;
+      btnGenerate.textContent = '設定を保存して今すぐ再生成';
+    });
+
+    function showStatus(type, html) {
+      statusBox.className = `status-box ${type}`;
+      statusBox.innerHTML = html;
+    }
+
+    loadCurrentLevel();
+  </script>
+</body>
+</html>
