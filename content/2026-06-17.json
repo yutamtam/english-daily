@@ -1,136 +1,201 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T15:01:48.363879+00:00",
+  "generated_at": "2026-06-17T22:35:17.783699+00:00",
   "vocab_level": 3,
   "script": [
     {
       "speaker": "Alex",
-      "text": "Good morning, everyone, and welcome back to 'Morning Boost'! I'm Alex.",
-      "ja": "皆さん、おはようございます！『モーニングブースト』へようこそ！Alexです。"
+      "text": "Good morning, Japan! You're tuning into 'Morning Blend' on this rather damp Wednesday, June 17, 2026! I'm Alex, and I've already managed to step in every single puddle on the way in.",
+      "ja": "日本のみなさん、おはようございます！2026年6月17日、かなり湿った水曜日、『モーニングブレンド』にお付き合いいただきありがとうございます！Alexです。出勤途中、すでにすべての水たまりに足を踏み入れてしまいましたよ。"
     },
     {
       "speaker": "Sarah",
-      "text": "And I'm Sarah! It's Wednesday, June 17th, 2026. A brand new day, Alex, but it looks like a wet one out there!",
-      "ja": "そしてSarahです！今日は2026年6月17日、水曜日です。新しい一日ですが、Alex、外は雨模様のようですね！"
+      "text": "And I'm Sarah, here to remind Alex that umbrellas exist. Welcome back, everyone! Yes, it's June 17th, and if you're looking out your window in Tokyo, you're probably seeing quite the downpour.",
+      "ja": "そしてSarahです。Alexに傘というものが存在することを思い出させるためにここにいます。皆さん、こんにちは！ええ、6月17日。もし東京で窓の外を見ているなら、かなりの土砂降りを目の当たりにしていることでしょうね。"
     },
     {
       "speaker": "Alex",
-      "text": "It certainly does, Sarah. What's the full weather forecast for Tokyo today?",
-      "ja": "確かにそうですね、Sarah。今日の東京の詳しい天気予報はどうなっていますか？"
+      "text": "Quite the downpour is an understatement, Sarah. It feels less like rain and more like the sky just decided to empty a giant bucket over our heads. My hair is... well, it's a *smattering* of various states of dampness right now.",
+      "ja": "かなりの土砂降り、なんてサラは控えめな表現ですよ。雨というよりは、空が巨大なバケツを頭の上にひっくり返したような感じです。僕の髪は…ええ、今、様々な湿り具合の*smattering*、つまりまばらに濡れています。"
     },
     {
       "speaker": "Sarah",
-      "text": "Well, listeners, prepare for some heavy rain throughout the day. The rain probability is a full 100%, so definitely don't forget your umbrellas!",
-      "ja": "ええ、リスナーの皆さん、今日は一日中激しい雨に備えてください。降水確率は100%ですので、傘を忘れずに！"
+      "text": "A *smattering*, Alex? That's an interesting choice of word. For our listeners, a 'smattering' means a small, scattered amount of something. So, your hair isn't completely soaked, just a bit here and there?",
+      "ja": "Alex、*smattering*ですか？面白い言葉の選択ですね。リスナーの皆さんのために説明すると、『smattering』とは、何かが少量、まばらにある状態を意味します。つまり、あなたの髪は完全にずぶ濡れではなく、あちこちに少しだけ濡れている、ということですか？"
     },
     {
       "speaker": "Alex",
-      "text": "Wow, 100%! That's a clear message from Mother Nature. And the temperatures?",
-      "ja": "わあ、100%ですか！これは自然からの明確なメッセージですね。気温はどうですか？"
+      "text": "Exactly! Like a gentle sprinkle decided to get aggressive in specific spots. So, what's the official word from the atmospheric experts on this aquatic onslaught?",
+      "ja": "その通りです！まるで優しい霧雨が特定の場所でだけアグレッシブになった、みたいな感じです。それで、この水攻めについて、気象の専門家たちの公式見解はどうなんでしょう？"
     },
     {
       "speaker": "Sarah",
-      "text": "We're looking at a high of 25.2 degrees Celsius and a low of 19.4 degrees Celsius. So it'll be a bit humid and damp, but not too cold.",
-      "ja": "最高気温は25.2度、最低気温は19.4度の予報です。湿気が多くジメジメしますが、そこまで寒くはないでしょう。"
+      "text": "Well, the official word is: don't put away that umbrella. Today, June 17th, Tokyo is experiencing moderate rain, with a 100% chance of precipitation throughout the day. The high is expected to reach 22.1 degrees Celsius, and it won't dip much below that, with a low of 19.5 degrees. So, a warm, wet one.",
+      "ja": "ええ、公式見解は「傘をしまうな」です。今日6月17日の東京は、一日中100%の降水確率で、並の雨が降っています。最高気温は22.1度、最低気温も19.5度と、あまり下がりません。ですから、暖かくて湿った一日ですね。"
     },
     {
       "speaker": "Alex",
-      "text": "Alright, good to know. Stay dry, everyone! Now, Sarah, you always have some fascinating historical facts for us. What happened 'On This Day'?",
-      "ja": "なるほど、分かりました。皆さん、濡れないようにしてくださいね！さて、Sarah、いつも興味深い歴史的事実を教えてくれますね。「この日」に何があったんですか？"
+      "text": "Warm and wet. My two least favorite adjectives for weather. I much prefer 'crisp' and 'sunny,' or 'bright' and 'breezy.' But 100% rain, huh? That's quite a commitment from the clouds.",
+      "ja": "暖かくて湿っている。天気に関する形容詞で一番嫌いな2つです。僕は『さわやかで晴れやか』とか『明るくてそよ風が吹く』方がずっと好きですね。しかし、降水確率100%ですか？雲からの、かなりの覚悟を感じますね。"
     },
     {
       "speaker": "Sarah",
-      "text": "I do, Alex! On this very day, June 17th, but back in 1985, a significant event unfolded in space history.",
-      "ja": "そうなんです、Alex！まさにこの日、6月17日ですが、1985年に宇宙史における重要な出来事がありました。"
+      "text": "Indeed it is. So, pack your rain gear, drive carefully, and maybe embrace the coziness of an indoor day. Perhaps some good English listening practice?",
+      "ja": "本当にそうですね。なので、雨具を準備して、運転は慎重に。そして、もしかしたら家で過ごす心地よさを楽しむのもいいかもしれませんね。例えば、良い英語のリスニング練習とか？"
     },
     {
       "speaker": "Alex",
-      "text": "Ooh, space history! Tell me more!",
-      "ja": "おお、宇宙史！もっと教えてください！"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "The Space Shuttle Discovery launched on its STS-51-G mission, carrying Sultan bin Salman bin Abdulaziz Al Saud. He was the first Arab and the first Muslim in space, serving as a payload specialist.",
-      "ja": "スペースシャトル・ディスカバリーがSTS-51-Gミッションで打ち上げられ、サルマン・ビン・アブドゥルアズィーズ・アール・サウード王子が搭乗しました。彼は宇宙に行った初の Arab 人であり、初の Muslim 人で、ペイロードスペシャリストを務めました。"
+      "text": "Like what we're doing right now! Excellent suggestion, Sarah. Always bringing it back to the learning. Speaking of important things...",
+      "ja": "今まさに僕たちがやっていることみたいに！素晴らしい提案ですね、サラ。いつも学習につなげてくれますね。重要なことと言えば…"
     },
     {
       "speaker": "Alex",
-      "text": "Wow, that's incredible! The first Arab and Muslim in space. What exactly is a 'payload specialist', Sarah?",
-      "ja": "わあ、それはすごいですね！宇宙に行った初の Arab 人、そして Muslim 人。Sarah、「ペイロードスペシャリスト」って具体的に何ですか？"
+      "text": "Did you know that on this very day, June 17th, but back in 1992, something pretty significant happened on the world stage?",
+      "ja": "この6月17日という日、ですが、1992年の今日、世界の舞台でかなり重要な出来事があったのを知っていますか？"
     },
     {
       "speaker": "Sarah",
-      "text": "Good question, Alex! A payload specialist is typically a non-career astronaut, often a scientist or an engineer, who is responsible for specific experiments or equipment during a space mission. So they have a very focused role.",
-      "ja": "いい質問ですね、Alex！ペイロードスペシャリストというのは、通常、キャリア宇宙飛行士ではない、科学者や技術者が多く、宇宙ミッション中に特定の実験や機器を担当する人のことです。つまり、非常に専門的な役割を持っているんです。"
+      "text": "Oh, are we delving into historical moments now, Alex? I'm intrigued. Tell me, what pivotal event are you referring to?",
+      "ja": "あら、歴史的な瞬間に踏み込むのね、Alex？興味津々だわ。どの決定的な出来事のことかしら？"
     },
     {
       "speaker": "Alex",
-      "text": "I see! So he wasn't just a passenger, but had an important job to do. That's a huge milestone for space exploration and cultural representation.",
-      "ja": "なるほど！ただの乗客ではなく、重要な任務があったんですね。宇宙探査と文化的な代表性にとって、非常に大きな節目です。"
+      "text": "Well, on June 17, 1992, U.S. President George Bush and Russian President Boris Yeltsin signed a 'joint understanding' agreement on arms reduction. This was a crucial step towards what later became known as START II, a treaty aimed at further reducing strategic offensive arms.",
+      "ja": "ええと、1992年6月17日、アメリカ大統領ジョージ・ブッシュとロシア大統領ボリス・エリツィンが、軍備削減に関する『共同理解』協定に署名したんです。これは、後にSTART IIとして知られることになる、戦略攻撃兵器のさらなる削減を目的とした条約への決定的な一歩でした。"
     },
     {
       "speaker": "Sarah",
-      "text": "Absolutely. It truly opened doors and inspired many. And speaking of new beginnings, let's turn to our 'Parenting Tip of the Day' from Zero to Three.",
-      "ja": "その通りです。本当に多くの扉を開き、多くの人にインスピレーションを与えました。そして、新しい始まりといえば、Zero to Threeからの「今日の育児のヒント」に移りましょう。"
+      "text": "Ah, yes, START II. A significant agreement indeed, especially in the post-Cold War era. It really symbolized a shift in the global power dynamic and a move towards greater stability, at least in certain aspects.",
+      "ja": "ああ、START IIですね。特に冷戦後の時代においては、確かに重要な合意でした。それは、世界の力関係の変化と、少なくともある側面での安定への動きを象徴するものでしたね。"
     },
     {
       "speaker": "Alex",
-      "text": "Ah, always a valuable segment for new and experienced parents alike. What's today's wisdom?",
-      "ja": "ああ、新米パパママにもベテランパパママにも、いつも貴重なコーナーですね。今日の知恵は何ですか？"
+      "text": "It's fascinating to look back at moments like that, isn't it? When leaders from historically adversarial nations come together to sign something that, at least in theory, aims to make the world a safer place. It feels like a stark contrast to some of the... well, the global *volatility* we sometimes see today.",
+      "ja": "ああいう瞬間を振り返るのは、実に興味深いですよね？歴史的に敵対してきた国々のリーダーたちが集まり、少なくとも理論上は世界をより安全にするための合意に署名するなんて。今日の私たちが時々目にする、世界的な*変動性*とは対照的だと感じます。"
     },
     {
       "speaker": "Sarah",
-      "text": "Today's tip is simply titled 'Hello World!' It reminds us about those incredibly precious first moments with a new baby. Think of it like the very first step in learning something new – it's foundational.",
-      "ja": "今日のヒントは「Hello World!」というシンプルなタイトルです。新しい赤ちゃんとの信じられないほど貴重な最初の瞬間について思い出させてくれます。何か新しいことを学ぶときの最初のステップのように、それが基礎となるんです。"
+      "text": "You've hit on a very relevant point, Alex. 'Volatility' – that's a great word for our listeners. It refers to the tendency of something to change rapidly and unpredictably, especially for the worse. Like the sudden shifts we often observe in financial markets, or indeed, in international relations.",
+      "ja": "とても的を得た点を指摘しましたね、Alex。『Volatility』—リスナーの皆さんにとって素晴らしい言葉です。これは、何かが急速に、予測不可能に変化する傾向、特に悪い方向へ変化する傾向を指します。金融市場でよく見られる突然の変動や、まさに国際関係における変動のようにね。"
     },
     {
       "speaker": "Alex",
-      "text": "That's a lovely thought. What does 'foundational' mean in this context?",
-      "ja": "それは素敵な考えですね。「foundational」とは、この文脈ではどういう意味ですか？"
+      "text": "Precisely! One day you're signing peace treaties, the next day, who knows what's going to happen. It's a reminder that progress isn't always linear, I suppose.",
+      "ja": "その通りです！ある日は和平条約に署名して、次の日には何が起こるかわからない。進歩は必ずしも直線的ではない、ということを思い出させられますね。"
     },
     {
       "speaker": "Sarah",
-      "text": "It means it forms the base or the beginning for everything that follows. So, for parenting, it's about making those initial interactions count. Simply being present, making eye contact, and responding to your baby's unique cues are powerful ways to build a strong connection and communication right from the start.",
-      "ja": "それは、その後に続くすべての土台、あるいは始まりを形成するという意味です。ですから、育児においては、最初の交流を大切にすることです。ただそこにいて、アイコンタクトを取り、赤ちゃんの独特の合図に反応することが、最初から強い絆とコミュニケーションを築くための強力な方法なんです。"
+      "text": "Absolutely. Diplomatic efforts like the START agreements are vital precisely because the world can be so unpredictable. They're attempts to build frameworks that can withstand some of that inherent instability.",
+      "ja": "全くその通りです。START合意のような外交努力は、世界がこれほど予測不能であるからこそ極めて重要なのです。それらは、その本質的な不安定さの一部に耐えうる枠組みを構築しようとする試みですね。"
     },
     {
       "speaker": "Alex",
-      "text": "So, it's not about complicated theories, but just simple, warm engagement. Just a 'Hello world!' from the heart.",
-      "ja": "つまり、複雑な理論ではなく、シンプルで温かい関わり合いなんですね。心からの「Hello world!」と。"
+      "text": "Makes you wonder if they ever thought they'd see a day where people would be debating about AI safety and climate change instead of missile counts. The world moves fast.",
+      "ja": "彼らが、ミサイルの数ではなく、AIの安全性や気候変動について議論する日を目の当たりにするなんて、想像もしなかったでしょうね。世界は本当に速く動いています。"
     },
     {
       "speaker": "Sarah",
-      "text": "Exactly! Those tiny, everyday miracles are what truly matter. Embrace them. And that's all the time we have for 'Morning Boost' today.",
-      "ja": "その通りです！あの小さくて日常的な奇跡こそが本当に大切なんです。それらを受け入れてください。さあ、『モーニングブースト』、今日はここまでです。"
+      "text": "It certainly does. And speaking of moving fast, for our listeners who are parents, or perhaps soon-to-be parents, we have a wonderfully insightful tip today from the organization 'Zero to Three'.",
+      "ja": "確かにそうね。そして、物事が速く進むと言えば、親御さん、あるいはもうすぐ親になるリスナーの皆さんのために、今日は『Zero to Three』という団体から、素晴らしい洞察に満ちたヒントがあります。"
     },
     {
       "speaker": "Alex",
-      "text": "Thank you for joining us! Stay dry, stay warm, and we'll be back tomorrow with more boost for your morning!",
-      "ja": "ご参加いただきありがとうございました！濡れないように、暖かくして、明日も皆さんの一日にさらなるブーストをお届けします！"
+      "text": "Zero to Three, excellent resource! What wisdom do they have for us today?",
+      "ja": "Zero to Three、素晴らしい情報源ですね！今日はどんな知恵を授けてくれるんでしょう？"
     },
     {
       "speaker": "Sarah",
-      "text": "Bye for now!",
-      "ja": "またね！"
+      "text": "They're highlighting their 'Caring Conversations Café Model Facilitator Guide.' Now, that's a bit of a mouthful, but essentially, it's a guide for setting up supportive discussion groups for parents and providers.",
+      "ja": "彼らが注目しているのは、『Caring Conversations Café Model Facilitator Guide（思いやりある会話カフェモデル進行役ガイド）』です。ちょっと長い名前ですが、基本的には、親と支援者のための支援的なディスカッショングループを立ち上げるためのガイドですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A café for caring conversations? Sounds rather lovely and... *approachable*.",
+      "ja": "思いやりのある会話のためのカフェ？なんだかとても素敵で...*親しみやすい*ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Spot on, Alex! 'Approachable' is exactly the right word here. It means easy to understand and use, or friendly and easy to talk to. This guide aims to make those crucial conversations about parenting and child development less intimidating and more accessible.",
+      "ja": "その通りよ、Alex！『approachable』はまさにぴったりの言葉ね。理解しやすく、使いやすい、またはフレンドリーで話しかけやすい、という意味です。このガイドは、子育てや子どもの発達に関する重要な会話を、威圧的ではなく、よりアクセスしやすいものにすることを目指しています。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, it's not some dry, academic textbook, but something designed to be user-friendly, right?",
+      "ja": "つまり、堅苦しい学術書ではなく、ユーザーフレンドリーになるように設計されているわけですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Precisely. The guide includes seven parent-provider café agendas, and what's really key is how it emphasizes the importance of culture, weaving it through all their 'Parents and Providers: Sharing the Care' handouts. It acknowledges that parenting practices and beliefs are deeply rooted in cultural contexts.",
+      "ja": "その通りです。このガイドには、親と支援者のためのカフェの議題が7つ含まれていて、本当に重要なのは、文化の重要性を強調している点です。『Parents and Providers: Sharing the Care（親と支援者：ケアを共有する）』という彼らの資料全体に文化の要素が織り込まれているんです。子育ての習慣や信念が文化的な背景に深く根ざしていることを認識しています。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's brilliant. Because parenting isn't a one-size-fits-all thing, is it? What works in one culture might not make sense in another, and understanding that is so important for support.",
+      "ja": "それは素晴らしいですね。子育ては万能なものではないですよね？ある文化でうまくいくことが別の文化では意味をなさないこともありますし、それを理解することがサポートにおいては非常に重要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It's all about fostering a supportive environment where diverse perspectives are valued, and parents feel empowered. Making those conversations culturally sensitive and easy to engage with.",
+      "ja": "その通りです。多様な視点が尊重され、親が力づけられるような支援的な環境を育むことが全てです。文化的に配慮され、気軽に参加できるような会話にする、ということです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I love that. It's like, instead of telling parents what to do, it gives them a safe space to talk, share, and learn from each other, considering their own backgrounds.",
+      "ja": "それは良いですね。親に何をすべきか指示するのではなく、自身の背景を考慮しながら、話し合い、共有し、お互いから学ぶための安全な場所を提供する、といった感じですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Couldn't have said it better myself, Alex. A truly thoughtful approach to supporting families.",
+      "ja": "Alex、私にはそれ以上うまく言えないわ。家族を支援するための、本当に思慮深いアプローチね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And on that wonderfully empathetic note, it brings us to the end of another 'Morning Blend'!",
+      "ja": "そして、その素晴らしい共感的なメッセージとともに、『モーニングブレンド』の時間がまた終わりを告げます！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Time truly does fly when you're having fun, and learning! Thank you for joining us on this rainy Wednesday, June 17th, 2026.",
+      "ja": "楽しく学んでいると、本当に時間が経つのが早いですね！2026年6月17日、雨の水曜日に私たちにお付き合いいただき、ありがとうございました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Don't forget your umbrellas, folks! And if you do forget, maybe you'll just end up with a *smattering* of dampness, like me. It's character-building!",
+      "ja": "皆さん、傘を忘れないでくださいね！もし忘れても、僕みたいに*まばらに*濡れる程度で済むかも。これも人間形成の一部ですよ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, Alex. Always finding the silver lining, even in a downpour. We'll be back tomorrow with more insights and banter. Until then, stay dry and keep learning!",
+      "ja": "あら、Alex。土砂降りの中でも常に良い面を見つけるのね。明日もより多くの洞察と軽妙なやり取りをお届けします。それまでは、体を濡らさないようにして、学び続けてくださいね！"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Bye for now, everyone!",
+      "ja": "皆さん、またね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you tomorrow!",
+      "ja": "また明日ね！"
     }
   ],
   "sources": {
     "weather": {
       "location": "Tokyo",
-      "description": "Heavy rain",
-      "temp_max": 25.2,
-      "temp_min": 19.4,
+      "description": "Moderate rain",
+      "temp_max": 22.1,
+      "temp_min": 19.5,
       "rain_probability": 100
     },
     "news": [],
     "wikipedia": {
-      "year": 1985,
-      "text": "Space Shuttle program: STS-51-G mission: Space Shuttle Discovery launches carrying Sultan bin Salman bin Abdulaziz Al Saud, the first Arab and first Muslim in space, as a payload specialist."
+      "year": 1992,
+      "text": "A \"joint understanding\" agreement on arms reduction is signed by U.S. president George Bush and Russian president Boris Yeltsin (this would be later codified in START II)."
     },
     "parenting": {
       "source": "Zero to Three",
-      "title": "Hello world!",
-      "summary": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<p>The post <a href=\"https://www.zerotothree.org/hello-world/\">Hello world!</a> appeared first on <a href=\"https://www.zerotothree.org\">ZERO TO THREE</a>.</p>"
+      "title": "Caring Conversations Café Model Facilitator Guide",
+      "summary": "<p>Facilitator’s guide includes seven parent-provider café agendas which emphasize the importance of culture as woven through ZERO TO THREE’s Parents and Providers: Sharing the Care handouts. Purchase Access This easy-to-use facilitator’s guide includes seven parent-provider café agendas which emphasize the importance of culture as woven through ZERO TO THREE’s Parents and Providers: Sharing the C"
     }
   }
 }
