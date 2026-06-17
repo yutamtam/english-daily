@@ -163,6 +163,73 @@
       margin-left: 8px;
       vertical-align: middle;
     }
+
+    .delivery-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .delivery-status {
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    .delivery-status strong {
+      display: block;
+      font-size: 1rem;
+      color: var(--text);
+      margin-bottom: 2px;
+    }
+
+    .toggle-switch {
+      position: relative;
+      width: 56px;
+      height: 30px;
+      flex-shrink: 0;
+    }
+
+    .toggle-switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .toggle-slider {
+      position: absolute;
+      inset: 0;
+      background: #d1d5db;
+      border-radius: 30px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .toggle-slider:before {
+      content: '';
+      position: absolute;
+      width: 22px;
+      height: 22px;
+      left: 4px;
+      top: 4px;
+      background: white;
+      border-radius: 50%;
+      transition: transform 0.2s;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+
+    .toggle-switch input:checked + .toggle-slider {
+      background: var(--primary);
+    }
+
+    .toggle-switch input:checked + .toggle-slider:before {
+      transform: translateX(26px);
+    }
+
+    .toggle-switch input:disabled + .toggle-slider {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
   </style>
 </head>
 <body>
@@ -173,6 +240,20 @@
   </header>
 
   <main>
+    <!-- Delivery ON/OFF -->
+    <div class="settings-card">
+      <div class="delivery-row">
+        <div class="delivery-status">
+          <strong>毎日の自動配信</strong>
+          <span id="delivery-status-text">読み込み中...</span>
+        </div>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-delivery" disabled>
+          <span class="toggle-slider"></span>
+        </label>
+      </div>
+    </div>
+
     <!-- Level selector -->
     <div class="settings-card">
       <h2>語彙レベル <span id="current-level-badge" class="current-level-badge" style="display:none"></span></h2>
@@ -286,6 +367,8 @@
     const btnGenerate = document.getElementById('btn-generate');
     const statusBox = document.getElementById('status-box');
     const currentLevelBadge = document.getElementById('current-level-badge');
+    const toggleDelivery = document.getElementById('toggle-delivery');
+    const deliveryStatusText = document.getElementById('delivery-status-text');
 
     // --- Load current level from config.json ---
     async function loadCurrentLevel() {
@@ -322,6 +405,62 @@
         selectLevel(level);
         updateButtonState();
       });
+    });
+
+    // --- Delivery toggle ---
+    async function loadDeliveryState() {
+      const pat = localStorage.getItem('english-daily-pat');
+      if (!pat) {
+        deliveryStatusText.textContent = 'PATを入力すると状態を確認できます';
+        return;
+      }
+      try {
+        const resp = await fetch(
+          `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}`,
+          { headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github.v3+json' } }
+        );
+        if (!resp.ok) throw new Error();
+        const data = await resp.json();
+        const isActive = data.state === 'active';
+        toggleDelivery.checked = isActive;
+        toggleDelivery.disabled = false;
+        deliveryStatusText.textContent = isActive ? '毎朝6時に自動配信中' : '停止中';
+        deliveryStatusText.style.color = isActive ? 'var(--primary)' : '#dc2626';
+      } catch {
+        deliveryStatusText.textContent = '状態を取得できませんでした';
+      }
+    }
+
+    toggleDelivery.addEventListener('change', async () => {
+      const pat = patInput.value.trim() || localStorage.getItem('english-daily-pat');
+      if (!pat) {
+        showStatus('error', '❌ PATを入力してください。');
+        toggleDelivery.checked = !toggleDelivery.checked;
+        return;
+      }
+      const action = toggleDelivery.checked ? 'enable' : 'disable';
+      toggleDelivery.disabled = true;
+      try {
+        const resp = await fetch(
+          `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/${action}`,
+          {
+            method: 'PUT',
+            headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github.v3+json' },
+          }
+        );
+        if (resp.status === 204) {
+          const isActive = action === 'enable';
+          deliveryStatusText.textContent = isActive ? '毎朝6時に自動配信中' : '停止中';
+          deliveryStatusText.style.color = isActive ? 'var(--primary)' : '#dc2626';
+          showStatus('success', isActive ? '✅ 自動配信を再開しました。' : '⏸ 自動配信を停止しました。再開するにはトグルをONにしてください。');
+        } else {
+          throw new Error(`${resp.status}`);
+        }
+      } catch (e) {
+        showStatus('error', `❌ 変更に失敗しました: ${e.message}`);
+        toggleDelivery.checked = !toggleDelivery.checked;
+      }
+      toggleDelivery.disabled = false;
     });
 
     // --- PAT handling ---
@@ -396,6 +535,7 @@
     }
 
     loadCurrentLevel();
+    loadDeliveryState();
   </script>
 </body>
 </html>
