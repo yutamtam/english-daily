@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T15:01:48.363879+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Good morning, everyone, and welcome back to 'Morning Boost'! I'm Alex.",
+      "ja": "皆さん、おはようございます！『モーニングブースト』へようこそ！Alexです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And I'm Sarah! It's Wednesday, June 17th, 2026. A brand new day, Alex, but it looks like a wet one out there!",
+      "ja": "そしてSarahです！今日は2026年6月17日、水曜日です。新しい一日ですが、Alex、外は雨模様のようですね！"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It certainly does, Sarah. What's the full weather forecast for Tokyo today?",
+      "ja": "確かにそうですね、Sarah。今日の東京の詳しい天気予報はどうなっていますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, listeners, prepare for some heavy rain throughout the day. The rain probability is a full 100%, so definitely don't forget your umbrellas!",
+      "ja": "ええ、リスナーの皆さん、今日は一日中激しい雨に備えてください。降水確率は100%ですので、傘を忘れずに！"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 100%! That's a clear message from Mother Nature. And the temperatures?",
+      "ja": "わあ、100%ですか！これは自然からの明確なメッセージですね。気温はどうですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "We're looking at a high of 25.2 degrees Celsius and a low of 19.4 degrees Celsius. So it'll be a bit humid and damp, but not too cold.",
+      "ja": "最高気温は25.2度、最低気温は19.4度の予報です。湿気が多くジメジメしますが、そこまで寒くはないでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Alright, good to know. Stay dry, everyone! Now, Sarah, you always have some fascinating historical facts for us. What happened 'On This Day'?",
+      "ja": "なるほど、分かりました。皆さん、濡れないようにしてくださいね！さて、Sarah、いつも興味深い歴史的事実を教えてくれますね。「この日」に何があったんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I do, Alex! On this very day, June 17th, but back in 1985, a significant event unfolded in space history.",
+      "ja": "そうなんです、Alex！まさにこの日、6月17日ですが、1985年に宇宙史における重要な出来事がありました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ooh, space history! Tell me more!",
+      "ja": "おお、宇宙史！もっと教えてください！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The Space Shuttle Discovery launched on its STS-51-G mission, carrying Sultan bin Salman bin Abdulaziz Al Saud. He was the first Arab and the first Muslim in space, serving as a payload specialist.",
+      "ja": "スペースシャトル・ディスカバリーがSTS-51-Gミッションで打ち上げられ、サルマン・ビン・アブドゥルアズィーズ・アール・サウード王子が搭乗しました。彼は宇宙に行った初の Arab 人であり、初の Muslim 人で、ペイロードスペシャリストを務めました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, that's incredible! The first Arab and Muslim in space. What exactly is a 'payload specialist', Sarah?",
+      "ja": "わあ、それはすごいですね！宇宙に行った初の Arab 人、そして Muslim 人。Sarah、「ペイロードスペシャリスト」って具体的に何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good question, Alex! A payload specialist is typically a non-career astronaut, often a scientist or an engineer, who is responsible for specific experiments or equipment during a space mission. So they have a very focused role.",
+      "ja": "いい質問ですね、Alex！ペイロードスペシャリストというのは、通常、キャリア宇宙飛行士ではない、科学者や技術者が多く、宇宙ミッション中に特定の実験や機器を担当する人のことです。つまり、非常に専門的な役割を持っているんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I see! So he wasn't just a passenger, but had an important job to do. That's a huge milestone for space exploration and cultural representation.",
+      "ja": "なるほど！ただの乗客ではなく、重要な任務があったんですね。宇宙探査と文化的な代表性にとって、非常に大きな節目です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Absolutely. It truly opened doors and inspired many. And speaking of new beginnings, let's turn to our 'Parenting Tip of the Day' from Zero to Three.",
+      "ja": "その通りです。本当に多くの扉を開き、多くの人にインスピレーションを与えました。そして、新しい始まりといえば、Zero to Threeからの「今日の育児のヒント」に移りましょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, always a valuable segment for new and experienced parents alike. What's today's wisdom?",
+      "ja": "ああ、新米パパママにもベテランパパママにも、いつも貴重なコーナーですね。今日の知恵は何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Today's tip is simply titled 'Hello World!' It reminds us about those incredibly precious first moments with a new baby. Think of it like the very first step in learning something new – it's foundational.",
+      "ja": "今日のヒントは「Hello World!」というシンプルなタイトルです。新しい赤ちゃんとの信じられないほど貴重な最初の瞬間について思い出させてくれます。何か新しいことを学ぶときの最初のステップのように、それが基礎となるんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a lovely thought. What does 'foundational' mean in this context?",
+      "ja": "それは素敵な考えですね。「foundational」とは、この文脈ではどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means it forms the base or the beginning for everything that follows. So, for parenting, it's about making those initial interactions count. Simply being present, making eye contact, and responding to your baby's unique cues are powerful ways to build a strong connection and communication right from the start.",
+      "ja": "それは、その後に続くすべての土台、あるいは始まりを形成するという意味です。ですから、育児においては、最初の交流を大切にすることです。ただそこにいて、アイコンタクトを取り、赤ちゃんの独特の合図に反応することが、最初から強い絆とコミュニケーションを築くための強力な方法なんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, it's not about complicated theories, but just simple, warm engagement. Just a 'Hello world!' from the heart.",
+      "ja": "つまり、複雑な理論ではなく、シンプルで温かい関わり合いなんですね。心からの「Hello world!」と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly! Those tiny, everyday miracles are what truly matter. Embrace them. And that's all the time we have for 'Morning Boost' today.",
+      "ja": "その通りです！あの小さくて日常的な奇跡こそが本当に大切なんです。それらを受け入れてください。さあ、『モーニングブースト』、今日はここまでです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thank you for joining us! Stay dry, stay warm, and we'll be back tomorrow with more boost for your morning!",
+      "ja": "ご参加いただきありがとうございました！濡れないように、暖かくして、明日も皆さんの一日にさらなるブーストをお届けします！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Bye for now!",
+      "ja": "またね！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 25.2,
+      "temp_min": 19.4,
+      "rain_probability": 100
+    },
+    "news": [],
+    "wikipedia": {
+      "year": 1985,
+      "text": "Space Shuttle program: STS-51-G mission: Space Shuttle Discovery launches carrying Sultan bin Salman bin Abdulaziz Al Saud, the first Arab and first Muslim in space, as a payload specialist."
+    },
+    "parenting": {
+      "source": "Zero to Three",
+      "title": "Hello world!",
+      "summary": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<p>The post <a href=\"https://www.zerotothree.org/hello-world/\">Hello world!</a> appeared first on <a href=\"https://www.zerotothree.org\">ZERO TO THREE</a>.</p>"
+    }
+  }
+}
