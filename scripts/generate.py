@@ -11,7 +11,8 @@ import traceback
 from datetime import datetime, timezone
 from pathlib import Path
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # Allow imports from scripts/ when running directly
 sys.path.insert(0, str(Path(__file__).parent))
@@ -152,12 +153,12 @@ def generate_script(prompt: str) -> list[dict]:
     if not api_key:
         raise ValueError("GEMINI_API_KEY environment variable not set")
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    client = genai.Client(api_key=api_key)
 
-    response = model.generate_content(
-        prompt,
-        generation_config=genai.GenerationConfig(
+    response = client.models.generate_content(
+        model="gemini-2.0-flash",
+        contents=prompt,
+        config=types.GenerateContentConfig(
             temperature=0.8,
             max_output_tokens=8192,
         ),
