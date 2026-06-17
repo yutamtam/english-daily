@@ -149,6 +149,8 @@ Example format:
 
 
 def generate_script(prompt: str) -> list[dict]:
+    import time
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY environment variable not set")
@@ -158,14 +160,25 @@ def generate_script(prompt: str) -> list[dict]:
         http_options=types.HttpOptions(api_version="v1"),
     )
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            temperature=0.8,
-            max_output_tokens=16384,
-        ),
-    )
+    last_error = None
+    for attempt in range(4):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.8,
+                    max_output_tokens=16384,
+                ),
+            )
+            break
+        except Exception as e:
+            last_error = e
+            wait = 15 * (attempt + 1)
+            print(f"  Gemini attempt {attempt + 1} failed ({e}), retrying in {wait}s...")
+            time.sleep(wait)
+    else:
+        raise last_error
 
     raw = response.text.strip()
     # Strip markdown code fences if present
