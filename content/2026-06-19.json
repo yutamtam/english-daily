@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:34:47.597364+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Good morning, good morning, Tanu-chan family! It’s Thursday, June 19th, 2026, and I’m your host, Alex, ready for another day!",
+      "ja": "みなさん、おはようございます！タヌちゃんファミリーの皆さん、おはようございます！2026年6月19日木曜日、今日もホストのAlexがお届けします！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And I’m Sarah, here to make sure Alex doesn’t get *too* carried away before his first coffee. Good morning, everyone! We're back for The Daily Tanu-chan Show!",
+      "ja": "そして私はSarahです、Alexが最初のコーヒーを飲む前に、あまり興奮しすぎないように監視しています。皆さん、おはようございます！The Daily Tanu-chan Show、また始まりました！"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Too carried away? I'm just enthusiastic! Though, speaking of enthusiasm, this morning's weather isn't exactly sparking joy in me.",
+      "ja": "興奮しすぎ？僕はただ熱心なだけだよ！とはいえ、熱意といえば、今朝の天気は僕に全く喜びを与えてくれないね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes, Alex's favorite topic: complaining about the sky. For Tokyo today, it's quite overcast. The high will be 27.7 degrees Celsius, and the low a comfortable 19.7 degrees.",
+      "ja": "ああ、そう、Alexのお気に入りの話題：空への不満。今日の東京は、かなり曇り空です。最高気温は27.7度、最低気温は過ごしやすい19.7度となるでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Comfortable? With a 73% chance of rain? My socks have an *aversion* to getting wet, Sarah. And so do I!",
+      "ja": "過ごしやすい？降水確率73%で？僕の靴下は濡れることに強い*嫌悪感*があるんだ、Sarah。僕もだよ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "An aversion, Alex, means a strong dislike or a feeling of not wanting to do something. So yes, you and your socks have a shared aversion to rain. Perhaps you need some waterproof socks?",
+      "ja": "アバージョン、Alex。それは強い嫌悪感や何かをしたくないという気持ちを意味します。なので、あなたとあなたの靴下は雨に対して共通の嫌悪感を持っているわけですね。もしかしたら防水の靴下が必要かもしれませんね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a great idea! Or maybe just stay inside all day. What's the latest buzz in the world, Sarah? Anything to distract me from the impending dampness?",
+      "ja": "それは素晴らしいアイデアだね！あるいは、一日中家にいるとか。Sarah、世界の最新ニュースは何？迫りくる湿気から僕をそらす何かは？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, some interesting news about artificial intelligence. It seems an AI recently composed a symphony that some critics found quite moving. A machine creating art, can you believe it?",
+      "ja": "ええと、人工知能に関する興味深いニュースがあります。あるAIが最近、批評家たちがかなり感動的だと評した交響曲を作曲したそうです。機械が芸術を創造するなんて、信じられますか？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, a robot Beethoven! I wonder if it asked for a coffee break while composing. I certainly would!",
+      "ja": "すごい、ロボットのベートーヴェンだ！作曲中にコーヒーブレイクを求めたのかな。僕なら間違いなく求めるね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good question! And internationally, there's been a lot of talk about the upcoming global environmental summit. Everyone's hoping for some real progress this time.",
+      "ja": "良い質問ですね！そして国際的には、間もなく開催される地球環境サミットについて多くの議論が交わされています。今回は皆、本当の進展があることを期待しています。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Fingers crossed for that! Speaking of things that didn't go as planned, what happened 'On This Day' in history?",
+      "ja": "それに期待しよう！計画通りにいかなかったことと言えば、歴史上の「この日」に何があったの？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, this is a fun one, especially if you like motorsports! On this day, June 19th, back in 2005, there was a truly bizarre event at the United States Grand Prix in Indianapolis.",
+      "ja": "ああ、これは面白いですよ、特にモータースポーツが好きならね！2005年の6月19日、インディアナポリスでのアメリカグランプリで、本当に奇妙な出来事がありました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Bizarre? Tell me more!",
+      "ja": "奇妙だって？もっと教えて！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Okay, so there were serious concerns about the Michelin tires that several teams were using. They were failing, which meant it was really dangerous to race.",
+      "ja": "ええと、いくつかのチームが使っていたミシュランタイヤに深刻な問題があったんです。タイヤが故障していて、レースをするのが本当に危険だったんですよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh no! So did they fix the tires?",
+      "ja": "まずいね！それで、タイヤは直ったの？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They tried to find a solution, but no agreement was reached. So, after the formation lap, where cars just drive around slowly to warm up, 14 cars from seven teams, all on Michelin tires, simply withdrew.",
+      "ja": "解決策を見つけようとしましたが、合意には至りませんでした。それで、フォーメーションラップ、つまり車がゆっくり走ってタイヤを温める周回の後、ミシュランタイヤを履いていた7チームの14台の車が、ただレースから撤退したんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They just... left the race? They chose to *forfeit*?",
+      "ja": "彼らはただ…レースを去ったの？彼らは*棄権する*ことを選んだの？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly, Alex! To 'forfeit' means to lose or give up something as a penalty, or simply because you choose not to participate. In this case, they gave up their chance to win rather than risk their drivers' safety.",
+      "ja": "その通り、Alex！「forfeit（フォーフィト）」とは、罰として何かを失ったり、諦めたりすること、あるいは単に参加しないことを選ぶことを意味します。このケースでは、ドライバーの安全を危険にさらすよりも、勝つチャンスを諦めたんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, that's a huge decision! So only a few cars actually raced?",
+      "ja": "すごい決断だね！じゃあ、数台しかレースしなかったの？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right! Only six cars from three teams, who were all using Bridgestone tires, actually started and finished the race. Imagine paying for a ticket and seeing that!",
+      "ja": "その通りです！ブリヂストンタイヤを使っていた3チームのわずか6台の車だけが、実際にレースをスタートして完走しました。チケットを買ってそれを見るなんて想像できますか！"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'd ask for my money back! Or at least a free hot dog. That's quite a story. Shows you how important safety is, even in fast sports.",
+      "ja": "僕なら返金を求めるね！あるいは少なくともホットドッグを無料で。すごい話だ。速いスポーツでも安全がいかに重要かを示しているね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Absolutely. Safety first, always. And speaking of new beginnings, it's time for our parenting tip from Zero to Three.",
+      "ja": "全くその通り。常に安全第一です。そして新しい始まりといえば、Zero to Threeからの子育てのヒントの時間です。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I love these. What wisdom do they have for us today?",
+      "ja": "ああ、これ大好き。今日の彼らの知恵は何かな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Today's tip is just two words: 'Hello world!' And then it explains, 'Welcome to WordPress. This is your first post. Edit or delete it, then start writing!'",
+      "ja": "今日のヒントはたった二言です。「ハロー・ワールド！」そして、こう説明しています。「WordPressへようこそ。これはあなたの最初の投稿です。編集または削除して、書き始めましょう！」"
+    },
+    {
+      "speaker": "Alex",
+      "text": "WordPress? That's... a little unexpected for a parenting tip.",
+      "ja": "WordPress？それは…子育てのヒントとしてはちょっと予想外だね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is! But I think it's a sweet, simple message. When a new baby arrives, it's like a 'hello world' moment for everyone. For the baby, of course, but also for the parents.",
+      "ja": "そうですね！でも、これは優しくてシンプルなメッセージだと思います。新しい赤ちゃんが生まれると、それはみんなにとって「ハロー・ワールド」の瞬間です。もちろん赤ちゃんにとってもそうですが、親にとってもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I get it! It's about starting fresh, a new chapter. Every day is a new post in the story of your family, and you get to write it.",
+      "ja": "分かった！新鮮なスタートを切ること、新しい章を始めることなんだね。毎日が家族の物語の新しい投稿で、それを書くのは自分たちなんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly! You're creating your own story, day by day. So embrace those 'hello world' moments, big or small. They are all special.",
+      "ja": "その通り！あなたは毎日、自分自身の物語を創造しています。だから、大小問わず「ハロー・ワールド」の瞬間を受け入れてください。それらすべてが特別です。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a lovely way to look at it, Sarah. Even on a damp, overcast day like today, there's always something new to discover.",
+      "ja": "それは素敵な見方だね、Sarah。今日の湿気のある曇りの日のように、いつも何か新しい発見があるんだね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Absolutely, Alex. And that's all the time we have for today on The Daily Tanu-chan Show. We hope you enjoyed our stories and tips.",
+      "ja": "全くその通りです、Alex。そして本日のThe Daily Tanu-chan Showはここまでです。私たちの話やヒントを楽しんでいただけたでしょうか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks for tuning in, everyone! Have a fantastic day, stay dry, and we'll catch you tomorrow right here!",
+      "ja": "皆さん、ご視聴ありがとうございました！素晴らしい一日を過ごし、濡れないように気をつけて、また明日ここでお会いしましょう！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Bye for now!",
+      "ja": "またね！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 27.7,
+      "temp_min": 19.7,
+      "rain_probability": 73
+    },
+    "news": [],
+    "wikipedia": {
+      "year": 2005,
+      "text": "Following a series of Michelin tire failures during the United States Grand Prix weekend at Indianapolis, and without an agreement being reached, 14 cars from seven teams in Michelin tires withdraw after completing the formation lap, leaving only six cars from three teams on Bridgestone tires to race."
+    },
+    "parenting": {
+      "source": "Zero to Three",
+      "title": "Hello world!",
+      "summary": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<p>The post <a href=\"https://www.zerotothree.org/hello-world/\">Hello world!</a> appeared first on <a href=\"https://www.zerotothree.org\">ZERO TO THREE</a>.</p>"
+    }
+  }
+}
