@@ -204,6 +204,18 @@ DYNAMIC:
 {host_m} sometimes asks her things expecting reassurance. Her answers are shorter than he expects.
 The humor comes from the gap between his anxiety and her calm — not from jokes or wordplay.
 Silences are fine. Short responses are fine. "...yeah." is a valid line.
+
+DIALOGUE RULES — CRITICAL:
+- Conversational exchanges (reactions, feelings, small talk): keep to 1-2 sentences. Short is natural.
+- News, facts, or vocabulary explanations: can be a bit longer, but still spoken — not a lecture.
+- Never stack unrelated observations in one turn. One topic, one reaction, then hand it back.
+- Don't let one person go more than 4-5 sentences without the other responding.
+- English must sound natural and spoken. Always use contractions: I'm, it's, that's, don't, can't, won't.
+- Avoid formal or written-style constructions:
+    BAD:  "I find that quite remarkable."
+    GOOD: "That's kind of amazing, actually."
+    BAD:  "Any sudden noise, I jump. Could be the baby."
+    GOOD: "I jump at everything these days. Pretty sure it's the baby."
 {vocab_guidance}
 
 CONTENT TO COVER (weave naturally into conversation — do not announce each segment):
