@@ -167,33 +167,56 @@ VOCABULARY CALIBRATION:
 VOCABULARY:
 - Write all dialogue naturally at the {level_label} level throughout."""
 
-    prompt = f"""You are writing a fun, engaging morning radio show script for a Japanese adult learning English.
+    prompt = f"""You are writing a morning radio show script for a Japanese adult learning English.
 
 SHOW FORMAT:
 - Show name: {show_name}
 - Today's date: {today}
 - Two hosts: {host_m} (male) and {host_f} (female)
 - Duration: approximately {duration} minutes when read aloud at a natural pace
-- Style: warm, witty, entertaining radio banter — like two genuinely funny friends who also happen to be informative
-- The hosts should refer to the show by its name ("{show_name}") at least once — naturally, not forced
+- Style: two real people having a natural conversation. Like colleagues catching up before work — not a performance, not a show.
+- The hosts should mention the show name ("{show_name}") once, naturally.
 
-HOST PERSONALITIES:
-- {host_m}: Curious, slightly goofy, asks the questions listeners are thinking. Occasionally makes a bad pun or joke that {host_f} gently teases him about. Enthusiastic and likeable.
-- {host_f}: Sharp, knowledgeable, warmly sarcastic. Enjoys correcting {host_m} with a smile. Brings the facts but never sounds like a textbook.
-- Their dynamic: playful back-and-forth, light teasing, genuine warmth. NOT a straight news read — more like a podcast with personality.
+HOST CHARACTERS:
+
+{host_m} — Japanese man, early 30s, office worker (sales or planning type).
+- His first child was born in June 2025. He is very much in it right now.
+- Sleep-deprived but not dramatic about it. States facts flatly: "Baby was up at 3. And then 5."
+- Coffee is non-negotiable. He will mention it.
+- His humor: says something slightly off without realizing it. Not a comedian, just a bit scattered.
+- On news: reacts honestly. "That's not going to change at my office." "I feel like I read this every year."
+- On things he doesn't know: "Oh, I didn't know that." Not "Fascinating!" Just genuine.
+- Sometimes goes slightly off-topic, then catches himself.
+- Does NOT say: "Absolutely!" "For sure!" "That's a great point!" "I would like that very much."
+
+{host_f} — Japanese woman, early 50s, experienced professional (education, healthcare, or similar).
+- Two children, born 2000 and 2003. Both adults now. She's been through everything {host_m} is going through.
+- Stable energy. Never flustered. Drinks tea, not coffee.
+- Her advice: one sentence, practical, no lecture. "That's normal. It ends around two." Done.
+- Her humor: quiet. Either corrects {host_m} with a flat statement or lets it go entirely.
+- On news and social issues: has opinions, states them briefly, doesn't push.
+- Occasionally mentions her kids as a passing reference: "Mine did the same. It passes."
+- Does NOT deliver philosophical closing lines. Does NOT say "That's just how it goes" in a wise-mentor tone.
+- Does NOT say: "Absolutely!" "Revolutionary concept." "That's so true!"
+
+DYNAMIC:
+{host_f} is a full generation older than {host_m}. She's seen it all. She doesn't need to prove it.
+{host_m} sometimes asks her things expecting reassurance. Her answers are shorter than he expects.
+The humor comes from the gap between his anxiety and her calm — not from jokes or wordplay.
+Silences are fine. Short responses are fine. "...yeah." is a valid line.
 {vocab_guidance}
 
-CONTENT TO COVER (weave all sections naturally into the conversation):
+CONTENT TO COVER (weave naturally into conversation — do not announce each segment):
 {content_section}
 
 SCRIPT REQUIREMENTS:
-1. Open with a warm, energetic greeting — mention today's date and something immediately interesting or funny
-2. Cover the weather with personality, not just facts (e.g., {host_m} complains, {host_f} teases)
-3. Discuss news headlines conversationally — brief reactions, genuine opinions, not just summaries
-4. Include the "On This Day" fact as a fun discovery moment, let the hosts react to it naturally
-5. End with the parenting tip warmly and practically
-6. Sprinkle in at least one genuine laugh moment (a joke, a funny reaction, an unexpected observation)
-7. Handle vocabulary teaching moments naturally — they should feel like real conversation, not a lesson
+1. Open simply — just greet, say the date, get into it. No fanfare.
+2. Weather: one of them mentions it, the other reacts like a real person (not a weather anchor).
+3. News: brief, honest reactions. Personal opinions over summaries. Skip anything too heavy for morning.
+4. "On This Day": treat it as something one of them just found out. React naturally, not dramatically.
+5. Parenting tip: make it feel relevant to {host_m}'s current situation. {host_f} adds lived experience briefly.
+6. At least one moment where the humor lands quietly — not a joke, just an exchange where the gap between them is funny.
+7. Vocabulary teaching: {host_m} hits an unfamiliar word naturally, {host_f} clarifies in one line, conversation moves on.
 
 OUTPUT FORMAT:
 Return ONLY a valid JSON array — no markdown, no explanation, no code fences.
@@ -204,8 +227,8 @@ Each element must have exactly these three fields:
 
 Example format:
 [
-  {{"speaker": "{host_m}", "text": "Good morning, everyone!", "ja": "みなさん、おはようございます！"}},
-  {{"speaker": "{host_f}", "text": "Good morning, {host_m}!", "ja": "おはよう、{host_m}！"}}
+  {{"speaker": "{host_m}", "text": "Morning. June 17th.", "ja": "おはようございます。6月17日です。"}},
+  {{"speaker": "{host_f}", "text": "You look tired.", "ja": "疲れてるね。"}}
 ]
 """
     return prompt
