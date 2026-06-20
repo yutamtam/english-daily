@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-20T22:53:25.402720+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. June 20th already. Is it just me, or does time move differently when you have a baby?",
+      "ja": "サラさん、おはようございます。もう6月20日ですね。赤ちゃんがいると、時間の流れって違う気がしませんか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. You'll get used to it. Ready for The Daily Tanu-chan Show?",
+      "ja": "そうね。慣れるわよ。ザ・デイリー・タヌちゃんショー、準備OK？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I think so. Just trying to remember what I was going to talk about. My brain's a bit scattered after last night.",
+      "ja": "はい、たぶん。何を話そうとしてたか思い出そうとしてるんですけど。昨夜から頭が少し散らかってて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Another rough night?",
+      "ja": "また大変な夜だった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Pretty much. Baby was up at 3. And then 5. Just fed him and went back to sleep. I'm already on my second coffee, maybe third soon.",
+      "ja": "まあそんな感じです。赤ちゃんが3時に起きて、それから5時にも。ミルクあげて、また寝たんですけどね。もう2杯目のコーヒーで、もうすぐ3杯目かな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's normal for about two years. Mine did that. It passes.",
+      "ja": "それは2年くらい普通よ。うちの子もそうだった。そのうちなくなるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Two years? Wow. Feels like a long time. I jump at everything these days. Pretty sure it's the baby. Like, any sudden noise, I jump.",
+      "ja": "2年ですか？うわあ。長いなあ。最近は何にでも飛び起きちゃいます。きっと赤ちゃんが原因でしょうね。例えば、どんな突然の物音にもビクッとするんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're constantly on alert. That's a parent's default setting for a while.",
+      "ja": "常に警戒しているのね。それがしばらくの間、親のデフォルト設定よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that's it. It’s tough. Anyway, it's really coming down out there today, isn't it?",
+      "ja": "ええ、まさにそれです。大変ですよ。ところで、今日、外はすごい雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Moderate rain all day, 100% chance. High of 25.8°C, low of 21.0°C. You definitely needed that umbrella today.",
+      "ja": "そうね。一日中しとしと雨で、降水確率100%だって。最高気温25.8度、最低気温21.0度。今日は傘、絶対必要だったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw that. So glad I brought my umbrella. Wish I could just stay inside with another coffee and... you know, not jump at every little sound. Or any sound, really.",
+      "ja": "ええ、見ました。傘持ってきて本当によかった。コーヒー飲みながら家でゆっくりして、その…どんな小さな音にも飛び起きないでいたいですよ。というか、どんな音にも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. I'm having hot tea today, much calmer. No sudden jolts.",
+      "ja": "想像できるわ。私は今日、ホットティーにしているの。ずっと落ち着くわよ。急な衝撃もないし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds good. Speaking of babies, I was reading something, actually, about new parents. A report from ZERO TO THREE. It was pretty eye-opening.",
+      "ja": "いいですね。赤ちゃんの話なんですけど、そういえば、新しい親について何か読んでたんです。ZERO TO THREEっていうところからのレポートで。かなり目から鱗でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's an important organization. What did it say?",
+      "ja": "あら、そこは重要な組織ね。どんなことが書いてあったの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. They said 41% of low-income families saw earnings decline in 2021. That's a huge number. And access to childcare is still a huge challenge.",
+      "ja": "ええ。2021年に低所得世帯の41%が収入減少を経験したって。これってすごい数ですよね。あと、保育園へのアクセスがまだ大きな課題だって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's understandable. It's always been a struggle for many families, especially with childcare costs and availability.",
+      "ja": "それは理解できるわ。特に保育費用や利用可能性を考えると、多くの家族にとって、常に大変なことだったから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. And it also said the mental and physical health of babies and toddlers continues to be *jeopardized* by the devastating impacts of the COVID-19 pandemic.",
+      "ja": "まさしく。それから、赤ちゃんや幼児の心身の健康が、COVID-19パンデミックによる壊滅的な影響で、『jeopardized』され続けているって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Jeopardized means put at risk, or put in danger.",
+      "ja": "jeopardizedは、危険にさらされる、危うくするってことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, right. So, like, their health is really in danger because of everything that happened. That's a strong word to use in a report.",
+      "ja": "ああ、なるほど。つまり、起こったこと全てのせいで彼らの健康が本当に危ない、と。レポートで使うには強い言葉ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. The report is probably highlighting the severity to get attention.",
+      "ja": "そうね。レポートはたぶん、深刻さを強調して注目を集めようとしているのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Makes sense. And the report also mentioned economic and care *disparities* among families. What's a 'disparity'?",
+      "ja": "納得です。それからレポートでは、家族間の経済的およびケアの『disparities』についても触れていました。『disparity』って何でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a great difference, especially an unfair one, between two things or groups.",
+      "ja": "それは、特に不公平な、二つのものやグループ間の大きな違いのことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I see. So, like, some families have more resources and some have less, creating unfair gaps. It's not just about money, but also access to support.",
+      "ja": "なるほど。つまり、一部の家族はより多くのリソースを持っていて、一部は少ない、不公平な格差を生み出している、と。お金だけでなく、サポートへのアクセスも関係しているんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's a persistent problem that the pandemic likely worsened, especially for vulnerable families.",
+      "ja": "ええ。パンデミックがさらに悪化させた可能性のある、根深い問題よ。特に弱い立場にある家族にとってはね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. I can totally feel the 'mental and emotional distress' part, even though we're lucky. Sleep deprivation is a real thing. And the constant worry about doing everything right.",
+      "ja": "本当にそうですね。私たちは恵まれているとはいえ、『精神的、感情的な苦痛』の部分はすごく感じます。睡眠不足って本当に大変です。それに、全てをちゃんとやっているかどうかの絶え間ない心配も。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But you're doing well. Just keep going. The early years are tough, but they're also precious and they pass quickly.",
+      "ja": "そうね。でも、あなたはよくやってるわよ。このまま頑張って。最初の数年は大変だけど、かけがえのない時間でもあるし、あっという間に過ぎるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks, Sarah. I'm trying. Sometimes I feel like I'm just running on fumes. Like a car almost out of gas, heading for a cliff.",
+      "ja": "ありがとう、サラさん。頑張ってます。時々、もう限界って感じなんですけど。ガソリン切れ寸前の車が崖に向かってるみたいに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's how it is. Mine used to do that. You just keep pushing.",
+      "ja": "そういうものよ。うちの子もそうだったわ。あなたはただ、進み続けるだけ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, hey, did you see the 'On This Day' fact for today? I always find those kind of interesting, gives you a bit of perspective.",
+      "ja": "あ、そういえば、今日の「今日は何の日」って見ました？ああいうのっていつも面白いなって思うんですよ、ちょっとした視点を与えてくれるというか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. The EF5 tornado in North Dakota, last year. June 20, 2025. Quite a thing.",
+      "ja": "ええ、見たわ。去年の6月20日、ノースダコタのEF5トルネードね。すごい出来事だったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "An EF5? Wow. That's the strongest kind, right? I didn't know those still happened. I thought they were, like, historical events you only read about in textbooks.",
+      "ja": "EF5ですか？うわあ。それって一番強いやつですよね？まだそんなのが起きるなんて知りませんでした。なんか、教科書でしか読まない歴史的な出来事だと思ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're incredibly rare, thankfully. First one in 12 years, it said. A true anomaly, especially to be that powerful.",
+      "ja": "幸いなことに、信じられないくらい珍しいのよ。12年ぶりだって書いてあったわ。あれほど強力なのは、まさに異常事態ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Man, a tornado like that... imagine if that hit Tokyo. We'd really be in trouble with all this rain. Everything would be flooded, and then a tornado? That's just too much.",
+      "ja": "それにしても、あんな竜巻が…。もし東京を襲ったら、この雨のせいで本当に大変なことになりますね。何もかも水浸しになるだろうし、その上竜巻？それはもう無理ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Let's hope not. We're not really set up for them here. Our buildings aren't designed for that kind of force, and our infrastructure would struggle.",
+      "ja": "そうならないことを願うわ。ここはあまり竜巻に対応できるようにはできてないから。私たちの建物はああいう力には設計されていないし、インフラも対応しきれないでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely not. My office wouldn't know what to do. They'd probably just send out an email about 'sheltering in place' while the building collapses around us.",
+      "ja": "ええ、確かに。うちの会社じゃどうしていいか分からないでしょうね。建物が周りで崩壊してるのに「その場に留まって避難」とかメールを送るだけですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right.",
+      "ja": "そうでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, time to face the day. And probably another coffee soon to keep me from falling asleep at my desk during the morning meeting.",
+      "ja": "さて、今日一日頑張りますか。そして、たぶんもうすぐ別のコーヒーを飲んで、朝の会議中にデスクで寝落ちしないようにしないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good luck, Alex. You'll get through it. See you later.",
+      "ja": "頑張って、アレックス。乗り越えられるわ。また後でね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Have a good one.",
+      "ja": "サラさんも。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 25.8,
+      "temp_min": 21.0,
+      "rain_probability": 100
+    },
+    "news": [],
+    "wikipedia": {
+      "year": 2025,
+      "text": "The first EF5 tornado in 12 years occurs in Enderlin, North Dakota."
+    },
+    "parenting": {
+      "source": "Zero to Three",
+      "title": "New Report Reveals Economic and Care Disparities, Continued Mental and Emotional Distress Among Nation’s Babies and Families",
+      "summary": "<p>ZERO TO THREE report shows 41% of low-income families saw earnings decline in 2021, and that access to childcare remains a challenge The mental and physical health of our nation’s infants and toddlers continues to be jeopardized by the devastating impacts of the COVID-19 pandemic. The fourth annual State of Babies Yearbook: 2022, released today by leading early childhood nonprofit ZERO TO THREE"
+    }
+  }
+}
