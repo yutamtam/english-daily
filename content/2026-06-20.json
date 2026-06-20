@@ -1,126 +1,196 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T10:18:57.241906+00:00",
+  "generated_at": "2026-06-20T12:42:29.802518+00:00",
   "vocab_level": 3,
   "script": [
     {
       "speaker": "Alex",
-      "text": "Morning, Sarah. June 20th already. How is it Friday again, so fast?",
-      "ja": "おはようございます、サラさん。もう6月20日ですね。こんなに早くまた金曜日ですか？"
+      "text": "Morning, Sarah. June 20th, 2026.",
+      "ja": "おはようございます、サラさん。2026年6月20日です。"
     },
     {
       "speaker": "Sarah",
-      "text": "Morning, Alex. Yes, it is. And it's quite rainy out there today. Moderate rain all day, 100% chance. High of 22, low of 20.",
-      "ja": "おはよう、アレックス。そうね。そして今日はかなり雨が降っているわね。一日中、中程度の雨で降水確率100%。最高気温22度、最低20度よ。"
+      "text": "Morning, Alex. You look a bit... not well rested.",
+      "ja": "おはよう、アレックス。少し…寝不足みたいね。"
     },
     {
       "speaker": "Alex",
-      "text": "Ugh, really? All day? That's... not ideal for my morning commute. My umbrella is probably still in the office from last week.",
-      "ja": "ええ、本当に？一日中ですか？それは…朝の通勤には理想的じゃないですね。私の傘、たぶんまだ会社に置きっぱなしだ。"
+      "text": "Yeah, the baby was up at 3. And then 5. I'm on my second coffee already.",
+      "ja": "ええ、赤ちゃんが3時に起きて。それからまた5時に。もう2杯目のコーヒーです。"
     },
     {
       "speaker": "Sarah",
-      "text": "You'll manage. You look a bit... preoccupied this morning, though.",
-      "ja": "どうにかなるでしょう。でも今朝は少し…浮かない顔ね。"
+      "text": "That's normal. Mine did the same. It ends around two.",
+      "ja": "それは普通よ。うちの子もそうだった。だいたい2歳くらいで落ち着くわ。"
     },
     {
       "speaker": "Alex",
-      "text": "Preoccupied? Oh. Yeah, maybe. The baby was up at 3. And then 5. He just turned one year old, you know. We had a little party. My wife did most of the planning, of course. It doesn't get easier, does it? What does 'preoccupied' even mean, anyway?",
-      "ja": "浮かない顔？ああ。ええ、そうかもしれません。赤ちゃんが3時に起きて、それから5時にも。ちょうど1歳になったんですよ。ささやかなパーティーをしました。もちろん、妻がほとんど計画してくれましたが。楽にならないですね、やっぱり。ところで、「preoccupied」ってどういう意味ですか？"
+      "text": "Two years old, you mean? Not 2 AM? Oh, that sounds like a long time from now.",
+      "ja": "2歳ってことですか？午前2時じゃなくて？ああ、それはまだ先が長いな。"
     },
     {
       "speaker": "Sarah",
-      "text": "It means your mind is busy with other things. Like you're thinking about something else a lot. Mine were like that until they were two. It passes, eventually.",
-      "ja": "他のことで頭がいっぱいってことよ。何か他のことをたくさん考えているような状態ね。うちの子たちも2歳まではそんな感じだったわ。結局は終わるものよ。"
+      "text": "Yep. That's The Daily Tanu-chan Show for you. Reality.",
+      "ja": "そうよ。それが『今日のタヌちゃんショー』。現実ね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, at least it's not boiling hot yet. Moderate rain today, they said.",
+      "ja": "まあ、少なくともまだ茹だるような暑さじゃないわね。今日は小雨らしいわ。"
     },
     {
       "speaker": "Alex",
-      "text": "Two? Wow. I was hoping for 'it ends around one.' My coffee is barely working today. I was just reading something online about support for parents, about new government budgets for babies, and it mentioned the 'efficacy' of these programs. I paused there, wondering.",
-      "ja": "2歳ですか？わあ。1歳くらいで終わるかなって期待してたのに。今日のコーヒーは全然効かないな。ちょうど親向けの支援について、新しい赤ちゃんの予算についてオンラインで読んでいたんです。それで、これらのプログラムの「efficacy」について書かれていて、そこで立ち止まってしまいました。"
+      "text": "Rain all day? Ah, 100% chance, right? I saw that. And pretty cool, too. Like 22 degrees high? Maybe 20 low.",
+      "ja": "一日中雨ですか？ああ、降水確率100%でしたっけ？見ました。それに結構涼しいですね。最高気温22度くらい？最低20度かな。"
     },
     {
       "speaker": "Sarah",
-      "text": "Efficacy? It means how well something works, how effective it is. They want to know if the money actually helps families. That's a normal question.",
-      "ja": "エフィカシー？それは、何かがどれくらいうまく機能するか、どれくらい効果的か、という意味よ。そのお金が実際に家庭を助けるかどうかを知りたいのね。それは当然の疑問だわ。"
+      "text": "Yes. It feels like a proper rainy season day. Good for tea.",
+      "ja": "ええ。まさに梅雨らしい一日ね。紅茶にはちょうどいいわ。"
     },
     {
       "speaker": "Alex",
-      "text": "So they want to know if the programs actually achieve what they're supposed to. I guess that makes sense. I just want to achieve more sleep. Maybe a program for new dads to just... sleep. That would have high efficacy for me.",
-      "ja": "つまり、プログラムが本来の目的を達成するかどうかを知りたいってことですね。それは理にかなっていると思います。私はただ、もっと睡眠を達成したいだけです。新しい父親がただ…眠るためのプログラムとか。それなら私にとって高い効果があるでしょうね。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "I think many parents would agree. You're entering a new phase with a one-year-old. Mine started walking around then. That's when the real running began.",
-      "ja": "多くの親が同意するでしょうね。1歳の子どもとの新しい段階に入っていくのよ。うちの子はちょうどその頃に歩き始めたわ。そこからが本当の追いかけっこが始まったの。"
+      "text": "Good for coffee too. Especially after 3 AM.",
+      "ja": "コーヒーにもいいですよ。特に午前3時以降は。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, great. Something to look forward to. More running. Less sleep. Anyway, this is The Daily Tanu-chan Show. And we're back talking about... new challenges.",
-      "ja": "ああ、素晴らしい。楽しみですね。もっと走り回って、もっと睡眠時間が減る。さて、こちらはThe Daily Tanu-chan Showです。新しい課題について話しています。"
+      "text": "I read something kind of wild this morning. On this day last year, June 20, 2025, there was an EF5 tornado.",
+      "ja": "今朝、ちょっとすごいことを読んだんですよ。去年の今日、2025年6月20日に、EF5の竜巻があったって。"
     },
     {
       "speaker": "Sarah",
-      "text": "Exactly. Speaking of things that bring new challenges, or at least a lot of excitement, did you know what happened on this day, June 20th, back in 1975?",
-      "ja": "その通りね。新しい課題、あるいは少なくともたくさんの興奮をもたらすものといえば、1975年の今日、6月20日に何が起こったか知ってる？"
+      "text": "Oh, really? Where was that?",
+      "ja": "ああ、そうなの？どこで？"
     },
     {
       "speaker": "Alex",
-      "text": "1975? No, I don't think so. Was it something important for... the economy? Or maybe a new product launch?",
-      "ja": "1975年ですか？いや、知らないですね。経済にとって何か重要なことですか？それとも新製品の発売とか？"
+      "text": "In North Dakota, I think. Enderlin. And it said it was the first EF5 in twelve years. What does EF5 even mean?",
+      "ja": "ノースダコタだったかな。エンダーリン。そして、12年ぶりのEF5だって。EF5って一体どういう意味なんですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "Not quite. It was the release date for the movie 'Jaws'.",
-      "ja": "そうじゃないわね。映画『ジョーズ』の公開日よ。"
+      "text": "EF5 is the strongest kind. It stands for Enhanced Fujita. Basically, it means really, really powerful. Like, it can destroy concrete buildings.",
+      "ja": "EF5は一番強いタイプよ。エンハンスド・フジタの略。要するに、本当にものすごくパワフルってこと。コンクリートの建物も破壊できるくらい。"
     },
     {
       "speaker": "Alex",
-      "text": "Jaws? Oh, the shark movie! Really? That old? I thought it was from the 80s, maybe. I didn't know that. My dad used to talk about how scary it was, he wouldn't go swimming in the ocean for months after seeing it.",
-      "ja": "ジョーズ？ああ、あのサメの映画！本当ですか？そんなに古いの？80年代の映画だと思っていました。それは知らなかったな。父がよく、あれがどれだけ怖かったか話していましたよ。あれを見てから数ヶ月は海で泳がなかったそうです。"
+      "text": "Wow. That's... intense. I didn't know that.",
+      "ja": "うわあ。それは…強烈ですね。知りませんでした。"
     },
     {
       "speaker": "Sarah",
-      "text": "It certainly was effective, then. Many people were afraid to go in the ocean. My kids watched it when they were teenagers and thought it was funny, not scary at all. They just laughed at the special effects.",
-      "ja": "それなら確かに効果的だったのね。多くの人が海に入るのを怖がったものよ。うちの子たちは10代の時に見て、全然怖くなくて面白いって言ってたわ。特殊効果を見て笑っていたわね。"
+      "text": "It's not something you want to experience. Very rare.",
+      "ja": "経験したいものじゃないわね。とても珍しいことよ。"
     },
     {
       "speaker": "Alex",
-      "text": "Funny? That's a completely different reaction. Maybe it's because movies are so much more realistic now. Or maybe they just aren't scared of sharks anymore. I wonder if I'd find it scary now. Probably not as much, but I'm easily startled these days. Any sudden noise, I jump. Could be the baby.",
-      "ja": "面白い？それは全く違う反応ですね。たぶん今の映画の方がずっとリアルだからでしょうね。あるいは、単に彼らがサメを怖がらなくなったのかもしれません。今見たら怖いかな。たぶんそこまでじゃないでしょうが、最近は些細なことで驚いてしまいます。どんな突然の音でも飛び上がってしまう。赤ちゃんの影響かもしれないですね。"
+      "text": "Yeah, I'm glad we don't get those here. Just typhoons, which are bad enough. Sometimes I think I'm starting to hallucinate from lack of sleep.",
+      "ja": "ええ、日本ではああいうのがなくて良かった。台風だけでも十分大変なのに。時々、寝不足で幻覚を見始めてるんじゃないかと思いますよ。"
     },
     {
       "speaker": "Sarah",
-      "text": "It's the baby. It passes. Well, Alex, it sounds like you have a busy weekend ahead, with a one-year-old on the move. Maybe try to rest a little.",
-      "ja": "赤ちゃんね。そのうち終わるわよ。さあ、アレックス、1歳の子が動き回るから、忙しい週末になりそうね。少しは休んでみてね。"
+      "text": "Hallucinate? You mean see things that aren't there?",
+      "ja": "幻覚？そこにないものが見えるってこと？"
     },
     {
       "speaker": "Alex",
-      "text": "I will try my best. Thanks, Sarah. Good talking with you. Have a good Friday, everyone.",
-      "ja": "頑張ってみます。ありがとうございます、サラさん。お話しできてよかったです。皆さん、良い金曜日を。"
+      "text": "Yeah, exactly. That's the word. Is it too early for that?",
+      "ja": "ええ、まさに。その言葉です。それって、もうそんな段階なんですかね？"
     },
     {
       "speaker": "Sarah",
-      "text": "You too. See you next week.",
-      "ja": "あなたもね。また来週。"
+      "text": "Maybe you just need more coffee.",
+      "ja": "もしかしたら、もっとコーヒーが必要なだけかもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of bad enough... My baby is almost one now. He's starting to really... insist on things. Like, if he wants a toy, he *really* wants that toy.",
+      "ja": "大変なことといえば…もうすぐうちの子も1歳なんです。本当に…色々と主張し始めてるんですよ。例えば、おもちゃが欲しいとき、本当にそのおもちゃを欲しがるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. They start to figure out they're separate from you. So they want to assert themselves.",
+      "ja": "そうね。自分たちがあなたとは別の存在だと理解し始めるのよ。だから、自己主張したがるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Assert themselves? Like, show they're in charge?",
+      "ja": "自己主張？自分が主導権を握ってるって示す感じですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "More like, show they have their own will. They're realizing they can choose, or not choose. The article mentioned this: 'toddlers are driven to assert themselves, to communicate their likes and dislikes.'",
+      "ja": "それよりも、自分には自分の意思があるって示す感じね。選ぶことができる、選ばないこともできるって気づき始めるの。記事にもあったでしょ。「幼児は自己主張し、好き嫌いを伝えようとする」って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, so that's why they become... mini dictators? I'm joking, but sometimes it feels like that. He just stares at me and then throws his spoon.",
+      "ja": "ああ、だから…ちっちゃな独裁者になるのか。冗談ですけど、時々そう感じますよ。僕をじっと見て、それからスプーンを投げたりするんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a common way to communicate when they don't have words yet. It's not personal, it's just trying to get a reaction. And figuring out what happens.",
+      "ja": "言葉がないうちは、よくあるコミュニケーション方法よ。個人的なものではなく、ただ反応を見ようとしてるだけ。何が起こるか確かめているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So I guess I need to start setting 'age-appropriate limits' already, right? Like the article said. Even if he's not two yet.",
+      "ja": "じゃあ、もう『年齢に応じた制限』を始めないといけないってことですね？記事にもあったように。まだ2歳じゃないけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's always a good time to start. Gentle, consistent limits work best. Mine did the same. It passes.",
+      "ja": "始めるのに早すぎるってことはないわ。優しく、一貫した制限が一番効果的よ。うちの子もそうだった。落ち着くわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It passes. That's what everyone says. I hope so. Because I'm getting pretty good at running on fumes.",
+      "ja": "落ち着く、ですか。みんなそう言いますね。そうだといいな。だって、もうガス欠寸前で動いてるようなものですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll be fine. Just keep that coffee supply underway.",
+      "ja": "大丈夫よ。そのコーヒーの供給を『アンダーウェイ』にしとけば。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Underway? Like, keep it flowing? Is that what that means?",
+      "ja": "アンダーウェイ？流れ続けてるってことですか？そういう意味？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'underway' means something is in progress, or moving forward. Like a ship underway. Keep the coffee process going.",
+      "ja": "ええ、『アンダーウェイ』は、何かが進行中であるとか、前に進んでいるという意味よ。航海中の船とかね。コーヒーの供給プロセスを止めないで、ってこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Keep the coffee supply line... not broken. Got it. Well, thanks for the tips, Sarah. And the vocabulary.",
+      "ja": "ああ、なるほど。コーヒーの供給ラインを…途絶えさせない。分かりました。サラさん、ヒントと語彙をありがとう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No problem, Alex. Another day, another adventure.",
+      "ja": "どういたしまして、アレックス。また一日、また新たな冒険ね。"
     }
   ],
   "sources": {
     "weather": {
       "location": "Tokyo",
       "description": "Moderate rain",
-      "temp_max": 22.4,
+      "temp_max": 22.5,
       "temp_min": 20.0,
       "rain_probability": 100
     },
     "news": [],
     "wikipedia": {
-      "year": 1994,
-      "text": "The 1994 Imam Reza shrine bomb explosion in Iran leaves at least 25 dead and 70 to 300 injured."
+      "year": 2025,
+      "text": "The first EF5 tornado in 12 years occurs in Enderlin, North Dakota."
     },
     "parenting": {
       "source": "Zero to Three",
-      "title": "President’s Fiscal Year 2025 Budget Is a Win for Babies",
-      "summary": "<p>Contact:  Joe Weedon (202)277-9410 jweedon@zerotothree.org WASHINGTON, DC – ZERO TO THREE, the country’s leading early childhood development nonprofit dedicated to ensuring all infants and toddlers have a strong start in life, is encouraged that President Biden&#8217;s proposed fiscal year 2025 budget includes essential and much-needed funding for programs that build a strong foundation for you"
+      "title": "Toddlers and Challenging Behavior: Why They Do It and How to Respond",
+      "summary": "<p>This article explores the meaning behind challenging behaviors and how parents and caregivers can set age-appropriate limits for their toddlers. The year between age 2 and age 3 is an exciting one. Toddlers are realizing that they are separate individuals from their parents and caregivers. This means that they are driven to assert themselves, to communicate their likes and dislikes, [&#8230;]</"
     }
   }
 }
