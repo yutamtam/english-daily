@@ -1,137 +1,107 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T08:34:33.091038+00:00",
+  "generated_at": "2026-06-20T10:18:57.241906+00:00",
   "vocab_level": 3,
   "script": [
     {
       "speaker": "Alex",
-      "text": "Good morning, good morning, Tanu-chan family! And welcome to Friday, June 20th, 2026! I'm Alex!",
-      "ja": "タヌちゃんファミリーの皆さん、おはようございます！2026年6月20日金曜日です！Alexです！"
+      "text": "Morning, Sarah. June 20th already. How is it Friday again, so fast?",
+      "ja": "おはようございます、サラさん。もう6月20日ですね。こんなに早くまた金曜日ですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "And I'm Sarah! Alex, did you remember your umbrella this morning? Because it's looking pretty damp out there!",
-      "ja": "そしてSarahです！Alex、今朝は傘を忘れなかったですか？外はかなり湿っぽいですよ！"
+      "text": "Morning, Alex. Yes, it is. And it's quite rainy out there today. Moderate rain all day, 100% chance. High of 22, low of 20.",
+      "ja": "おはよう、アレックス。そうね。そして今日はかなり雨が降っているわね。一日中、中程度の雨で降水確率100%。最高気温22度、最低20度よ。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, Sarah, you know me! I'm always optimistic! I thought maybe the rain would just... give up! But nope, it's still coming down. My shoes are already having a bad day.",
-      "ja": "ああ、Sarah、僕のこと知ってるでしょう！いつも楽観的なんです！雨も降るのを諦めるんじゃないかと思ったんですけど…駄目ですね、まだ降ってます。僕の靴はもう散々ですよ。"
+      "text": "Ugh, really? All day? That's... not ideal for my morning commute. My umbrella is probably still in the office from last week.",
+      "ja": "ええ、本当に？一日中ですか？それは…朝の通勤には理想的じゃないですね。私の傘、たぶんまだ会社に置きっぱなしだ。"
     },
     {
       "speaker": "Sarah",
-      "text": "Well, you shouldn't be surprised, Mr. Optimistic. Tokyo is experiencing moderate rain all day, with a 100% chance of precipitation. The temperature is hovering around 20 degrees Celsius, heading up to a high of 22.4 degrees. So yes, your shoes will continue to have a bad day.",
-      "ja": "まあ、楽観的なAlexさん、驚くことではありませんよ。東京は一日中、中程度の雨で、降水確率は100%です。気温は20度前後で、最高気温は22.4度まで上がるでしょう。だから、ええ、あなたの靴は引き続きご機嫌斜めでしょうね。"
+      "text": "You'll manage. You look a bit... preoccupied this morning, though.",
+      "ja": "どうにかなるでしょう。でも今朝は少し…浮かない顔ね。"
     },
     {
       "speaker": "Alex",
-      "text": "A hundred percent! Wow. That's a commitment from the weather. At least it's not super cold, right? Just... very, very wet.",
-      "ja": "100%ですか！すごい。それは天気からの強い約束ですね。少なくとも、すごく寒いわけじゃないですよね？ただ…すごく、すごく濡れてるだけ。"
+      "text": "Preoccupied? Oh. Yeah, maybe. The baby was up at 3. And then 5. He just turned one year old, you know. We had a little party. My wife did most of the planning, of course. It doesn't get easier, does it? What does 'preoccupied' even mean, anyway?",
+      "ja": "浮かない顔？ああ。ええ、そうかもしれません。赤ちゃんが3時に起きて、それから5時にも。ちょうど1歳になったんですよ。ささやかなパーティーをしました。もちろん、妻がほとんど計画してくれましたが。楽にならないですね、やっぱり。ところで、「preoccupied」ってどういう意味ですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "Exactly. So, grab a warm drink and stay cozy inside if you can! Now, let's dive into some of the stories making waves this morning. Did you see the news about the new 'smart' pet feeder? It apparently analyzes your pet's eating habits and sends reports to your phone.",
-      "ja": "その通りです。だから、温かい飲み物を片手に、もし可能なら家でくつろいでくださいね！さて、今朝話題になっているニュースを見ていきましょう。新しい「スマート」ペットフィーダーについてのニュース、見ましたか？ペットの食習慣を分析して、スマホにレポートを送るらしいですよ。"
+      "text": "It means your mind is busy with other things. Like you're thinking about something else a lot. Mine were like that until they were two. It passes, eventually.",
+      "ja": "他のことで頭がいっぱいってことよ。何か他のことをたくさん考えているような状態ね。うちの子たちも2歳まではそんな感じだったわ。結局は終わるものよ。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, I did! So, now my cat's eating schedule can judge me? Like, 'Tanu-chan ate three minutes late today, Alex. What's your excuse?' Sounds a bit... over the top, maybe?",
-      "ja": "ああ、見ましたよ！ということは、僕の猫の食事スケジュールが僕を判断するようになるってことですか？「タヌちゃん、今日は3分遅れて食べましたよ、Alex。言い訳は？」みたいな？ちょっと…やりすぎじゃないですか？"
+      "text": "Two? Wow. I was hoping for 'it ends around one.' My coffee is barely working today. I was just reading something online about support for parents, about new government budgets for babies, and it mentioned the 'efficacy' of these programs. I paused there, wondering.",
+      "ja": "2歳ですか？わあ。1歳くらいで終わるかなって期待してたのに。今日のコーヒーは全然効かないな。ちょうど親向けの支援について、新しい赤ちゃんの予算についてオンラインで読んでいたんです。それで、これらのプログラムの「efficacy」について書かれていて、そこで立ち止まってしまいました。"
     },
     {
       "speaker": "Sarah",
-      "text": "Perhaps. But for busy pet owners, it could be a game-changer. Speaking of things that change our world, Alex, are you ready for 'On This Day'?",
-      "ja": "そうかもしれませんね。でも、忙しいペットの飼い主にとっては、状況を一変させるものになるかもしれません。私たちの世界を変えるものといえば、Alex、「今日は何の日」のコーナーの準備はいいですか？"
+      "text": "Efficacy? It means how well something works, how effective it is. They want to know if the money actually helps families. That's a normal question.",
+      "ja": "エフィカシー？それは、何かがどれくらいうまく機能するか、どれくらい効果的か、という意味よ。そのお金が実際に家庭を助けるかどうかを知りたいのね。それは当然の疑問だわ。"
     },
     {
       "speaker": "Alex",
-      "text": "Always ready, Sarah! What fascinating piece of history do you have for us today?",
-      "ja": "いつでも準備万端ですよ、Sarah！今日はどんな魅力的な歴史の一コマを教えてくれるんですか？"
+      "text": "So they want to know if the programs actually achieve what they're supposed to. I guess that makes sense. I just want to achieve more sleep. Maybe a program for new dads to just... sleep. That would have high efficacy for me.",
+      "ja": "つまり、プログラムが本来の目的を達成するかどうかを知りたいってことですね。それは理にかなっていると思います。私はただ、もっと睡眠を達成したいだけです。新しい父親がただ…眠るためのプログラムとか。それなら私にとって高い効果があるでしょうね。"
     },
     {
       "speaker": "Sarah",
-      "text": "Well, on this very day, June 20th, back in 1990, a massive earthquake struck northern Iran. It was a 7.4 magnitude quake, and it caused incredible damage and loss of life. We're talking 35,000 to 50,000 people killed, and up to 105,000 injured.",
-      "ja": "ええと、まさにこの日、6月20日の1990年に、イラン北部で大規模な地震が発生しました。マグニチュード7.4の地震で、信じられないほどの被害と人命の損失をもたらしました。3万5千人から5万人が亡くなり、最大10万5千人が負傷したと言われています。"
+      "text": "I think many parents would agree. You're entering a new phase with a one-year-old. Mine started walking around then. That's when the real running began.",
+      "ja": "多くの親が同意するでしょうね。1歳の子どもとの新しい段階に入っていくのよ。うちの子はちょうどその頃に歩き始めたわ。そこからが本当の追いかけっこが始まったの。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, wow. That's... that's a truly terrible event. So many lives lost. The scale of that disaster is just hard to imagine. What an absolute human tragedy.",
-      "ja": "ああ、わあ。それは…本当に恐ろしい出来事ですね。たくさんの命が失われた。その災害の規模は想像するのも難しいです。なんて悲劇的なことでしょう。"
+      "text": "Oh, great. Something to look forward to. More running. Less sleep. Anyway, this is The Daily Tanu-chan Show. And we're back talking about... new challenges.",
+      "ja": "ああ、素晴らしい。楽しみですね。もっと走り回って、もっと睡眠時間が減る。さて、こちらはThe Daily Tanu-chan Showです。新しい課題について話しています。"
     },
     {
       "speaker": "Sarah",
-      "text": "It truly was. It led to an enormous societal `upheaval`. Do you know that word, Alex? `Upheaval`?",
-      "ja": "本当にそうでした。それは社会に大きな『upheaval』をもたらしました。Alex、その単語、知っていますか？『upheaval』？"
+      "text": "Exactly. Speaking of things that bring new challenges, or at least a lot of excitement, did you know what happened on this day, June 20th, back in 1975?",
+      "ja": "その通りね。新しい課題、あるいは少なくともたくさんの興奮をもたらすものといえば、1975年の今日、6月20日に何が起こったか知ってる？"
     },
     {
       "speaker": "Alex",
-      "text": "Hmm, `upheaval`. I've heard it, but I'm not totally sure what it means. Sounds like something big, like a disturbance?",
-      "ja": "うーん、『upheaval』。聞いたことはありますが、意味はっきりとは分かりません。何か大きなこと、混乱みたいな感じですか？"
+      "text": "1975? No, I don't think so. Was it something important for... the economy? Or maybe a new product launch?",
+      "ja": "1975年ですか？いや、知らないですね。経済にとって何か重要なことですか？それとも新製品の発売とか？"
     },
     {
       "speaker": "Sarah",
-      "text": "You're spot on! An `upheaval` is a sudden and often violent change or disruption to something, especially society or an organization. Like that earthquake caused a huge disruption and change to the lives of everyone in the area. A big, dramatic shift.",
-      "ja": "その通りです！『upheaval』とは、特に社会や組織において、突然に起こる、しばしば激しい変化や混乱のことです。あの地震が、その地域の全ての人々の生活に巨大な混乱と変化をもたらしたように。大きな、劇的な転換ですね。"
+      "text": "Not quite. It was the release date for the movie 'Jaws'.",
+      "ja": "そうじゃないわね。映画『ジョーズ』の公開日よ。"
     },
     {
       "speaker": "Alex",
-      "text": "Ah, I see. So, a massive `upheaval` for the people there. That makes perfect sense. Thank you, Sarah, for explaining that. It really helps put the impact of such an event into perspective.",
-      "ja": "なるほど、分かりました。つまり、そこに住む人々にとって大規模な『upheaval』だったんですね。完全に納得です。Sarah、説明してくれてありがとうございます。そのような出来事の影響を理解するのに本当に役立ちます。"
+      "text": "Jaws? Oh, the shark movie! Really? That old? I thought it was from the 80s, maybe. I didn't know that. My dad used to talk about how scary it was, he wouldn't go swimming in the ocean for months after seeing it.",
+      "ja": "ジョーズ？ああ、あのサメの映画！本当ですか？そんなに古いの？80年代の映画だと思っていました。それは知らなかったな。父がよく、あれがどれだけ怖かったか話していましたよ。あれを見てから数ヶ月は海で泳がなかったそうです。"
     },
     {
       "speaker": "Sarah",
-      "text": "Mine too. It's a reminder of the powerful forces of nature. And on a lighter, though still important note, let's switch gears to our parenting tip segment, brought to you by Zero to Three.",
-      "ja": "私もそう思います。自然の強力な力を思い出させますね。そして、少し話題を変えて、でもまだ重要なことですが、Zero to Threeがお届けする子育てのヒントのコーナーに移りましょう。"
+      "text": "It certainly was effective, then. Many people were afraid to go in the ocean. My kids watched it when they were teenagers and thought it was funny, not scary at all. They just laughed at the special effects.",
+      "ja": "それなら確かに効果的だったのね。多くの人が海に入るのを怖がったものよ。うちの子たちは10代の時に見て、全然怖くなくて面白いって言ってたわ。特殊効果を見て笑っていたわね。"
     },
     {
       "speaker": "Alex",
-      "text": "Ah, the part of the show where I learn how to be a good future parent, or just a better human being generally! What's the tip today?",
-      "ja": "ああ、未来の良い親になる方法、あるいは単に良い人間になる方法を学ぶ番組のパートですね！今日のヒントは何ですか？"
+      "text": "Funny? That's a completely different reaction. Maybe it's because movies are so much more realistic now. Or maybe they just aren't scared of sharks anymore. I wonder if I'd find it scary now. Probably not as much, but I'm easily startled these days. Any sudden noise, I jump. Could be the baby.",
+      "ja": "面白い？それは全く違う反応ですね。たぶん今の映画の方がずっとリアルだからでしょうね。あるいは、単に彼らがサメを怖がらなくなったのかもしれません。今見たら怖いかな。たぶんそこまでじゃないでしょうが、最近は些細なことで驚いてしまいます。どんな突然の音でも飛び上がってしまう。赤ちゃんの影響かもしれないですね。"
     },
     {
       "speaker": "Sarah",
-      "text": "Today's tip is titled 'Hello World!' Now, it's not about coding, Alex, or about your first blog post. It's about babies experiencing the world for the very first time. The tip encourages parents to remember that for a newborn, everything is new – every sight, every sound, every touch.",
-      "ja": "今日のヒントのタイトルは「ハロー・ワールド！」です。Alex、これはコーディングのことでも、あなたの最初のブログ記事のことでもありません。赤ちゃんが初めて世界を体験することについてです。このヒントは、新生児にとって、あらゆるもの、つまりすべての光景、すべての音、すべての触感が新しいということを親に思い出してもらうことを勧めています。"
+      "text": "It's the baby. It passes. Well, Alex, it sounds like you have a busy weekend ahead, with a one-year-old on the move. Maybe try to rest a little.",
+      "ja": "赤ちゃんね。そのうち終わるわよ。さあ、アレックス、1歳の子が動き回るから、忙しい週末になりそうね。少しは休んでみてね。"
     },
     {
       "speaker": "Alex",
-      "text": "Right, so they're like little explorers, constantly discovering?",
-      "ja": "なるほど、じゃあ、彼らは小さな探検家で、常に何かを発見しているようなものですか？"
+      "text": "I will try my best. Thanks, Sarah. Good talking with you. Have a good Friday, everyone.",
+      "ja": "頑張ってみます。ありがとうございます、サラさん。お話しできてよかったです。皆さん、良い金曜日を。"
     },
     {
       "speaker": "Sarah",
-      "text": "Exactly! The tip suggests engaging with your baby's senses. Talk to them about what they see, describe the colors, the textures. Let them touch safe objects. It helps build their understanding of the world around them, even if they can't speak yet.",
-      "ja": "その通りです！このヒントは、赤ちゃんの五感に働きかけることを提案しています。彼らが見ているものについて話しかけたり、色や手触りを説明したりしてください。安全な物に触らせてあげましょう。そうすることで、まだ話せなくても、周りの世界の理解を深めるのを助けます。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "That's really sweet. I imagine those first few months with a new baby must be pretty `fraught` with all sorts of emotions and new experiences for the parents too. Oh, there's another word! `Fraught`?",
-      "ja": "それはとても素敵なことですね。新しい赤ちゃんとの最初の数ヶ月は、親にとってもあらゆる感情や新しい経験でかなり『fraught』なものだろうなと思います。ああ、また新しい単語が！『fraught』？"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Good catch, Alex! Yes, `fraught`. When something is `fraught`, it means it's filled with something undesirable, like stress, anxiety, or difficulty. So, 'fraught with emotion' means full of intense feelings, often challenging ones. It's a period that requires a lot of care and attention.",
-      "ja": "良いところに気づきましたね、Alex！そうです、『fraught』。何かが『fraught』だというのは、ストレス、不安、困難といった望ましくないもので満たされていることを意味します。だから、「fraught with emotion」とは、強烈な感情、しばしば困難な感情でいっぱいの状態を指します。多くの配慮と注意が必要な期間ですね。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Ah, I understand! So, a new parent's life can be `fraught` with sleepless nights but also `fraught` with incredible joy. That's a very useful word. Thanks, Sarah!",
-      "ja": "ああ、分かりました！つまり、新しい親の生活は寝不足で大変なことも多いけれど、信じられないほどの喜びにも『fraught』している、と。とても便利な単語ですね。ありがとう、Sarah！"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "You're very welcome, Alex! And that's a perfect way to think about it. It's a time full of challenges, but also full of beautiful moments. And that brings us to the end of this segment of The Daily Tanu-chan Show.",
-      "ja": "どういたしまして、Alex！そして、それはまさに完璧な考え方ですね。大変なことも多いけれど、美しい瞬間にも満ちた時期です。さて、これで今日の『The Daily Tanu-chan Show』のこのコーナーは終わりです。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Wow, already? Time flies when you're learning new words and thinking about rain boots! Thank you for joining us today, everyone.",
-      "ja": "わあ、もうですか？新しい単語を学んだり、長靴のことを考えたりしていると、あっという間ですね！皆さん、今日もご参加いただきありがとうございました。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Stay dry, stay warm, and we'll be back with you tomorrow morning! Have a wonderful day!",
-      "ja": "濡れないように、暖かくしてお過ごしください。そして、また明日の朝お会いしましょう！素敵な一日を！"
+      "text": "You too. See you next week.",
+      "ja": "あなたもね。また来週。"
     }
   ],
   "sources": {
@@ -144,13 +114,13 @@
     },
     "news": [],
     "wikipedia": {
-      "year": 1990,
-      "text": "The 7.4 Mw Manjil–Rudbar earthquake affects northern Iran with a maximum Mercalli intensity of X (Extreme), killing 35,000–50,000, and injuring 60,000–105,000."
+      "year": 1994,
+      "text": "The 1994 Imam Reza shrine bomb explosion in Iran leaves at least 25 dead and 70 to 300 injured."
     },
     "parenting": {
       "source": "Zero to Three",
-      "title": "Hello world!",
-      "summary": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<p>The post <a href=\"https://www.zerotothree.org/hello-world/\">Hello world!</a> appeared first on <a href=\"https://www.zerotothree.org\">ZERO TO THREE</a>.</p>"
+      "title": "President’s Fiscal Year 2025 Budget Is a Win for Babies",
+      "summary": "<p>Contact:  Joe Weedon (202)277-9410 jweedon@zerotothree.org WASHINGTON, DC – ZERO TO THREE, the country’s leading early childhood development nonprofit dedicated to ensuring all infants and toddlers have a strong start in life, is encouraged that President Biden&#8217;s proposed fiscal year 2025 budget includes essential and much-needed funding for programs that build a strong foundation for you"
     }
   }
 }
