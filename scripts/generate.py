@@ -4,13 +4,16 @@ Main script: fetch content, generate script with Gemini, save JSON, send email.
 Run daily via GitHub Actions at UTC 21:00 (JST 06:00).
 """
 
+import argparse
 import json
 import os
 import random
 import sys
 import traceback
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
+
+JST = timezone(timedelta(hours=9))
 
 from google import genai
 from google.genai import types
@@ -389,10 +392,36 @@ def save_content(date_str: str, script: list[dict], sources: dict, config: dict)
     return path
 
 
+def send_daily_email(date_str: str, config: dict) -> None:
+    path = CONTENT_DIR / f"{date_str}.json"
+    if not path.exists():
+        raise FileNotFoundError(f"No content for {date_str}. Was generation successful?")
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    base_url = "https://yutamtam.github.io/english-daily"
+    player_url = f"{base_url}/player.html?date={date_str}"
+    show_name = config["show"].get("name", "The Daily Tanu-chan Show")
+    plain, html = build_email_html(date_str, data["script"], player_url, config)
+    send_email(
+        to=config["email"]["to"],
+        subject=f"[{show_name}] {date_str} の放送が届きました",
+        body=plain,
+        html=html,
+    )
+
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--mode",
+        choices=["generate", "send", "full"],
+        default="full",
+        help="generate=content only, send=email only, full=both (default)",
+    )
+    args = parser.parse_args()
+
     config = load_config()
 
-    # Override vocab_level from environment variable if provided (set by workflow_dispatch input)
     env_level = os.environ.get("VOCAB_LEVEL", "").strip()
     if env_level and env_level.isdigit() and int(env_level) in range(1, 12):
         new_level = int(env_level)
@@ -401,81 +430,70 @@ def main():
             config["user"]["vocab_level"] = new_level
             save_config(config)
 
-    date_str = datetime.now().strftime("%Y-%m-%d")
+    date_str = datetime.now(JST).strftime("%Y-%m-%d")
     email_to = config["email"]["to"]
 
-    print(f"[{date_str}] Starting generation (vocab_level={config['user']['vocab_level']})...")
+    if args.mode in ("generate", "full"):
+        print(f"[{date_str}] Generating (vocab_level={config['user']['vocab_level']})...")
+        sources = {}
 
-    sources = {}
+        if config["content"].get("weather"):
+            try:
+                loc = config["user"]["location"]
+                sources["weather"] = fetch_weather(loc["latitude"], loc["longitude"], loc["name"])
+                print("  ✓ Weather fetched")
+            except Exception as e:
+                print(f"  ✗ Weather failed: {e}")
 
-    # Fetch weather
-    if config["content"].get("weather"):
+        if config["content"].get("nhk_news"):
+            try:
+                sources["news"] = fetch_nhk_news(count=3)
+                print(f"  ✓ News fetched ({len(sources['news'])} articles)")
+            except Exception as e:
+                print(f"  ✗ News failed: {e}")
+
+        if config["content"].get("wikipedia"):
+            try:
+                sources["wikipedia"] = fetch_on_this_day()
+                print("  ✓ Wikipedia fetched")
+            except Exception as e:
+                print(f"  ✗ Wikipedia failed: {e}")
+
+        if config["content"].get("parenting"):
+            try:
+                sources["parenting"] = fetch_parenting_topic()
+                print("  ✓ Parenting topic fetched")
+            except Exception as e:
+                print(f"  ✗ Parenting failed: {e}")
+
         try:
-            loc = config["user"]["location"]
-            sources["weather"] = fetch_weather(
-                loc["latitude"], loc["longitude"], loc["name"]
+            print("  Calling Gemini API...")
+            prompt = build_gemini_prompt(config, sources)
+            script = generate_script(prompt)
+            print(f"  ✓ Script generated ({len(script)} lines)")
+        except Exception as e:
+            print(f"  ✗ Gemini failed: {e}")
+            traceback.print_exc()
+            send_email(
+                to=email_to,
+                subject=f"[English Daily] {date_str} — 生成に失敗しました",
+                body=f"今日のコンテンツ生成に失敗しました。\n\nエラー:\n{traceback.format_exc()}",
             )
-            print("  ✓ Weather fetched")
-        except Exception as e:
-            print(f"  ✗ Weather failed: {e}")
+            sys.exit(1)
 
-    # Fetch NHK news
-    if config["content"].get("nhk_news"):
+        output_path = save_content(date_str, script, sources, config)
+        print(f"  ✓ Saved to {output_path}")
+
+    if args.mode in ("send", "full"):
+        print(f"[{date_str}] Sending email...")
         try:
-            sources["news"] = fetch_nhk_news(count=3)
-            print(f"  ✓ News fetched ({len(sources['news'])} articles)")
+            send_daily_email(date_str, config)
+            print("  ✓ Email sent")
         except Exception as e:
-            print(f"  ✗ News failed: {e}")
+            print(f"  ✗ Email failed: {e}")
+            traceback.print_exc()
+            sys.exit(1)
 
-    # Fetch Wikipedia On This Day
-    if config["content"].get("wikipedia"):
-        try:
-            sources["wikipedia"] = fetch_on_this_day()
-            print("  ✓ Wikipedia fetched")
-        except Exception as e:
-            print(f"  ✗ Wikipedia failed: {e}")
-
-    # Fetch parenting topic
-    if config["content"].get("parenting"):
-        try:
-            sources["parenting"] = fetch_parenting_topic()
-            print("  ✓ Parenting topic fetched")
-        except Exception as e:
-            print(f"  ✗ Parenting failed: {e}")
-
-    # Generate script with Gemini
-    try:
-        print("  Calling Gemini API...")
-        prompt = build_gemini_prompt(config, sources)
-        script = generate_script(prompt)
-        print(f"  ✓ Script generated ({len(script)} lines)")
-    except Exception as e:
-        print(f"  ✗ Gemini failed: {e}")
-        traceback.print_exc()
-        send_email(
-            to=email_to,
-            subject=f"[English Daily] {date_str} — 生成に失敗しました",
-            body=f"今日のコンテンツ生成に失敗しました。\n\nエラー:\n{traceback.format_exc()}",
-        )
-        sys.exit(1)
-
-    # Save JSON
-    output_path = save_content(date_str, script, sources, config)
-    print(f"  ✓ Saved to {output_path}")
-
-    # Send success email
-    base_url = "https://yutamtam.github.io/english-daily"
-    player_url = f"{base_url}/player.html?date={date_str}"
-    show_name = config["show"].get("name", "The Daily Tanu-chan Show")
-
-    plain, html = build_email_html(date_str, script, player_url, config)
-    send_email(
-        to=email_to,
-        subject=f"[{show_name}] {date_str} の放送が届きました",
-        body=plain,
-        html=html,
-    )
-    print("  ✓ Email sent")
     print("Done!")
 
 
