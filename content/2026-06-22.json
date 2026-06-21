@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-21T22:50:40.631451+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah.",
+      "ja": "おはようございます、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex.",
+      "ja": "おはよう、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's Saturday, June 21st, 2026. Can you believe it? The Daily Tanu-chan Show, already weekend.",
+      "ja": "2026年6月21日土曜日です。信じられますか？ザ・デイリー・たぬちゃんショー、もう週末ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. You look like the weekend hasn't caught up to you yet.",
+      "ja": "ええ、そうね。あなた、まだ週末に追いついてないみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No. Baby was up at three. Then five. Coffee is absolutely non-negotiable this morning.",
+      "ja": "ええ、そうなんです。赤ちゃんが3時に起きて。それから5時にも。今朝はコーヒーが絶対必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's normal. It ends around two.",
+      "ja": "それは普通よ。2歳くらいで終わるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Two what? Years?",
+      "ja": "2歳？年ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, years. Mine did the same. Just hang in there.",
+      "ja": "ええ、年。うちの子もそうだったわ。頑張って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm trying. Oh, hey, speaking of the day, I saw the weather forecast earlier.",
+      "ja": "頑張ります。あ、そうそう、今日のことですが、さっき天気予報を見ました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh?",
+      "ja": "あら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's overcast today. High around 27 degrees, low 20. And a 70% chance of rain. So no park for us.",
+      "ja": "ええ、今日は曇り。最高気温が27度くらいで最低が20度。そして降水確率70%。だから、公園はなしですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a shame. Good for staying inside with tea, though.",
+      "ja": "残念ね。でも、お茶を飲んで家で過ごすのにはいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. Anyway, I saw something else about June 21st, too.",
+      "ja": "そうですね。ところで、6月21日について、他にも何か見かけました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh?",
+      "ja": "あら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it was on this day in 2009 that Greenland assumed self-rule.",
+      "ja": "ええ、2009年の今日、グリーンランドが自治権を獲得したそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right, they got more autonomy from Denmark then.",
+      "ja": "そうね、その時デンマークからより多くの自治権を得たのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't even know it wasn't self-ruling before. I guess it's good to have local control. Though I wonder what the main *prerequisite* for governing a place like that would be. Just... ice?",
+      "ja": "それまで自治していなかったなんて知りませんでした。地方の統制があるのは良いことだと思います。でも、あのような場所を統治するための主要な『prerequisite』は何なんだろう？ただの…氷？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A 'prerequisite' is something you absolutely need *before* something else can happen. Like a necessary condition. For Greenland, maybe good resource management skills.",
+      "ja": "『prerequisite』というのは、何かが起こる『前に』絶対に必要となるものよ。必要な条件、という感じ。グリーンランドなら、優れた資源管理能力かしらね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good resource management skills. Makes sense. Speaking of things I'm learning, I was reading that 'Zero to Three' article you mentioned.",
+      "ja": "優れた資源管理能力。なるほど。学ぶことといえば、サラさんが話していた『Zero to Three』の記事を読んでいました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, the tips on learning to talk.",
+      "ja": "ああ、言葉を学ぶためのヒントね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. My son is one year old this month, and he just babbles. 'Mama,' 'dada,' but not really meaning it. Is that normal? The article said by two years, they have a large vocabulary.",
+      "ja": "ええ。息子は今月1歳になったんですが、ただ喃語を言うだけで。『ママ』とか『ダダ』とか、でも意味はなさそうで。これって普通ですか？記事には2歳までに語彙が豊富になるって書いてありました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Perfectly normal. They're just exploring sounds at first. Mine did that too.",
+      "ja": "全く普通よ。最初はただ音を探っているだけ。うちの子もそうだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It feels like I'm stuck in the *doldrums* of baby talk sometimes, you know? Just repeating sounds.",
+      "ja": "なんだか、赤ちゃんの言葉の『doldrums』にはまっているような気がするんです、分かりますか？ただ音を繰り返してるだけで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Doldrums' is a good word for that feeling. It means a period of no activity, or a feeling of being stuck and a bit low.",
+      "ja": "『doldrums』はその気持ちにぴったりの言葉ね。活動がない期間、あるいは行き詰まって少し気が滅入る気持ちという意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Like I'm just waiting for the wind to pick up, for him to actually say something meaningful.",
+      "ja": "ええ、まさにそんな感じです。風が吹くのを待っているというか、彼が本当に意味のあることを言うのを待っているというか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He will. And then you'll wonder why he can't be quiet for five minutes.",
+      "ja": "言うようになるわ。そして、そのうちどうして5分間静かにできないのかしら、と思うようになるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "(Laughs softly) I guess so. Thanks, Sarah. That's good to hear.",
+      "ja": "（小さく笑う）そうかもしれませんね。ありがとう、サラさん。それを聞いて安心しました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anytime, Alex. Enjoy your coffee.",
+      "ja": "どういたしまして、アレックス。コーヒーを楽しんでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too. Have a good weekend, everyone.",
+      "ja": "サラさんも。皆さん、良い週末を。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you Monday.",
+      "ja": "月曜日に会いましょう。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 26.9,
+      "temp_min": 20.1,
+      "rain_probability": 70
+    },
+    "news": [],
+    "wikipedia": {
+      "year": 2009,
+      "text": "Greenland assumes self-rule."
+    },
+    "parenting": {
+      "source": "Zero to Three",
+      "title": "Tips on Learning to Talk",
+      "summary": "<p>This article gives a brief introduction to language development and includes age-appropriate activities for language-building for children birth to 3 years old. Learning to talk is a process that starts at birth, when your baby experiences how voices can sound. By 2 years old, most babies have a large vocabulary and can put words together to express their needs and [&#8230;]</p>\n<p>The post <a "
+    }
+  }
+}
