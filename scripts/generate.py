@@ -270,6 +270,7 @@ def generate_script(prompt: str) -> list[dict]:
                 config=types.GenerateContentConfig(
                     temperature=0.9,
                     max_output_tokens=16384,
+                    response_mime_type="application/json",
                 ),
             )
             break
