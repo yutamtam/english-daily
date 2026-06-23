@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-23T22:55:18.600833+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. June 23rd already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう6月23日ですよ。信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, another Tuesday. Time flies. Looks a bit gray out there today.",
+      "ja": "おはよう、アレックス。うん、また火曜日ね。あっという間だわ。今日は外が少し曇ってるみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It does. I checked the forecast. Overcast, high 25.0°C, low 17.8°C. Only a 15% chance of rain, though. So, mostly just cloudy.",
+      "ja": "そうですね。予報を見たら、曇りで最高気温25度、最低17.8度でした。雨の確率は15%だけなので、ほとんど曇りでしょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's nice. Good for a walk later maybe, before it gets too hot. I've been trying to get out more.",
+      "ja": "いいわね。後で少し散歩するのに良さそう。暑くなる前にね。私ももっと外に出るようにしてるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, if I can escape the office. I really, really need this coffee today. Leo was up at 4 AM again. Just decided it was playtime, you know?",
+      "ja": "ええ、もし会社から抜け出せたら、ですけど。今日は本当にこのコーヒーが必要です。レオがまた午前4時に起きて、遊びの時間だって決めたみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, rough night. They certainly keep you busy at that age. It feels like every hour is different, doesn't it?",
+      "ja": "あら、大変な夜だったわね。あの年齢だと本当に忙しいでしょう。まるで毎時間違うことの連続って感じじゃない？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell me about it. I jump at everything these days. Pretty sure it's the baby. Any little noise, I'm just instantly awake, checking the monitor, convinced something's wrong.",
+      "ja": "本当にね。最近は何でもすぐに飛び起きるんですよ。たぶん、赤ちゃんのせいでしょうね。ちょっとした物音でも、すぐに目が覚めてモニターを確認して、何かあったんじゃないかって思い込んじゃう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. Mine used to do that. With the first one, every cry was a major event. With the second, you're a bit more relaxed. They do grow out of it. Eventually. You just learn to function on less sleep.",
+      "ja": "んー。うちの子たちもそうだったわ。一人目の時は、泣き声一つ一つが大事件だった。二人目になると、もう少し落ち着くけどね。いずれはそうならなくなるわ。そのうちね。ただ、少ない睡眠でどうにかする術を覚えるだけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Eventually. My wife says I should try to sleep when he sleeps, but that's easier said than done. There's always something to do, like laundry, or preparing bottles, or just staring at the ceiling, thinking about work.",
+      "ja": "そうですね。そのうち。妻は、彼が寝てる時に私も寝るべきだって言うんですけど、言うは易し行うは難しですよ。洗濯物とか、ミルクの準備とか、あとは天井を見つめながら仕事のことを考えたりとか、いつも何かやることがあるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There is. Always. Especially with the first. When my second was born, my older one was only four. It was a lot. I don't know how we managed sometimes.",
+      "ja": "そうね。いつもね。特に一人目の時は。私の二人目が生まれた時、上の子はまだ4歳だったの。本当に大変だったわ。どうやって乗り切ったのか、時々自分でもわからないくらい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I can't even imagine. Just one is completely overwhelming some days. I'm not looking forward to the teenage years, honestly. This is already a lot to handle.",
+      "ja": "ああ、想像もつきません。一人だけでも、時々完全に手一杯になりますよ。正直、ティーンエイジャーの時期は楽しみじゃないです。これだけでもう十分大変です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Different challenges, but still challenging. You adapt. And they become good company eventually.",
+      "ja": "違う種類の課題になるけど、それでも大変よ。でも、慣れるもの。そして、そのうちいい話し相手にもなるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, speaking of early mornings and things keeping you up, I was reading about \"On This Day\" while my coffee was brewing. In 2012, an athlete named Ashton Eaton broke the decathlon world record at the US Olympic Trials.",
+      "ja": "ねえ、早朝のことや眠れないことと言えば、コーヒーを淹れてる間に「On This Day」っていうのを読んでたんです。2012年に、アシュトン・イートンっていうアスリートが、アメリカのオリンピック選考会で十種競技の世界記録を破ったらしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Decathlon? That's ten events, isn't it? Sprinting, jumping, throwing, running... Very impressive. I remember watching some of those events.",
+      "ja": "十種競技？あれって10種目よね？短距離走、跳躍、投擲、それにランニング…すごいわね。私も何種か見た記憶があるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, ten events over two days. Pole vault, long jump, hurdles, discus, javelin, 100-meter dash, 400-meter run... It's just crazy. Imagine the dedication and sheer physical training that takes. My office doesn't even have a decent gym, let alone enough space to train for ten different sports.",
+      "ja": "ええ、2日間で10種目ですよ。棒高跳び、走り幅跳び、ハードル、円盤投げ、やり投げ、100メートル走、400メートル走…もうめちゃくちゃですよね。あれだけの献身と純粋な身体トレーニングには、どれほどのものが必要か想像してみてください。うちの会社にはまともなジムすらありませんし、ましてや10種類ものスポーツのトレーニングをするスペースなんて、とんでもない話です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, I imagine not. It's a whole different level of commitment. Years and years of focus.",
+      "ja": "ええ、そうでしょうね。全く違うレベルのコミットメントだわ。何年もの集中が必要よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. It makes me think about dedication. Like, I’m trying to be dedicated to being a good dad, but some days it just feels like... you're always playing catch-up, always exhausted.",
+      "ja": "本当にそうですよ。献身について考えさせられます。僕も良い父親になるために献身的にやろうとしてるんですけど、ある日はもう…いつも追いつくのに必死で、いつも疲れ切ってるような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Parenthood is a marathon, not a sprint, as they say. You just keep going.",
+      "ja": "子育てはマラソンよ、短距離走じゃないって言うでしょ。ただ進み続けるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. And I feel like I'm already losing the marathon sometimes. I saw this thing from \"Zero to Three\" about a new budget, President Biden's proposed fiscal year 2025 budget.",
+      "ja": "その通りです。そして、時々もうマラソンに負けてるんじゃないかって気がします。「Zero to Three」というところから、バイデン大統領の提案する2025会計年度の新しい予算についての記事を見かけたんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, for babies and young children? I think I saw a headline about that too, something about early childhood funding.",
+      "ja": "あら、赤ちゃんと幼児のためのかしら？私もその見出しを見た気がするわ。幼児期教育の資金についてね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it mentioned essential and much-needed funding for programs that build a strong foundation for young families. It called it a \"win for babies.\"",
+      "ja": "ええ、若い家族のための強力な基盤を築くプログラムに、不可欠で非常に必要な資金を提供すると書いてありました。「赤ちゃんたちの勝利」だって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good. Those programs are really important. Childcare is so expensive, and early education has such a big impact on a child's future. It's something that really needs more support.",
+      "ja": "それは良いことだわ。ああいうプログラムは本当に重要よ。保育料はとても高いし、早期教育は子どもの将来に大きな影響を与えるものだから。もっと支援が必要な分野だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. I mean, anything to help families, right? My wife and I are always trying to figure out how to, you know, `mitigate` some of the financial stress. The cost of formula alone is...",
+      "ja": "本当にそうですね。つまり、家族を助けるものなら何でも、ってことですよね？妻と僕はいつも、どうやって財政的なストレスを、そう、`mitigate`するか考えています。粉ミルクの費用だけでも…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Mitigate`? What's that mean? I haven't heard that word in a while.",
+      "ja": "`Mitigate`？それってどういう意味？しばらくその言葉を聞いてなかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, `mitigate`? It's like, to make something less severe or less serious. So, making the stress less bad, or making a problem smaller. Like, you try to `mitigate` risks in a project.",
+      "ja": "ああ、`mitigate`ですか？それは、何かをより厳しくなくしたり、より深刻でなくしたりすることです。だから、ストレスをより悪くなくすとか、問題を小さくするとか。例えば、プロジェクトのリスクを`mitigate`しようとするとかですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, I see. Yes, that's a good goal. We certainly tried to do that when our kids were little. It's not easy, especially when you have two close in age.",
+      "ja": "ああ、なるほど。ええ、それは良い目標ね。私たちも子どもたちが小さかった頃は、そうしようと努力したわ。特に年が近い子が二人いると、簡単じゃないのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, it's not. I wish they'd do more to `mitigate` stress at my office, too. We're always talking about `stagnant` growth in our division, but then they don't change anything fundamental about our strategy. It's just more meetings.",
+      "ja": "そうですね。うちの会社でも、もっとストレスを`mitigate`してくれたらいいのに。いつも部署の`stagnant`な成長について話してるのに、基本的な戦略は何一つ変えないんです。ただ会議が増えるだけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Stagnant`?",
+      "ja": "`Stagnant`？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, sorry. `Stagnant` means not moving or changing. Like, if water is `stagnant`, it doesn't flow, it just sits there and gets dirty. So, \"stagnant growth\" means the company isn't growing at all, or very slowly. It's stuck in one place.",
+      "ja": "ああ、すみません。`Stagnant`は、動かない、変わらないという意味です。例えば、水が`stagnant`だと、流れなくてただそこに留まって汚くなるでしょう。だから、「stagnant growth」というのは、会社が全く成長していないか、とてもゆっくりとしか成長していない状態です。一箇所に留まっている感じ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. That's a common problem in many places these days, unfortunately. It takes a lot to shake things up, especially in bigger companies.",
+      "ja": "わかったわ。残念ながら、最近は多くの場所でよくある問題ね。特に大企業だと、物事を大きく動かすのは大変だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I read about that every year. \"Growth is `stagnant`,\" but nobody actually does anything truly different to fix it. It's frustrating. That's not going to change at my office, I'm sure.",
+      "ja": "毎年そのことについて読んでる気がします。「成長は`stagnant`だ」って言っても、誰も実際に何か本当に違うことをして解決しようとしないんですよ。イライラします。僕の会社では変わらないでしょうね、きっと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sometimes it feels like that. It's hard to implement big changes, even when they're necessary. You just keep working through it.",
+      "ja": "時々そう感じるわよね。大きな変更を実施するのは難しいのよ、たとえそれが必須であっても。ただ、こなし続けるしかないの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Anyway, that's probably enough about my office problems. So, overcast all day, then? No need for an umbrella, at least.",
+      "ja": "ええ。まあ、僕の会社の問題はこれくらいにしておきましょう。それで、一日中曇りですか？少なくとも傘は要らないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Looks like it. No rain, though. That's a plus. Good for drying laundry, or just enjoying the cooler air without getting soaked.",
+      "ja": "そうみたいね。でも雨は降らないわ。それはプラスね。洗濯物を干すのにもいいし、濡れずに涼しい空気を楽しむのにもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely a plus. Well, I'd better get to my desk before my boss thinks my growth is `stagnant` too. Thanks for the chat, Sarah. This is The Daily Tanu-chan Show, and we'll be back tomorrow.",
+      "ja": "ええ、間違いなくプラスです。じゃあ、上司が僕の成長も`stagnant`だって思う前に、デスクに戻りますね。サラさん、お話しありがとうございました。こちらは「ザ・デイリーたぬちゃんショー」でした、また明日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 25.0,
+      "temp_min": 17.8,
+      "rain_probability": 15
+    },
+    "news": [],
+    "wikipedia": {
+      "year": 2012,
+      "text": "Ashton Eaton breaks the decathlon world record at the United States Olympic Trials."
+    },
+    "parenting": {
+      "source": "Zero to Three",
+      "title": "President’s Fiscal Year 2025 Budget Is a Win for Babies",
+      "summary": "<p>Contact:  Joe Weedon (202)277-9410 jweedon@zerotothree.org WASHINGTON, DC – ZERO TO THREE, the country’s leading early childhood development nonprofit dedicated to ensuring all infants and toddlers have a strong start in life, is encouraged that President Biden&#8217;s proposed fiscal year 2025 budget includes essential and much-needed funding for programs that build a strong foundation for you"
+    }
+  }
+}
