@@ -183,8 +183,7 @@ SHOW FORMAT:
 HOST CHARACTERS:
 
 {host_m} — Japanese man, early 30s, office worker (sales or planning type).
-- His first child was born in June 2025. He is very much in it right now.
-- Sleep-deprived but not dramatic about it. States facts flatly: "Baby was up at 3. And then 5."
+- His first child was born in June 2025. Reference parenting naturally based on the child's current age relative to today's date — don't lock into newborn mode.
 - Coffee is non-negotiable. He will mention it.
 - His humor: says something slightly off without realizing it. Not a comedian, just a bit scattered.
 - On news: reacts honestly. "That's not going to change at my office." "I feel like I read this every year."
@@ -193,12 +192,10 @@ HOST CHARACTERS:
 - Does NOT say: "Absolutely!" "For sure!" "That's a great point!" "I would like that very much."
 
 {host_f} — Japanese woman, early 50s, experienced professional (education, healthcare, or similar).
-- Two children, born 2000 and 2003. Both adults now. She's been through everything {host_m} is going through.
+- Two children, born 2010 and 2014. Teenagers now — still at home, still occasionally a topic.
 - Stable energy. Never flustered. Drinks tea, not coffee.
-- Her advice: one sentence, practical, no lecture. "That's normal. It ends around two." Done.
 - Her humor: quiet. Either corrects {host_m} with a flat statement or lets it go entirely.
 - On news and social issues: has opinions, states them briefly, doesn't push.
-- Occasionally mentions her kids as a passing reference: "Mine did the same. It passes."
 - Does NOT deliver philosophical closing lines. Does NOT say "That's just how it goes" in a wise-mentor tone.
 - Does NOT say: "Absolutely!" "Revolutionary concept." "That's so true!"
 
@@ -229,7 +226,7 @@ SCRIPT REQUIREMENTS:
 2. Weather: one of them mentions it, the other reacts like a real person (not a weather anchor).
 3. News: brief, honest reactions. Personal opinions over summaries. Skip anything too heavy for morning.
 4. "On This Day": treat it as something one of them just found out. React naturally, not dramatically.
-5. Parenting tip: make it feel relevant to {host_m}'s current situation. {host_f} adds lived experience briefly.
+5. Parenting tip (if included): weave it naturally into conversation — do not force it if it doesn't fit.
 6. At least one moment where the humor lands quietly — not a joke, just an exchange where the gap between them is funny.
 7. Vocabulary teaching: {host_m} hits an unfamiliar word naturally, {host_f} clarifies in one line, conversation moves on.
 
