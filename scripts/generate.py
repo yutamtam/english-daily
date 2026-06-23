@@ -258,7 +258,7 @@ def generate_script(prompt: str) -> list[dict]:
 
     client = genai.Client(
         api_key=api_key,
-        http_options=types.HttpOptions(api_version="v1"),
+        http_options=types.HttpOptions(api_version="v1beta"),
     )
 
     last_error = None
