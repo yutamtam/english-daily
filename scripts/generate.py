@@ -10,7 +10,6 @@ import os
 import random
 import sys
 import traceback
-from random import random as roll
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -155,14 +154,17 @@ Rain probability: {weather['rain_probability']}%""")
 
     content_section = "\n\n".join(content_blocks)
 
-    # Roll for personal character topics
+    # Pick one personal topic at random from all topics (1/N probability each)
     personal_lines = []
     characters = cfg.get("characters", {})
+    all_topics = []
     for char_key, char_name in [("alex", host_m), ("sarah", host_f)]:
         for topic in characters.get(char_key, {}).get("topics", []):
-            if roll() < topic.get("weight", 0.15):
-                personal_lines.append(f"- {char_name}: {topic['prompt']}")
-                print(f"  [topic] {char_name}: {topic['label']}")
+            all_topics.append((char_name, topic))
+    if all_topics:
+        char_name, topic = random.choice(all_topics)
+        personal_lines.append(f"- {char_name}: {topic['prompt']}")
+        print(f"  [topic] {char_name}: {topic['label']}")
 
     # Sample unknown words for calibration
     unknown_words = sample_unknown_words(level)
@@ -219,6 +221,13 @@ DYNAMIC:
 {host_m} sometimes asks her things expecting reassurance. Her answers are shorter than he expects.
 The humor comes from the gap between his anxiety and her calm — not from jokes or wordplay.
 Silences are fine. Short responses are fine. "...yeah." is a valid line.
+
+NAMES — CRITICAL:
+- Only {host_m} and {host_f} are named. Do not invent names for anyone else.
+- {host_m}'s child: "the baby", "my kid", "my little one" — never a name.
+- {host_f}'s children: "my kids", "my son", "my daughter" — never names.
+- Colleagues, friends, family: refer by role only ("a guy at work", "my neighbor") — never names.
+- Real famous people (politicians, athletes, historical figures) are fine.
 
 DIALOGUE RULES — CRITICAL:
 - Conversational exchanges (reactions, feelings, small talk): keep to 1-2 sentences. Short is natural.
