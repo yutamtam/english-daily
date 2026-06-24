@@ -195,7 +195,7 @@ VOCABULARY:
 - Write all dialogue naturally at the {level_label} level throughout."""
 
     if personal_lines:
-        personal_section = "\nPERSONAL TOPICS FOR TODAY (weave naturally — do not announce or force):\n" + "\n".join(personal_lines)
+        personal_section = "\nPERSONAL TOPIC FOR TODAY (optional):\n" + "\n".join(personal_lines) + "\nOnly include this if it connects naturally to the flow of conversation. If there is no natural opening, skip it entirely. Never force a topic change to introduce it."
     else:
         personal_section = ""
 
