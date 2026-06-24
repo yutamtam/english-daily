@@ -1,147 +1,162 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T13:22:30.670509+00:00",
+  "generated_at": "2026-06-24T13:44:54.908814+00:00",
   "vocab_level": 3,
   "script": [
     {
       "speaker": "Alex",
-      "text": "Morning, Sarah. Wow, already June 24th, 2026. Time flies, huh?",
-      "ja": "おはようございます、サラさん。わあ、もう2026年6月24日ですね。あっという間ですね。"
+      "text": "Morning, Sarah. June 24th already. Wow.",
+      "ja": "おはようございます、サラさん。もう6月24日ですか。早いですね。"
     },
     {
       "speaker": "Sarah",
-      "text": "It really does, Alex. Good morning. How are you doing today?",
-      "ja": "本当にね、アレックス。おはよう。調子はどう？"
+      "text": "Good morning, Alex. It really is. You look like you just woke up.",
+      "ja": "おはようございます、アレックス。本当にね。まだ寝てるみたいに見えるけど。"
     },
     {
       "speaker": "Alex",
-      "text": "I'm okay. Just waiting for my coffee to kick in. You know how it is. It's The Daily Tanu-chan Show, and I'm still half asleep.",
-      "ja": "まあまあです。コーヒーが効き始めるのを待ってるだけです。分かりますよね。ザ・デイリー・たぬちゃん・ショーなのに、まだ半分寝てるんです。"
+      "text": "Pretty much. Need my coffee. Essential for starting The Daily Tanu-chan Show, and, you know, my day.",
+      "ja": "まあ、そんな感じです。コーヒーが必要です。ザ・デイリーたぬちゃんショーを始めるためにも、そして、まあ、一日を始めるためにも。"
     },
     {
       "speaker": "Sarah",
-      "text": "I can imagine. I've got my tea here. Looks like it's going to be an overcast day in Tokyo.",
-      "ja": "想像できるわ。私は紅茶ね。東京は曇りの一日になりそうだわ。"
+      "text": "I can tell. At least the weather isn't too bad. Overcast, so not too bright yet.",
+      "ja": "そうでしょうね。でも天気は悪くないよ。曇りだから、まだそんなに明るくないし。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, really? I didn't even check. Is it going to rain? I'm hoping it stays dry for my commute later.",
-      "ja": "ああ、そうなんですか？見てなかったです。雨降るんですかね？今日の帰り道は降らないといいんですけど。"
+      "text": "Yeah, my phone says 25 degrees for the high today. Low of 18 overnight. Not bad for June.",
+      "ja": "ええ、今日の最高気温は25度ってスマホに出てます。夜は18度。6月にしては悪くないですね。"
     },
     {
       "speaker": "Sarah",
-      "text": "Rain probability is only 14%. High of 25.2°C, low of 18.0°C. So, pretty mild, actually.",
-      "ja": "降水確率は14%だけよ。最高が25.2度、最低が18.0度。だから、実際はかなり穏やかね。"
+      "text": "It's mild. And only a 14% chance of rain. Good for my garden.",
+      "ja": "穏やかだね。そして降水確率も14%だけ。私の庭にはちょうどいい。"
     },
     {
       "speaker": "Alex",
-      "text": "That's good. Mild is good. I'm always worried about the baby getting too hot or too cold when we're out.",
-      "ja": "それはいいですね。穏やかなのはいい。出かけるとき、いつも赤ちゃんが暑くなりすぎたり寒くなりすぎたりしないか心配なんですよね。"
+      "text": "Good for the garden. My sleep? Not so much. The baby's almost one now, and just started trying to stand up on everything.",
+      "ja": "庭には良いですけど。僕の睡眠はあんまりですね。赤ちゃんがもうすぐ1歳で、何にでもつかまって立とうとし始めてて。"
     },
     {
       "speaker": "Sarah",
-      "text": "They adapt quickly, but it's natural to worry. Hey, speaking of big news, I was just reading about something that happened 'On This Day' back in 2022.",
-      "ja": "すぐに順応するわよ、でも心配になるのは自然なことね。ねえ、大きなニュースといえば、2022年の「今日」に起こったことを読んでたのよ。"
+      "text": "That's a busy stage.",
+      "ja": "それは大変な時期ね。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh? What was that?",
-      "ja": "へえ？何だったんですか？"
+      "text": "Totally. My brain feels a bit fuzzy sometimes. Like, I get really *introspective* about how much coffee I drink.",
+      "ja": "本当に。頭がぼーっとすることもあります。なんていうか、自分がどれだけコーヒーを飲んでるか、すごく内省的になるんですよ。"
     },
     {
       "speaker": "Sarah",
-      "text": "The U.S. Supreme Court ruled in a case called Dobbs v. Jackson Women's Health Organization. Basically, it overturned Roe v. Wade and Planned Parenthood v. Casey.",
-      "ja": "米国最高裁判所が、ドブス対ジャクソン女性健康機構という訴訟で判決を下したの。要するに、ロー対ウェイド判決とプランニング・ペアレントフッド対ケイシー判決を覆したのよ。"
+      "text": "Introspective? You mean you think a lot about it? Deeply?",
+      "ja": "内省的？それについてたくさん考えるってこと？深く？"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, that. I remember hearing about that. So, it meant each state could decide its own abortion laws, right?",
-      "ja": "ああ、あれですか。それ、聞いた覚えがあります。つまり、各州が独自の人工妊娠中絶法を決められるようになった、ってことですよね？"
+      "text": "Yeah, exactly. I just... I think about the caffeine, how much I need it. It's a lot. Is that normal?",
+      "ja": "ええ、まさに。カフェインのこと、どれだけ必要としているか、考えちゃうんです。結構な量で。これって普通ですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "That's right. The authority went back to the individual states. It led to a lot of different laws starting to proliferate across the country.",
-      "ja": "その通りよ。権限が各州に戻されたの。それが原因で、国中にたくさんの異なる法律が『増殖』し始めたわね。"
+      "text": "I'm sure it is. I stick to tea.",
+      "ja": "きっとそうでしょうね。私はお茶派だから。"
     },
     {
       "speaker": "Alex",
-      "text": "Proliferate? What does that mean?",
-      "ja": "プロリフェレイト？どういう意味ですか？"
+      "text": "You always seem so calm. I don't know how you do it with two teenagers.",
+      "ja": "サラさんはいつも落ち着いてますよね。ティーンエイジャーが二人もいるのに、どうやってるんですか。"
     },
     {
       "speaker": "Sarah",
-      "text": "It means to increase rapidly in number. Like, a lot of different laws started popping up everywhere.",
-      "ja": "急速に数が増えるってこと。まるで、たくさんの異なる法律が至る所でどんどん現れ始めた、って感じね。"
+      "text": "It's different. My tomatoes are starting to ripen in the garden. I think I'll get a good harvest this year.",
+      "ja": "違うものよ。庭のトマトが熟し始めてるの。今年はいい収穫になりそう。"
     },
     {
       "speaker": "Alex",
-      "text": "Ah, I see. So things just got more complicated depending on where you lived. That's not going to change at my office, thankfully. But I can imagine it was a big deal there.",
-      "ja": "ああ、なるほど。住む場所によって物事がもっと複雑になった、と。それはうちの会社では変わらないでしょうけど、向こうでは大変なことだったでしょうね。"
+      "text": "That's really cool. I don't think I have the... the *affinity* for gardening. I usually kill everything.",
+      "ja": "それはすごいですね。僕にはガーデニングに対する、その、親近感がないというか。大抵、全部枯らしちゃうんです。"
     },
     {
       "speaker": "Sarah",
-      "text": "It was. It definitely made a lot of headlines for a long time.",
-      "ja": "そうね。しばらくの間、たくさんの見出しを飾ったのは確かよ。"
+      "text": "An affinity? It just means you don't feel a natural connection or liking for it.",
+      "ja": "親近感？それは、それに対して自然なつながりや好意を感じないってことね。"
     },
     {
       "speaker": "Alex",
-      "text": "Yeah. Speaking of things that are complicated… my daughter is starting to get really expressive now. She’s just turned one, and she has definite opinions. Sometimes she gets really frustrated when she can’t get what she wants.",
-      "ja": "ええ。複雑なことといえば…うちの娘が最近、本当に表情豊かになってきて。ちょうど1歳になったばかりなんですけど、はっきりとした意見があるみたいで。欲しいものが手に入らないと、すごくイライラする時があるんです。"
+      "text": "Oh, okay. Yeah, no natural connection. Even my houseplants struggle with me.",
+      "ja": "ああ、なるほど。ええ、自然なつながりはないですね。観葉植物でさえ僕とは相性が悪いみたいで。"
     },
     {
       "speaker": "Sarah",
-      "text": "Oh, the 'terrible twos' are just around the corner, then. Or maybe the 'frustrating ones.'",
-      "ja": "あら、『魔の2歳児』がもうすぐそこね。それか、『イライラする1歳児』かしら。"
+      "text": "Maybe you need something easier. Like herbs.",
+      "ja": "もっと簡単なものが必要なのかもね。ハーブとか。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh no. I read something recently, a parenting tip, about toddlers and challenging behavior. It said between two and three, they really start to assert themselves because they realize they’re separate individuals.",
-      "ja": "ええ、まさか。最近、子育てのヒントを読んだんです、幼児の困った行動について。2歳から3歳の間に、自分は親とは別の個人だと気づいて、本当に自己主張し始めるって書いてありました。"
+      "text": "I'll try. Hey, did you know today is 'UFO Day' in Japan? 空飛ぶ円盤記念日.",
+      "ja": "試してみます。ところで、今日って日本で「UFOの日」って知ってました？空飛ぶ円盤記念日。"
     },
     {
       "speaker": "Sarah",
-      "text": "That's very true. They're testing boundaries. It's a normal part of development.",
-      "ja": "それは本当にそうよ。境界線を試しているの。成長の正常な一部よ。"
+      "text": "Oh, is that right? I'd forgotten about that one.",
+      "ja": "ああ、そうだったわね。それは忘れてた。"
     },
     {
       "speaker": "Alex",
-      "text": "Right. But the article was also about how to respond. It talked about setting age-appropriate limits to help 'alleviate' their frustration and teach them.",
-      "ja": "ですよね。でも、記事は対処法についても書かれていました。彼らの欲求不満を『和らげる』手助けをして、教えるために、年齢に応じた制限を設けることについてでした。"
+      "text": "Yeah, it's about that guy in America who saw a 'flying saucer' in '47. Then the US Air Force named them UFOs.",
+      "ja": "ええ、1947年にアメリカの男性が「空飛ぶ円盤」を見たって話から来てます。それでアメリカ空軍がUFOって名付けたとか。"
     },
     {
       "speaker": "Sarah",
-      "text": "Alleviate means to make something less severe or easier to bear. So, making their frustration not quite so bad.",
-      "ja": "『和らげる』というのは、何かを深刻でなくしたり、より耐えやすくしたりすることよ。だから、彼らの欲求不満をそんなにひどくなくする、ってことね。"
+      "text": "Right. I remember reading about that. People were really fascinated by the idea back then.",
+      "ja": "そうね。それについて読んだ記憶があるわ。当時はみんなその考えにすごく魅了されていたのよね。"
     },
     {
       "speaker": "Alex",
-      "text": "Got it. So, not just letting them do whatever they want, but also not getting angry back. It’s tricky. I’m already trying to practice.",
-      "ja": "分かりました。つまり、好きなようにさせるだけじゃなくて、こっちも怒り返さない、と。難しいですね。もう練習し始めてます。"
+      "text": "I guess people still are. I mean, do you think it's even *feasible* that they exist?",
+      "ja": "今でもそうだと思います。というか、本当にUFOが存在するって、そもそも実行可能だと思いますか？"
     },
     {
       "speaker": "Sarah",
-      "text": "It is. My kids are teenagers now, and they still have strong opinions. They just express them more... verbosely.",
-      "ja": "そうね。うちの子たちはもうティーンエイジャーだけど、いまだに強い意見を持ってるわ。ただ、もっと…言葉多く表現するだけね。"
+      "text": "Feasible? You mean is it possible, or practical, that they could be real?",
+      "ja": "実行可能？つまり、それが実際にありえること、あるいは現実的であること、って意味？"
     },
     {
       "speaker": "Alex",
-      "text": "Verbosely? Is that another one of those words?",
-      "ja": "バーボーズリー？それもまたそういう言葉ですか？"
+      "text": "Yeah, possible. Like, could it actually happen? Like, little green men visiting?",
+      "ja": "ええ、可能か。実際に起こりえるのかってことです。例えば、緑色の小人が訪れてくるみたいな？"
     },
     {
       "speaker": "Sarah",
-      "text": "Yes, it means using too many words. Not very succinct, in other words.",
-      "ja": "ええ、言葉数が多すぎるって意味よ。言い換えれば、あまり簡潔じゃない、ってことね。"
+      "text": "Well, the universe is very big, Alex. Anything is possible.",
+      "ja": "まあ、宇宙はとても広いから、アレックス。何でもありえるわよ。"
     },
     {
       "speaker": "Alex",
-      "text": "Ah, okay. So, not succinct. I'll remember that for when she's older and telling me all about her day. Thanks, Sarah. This was helpful.",
-      "ja": "ああ、分かりました。簡潔じゃない、と。娘がもっと大きくなって、一日の出来事を全部話してくれるようになった時のために覚えておきます。ありがとう、サラさん。役に立ちました。"
+      "text": "That's not going to change at my office, I guess. No aliens showing up for the morning meeting.",
+      "ja": "うちのオフィスでは変わらないでしょうね、きっと。朝の会議に宇宙人が現れることはないか。"
     },
     {
       "speaker": "Sarah",
-      "text": "You're welcome, Alex. Good luck with the practice. We'll talk again soon.",
-      "ja": "どういたしまして、アレックス。練習頑張ってね。またすぐ話しましょう。"
+      "text": "Probably not. But it's fun to think about.",
+      "ja": "おそらくないでしょうね。でも、考えるのは楽しいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Speaking of thinking... I should probably get going before I'm late.",
+      "ja": "ええ。考えるといえば…遅れる前にそろそろ行かないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. Have a good one, Alex.",
+      "ja": "それがいいわ。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. See ya.",
+      "ja": "サラさんも。またね。"
     }
   ],
   "sources": {
@@ -154,13 +169,8 @@
     },
     "news": [],
     "wikipedia": {
-      "year": 2022,
-      "text": "In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992)."
-    },
-    "parenting": {
-      "source": "Zero to Three",
-      "title": "Toddlers and Challenging Behavior: Why They Do It and How to Respond",
-      "summary": "<p>This article explores the meaning behind challenging behaviors and how parents and caregivers can set age-appropriate limits for their toddlers. The year between age 2 and age 3 is an exciting one. Toddlers are realizing that they are separate individuals from their parents and caregivers. This means that they are driven to assert themselves, to communicate their likes and dislikes, [&#8230;]</"
+      "title": "空飛ぶ円盤記念日",
+      "description": "1947（昭和22）年、アメリカの実業家が自家用機で飛行中に空飛ぶ円盤を発見した。これをアメリカ空軍がUFO（未確認飛行物体）と名づけた。"
     }
   }
 }
