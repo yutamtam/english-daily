@@ -12,7 +12,7 @@
     "weather": true,
     "nhk_news": true,
     "wikipedia": true,
-    "parenting": true,
+    "parenting": false,
     "guardian": false
   },
   "show": {
