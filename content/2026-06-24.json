@@ -1,206 +1,166 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-23T22:55:18.600833+00:00",
+  "generated_at": "2026-06-24T13:22:30.670509+00:00",
   "vocab_level": 3,
   "script": [
     {
       "speaker": "Alex",
-      "text": "Morning, Sarah. June 23rd already. Can you believe it?",
-      "ja": "おはようございます、サラさん。もう6月23日ですよ。信じられます？"
+      "text": "Morning, Sarah. Wow, already June 24th, 2026. Time flies, huh?",
+      "ja": "おはようございます、サラさん。わあ、もう2026年6月24日ですね。あっという間ですね。"
     },
     {
       "speaker": "Sarah",
-      "text": "Morning, Alex. Yeah, another Tuesday. Time flies. Looks a bit gray out there today.",
-      "ja": "おはよう、アレックス。うん、また火曜日ね。あっという間だわ。今日は外が少し曇ってるみたいね。"
+      "text": "It really does, Alex. Good morning. How are you doing today?",
+      "ja": "本当にね、アレックス。おはよう。調子はどう？"
     },
     {
       "speaker": "Alex",
-      "text": "It does. I checked the forecast. Overcast, high 25.0°C, low 17.8°C. Only a 15% chance of rain, though. So, mostly just cloudy.",
-      "ja": "そうですね。予報を見たら、曇りで最高気温25度、最低17.8度でした。雨の確率は15%だけなので、ほとんど曇りでしょう。"
+      "text": "I'm okay. Just waiting for my coffee to kick in. You know how it is. It's The Daily Tanu-chan Show, and I'm still half asleep.",
+      "ja": "まあまあです。コーヒーが効き始めるのを待ってるだけです。分かりますよね。ザ・デイリー・たぬちゃん・ショーなのに、まだ半分寝てるんです。"
     },
     {
       "speaker": "Sarah",
-      "text": "That's nice. Good for a walk later maybe, before it gets too hot. I've been trying to get out more.",
-      "ja": "いいわね。後で少し散歩するのに良さそう。暑くなる前にね。私ももっと外に出るようにしてるのよ。"
+      "text": "I can imagine. I've got my tea here. Looks like it's going to be an overcast day in Tokyo.",
+      "ja": "想像できるわ。私は紅茶ね。東京は曇りの一日になりそうだわ。"
     },
     {
       "speaker": "Alex",
-      "text": "Yeah, if I can escape the office. I really, really need this coffee today. Leo was up at 4 AM again. Just decided it was playtime, you know?",
-      "ja": "ええ、もし会社から抜け出せたら、ですけど。今日は本当にこのコーヒーが必要です。レオがまた午前4時に起きて、遊びの時間だって決めたみたいで。"
+      "text": "Oh, really? I didn't even check. Is it going to rain? I'm hoping it stays dry for my commute later.",
+      "ja": "ああ、そうなんですか？見てなかったです。雨降るんですかね？今日の帰り道は降らないといいんですけど。"
     },
     {
       "speaker": "Sarah",
-      "text": "Oh, rough night. They certainly keep you busy at that age. It feels like every hour is different, doesn't it?",
-      "ja": "あら、大変な夜だったわね。あの年齢だと本当に忙しいでしょう。まるで毎時間違うことの連続って感じじゃない？"
+      "text": "Rain probability is only 14%. High of 25.2°C, low of 18.0°C. So, pretty mild, actually.",
+      "ja": "降水確率は14%だけよ。最高が25.2度、最低が18.0度。だから、実際はかなり穏やかね。"
     },
     {
       "speaker": "Alex",
-      "text": "Tell me about it. I jump at everything these days. Pretty sure it's the baby. Any little noise, I'm just instantly awake, checking the monitor, convinced something's wrong.",
-      "ja": "本当にね。最近は何でもすぐに飛び起きるんですよ。たぶん、赤ちゃんのせいでしょうね。ちょっとした物音でも、すぐに目が覚めてモニターを確認して、何かあったんじゃないかって思い込んじゃう。"
+      "text": "That's good. Mild is good. I'm always worried about the baby getting too hot or too cold when we're out.",
+      "ja": "それはいいですね。穏やかなのはいい。出かけるとき、いつも赤ちゃんが暑くなりすぎたり寒くなりすぎたりしないか心配なんですよね。"
     },
     {
       "speaker": "Sarah",
-      "text": "Hmm. Mine used to do that. With the first one, every cry was a major event. With the second, you're a bit more relaxed. They do grow out of it. Eventually. You just learn to function on less sleep.",
-      "ja": "んー。うちの子たちもそうだったわ。一人目の時は、泣き声一つ一つが大事件だった。二人目になると、もう少し落ち着くけどね。いずれはそうならなくなるわ。そのうちね。ただ、少ない睡眠でどうにかする術を覚えるだけよ。"
+      "text": "They adapt quickly, but it's natural to worry. Hey, speaking of big news, I was just reading about something that happened 'On This Day' back in 2022.",
+      "ja": "すぐに順応するわよ、でも心配になるのは自然なことね。ねえ、大きなニュースといえば、2022年の「今日」に起こったことを読んでたのよ。"
     },
     {
       "speaker": "Alex",
-      "text": "Right. Eventually. My wife says I should try to sleep when he sleeps, but that's easier said than done. There's always something to do, like laundry, or preparing bottles, or just staring at the ceiling, thinking about work.",
-      "ja": "そうですね。そのうち。妻は、彼が寝てる時に私も寝るべきだって言うんですけど、言うは易し行うは難しですよ。洗濯物とか、ミルクの準備とか、あとは天井を見つめながら仕事のことを考えたりとか、いつも何かやることがあるんです。"
+      "text": "Oh? What was that?",
+      "ja": "へえ？何だったんですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "There is. Always. Especially with the first. When my second was born, my older one was only four. It was a lot. I don't know how we managed sometimes.",
-      "ja": "そうね。いつもね。特に一人目の時は。私の二人目が生まれた時、上の子はまだ4歳だったの。本当に大変だったわ。どうやって乗り切ったのか、時々自分でもわからないくらい。"
+      "text": "The U.S. Supreme Court ruled in a case called Dobbs v. Jackson Women's Health Organization. Basically, it overturned Roe v. Wade and Planned Parenthood v. Casey.",
+      "ja": "米国最高裁判所が、ドブス対ジャクソン女性健康機構という訴訟で判決を下したの。要するに、ロー対ウェイド判決とプランニング・ペアレントフッド対ケイシー判決を覆したのよ。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, I can't even imagine. Just one is completely overwhelming some days. I'm not looking forward to the teenage years, honestly. This is already a lot to handle.",
-      "ja": "ああ、想像もつきません。一人だけでも、時々完全に手一杯になりますよ。正直、ティーンエイジャーの時期は楽しみじゃないです。これだけでもう十分大変です。"
+      "text": "Oh, that. I remember hearing about that. So, it meant each state could decide its own abortion laws, right?",
+      "ja": "ああ、あれですか。それ、聞いた覚えがあります。つまり、各州が独自の人工妊娠中絶法を決められるようになった、ってことですよね？"
     },
     {
       "speaker": "Sarah",
-      "text": "Different challenges, but still challenging. You adapt. And they become good company eventually.",
-      "ja": "違う種類の課題になるけど、それでも大変よ。でも、慣れるもの。そして、そのうちいい話し相手にもなるわ。"
+      "text": "That's right. The authority went back to the individual states. It led to a lot of different laws starting to proliferate across the country.",
+      "ja": "その通りよ。権限が各州に戻されたの。それが原因で、国中にたくさんの異なる法律が『増殖』し始めたわね。"
     },
     {
       "speaker": "Alex",
-      "text": "Hey, speaking of early mornings and things keeping you up, I was reading about \"On This Day\" while my coffee was brewing. In 2012, an athlete named Ashton Eaton broke the decathlon world record at the US Olympic Trials.",
-      "ja": "ねえ、早朝のことや眠れないことと言えば、コーヒーを淹れてる間に「On This Day」っていうのを読んでたんです。2012年に、アシュトン・イートンっていうアスリートが、アメリカのオリンピック選考会で十種競技の世界記録を破ったらしいです。"
+      "text": "Proliferate? What does that mean?",
+      "ja": "プロリフェレイト？どういう意味ですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "Decathlon? That's ten events, isn't it? Sprinting, jumping, throwing, running... Very impressive. I remember watching some of those events.",
-      "ja": "十種競技？あれって10種目よね？短距離走、跳躍、投擲、それにランニング…すごいわね。私も何種か見た記憶があるわ。"
+      "text": "It means to increase rapidly in number. Like, a lot of different laws started popping up everywhere.",
+      "ja": "急速に数が増えるってこと。まるで、たくさんの異なる法律が至る所でどんどん現れ始めた、って感じね。"
     },
     {
       "speaker": "Alex",
-      "text": "Yeah, ten events over two days. Pole vault, long jump, hurdles, discus, javelin, 100-meter dash, 400-meter run... It's just crazy. Imagine the dedication and sheer physical training that takes. My office doesn't even have a decent gym, let alone enough space to train for ten different sports.",
-      "ja": "ええ、2日間で10種目ですよ。棒高跳び、走り幅跳び、ハードル、円盤投げ、やり投げ、100メートル走、400メートル走…もうめちゃくちゃですよね。あれだけの献身と純粋な身体トレーニングには、どれほどのものが必要か想像してみてください。うちの会社にはまともなジムすらありませんし、ましてや10種類ものスポーツのトレーニングをするスペースなんて、とんでもない話です。"
+      "text": "Ah, I see. So things just got more complicated depending on where you lived. That's not going to change at my office, thankfully. But I can imagine it was a big deal there.",
+      "ja": "ああ、なるほど。住む場所によって物事がもっと複雑になった、と。それはうちの会社では変わらないでしょうけど、向こうでは大変なことだったでしょうね。"
     },
     {
       "speaker": "Sarah",
-      "text": "No, I imagine not. It's a whole different level of commitment. Years and years of focus.",
-      "ja": "ええ、そうでしょうね。全く違うレベルのコミットメントだわ。何年もの集中が必要よ。"
+      "text": "It was. It definitely made a lot of headlines for a long time.",
+      "ja": "そうね。しばらくの間、たくさんの見出しを飾ったのは確かよ。"
     },
     {
       "speaker": "Alex",
-      "text": "It really is. It makes me think about dedication. Like, I’m trying to be dedicated to being a good dad, but some days it just feels like... you're always playing catch-up, always exhausted.",
-      "ja": "本当にそうですよ。献身について考えさせられます。僕も良い父親になるために献身的にやろうとしてるんですけど、ある日はもう…いつも追いつくのに必死で、いつも疲れ切ってるような気がします。"
+      "text": "Yeah. Speaking of things that are complicated… my daughter is starting to get really expressive now. She’s just turned one, and she has definite opinions. Sometimes she gets really frustrated when she can’t get what she wants.",
+      "ja": "ええ。複雑なことといえば…うちの娘が最近、本当に表情豊かになってきて。ちょうど1歳になったばかりなんですけど、はっきりとした意見があるみたいで。欲しいものが手に入らないと、すごくイライラする時があるんです。"
     },
     {
       "speaker": "Sarah",
-      "text": "Parenthood is a marathon, not a sprint, as they say. You just keep going.",
-      "ja": "子育てはマラソンよ、短距離走じゃないって言うでしょ。ただ進み続けるの。"
+      "text": "Oh, the 'terrible twos' are just around the corner, then. Or maybe the 'frustrating ones.'",
+      "ja": "あら、『魔の2歳児』がもうすぐそこね。それか、『イライラする1歳児』かしら。"
     },
     {
       "speaker": "Alex",
-      "text": "Exactly. And I feel like I'm already losing the marathon sometimes. I saw this thing from \"Zero to Three\" about a new budget, President Biden's proposed fiscal year 2025 budget.",
-      "ja": "その通りです。そして、時々もうマラソンに負けてるんじゃないかって気がします。「Zero to Three」というところから、バイデン大統領の提案する2025会計年度の新しい予算についての記事を見かけたんです。"
+      "text": "Oh no. I read something recently, a parenting tip, about toddlers and challenging behavior. It said between two and three, they really start to assert themselves because they realize they’re separate individuals.",
+      "ja": "ええ、まさか。最近、子育てのヒントを読んだんです、幼児の困った行動について。2歳から3歳の間に、自分は親とは別の個人だと気づいて、本当に自己主張し始めるって書いてありました。"
     },
     {
       "speaker": "Sarah",
-      "text": "Oh, for babies and young children? I think I saw a headline about that too, something about early childhood funding.",
-      "ja": "あら、赤ちゃんと幼児のためのかしら？私もその見出しを見た気がするわ。幼児期教育の資金についてね。"
+      "text": "That's very true. They're testing boundaries. It's a normal part of development.",
+      "ja": "それは本当にそうよ。境界線を試しているの。成長の正常な一部よ。"
     },
     {
       "speaker": "Alex",
-      "text": "Yeah, it mentioned essential and much-needed funding for programs that build a strong foundation for young families. It called it a \"win for babies.\"",
-      "ja": "ええ、若い家族のための強力な基盤を築くプログラムに、不可欠で非常に必要な資金を提供すると書いてありました。「赤ちゃんたちの勝利」だって。"
+      "text": "Right. But the article was also about how to respond. It talked about setting age-appropriate limits to help 'alleviate' their frustration and teach them.",
+      "ja": "ですよね。でも、記事は対処法についても書かれていました。彼らの欲求不満を『和らげる』手助けをして、教えるために、年齢に応じた制限を設けることについてでした。"
     },
     {
       "speaker": "Sarah",
-      "text": "Good. Those programs are really important. Childcare is so expensive, and early education has such a big impact on a child's future. It's something that really needs more support.",
-      "ja": "それは良いことだわ。ああいうプログラムは本当に重要よ。保育料はとても高いし、早期教育は子どもの将来に大きな影響を与えるものだから。もっと支援が必要な分野だわ。"
+      "text": "Alleviate means to make something less severe or easier to bear. So, making their frustration not quite so bad.",
+      "ja": "『和らげる』というのは、何かを深刻でなくしたり、より耐えやすくしたりすることよ。だから、彼らの欲求不満をそんなにひどくなくする、ってことね。"
     },
     {
       "speaker": "Alex",
-      "text": "It really is. I mean, anything to help families, right? My wife and I are always trying to figure out how to, you know, `mitigate` some of the financial stress. The cost of formula alone is...",
-      "ja": "本当にそうですね。つまり、家族を助けるものなら何でも、ってことですよね？妻と僕はいつも、どうやって財政的なストレスを、そう、`mitigate`するか考えています。粉ミルクの費用だけでも…"
+      "text": "Got it. So, not just letting them do whatever they want, but also not getting angry back. It’s tricky. I’m already trying to practice.",
+      "ja": "分かりました。つまり、好きなようにさせるだけじゃなくて、こっちも怒り返さない、と。難しいですね。もう練習し始めてます。"
     },
     {
       "speaker": "Sarah",
-      "text": "`Mitigate`? What's that mean? I haven't heard that word in a while.",
-      "ja": "`Mitigate`？それってどういう意味？しばらくその言葉を聞いてなかったわ。"
+      "text": "It is. My kids are teenagers now, and they still have strong opinions. They just express them more... verbosely.",
+      "ja": "そうね。うちの子たちはもうティーンエイジャーだけど、いまだに強い意見を持ってるわ。ただ、もっと…言葉多く表現するだけね。"
     },
     {
       "speaker": "Alex",
-      "text": "Oh, `mitigate`? It's like, to make something less severe or less serious. So, making the stress less bad, or making a problem smaller. Like, you try to `mitigate` risks in a project.",
-      "ja": "ああ、`mitigate`ですか？それは、何かをより厳しくなくしたり、より深刻でなくしたりすることです。だから、ストレスをより悪くなくすとか、問題を小さくするとか。例えば、プロジェクトのリスクを`mitigate`しようとするとかですね。"
+      "text": "Verbosely? Is that another one of those words?",
+      "ja": "バーボーズリー？それもまたそういう言葉ですか？"
     },
     {
       "speaker": "Sarah",
-      "text": "Ah, I see. Yes, that's a good goal. We certainly tried to do that when our kids were little. It's not easy, especially when you have two close in age.",
-      "ja": "ああ、なるほど。ええ、それは良い目標ね。私たちも子どもたちが小さかった頃は、そうしようと努力したわ。特に年が近い子が二人いると、簡単じゃないのよね。"
+      "text": "Yes, it means using too many words. Not very succinct, in other words.",
+      "ja": "ええ、言葉数が多すぎるって意味よ。言い換えれば、あまり簡潔じゃない、ってことね。"
     },
     {
       "speaker": "Alex",
-      "text": "No, it's not. I wish they'd do more to `mitigate` stress at my office, too. We're always talking about `stagnant` growth in our division, but then they don't change anything fundamental about our strategy. It's just more meetings.",
-      "ja": "そうですね。うちの会社でも、もっとストレスを`mitigate`してくれたらいいのに。いつも部署の`stagnant`な成長について話してるのに、基本的な戦略は何一つ変えないんです。ただ会議が増えるだけ。"
+      "text": "Ah, okay. So, not succinct. I'll remember that for when she's older and telling me all about her day. Thanks, Sarah. This was helpful.",
+      "ja": "ああ、分かりました。簡潔じゃない、と。娘がもっと大きくなって、一日の出来事を全部話してくれるようになった時のために覚えておきます。ありがとう、サラさん。役に立ちました。"
     },
     {
       "speaker": "Sarah",
-      "text": "`Stagnant`?",
-      "ja": "`Stagnant`？"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Oh, sorry. `Stagnant` means not moving or changing. Like, if water is `stagnant`, it doesn't flow, it just sits there and gets dirty. So, \"stagnant growth\" means the company isn't growing at all, or very slowly. It's stuck in one place.",
-      "ja": "ああ、すみません。`Stagnant`は、動かない、変わらないという意味です。例えば、水が`stagnant`だと、流れなくてただそこに留まって汚くなるでしょう。だから、「stagnant growth」というのは、会社が全く成長していないか、とてもゆっくりとしか成長していない状態です。一箇所に留まっている感じ。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "I understand. That's a common problem in many places these days, unfortunately. It takes a lot to shake things up, especially in bigger companies.",
-      "ja": "わかったわ。残念ながら、最近は多くの場所でよくある問題ね。特に大企業だと、物事を大きく動かすのは大変だわ。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "I feel like I read about that every year. \"Growth is `stagnant`,\" but nobody actually does anything truly different to fix it. It's frustrating. That's not going to change at my office, I'm sure.",
-      "ja": "毎年そのことについて読んでる気がします。「成長は`stagnant`だ」って言っても、誰も実際に何か本当に違うことをして解決しようとしないんですよ。イライラします。僕の会社では変わらないでしょうね、きっと。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Sometimes it feels like that. It's hard to implement big changes, even when they're necessary. You just keep working through it.",
-      "ja": "時々そう感じるわよね。大きな変更を実施するのは難しいのよ、たとえそれが必須であっても。ただ、こなし続けるしかないの。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Yeah. Anyway, that's probably enough about my office problems. So, overcast all day, then? No need for an umbrella, at least.",
-      "ja": "ええ。まあ、僕の会社の問題はこれくらいにしておきましょう。それで、一日中曇りですか？少なくとも傘は要らないですね。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Looks like it. No rain, though. That's a plus. Good for drying laundry, or just enjoying the cooler air without getting soaked.",
-      "ja": "そうみたいね。でも雨は降らないわ。それはプラスね。洗濯物を干すのにもいいし、濡れずに涼しい空気を楽しむのにもね。"
-    },
-    {
-      "speaker": "Alex",
-      "text": "Yeah, definitely a plus. Well, I'd better get to my desk before my boss thinks my growth is `stagnant` too. Thanks for the chat, Sarah. This is The Daily Tanu-chan Show, and we'll be back tomorrow.",
-      "ja": "ええ、間違いなくプラスです。じゃあ、上司が僕の成長も`stagnant`だって思う前に、デスクに戻りますね。サラさん、お話しありがとうございました。こちらは「ザ・デイリーたぬちゃんショー」でした、また明日。"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Have a good one, Alex.",
-      "ja": "良い一日を、アレックス。"
+      "text": "You're welcome, Alex. Good luck with the practice. We'll talk again soon.",
+      "ja": "どういたしまして、アレックス。練習頑張ってね。またすぐ話しましょう。"
     }
   ],
   "sources": {
     "weather": {
       "location": "Tokyo",
       "description": "Overcast",
-      "temp_max": 25.0,
-      "temp_min": 17.8,
-      "rain_probability": 15
+      "temp_max": 25.2,
+      "temp_min": 18.0,
+      "rain_probability": 14
     },
     "news": [],
     "wikipedia": {
-      "year": 2012,
-      "text": "Ashton Eaton breaks the decathlon world record at the United States Olympic Trials."
+      "year": 2022,
+      "text": "In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992)."
     },
     "parenting": {
       "source": "Zero to Three",
-      "title": "President’s Fiscal Year 2025 Budget Is a Win for Babies",
-      "summary": "<p>Contact:  Joe Weedon (202)277-9410 jweedon@zerotothree.org WASHINGTON, DC – ZERO TO THREE, the country’s leading early childhood development nonprofit dedicated to ensuring all infants and toddlers have a strong start in life, is encouraged that President Biden&#8217;s proposed fiscal year 2025 budget includes essential and much-needed funding for programs that build a strong foundation for you"
+      "title": "Toddlers and Challenging Behavior: Why They Do It and How to Respond",
+      "summary": "<p>This article explores the meaning behind challenging behaviors and how parents and caregivers can set age-appropriate limits for their toddlers. The year between age 2 and age 3 is an exciting one. Toddlers are realizing that they are separate individuals from their parents and caregivers. This means that they are driven to assert themselves, to communicate their likes and dislikes, [&#8230;]</"
     }
   }
 }
