@@ -161,10 +161,21 @@ Rain probability: {weather['rain_probability']}%""")
     for char_key, char_name in [("alex", host_m), ("sarah", host_f)]:
         for topic in characters.get(char_key, {}).get("topics", []):
             all_topics.append((char_name, topic))
+    wildcard_count = cfg.get("characters", {}).get("wildcard_slots", 1)
+    all_topics += [(None, {"label": "wildcard", "prompt": None})] * wildcard_count
+
     if all_topics:
         char_name, topic = random.choice(all_topics)
-        personal_lines.append(f"- {char_name}: {topic['prompt']}")
-        print(f"  [topic] {char_name}: {topic['label']}")
+        if topic["label"] == "wildcard":
+            personal_lines.append(
+                "- One of the hosts spontaneously brings up a one-off topic — "
+                "something small and personal that a Japanese person in their situation might mention in passing. "
+                "Not one of their regular hobbies. Keep it grounded and specific."
+            )
+            print("  [topic] wildcard")
+        else:
+            personal_lines.append(f"- {char_name}: {topic['prompt']}")
+            print(f"  [topic] {char_name}: {topic['label']}")
 
     # Sample unknown words for calibration
     unknown_words = sample_unknown_words(level)
