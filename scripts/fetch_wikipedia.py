@@ -1,22 +1,34 @@
-import random
+import json
+import re
 import requests
-from datetime import datetime
 
 
 def fetch_on_this_day() -> dict | None:
-    today = datetime.now()
-    url = f"https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/{today.month}/{today.day}"
-    try:
-        resp = requests.get(url, timeout=10, headers={"User-Agent": "EnglishDaily/1.0"})
-        resp.raise_for_status()
-        events = resp.json().get("events", [])
-        if not events:
-            return None
-        # Pick from first 10 events to avoid very obscure ones
-        event = random.choice(events[:10])
-        return {
-            "year": event.get("year"),
-            "text": event.get("text", ""),
-        }
-    except Exception:
+    """Fetch today's theme from Yahoo! Kids Japan (今日は何の日)."""
+    resp = requests.get(
+        "https://kids.yahoo.co.jp/today",
+        timeout=10,
+        headers={"User-Agent": "EnglishDaily/1.0"},
+    )
+    resp.raise_for_status()
+
+    match = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>', resp.text, re.DOTALL)
+    if not match:
         return None
+
+    data = json.loads(match.group(1))
+    memories = (
+        data.get("props", {})
+            .get("pageProps", {})
+            .get("todayResponse", {})
+            .get("results", {})
+            .get("memories", [])
+    )
+    if not memories:
+        return None
+
+    memory = memories[0]
+    return {
+        "title": memory.get("title", ""),
+        "description": memory.get("description", ""),
+    }

@@ -142,7 +142,8 @@ Rain probability: {weather['rain_probability']}%""")
 
     if wikipedia:
         content_blocks.append(
-            f"[ON THIS DAY]\nIn {wikipedia['year']}: {wikipedia['text']}"
+            f"[TODAY'S THEME (今日は何の日)]\n"
+            f"{wikipedia['title']}: {wikipedia['description']}"
         )
 
     if parenting:
@@ -261,7 +262,7 @@ SCRIPT REQUIREMENTS:
 1. Open simply — just greet, say the date, get into it. No fanfare.
 2. Weather: one of them mentions it, the other reacts like a real person (not a weather anchor).
 3. News: brief, honest reactions. Personal opinions over summaries. Skip anything too heavy for morning.
-4. "On This Day": treat it as something one of them just found out. React naturally, not dramatically.
+4. Today's theme (今日は何の日): one of them brings it up casually — as if they just remembered or looked it up. React naturally, not dramatically. Feel free to explain what it means if it's Japan-specific.
 5. Parenting tip (if included): weave it naturally into conversation — do not force it if it doesn't fit.
 6. At least one moment where the humor lands quietly — not a joke, just an exchange where the gap between them is funny.
 7. Vocabulary teaching: {host_m} hits an unfamiliar word naturally, {host_f} clarifies in one line, conversation moves on.
