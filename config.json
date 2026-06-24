@@ -23,5 +23,55 @@
   },
   "email": {
     "to": "yuta.m0920@gmail.com"
+  },
+  "characters": {
+    "alex": {
+      "topics": [
+        {
+          "label": "ramen",
+          "prompt": "Alex mentions ramen — a craving, comparing rich vs light styles, a bowl he's been thinking about",
+          "weight": 0.15
+        },
+        {
+          "label": "sauna",
+          "prompt": "Alex brings up sento or sauna — a weekend ritual, the feeling of 'ととのう', the quiet of it",
+          "weight": 0.15
+        },
+        {
+          "label": "camping",
+          "prompt": "Alex mentions camping or outdoor gear — something he wants, a trip he's daydreaming about, the appeal of being outside",
+          "weight": 0.15
+        },
+        {
+          "label": "cycling",
+          "prompt": "Alex mentions cycling — his commute by bike or a weekend ride, something he noticed on the road",
+          "weight": 0.15
+        }
+      ]
+    },
+    "sarah": {
+      "topics": [
+        {
+          "label": "home_garden",
+          "prompt": "Sarah mentions her home garden — what's growing this season, a small success or failure, the satisfaction of it",
+          "weight": 0.15
+        },
+        {
+          "label": "walking",
+          "prompt": "Sarah mentions her morning walk — something she noticed, the weather, a route she likes",
+          "weight": 0.15
+        },
+        {
+          "label": "meal_prep",
+          "prompt": "Sarah mentions weekend meal prep — a dish she made ahead, why she does it, something she tried",
+          "weight": 0.15
+        },
+        {
+          "label": "domestic_travel",
+          "prompt": "Sarah mentions a domestic travel destination — somewhere she wants to go or has been, a hot spring or regional food she liked",
+          "weight": 0.15
+        }
+      ]
+    }
   }
 }

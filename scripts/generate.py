@@ -10,6 +10,7 @@ import os
 import random
 import sys
 import traceback
+from random import random as roll
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -154,6 +155,15 @@ Rain probability: {weather['rain_probability']}%""")
 
     content_section = "\n\n".join(content_blocks)
 
+    # Roll for personal character topics
+    personal_lines = []
+    characters = cfg.get("characters", {})
+    for char_key, char_name in [("alex", host_m), ("sarah", host_f)]:
+        for topic in characters.get(char_key, {}).get("topics", []):
+            if roll() < topic.get("weight", 0.15):
+                personal_lines.append(f"- {char_name}: {topic['prompt']}")
+                print(f"  [topic] {char_name}: {topic['label']}")
+
     # Sample unknown words for calibration
     unknown_words = sample_unknown_words(level)
     if unknown_words:
@@ -169,6 +179,11 @@ VOCABULARY CALIBRATION:
         vocab_guidance = f"""
 VOCABULARY:
 - Write all dialogue naturally at the {level_label} level throughout."""
+
+    if personal_lines:
+        personal_section = "\nPERSONAL TOPICS FOR TODAY (weave naturally — do not announce or force):\n" + "\n".join(personal_lines)
+    else:
+        personal_section = ""
 
     prompt = f"""You are writing a morning radio show script for a Japanese adult learning English.
 
@@ -220,6 +235,7 @@ DIALOGUE RULES — CRITICAL:
 
 CONTENT TO COVER (weave naturally into conversation — do not announce each segment):
 {content_section}
+{personal_section}
 
 SCRIPT REQUIREMENTS:
 1. Open simply — just greet, say the date, get into it. No fanfare.
