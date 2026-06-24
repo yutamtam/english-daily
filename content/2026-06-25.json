@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-24T23:02:34.608109+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. June 24th already. Wow.",
+      "ja": "おはようございます、サラさん。もう6月24日ですね。早いなぁ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's pouring outside, isn't it?",
+      "ja": "おはよう、アレックス。外はすごい雨だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, completely. And it's supposed to be 100% chance of rain all day. It's not even that warm, like 21 degrees.",
+      "ja": "ええ、本当に。しかも一日中100%の雨予報ですよ。そんなに暖かくもないし、21度くらいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good for the plants, I suppose. More tea for me today.",
+      "ja": "植物にはいいんじゃないかな。私は今日はお茶だな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tea. Right. I definitely need this coffee to kick off The Daily Tanu-chan Show today. My brain is still waking up.",
+      "ja": "お茶、ですね。僕は『デイリータヌちゃんショー』を始めるために、絶対にこのコーヒーが必要です。まだ頭が起きてない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Still having trouble sleeping?",
+      "ja": "まだ寝不足？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you know. The baby just turned one, so now it's less about night feedings and more about... 'What's that sound?' type of alertness. Every little noise.",
+      "ja": "ああ、いつものですよ。うちの子、ちょうど1歳になったばかりで、夜中の授乳は減ったんですけど、今度は『何の音だ？』っていう警戒心が。ちょっとした物音でもね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. I remember that phase. It passes.",
+      "ja": "うん。その時期、覚えてる。過ぎるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. I read an article this morning about companies trying to reduce overtime. They're trying to use 'deterrence' strategies. What exactly does 'deterrence' mean?",
+      "ja": "だといいんですけどね。今朝、会社が残業を減らそうとしてるっていう記事を読んだんですよ。なんか『デタランス』戦略を使ってるって。この『デタランス』って、どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Deterrence means discouraging someone from doing something by making the consequences seem unpleasant. Like a warning.",
+      "ja": "デタランスっていうのは、結果が嫌なものになるように思わせて、誰かが何かをするのをやめさせること。警告みたいなものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like putting signs up: 'No overtime after 7 PM, or you'll clean the breakroom!'",
+      "ja": "ああ、なるほど。「午後7時以降の残業禁止、さもないと休憩室を掃除！」みたいな張り紙をするとか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Something like that. Maybe less direct. More about creating a culture where it's not expected.",
+      "ja": "そんな感じかな。でも、もっと間接的かも。残業が期待されない文化を作るってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's not going to change at my office, I think. I feel like I read this every year. Anyway, speaking of work and homes, did you know today is 住宅デー, 'Housing Day'?",
+      "ja": "まあ、僕の会社では変わらないと思いますけどね。毎年こういう記事読んでる気がします。ところで、仕事とか家とかの話なんですけど、今日って『住宅デー』って知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, really? I didn't know that. What's it for?",
+      "ja": "あら、そうなの？それは知らなかった。何の日なの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's to recognize construction workers and craftsmen. It's also the birthday of Antonio Gaudi, the Spanish architect. I didn't know that part.",
+      "ja": "建築作業員や職人さんの存在を広く知ってもらおうっていう日みたいです。スペインの建築家アントニオ・ガウディの誕生日でもあるらしいですよ。それは知らなかったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Gaudi. Yes, the Sagrada Familia in Barcelona. Amazing structures.",
+      "ja": "ガウディね。バルセロナのサグラダ・ファミリア。素晴らしい建築物だよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I've always wanted to see that. My head feels like a real muddle thinking about all those intricate designs.",
+      "ja": "いつか見てみたいです。あの複雑なデザインを考えると、僕の頭は本当に「マドル」って感じです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A muddle? It just means a state of confusion or disorder. Your brain is not quite there yet, huh?",
+      "ja": "マドル？それは単に混乱したり、ごちゃごちゃした状態のことだよ。まだ頭が完全に起きてないってことね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. Too many early mornings. My kids are much older now, so it’s a bit different. My son is starting high school next year, and we're already looking at options.",
+      "ja": "その通りです。早朝が多すぎて。私の子供たちはもうずっと大きいから、ちょっと違うけどね。息子は来年高校生だし、もう選択肢を探し始めてるわ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son is starting high school next year, and we're already looking at options. It’s a bit different.",
+      "ja": "うちの息子も来年高校生だし、もう選択肢を探し始めてるわ。ちょっと違うわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. High school. That feels like a lifetime away for us. But thinking about Gaudi, I was just thinking about how important good design is for a home.",
+      "ja": "へえ、高校生ですか。うちには一生先の話のように感じます。でもガウディのことを考えてて、家にとって良いデザインがいかに大切かって思いました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It really is. You spend so much time there. It has to be comfortable.",
+      "ja": "本当にそうね。家で過ごす時間は長いから。快適じゃないと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Maybe for our next big trip, after the baby is a bit older, we could go somewhere with interesting architecture. Like Spain. Or even just a nice ryokan with a hot spring.",
+      "ja": "ですね。うちの子がもう少し大きくなったら、次の大きな旅行で、面白い建築がある場所に行きたいな。スペインとか。それか、温泉がある素敵な旅館でもいいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds good. I'd like a hot spring too.",
+      "ja": "それいいね。私も温泉に行きたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, hopefully, the rain lets up later. Have a good one, Sarah.",
+      "ja": "じゃあ、この雨も後で止んでくれるといいんですけどね。良い一日を、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Try to get some rest.",
+      "ja": "あなたもね、アレックス。少し休んでね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 21.1,
+      "temp_min": 19.0,
+      "rain_probability": 100
+    },
+    "news": [],
+    "wikipedia": {
+      "title": "住宅デー",
+      "description": "1978（昭和53）年、建築職人の存在を広く一般の人に知ってもらおうと、全国建設労働組合総連合が制定。日付はスペインの建築家、アントニオ・ガウディの誕生日（1852年生）にちなんだもの。"
+    }
+  }
+}
