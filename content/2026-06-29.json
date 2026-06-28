@@ -1,0 +1,197 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-28T22:43:04.096203+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, another Saturday, June 28th already. Time flies.",
+      "ja": "おはようございます、サラさん。わあ、もう土曜日、6月28日か。時間があっという間ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It really does. You look like you just woke up.",
+      "ja": "おはよう、アレックス。本当にね。今起きたばかりみたいだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Pretty much. The baby was up late last night. I need coffee. Seriously, I can't function without it.",
+      "ja": "まあ、そんな感じです。昨晩、赤ちゃんが遅くまで起きてて。コーヒーが必要。本気で、これがないと動けない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm on my third cup of tea. It's drizzling out, too. Not a great start to the weekend.",
+      "ja": "私はお茶3杯目よ。外は小雨だしね。週末の始まりとしてはイマイチ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, is it? I didn't even notice. My head is still in bed. Light drizzle, huh? So, not a washout, but still wet. High 23.6, low 19.9. Rain probability 44%.",
+      "ja": "ああ、そうなんですか？全然気づかなかった。まだ頭が寝てます。小雨かあ。じゃあ、びしょ濡れじゃないけど、やっぱり濡れると。最高23.6度、最低19.9度。降水確率44%ですか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just enough to make things feel damp. My son has baseball practice later. He won't be happy.",
+      "ja": "ちょうどじめじめするくらいね。うちの息子、後で野球の練習があるの。喜ばないだろうな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I get that. My kid just wants to crawl around inside all day, so the rain doesn't change much for us. But still. Anyway, have you seen the news this morning?",
+      "ja": "ええ、分かります。うちの子は一日中家の中でハイハイしてるから、雨でもあまり変わらないんですけどね。でもやっぱり。ところで、今朝のニュース見ましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A little bit. What caught your eye?",
+      "ja": "少しだけね。何か気になることがあった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, there's this Tokyo music venue looking for a band to live on the premises and perform every day for a week. That's kind of… an unorthodox idea, isn't it?",
+      "ja": "ええと、東京の音楽会場が、敷地内に住み込んで1週間毎日演奏するバンドを探してるって。それはちょっと…型破りなアイデアですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Unorthodox means it's not traditional or typical. It's a bit unusual. I think it could be interesting for a young band, though.",
+      "ja": "型破りというのは、伝統的でも典型的でもない、ちょっと変わったやり方ってことね。若いバンドにとっては面白いかもしれないけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, unorthodox. Like, I wouldn't want to live at my office. But for a band... I guess it's a good way to get noticed. Get some exposure.",
+      "ja": "なるほど、型破り。例えば、僕は自分の会社に住みたくないけど。でもバンドにとっては…注目される良い方法なんでしょうね。露出が増える。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It could be. My daughter would probably love to try something like that if she played an instrument. She's always looking for something new.",
+      "ja": "そうかもしれないわね。うちの娘も楽器を弾いてたら、そういうのを試したがるかも。いつも何か新しいことを探してるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of unique living, there's also a story about a Japanese master craftsman building a stunning tiny house on wheels. Have you seen those on YouTube?",
+      "ja": "ユニークな住まいといえば、日本の熟練職人が素晴らしいタイニーハウスを車輪の上に乗せて建てたという話もありますね。YouTubeで見たことあります？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I love those! My kids show them to me all the time. They're so clever, aren't they?",
+      "ja": "ああ、大好きよ、あれ！うちの子たちがいつも見せてくれるの。すごく賢い作りだよね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They are. The detail, the space-saving designs... it takes a lot of finesse to build something so small and functional.",
+      "ja": "そうなんです。細部まで、省スペースのデザイン…あんなに小さくて機能的なものを作るには、かなりの繊細な技が必要ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Finesse means great skill and care, especially with small details. It's not just about building, it's about making it perfect.",
+      "ja": "繊細な技というのは、特に細かい部分における優れた技術と気遣いのこと。ただ作るだけじゃなくて、完璧に仕上げるってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That makes sense. With a baby, I feel like our apartment is already a tiny house. No wheels, though. My kid is just starting to walk, so we need all the open space we can get.",
+      "ja": "なるほど。赤ちゃんがいると、僕らのアパートもすでにタイニーハウスみたいですよ。車輪はないけど。うちの子、ちょうど歩き始めたばかりだから、できるだけ広いスペースが必要なんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. You can never have enough space. What else was in the news?",
+      "ja": "あの頃を思い出すわ。いくらあっても足りないスペースね。他にニュースはあった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The last one is a bit more serious. Japan is considering deploying unmanned submarines in a Pacific defense buildup. What does 'buildup' mean in this context?",
+      "ja": "最後はもう少し深刻なニュースです。日本が太平洋での防衛強化のために無人潜水艦の配備を検討していると。この文脈での「buildup（強化）」ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means increasing the number or strength of something. So, making their defense stronger. They're trying to bolster their defense posture.",
+      "ja": "それは、何かものの数や強度を増やすってことよ。だから、防衛をより強くすること。防衛態勢を強化しようとしているのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, bolster. So, beefing up. I guess that makes sense, given... everything. But unmanned submarines? That's a new level.",
+      "ja": "なるほど、強化。つまり、増強するってことですね。まあ、色々なことを考えると理解できますけど。でも無人潜水艦ですか？それはまた新しいレベルですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a changing world. Countries are always looking for new ways to protect themselves. It's a complex issue.",
+      "ja": "世の中は変わっていくものだから。各国は常に自国を守る新しい方法を探してる。複雑な問題よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. That's not really going to change anything in my office, though. We'll still be chasing deadlines.",
+      "ja": "ええ。でも、僕のオフィスでは何も変わらないでしょうね。相変わらず締め切りに追われているだろうし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not. Oh, I just remembered. Today is Tsukudani Day.",
+      "ja": "そうね、たぶん。あ、そうだ、思い出した。今日は佃煮の日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tsukudani Day? I didn't know that. Why today?",
+      "ja": "佃煮の日ですか？それは知らなかった。なぜ今日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because Sumiyoshi Shrine on Tokyo's Tsukuda Island, where tsukudani originated, was built on this day back in 1646. So, the national processed food industry group made it an official day.",
+      "ja": "佃煮の発祥の地である東京の佃島にある住吉神社が、1646年のこの日に造営されたからよ。それで、全国調理食品工業協同組合が制定したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1646. That's a long time ago. I actually had some tsukudani with my rice this morning. Konbu and shirasu.",
+      "ja": "わあ、1646年ですか。ずいぶん昔ですね。実は今朝、ご飯と一緒に佃煮食べましたよ。昆布とシラスの。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Nice choice. It's a good way to start the day. Very Japanese.",
+      "ja": "良いチョイスね。1日の始まりには良いわ。とても日本的。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. My wife always makes sure we have some in the fridge. Helps me feel a bit more grounded after a crazy night with the baby.",
+      "ja": "そうですね。妻がいつも冷蔵庫に用意してくれているんです。赤ちゃんとのクレイジーな夜の後でも、少し落ち着けます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure it does. Well, that's enough news for now, don't you think? We should probably get ready for the day.",
+      "ja": "そうでしょうね。まあ、ニュースはこれくらいでいいんじゃない？そろそろ今日の準備をしないとね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. Thanks for the quick English lessons, Sarah. And for the tsukudani history.",
+      "ja": "ええ、そうですね。サラさん、ちょっとした英語のレッスンと佃煮の歴史、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anytime, Alex. This is The Daily Tanu-chan Show.",
+      "ja": "どういたしまして、アレックス。こちらは『ザ・デイリー・タヌちゃんショー』です。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 23.6,
+      "temp_min": 19.9,
+      "rain_probability": 44
+    },
+    "news": [
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Japan weighs deploying unmanned submarines in Pacific defense buildup",
+        "summary": "The government is considering the full-scale development and deployment of unmanned submarines equipped with anti-ship strike capabilities as part of efforts to bolster Japan's defense posture in the…",
+        "link": "https://japantoday.com/category/national/japan-weighs-deploying-unmanned-submarines-in-pacific-defense-buildup"
+      }
+    ],
+    "wikipedia": {
+      "title": "佃煮の日",
+      "description": "佃煮発祥の地の守り神として創建されている東京佃島の住吉神社が、1646年のこの日に造営されたことから、全国調理食品工業協同組合が制定。"
+    }
+  }
+}
