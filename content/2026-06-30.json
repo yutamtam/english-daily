@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-29T22:40:46.267056+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Happy Monday.",
+      "ja": "おはようございます、サラさん。月曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It's June 29th, 2026.",
+      "ja": "おはよう、アレックス。2026年6月29日です。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, almost July already. Time flies, especially with a one-year-old. I need more coffee.",
+      "ja": "わあ、もうすぐ7月ですね。1歳の子供がいると、本当に時間が経つのが早い。もっとコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it does. Looks like it's going to be an overcast day today.",
+      "ja": "ええ、そうね。今日は一日中曇りのようね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I saw that. High of 27.4, low of 21.2. And a 55% chance of rain. So, a little sticky.",
+      "ja": "そうですね。見ました。最高気温27.4度、最低21.2度。降水確率55%か。ちょっとジメジメしますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's summer in Tokyo. What can you do? I've got my tea ready, though.",
+      "ja": "東京の夏だからね。仕方ないわ。私はお茶の準備はできてるけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good for you. This is The Daily Tanu-chan Show, by the way. Okay, so I was looking at the news headlines from NHK World, and one really caught my eye.",
+      "ja": "いいですね。ところで、こちらはThe Daily Tanu-chan Showです。ええと、NHKワールドのニュースヘッドラインを見てたんですけど、一つすごく目を引いたのがありました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh?",
+      "ja": "あら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The Sailor Moon fan club is taking applications for 2017 with English sign-up support. Why 2017? It's 2026 now.",
+      "ja": "セーラームーンのファンクラブが2017年の申し込みを受け付けてるって。英語での登録サポートあり、って。なんで2017年なんでしょう？今2026年ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. Probably an old article that popped up, or they're re-running it for some reason.",
+      "ja": "うーん。多分、古い記事がたまたま上がってきたか、何か理由があって再掲載してるんじゃないかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that makes sense. I was thinking maybe they just really love 2017.",
+      "ja": "ああ、なるほど。僕は、彼らがただ2017年をすごく愛してるのかな、とか思っちゃいました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe. The article says the manga debuted 26 years ago. It has a huge fanbase.",
+      "ja": "かもね。記事には漫画が26年前にデビューしたって書いてあるわね。すごいファン層があるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my wife used to watch it. I think she had a poster. Not as big as, like, a life-size cardboard cutout, but still.",
+      "ja": "ええ、妻が昔見てましたよ。ポスターとか持ってたと思います。等身大の段ボールのやつ、とまではいかないけど、それでも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A lot of people feel that way about their childhood shows. Another headline mentioned ukiyo-e tarot cards. East-meets-West. I thought that sounded interesting.",
+      "ja": "多くの人が子供の頃の番組にそういう気持ちを持ってるわね。もう一つのヘッドラインは、浮世絵のタロットカードについてだったわね。東洋と西洋の融合。それは面白いと思ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ukiyo-e tarot cards? That sounds kind of... flamboyant.",
+      "ja": "浮世絵のタロットカード？なんか、こう…フラムボヤントですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Flamboyant? Do you mean showy, or very noticeable?",
+      "ja": "フラムボヤント？派手とか、すごく目立つってことかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Like, very colorful and dramatic. Is that what 'flamboyant' means?",
+      "ja": "ええ、まさにそれです。すごくカラフルでドラマチックな感じ。それが「フラムボヤント」って意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it means attracting attention because you're very confident and stylish, or brightly colored and noticeable. So, like a very showy style.",
+      "ja": "そうね、自信があってスタイリッシュだったり、明るい色で目を引いたりして、注目を集めることよ。だから、すごく派手なスタイルって感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, that makes sense. I can imagine ukiyo-e in that style. Do you believe in tarot cards, Sarah?",
+      "ja": "なるほど、それならわかります。そのスタイルの浮世絵は想像できますね。サラさんはタロットカードとか信じますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not really, but I find the art interesting. The story behind them. It's a different way to look at things.",
+      "ja": "特に信じるわけじゃないけど、芸術としては面白いと思うわ。その背景にある物語とかね。物事を見る違う視点、って感じかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. My son asked me about fortune-telling the other day. He saw a booth at the station.",
+      "ja": "そうですね。うちの息子もこの前、駅で占いブースを見て、あれは何だって聞いてきました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're curious about everything at that age.",
+      "ja": "その年頃は何にでも興味を持つものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, he is. My little one is also starting to explore everything. Reaches for everything.",
+      "ja": "ええ、そうですね。うちの小さいのも、何でも探索し始めてます。何でも手を伸ばして。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's how they learn. Just keep the breakables out of reach.",
+      "ja": "そうやって学ぶのよ。割れ物だけは届かないところに置いておけばいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm trying! You know, I just remembered, it's Transistor Day today. トランジスタの日.",
+      "ja": "頑張ってます！そういえば、今思い出したんですけど、今日は「トランジスタの日」なんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right. June 29th.",
+      "ja": "ああ、そうだったわね。6月29日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the transistor was first shown to the public on this day in 1948 by three American scientists. It feels like a pretty momentous invention.",
+      "ja": "ええ、1948年の今日、アメリカの3人の科学者によってトランジスタが初めて公開されたんです。かなりモメンタスな発明ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was. 'Momentous' means very important or serious, especially because of its effect on future events. So, yes, it changed everything for electronics.",
+      "ja": "そうね。「モメンタス」というのは、特に将来の出来事に影響を与えるほど、非常に重要で深刻な、という意味よ。だから、ええ、電子機器の世界を全て変えたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a good way to put it. It really did change everything. I can't imagine life without computers or phones now.",
+      "ja": "いい表現ですね。本当にすべてを変えました。今やパソコンや電話がない生活なんて想像できません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, you can't. My kids certainly can't. They're glued to their devices.",
+      "ja": "ええ、無理ね。私の子供たちは特に無理でしょう。彼らはデバイスに釘付けよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mine too, when he's older. I feel like the screen time battles are going to be the bane of my existence.",
+      "ja": "うちの子も、もっと大きくなったらそうなるんでしょうね。スクリーンタイムの戦いが僕の人生のベインになりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Bane'? Do you mean something that causes a lot of trouble or unhappiness?",
+      "ja": "ベイン？何かたくさんの問題や不幸を引き起こすものってことかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes, exactly! Like, the thing that just constantly causes problems. Is that right?",
+      "ja": "はい、そうです！まさに、常に問題を引き起こすもの。それで合ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's often used for a person or thing that spoils something or causes trouble. Like, 'The bane of my life is trying to find matching socks.'",
+      "ja": "そうね。何かを台無しにしたり、問題を引き起こしたりする人や物によく使われるわ。例えば、「私の人生のベインは、ペアになる靴下を見つけることだ」みたいに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a great example. Socks are definitely a bane. And I think screen time will be for me.",
+      "ja": "それは良い例ですね。靴下は確かにベインです。そして、スクリーンタイムも僕にとってはそうなると思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll figure it out. Speaking of everyday things, I tried a new meal prep recipe this weekend.",
+      "ja": "大丈夫、なんとかなるわ。日常のことといえば、この週末に新しい作り置きレシピを試してみたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh? What was it?",
+      "ja": "おお？何を作ったんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A big batch of chicken and vegetable stir-fry. With a ginger-soy sauce. It makes the weekdays much easier.",
+      "ja": "鶏肉と野菜の炒め物を大量にね。生姜醤油味で。平日の食事がずっと楽になるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds smart. I always feel like I'm rushing to make dinner after work. And then the baby wakes up.",
+      "ja": "それは賢いですね。いつも仕事の後、夕食を作るのに急いでる気がします。そして赤ちゃんが起きる、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You get used to it. Or you find shortcuts. That's usually what happens.",
+      "ja": "慣れるものよ。あるいは、近道を見つけるの。たいていそうなるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. My shortcut right now is instant ramen. Not very healthy.",
+      "ja": "そうだといいな。今の僕の近道はインスタントラーメンです。あんまり健康的じゃないですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, Alex, it's been good talking. We're out of time.",
+      "ja": "まあ、アレックス。話せてよかったわ。時間が来てしまったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Already? Okay. Have a good Monday, Sarah.",
+      "ja": "もうですか？わかりました。良い月曜日を、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. And enjoy that coffee.",
+      "ja": "あなたもね、アレックス。そしてコーヒーをどうぞ。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 27.4,
+      "temp_min": 21.2,
+      "rain_probability": 55
+    },
+    "news": [
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      },
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      }
+    ],
+    "wikipedia": {
+      "title": "トランジスタの日",
+      "description": "1948（昭和23）年、アメリカAT＆Tベル研究所のウィリアム・ショックレイ、ジョン・バーディン、ウォルター・ブラッテンが発明したトランジスタを初公開。"
+    }
+  }
+}
