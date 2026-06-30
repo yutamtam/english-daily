@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-06-30T23:43:53.080749+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Happy Monday, June 30th, 2026.",
+      "ja": "おはようございます、サラさん。月曜日、2026年6月30日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like a pretty standard rainy season day out there, doesn't it?",
+      "ja": "おはよう、アレックス。なんだか梅雨らしい一日みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's a bit of a drizzle. They're saying 26.7 for the high, 21 for the low, and a 59% chance of rain. So... yeah. Drizzle.",
+      "ja": "ええ、ちょっと霧雨ですね。最高気温は26.7度、最低は21度、降水確率は59%って言ってますね。だから…まあ、霧雨です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just enough to make you carry an umbrella all day, then not really need it.",
+      "ja": "一日中傘を持ち歩いて、結局あまり使わないパターンね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. I'm already on my second cup of coffee. Need it to get through this... *gestures vaguely* ...this weather.",
+      "ja": "まさにそれです。もう2杯目のコーヒー飲んでますよ。この…*漠然とジェスチャー*…この天気を乗り切るために。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sticking with tea. Less jitters.",
+      "ja": "私はお茶でいいわ。その方が落ち着くから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Okay, so, for The Daily Tanu-chan Show today, I was looking at the news headlines. Something interesting from NHK World about women in STEM.",
+      "ja": "そうですね。さて、今日のデイリーたぬちゃんショーですが、ニュースの見出しを見ていました。NHKワールドから、STEM分野の女性に関する興味深い記事がありました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Japan is aiming to double the proportion of women in science, technology, engineering, and math fields by 2040. And they're going to provide something called 'subsidies' to universities.",
+      "ja": "日本は2040年までに、科学、技術、工学、数学の分野で女性の割合を2倍にすることを目指しているそうです。そして、大学に『subsidies』と呼ばれるものを提供するって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Subsidies. That means money or support given by the government, usually to help something grow or become more affordable.",
+      "ja": "Subsidiesね。それは政府が提供するお金や支援のことで、通常、何かを成長させたり、より手頃な価格にしたりするのを助けるためよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, like, financial help. That's a good thing, I guess. Though I feel like I read about this every year.",
+      "ja": "ああ、なるほど。つまり、財政的な援助ってことですね。それは良いことだと思いますけど、毎年こんな記事を読んでいる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an ongoing challenge. Changing culture takes a long time.",
+      "ja": "継続的な課題ね。文化を変えるには長い時間がかかるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. And then there was a local train derailment at Kyoto Station yesterday morning. No injuries, which is the important part.",
+      "ja": "そうですね。それから、昨日の朝、京都駅でローカル線が脱線したそうです。けが人がいなかったのが何よりですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a relief. Train safety here is usually so good.",
+      "ja": "それは安心したわ。日本の鉄道の安全性はいつも素晴らしいから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Oh, and this one was kind of fun. A Tokyo music venue is looking for a band to live on the premises and perform every day for a week.",
+      "ja": "ええ、本当に。ああ、それからこれはちょっと面白かったですよ。東京の音楽会場が、敷地内に住み込んで1週間毎日演奏するバンドを探しているそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "On the premises?",
+      "ja": "敷地内に？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, live there. What does that mean, exactly? Like, in the building? Or, like, in a little house next door? Because if it's in the building, I mean, that would be a lot of noise. For a week, every day. My little one would never sleep. Not that they sleep much anyway.",
+      "ja": "ええ、そこに住むって。それって正確にはどういう意味ですか？建物の中に？それとも隣の小さな家に？もし建物の中だったら、かなりの騒音でしょうね。1週間毎日。うちの子は全然寝られないだろうな。まあ、普段からあまり寝ないんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Premises means the building and the land around it. So, yes, probably in the building.",
+      "ja": "Premisesというのは、建物とその周りの土地のことよ。だから、そうね、おそらく建物の中でしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Okay. So, basically, it's a music bootcamp. Intense. My kid, who just turned one, is already a pretty loud musician, actually. I mean, they love banging on pots and pans. Maybe they could try out when they're older. They've got the rhythm.",
+      "ja": "なるほど。つまり、音楽合宿みたいなものですね。ハードだ。うちの子、ちょうど1歳になったばかりなんですけど、すでにかなりの騒がしいミュージシャンですよ。だって、鍋とかフライパンを叩くのが大好きなんです。もっと大きくなったらオーディション受けてみるのもいいかもしれませんね。リズム感はあります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like fun for them. And for you, I'm sure.",
+      "ja": "楽しそうね、お子さんにとっては。そして、あなたにとっても、きっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it's great. Yeah. My ears are ringing constantly. It's actually making me crave a very rich, tonkotsu ramen. The kind that sticks to your ribs.",
+      "ja": "ええ、最高ですよ。耳鳴りが常にしています。それが原因で、すごくこってりしたとんこつラーメンが食べたくなってきましたよ。身に染みるようなやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's quite a jump from music venues.",
+      "ja": "音楽会場からずいぶん話が飛んだわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is, isn't it? The sleep deprivation, I guess. I had a dream about a bowl last night.",
+      "ja": "そうですね、なんか飛んじゃいましたね。寝不足のせいかな。昨夜、夢でラーメンを食べてました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You do seem a bit scattered today.",
+      "ja": "今日はちょっと落ち着きがないように見えるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Probably. It's the parenting. You know, they just started walking, so now it's a whole new level of chaos. Always on the move. Do your kids still keep you up at night sometimes?",
+      "ja": "かもしれません。子育てですよ。ほら、歩き始めたばかりだから、もう混沌のレベルが全然違うんです。常に動き回ってる。サラさんのところのお子さんたちも、まだ夜中に起こしたりしますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine are teenagers now. Different reasons for staying up.",
+      "ja": "うちの子たちはもうティーンエイジャーよ。夜更かしする理由は違うわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Texting, social media... I guess that's just the next stage.",
+      "ja": "ですよね。テキストメッセージとか、SNSとか…それが次の段階なんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Something like that. Anyway, speaking of kids, do you know what today is?",
+      "ja": "そんなところよ。ところで、子どもの話といえば、今日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm? June 30th. Is it, like, 'clean your desk' day? Because I should really do that.",
+      "ja": "え？6月30日。なんか、『机をきれいにしよう』の日とかですか？僕、本当にやらなきゃいけないんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's 'Doyo no Hi' - Children's Song Day. It commemorates the founding of 'Akai Tori' magazine in 1918.",
+      "ja": "違うわ、『童謡の日』よ。1918年に『赤い鳥』という雑誌が創刊されたのを記念して。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, Akai Tori! I know that one. It's a really famous children's literary magazine, right?",
+      "ja": "ああ、赤い鳥！知ってます。すごく有名な児童文学雑誌ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The Japan Children's Song Association established this day to preserve and promote children's songs as a kind of cultural heritage.",
+      "ja": "そうよ。日本童謡協会が、童謡を文化的な『heritage』、つまり遺産として保存し、広める目的で制定したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Heritage. So, like, something important from the past that we want to keep for the future?",
+      "ja": "Heritage。つまり、過去からの大切なもので、未来に引き継ぎたいもの、ってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Like historical buildings or traditional arts. Or children's songs.",
+      "ja": "その通り。歴史的な建物や伝統芸術と同じよ。あるいは童謡もね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's cool. I'm already collecting all the children's books and songs for my kid. Maybe they'll be a singer, not a drummer.",
+      "ja": "それはいいですね。うちの子のために、もう絵本とか童謡とか集めていますよ。ドラマーじゃなくて、歌手になるかもしれませんね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Could be. Or both.",
+      "ja": "そうかもしれないわね。両方とか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. You never know. Anyway, I think that's about all the time we have for this morning. Thanks, Sarah.",
+      "ja": "そうですね。何があるかわかりません。とにかく、今朝はこのあたりで時間切れですね。サラさん、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome, Alex. Enjoy that third coffee.",
+      "ja": "どういたしまして、アレックス。3杯目のコーヒーを楽しんでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I will. See you tomorrow!",
+      "ja": "はい、そうします。また明日！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 26.7,
+      "temp_min": 21.0,
+      "rain_probability": 59
+    },
+    "news": [
+      {
+        "title": "Japan aims to double women in STEM by 2040, provide subsidies to schools",
+        "summary": "The Japanese government said that it will aim to double the proportion of women in science, technology, engineering and mathematics fields by 2040 and provide aid to universities…",
+        "link": "https://japantoday.com/category/national/japan-aims-to-double-women-in-stem-by-2040-provide-subsidies-to-schools"
+      },
+      {
+        "title": "Local train derails at Kyoto Station; no injuries",
+        "summary": "A local train derailed at Kyoto Station on Monday morning but none of the roughly 30 passengers aboard were injured, the train operator said.\nThe four-car train bound…",
+        "link": "https://japantoday.com/category/national/local-train-derails-at-kyoto-station-no-injuries"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      }
+    ],
+    "wikipedia": {
+      "title": "童謡の日",
+      "description": "1918（大正7）年、児童文芸誌「赤い鳥」が創刊されたことを記念して、日本童謡協会が制定。童謡を日本の文化遺産として保存、アピールすることを目的にしたもの。"
+    }
+  }
+}
