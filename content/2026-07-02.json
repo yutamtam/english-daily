@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-01T22:58:11.808526+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, July 1st already. This year is flying by.",
+      "ja": "おはようございます、サラさん。わあ、もう7月1日。あっという間ですね、今年も。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really is. And the rain is just… heavy today.",
+      "ja": "おはよう、アレックス。本当にね。そして、今日の雨は…ひどい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's really coming down. The weather app says 100% chance of rain. High of 22.2, low of 20.4.",
+      "ja": "ええ、本当に降ってますね。天気アプリだと降水確率100%って出てます。最高22.2度、最低20.4度。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right. It feels like the humidity just permeates everything.",
+      "ja": "そんな感じね。湿気が全てに染み渡るような感じ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Permeates? Oh, what does 'permeates' mean exactly?",
+      "ja": "パーミエイツ？ああ、「パーミエイツ」ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to spread throughout something, or to fill it completely. Like the water soaking into the ground.",
+      "ja": "何か全体に広がる、あるいは完全に満たすという意味。水が地面に染み込むようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like how my tiredness permeates my entire body these days. Yeah, I get it. I definitely need my coffee this morning.",
+      "ja": "ああ、最近の僕の疲れが全身に染み渡る、みたいな。ええ、分かりました。今朝は絶対コーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm having my tea. Anyway, the news is saying more heavy rains are expected across a wide swath of Japan today.",
+      "ja": "私はお茶にするわ。ところで、今日のニュースでは、日本の広範囲でさらなる大雨が予想されているって言ってるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, I saw that. From the west, especially the southwest. My commute was already pretty wet.",
+      "ja": "ええ、見ました。西から、特に南西。僕の通勤もかなり濡れましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Be careful out there. The rivers can rise quickly.",
+      "ja": "気をつけてね。川の水位はすぐに上がるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I will. Speaking of news, did you see the one about Fukushima? Rebuilding with fish, tomatoes, and hula-dancing girls?",
+      "ja": "はい。ニュースといえば、福島の話見ました？魚とトマトとフラダンスガールで再建してるっていう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I did. They're really working hard to overcome the past. It's good to see positive stories.",
+      "ja": "ええ、見たわ。過去を乗り越えるために本当に頑張ってるわね。明るい話は良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. I mean, after 2011, it's amazing they're doing all this. Hula-dancing girls, though? That's kind of... specific.",
+      "ja": "そうですね。2011年の後で、こんなことやってるなんてすごい。でも、フラダンスガール？それはちょっと…独特ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's part of the tourism efforts. There's a famous resort there.",
+      "ja": "観光促進の一環よ。あそこに有名なリゾートがあるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. I thought it was just like, everyone doing hula to cheer up.",
+      "ja": "へえ、知らなかったです。みんなが元気を出すためにフラやってるのかと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not quite. On a different note, Japan is also providing emergency relief to Venezuela after their earthquake.",
+      "ja": "そうじゃないわ。話は変わるけど、日本はベネズエラにも地震後の緊急救援物資を送るそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's good. Water purifiers and jerry cans. It's always good to help out.",
+      "ja": "ああ、それはいいですね。浄水器とジェリカン。助け合うのはいつでも良いことです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's important to remember global connections.",
+      "ja": "そうね。世界とのつながりを忘れないことは大切よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. My wife was just trying to peruse the news this morning, but the baby was already up. No time for global connections for her.",
+      "ja": "はい。妻も今朝ニュースをざっと読もうとしてたんですけど、もう赤ちゃんが起きちゃって。彼女には世界のつながりどころじゃないですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "To 'peruse' means to read something carefully, but it can also mean to skim or glance over it.",
+      "ja": "「ペルーズ」は何かを注意深く読むという意味だけど、ざっと目を通す、という意味でも使えるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so she was trying to skim, but even that was too much. He's one now, so he's into everything. No more sleeping in.",
+      "ja": "ああ、じゃあざっと目を通そうとしてたんですけど、それすら無理だった、と。もう1歳なので、何でも興味津々で。寝坊なんてできません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. My kids are teenagers now. A different kind of busy.",
+      "ja": "そんな日々を覚えてるわ。うちの子たちはもうティーンエイジャー。また別の種類の忙しさだけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. At least you can probably peruse the news in peace now.",
+      "ja": "そうでしょうね。少なくとも今は平穏にニュースをじっくり読めるんでしょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sometimes. I can find some solace in my morning tea.",
+      "ja": "時々ね。私は朝のお茶に少し安らぎを見出すことができるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Solace? What's 'solace'?",
+      "ja": "ソラス？「ソラス」って何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means comfort or relief when you're feeling sad or distressed. A sense of peace.",
+      "ja": "悲しいときや苦しいときに感じる慰めや安らぎのことね。心の平安、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, solace. Yeah, I need some of that. Maybe if I could just get a full eight hours of sleep. Coffee is my only solace.",
+      "ja": "ああ、ソラス。ええ、それ欲しいです。もし8時間ぐっすり眠れたらな。コーヒーが僕にとって唯一の安らぎです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds like it. Anyway, did you know what today is, July 1st?",
+      "ja": "そうみたいね。ところで、7月1日の今日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, besides being a very rainy Wednesday? No, what is it?",
+      "ja": "うーん、すごく雨の降る水曜日、以外にですか？いいえ、何の日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Udon Day in Japan. The Sanuki Udon Cooperative established it.",
+      "ja": "日本はうどんの日よ。本場さぬきうどん協同組合が制定したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Udon Day! That's great! My little one loves noodles. We could celebrate.",
+      "ja": "うどんの日！いいですね！うちの子、麺類が大好きなんですよ。お祝いできますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Apparently, in Kagawa Prefecture, there's a tradition around July 2nd, the 'Hangesho' period, to eat udon to reward yourselves for your hard work.",
+      "ja": "香川県では、7月2日頃の「半夏生」という時期に、日頃の労をねぎらうためにうどんを食べる風習があったことに由来するらしいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hard work, huh? I could use some udon for that. Especially after dealing with all this rain and trying to get to work.",
+      "ja": "日頃の労、ですか。僕もうどん食べたいです。特にこの雨の中、通勤頑張った後だと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a good reason to enjoy some local food. I've always wanted to visit Kagawa for the udon.",
+      "ja": "地元の食べ物を楽しむ良い理由ね。私もずっと香川にうどんを食べに行きたいと思ってるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You should! I went there a few years ago. There are so many small shops, and they're all amazing. Maybe next year, when my kid is a bit older.",
+      "ja": "行くべきですよ！僕も何年か前に行きました。小さなお店がたくさんあって、どこも本当に美味しいんです。来年くらいかな、うちの子がもうちょっと大きくなったら。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds nice. Maybe I'll plan something.",
+      "ja": "それは良いわね。何か計画してみようかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, this has been The Daily Tanu-chan Show for July 1st, 2026. Thanks for listening, everyone. Stay dry out there!",
+      "ja": "さて、7月1日、2026年の『ザ・デイリー・タヌちゃんショー』でした。皆さん、お聞きいただきありがとうございます。濡れないように気をつけてくださいね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, stay safe, and enjoy your udon, if you can. We'll be back tomorrow.",
+      "ja": "ええ、気をつけて、もしよければうどんを楽しんでください。また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 22.2,
+      "temp_min": 20.4,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Japan to provide emergency relief goods to quake-hit Venezuela",
+        "summary": "Japan will provide emergency relief goods such as water purifiers and jerry cans to quake-devastated Venezuela and stands ready to consider further necessary assistance, Foreign Minister Toshimitsu Motegi…",
+        "link": "https://japantoday.com/category/national/japan-to-provide-emergency-relief-goods-to-quake-hit-venezuela"
+      },
+      {
+        "title": "Heavy rains expected over wide swath of Japan",
+        "summary": "Japan's weather agency on Wednesday warned of heavy rains over the next day across a wide stretch of the country from the west, particularly on the southwestern main…",
+        "link": "https://japantoday.com/category/national/update1-heavy-rains-expected-over-wide-swath-of-japan"
+      }
+    ],
+    "wikipedia": {
+      "title": "うどんの日",
+      "description": "本場さぬきうどん協同組合が制定。香川県地方では半夏生（7月2日ごろ）にうどんを食べて、労をねぎらう風習があったことに由来している。"
+    }
+  }
+}
