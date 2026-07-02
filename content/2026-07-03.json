@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-02T22:47:27.960059+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 2nd. Is it just me, or is it really muggy out today?",
+      "ja": "おはようございます、サラさん。7月2日ですね。僕だけですかね、今日すごく蒸し暑い気がするんですけど？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's drizzling lightly. The humidity always makes it feel warmer. I think the high is around 25 degrees today, with 75% chance of rain.",
+      "ja": "小雨が降ってるわね。湿気があると余計に暑く感じるのよ。今日は最高気温が25度くらいで、降水確率は75%みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that makes sense. I definitely needed this coffee this morning. So much *sediment* in the bottom of my cup, though. What even is that stuff?",
+      "ja": "あー、なるほど。今朝は本当にこのコーヒーが必要でした。それにしても、カップの底にいつもこの*sediment*があるんですよね。これって一体何なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's just the fine coffee grounds that settle at the bottom. The solid bits that don't dissolve. Happens with tea too, sometimes.",
+      "ja": "コーヒーの微細な粉が底に沈んだものよ。溶けきらない固形物ね。お茶でもたまにあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, I guess so. Anyway, did you see the news about the train derailment in Kyoto? No injuries, which is good.",
+      "ja": "ですよね、まあそうか。ところで、京都の電車脱線事故のニュース見ました？怪我人がいなくてよかったですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. That's always the main concern with those kinds of accidents. It's a relief.",
+      "ja": "ええ、見たわ。ああいう事故では、それが一番の心配事だからね。安心したわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And there's going to be a new giant Gundam robot statue in Tokyo this fall. My friends who are into anime will be pretty excited about that.",
+      "ja": "それから、今年の秋には東京に新しい巨大なガンダムの像ができるらしいですよ。アニメ好きの友達はすごく興奮するでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, my son will definitely want to go see that. We might have to make a trip out of it.",
+      "ja": "あら、うちの息子もきっと見に行きたがるわね。たぶん、それ目的で出かけることになるかも。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm still trying to figure out how to get my little one to sleep through the night consistently. Sometimes he's just *implacable*. Nothing seems to calm him down.",
+      "ja": "うちの子、まだなかなか夜通し寝てくれなくて。たまに、もうどうしようもない、*implacable*って感じになるんですよね。何をしても全然落ち着かなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That just means he's stubborn and won't be persuaded or appeased. They get like that sometimes, especially when they're teething or having a growth spurt. It passes.",
+      "ja": "それは、頑固で、説得したりなだめたりできないってことよ。そういう時期があるものなのよ、特に歯が生えたり、急成長したりするときね。そのうち落ち着くわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. It feels like every day is a different challenge. Speaking of education, they've drawn up new Japanese-teaching guidelines for night junior high schools. I read that.",
+      "ja": "そうだといいんですけど。毎日が違う挑戦みたいです。教育といえば、夜間中学の日本語指導ガイドラインが策定されたという記事を読みましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good. Those schools are really important for a lot of people who missed out on education earlier in life. It's a valuable resource.",
+      "ja": "それは良いことね。ああいう学校は、人生の早い段階で教育を受けられなかった多くの人にとって本当に大切だから。貴重な資源よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Oh, hey, I just remembered, today is apparently 'Soft Cream Day' in Japan. Like, soft serve ice cream. I saw it on my phone.",
+      "ja": "うん。あ、そういえば、今日って日本だと『ソフトクリームの日』らしいですよ。スマホで見たんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. July 2nd. That's when soft serve was first sold in Japan. At a carnival at Meiji Jingu Gaien, back in 1951.",
+      "ja": "ええ、そうね。7月2日。日本で初めてソフトクリームが販売された日よ。1951年に明治神宮外苑のカーニバルでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? I had no idea it was that recent. So before 1951, Japanese people didn't have soft serve? That's kind of amazing, actually.",
+      "ja": "え、そうなんですか？そんなに最近のことだったとは知りませんでした。じゃあ1951年より前は、日本の人たちはソフトクリームを知らなかったってことですか？なんか、それはちょっと驚きですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's what they say. It was a novelty then. A big deal, I imagine. My kids would probably eat it every day if they could.",
+      "ja": "そうらしいわよ。当時は珍しいものだったのね。きっと大騒ぎだったでしょうね。うちの子たちは、もしできたら毎日でも食べるでしょうけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mine too, probably. You know, I've been looking at camping gear online again. Just fantasizing about getting out of the city for a bit. With the baby, it's a bit of a dream right now.",
+      "ja": "うちの子もそうでしょうね。そういえば、またキャンプ用品をネットで見てるんですよ。ちょっと都市から離れたいなって、夢見てるだけなんですけど。赤ちゃんがいると、今はちょっと夢のまた夢なんですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's nice to dream. You'll get there. For now, enjoy your coffee, or what's left of it with all that sediment.",
+      "ja": "夢を見るのはいいことよ。いつか行けるわ。とりあえず、コーヒーを楽しんで。あのセディメントと一緒にね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Haha, I will. Thanks, Sarah. This has been The Daily Tanu-chan Show.",
+      "ja": "はは、そうします。サラさん、ありがとうございます。The Daily Tanu-chan Showでした。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 25.5,
+      "temp_min": 20.8,
+      "rain_probability": 75
+    },
+    "news": [
+      {
+        "title": "Local train derails at Kyoto Station; no injuries",
+        "summary": "A local train derailed at Kyoto Station on Monday morning but none of the roughly 30 passengers aboard were injured, the train operator said.\nThe four-car train bound…",
+        "link": "https://japantoday.com/category/national/local-train-derails-at-kyoto-station-no-injuries"
+      },
+      {
+        "title": "Japanese-teaching guidelines drawn up for night junior high schools",
+        "summary": "Japan's education ministry recently devised guidelines tailored for nighttime junior high school Japanese language teachers in a first-time initiative to help them respond to the varying needs of…",
+        "link": "https://japantoday.com/category/national/japanese-teaching-guidelines-drawn-up-for-night-junior-high-schools"
+      },
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      }
+    ],
+    "wikipedia": {
+      "title": "ソフトクリームの日",
+      "description": "1951（昭和26）年、明治神宮外苑で行われた進駐軍主催のカーニバルの模擬店で、日本で初めてソフトクリームが販売された。"
+    }
+  }
+}
