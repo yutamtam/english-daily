@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-03T22:39:45.542230+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 3rd, 2026. Another Friday, right?",
+      "ja": "おはようございます、サラさん。2026年7月3日。また金曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, it is. Welcome back to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。そうね。今日も「ザ・デイリー・タヌちゃん・ショー」へようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks. It's already drizzling out there. Dense drizzle, I saw. Feels a bit chilly for July, actually.",
+      "ja": "ありがとうございます。もう外は霧雨ですね。激しい霧雨って見たんですよ。7月にしては少し肌寒い気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. High of 25, low of 20. And a 29% chance of rain. So, mostly drizzle, I guess.",
+      "ja": "そうね。最高25度、最低20度。降水確率は29％。だから、ほとんど霧雨でしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I hope it clears up for the weekend. My little one is getting so good at walking now, we want to take him to the park.",
+      "ja": "ええ、週末には晴れてほしいな。うちの子、最近歩くのがすごく上手になってきたから、公園に連れて行ってあげたいんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's nice. My son just wants to stay home and play games.",
+      "ja": "それは良いわね。うちの息子は家にこもってゲームばかりしているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I'm sure that'll be me soon enough. Speaking of rain, the news said heavy rains are expected over a wide stretch of Japan. Mostly western Japan, it seems, but still.",
+      "ja": "ああ、僕もすぐにそうなるんだろうな。雨と言えば、ニュースで日本の広い範囲で大雨が予想されているって言っていましたね。主に西日本みたいだけど、それでも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, they mentioned torrential downpours in some areas.",
+      "ja": "ええ、一部地域では『torrential downpours』があるって言っていたわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Torrential? What does that mean, exactly?",
+      "ja": "「Torrential」？それってどういう意味ですか、正確には？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means very heavy, intense rain. Like a torrent, a strong, fast-moving stream of water.",
+      "ja": "それは、非常に激しい、強い雨のことよ。まるで『torrent』、つまり勢いのある速い水の流れのような雨。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like a river of rain. Got it. Yeah, we definitely don't want that. My commute is already bad enough.",
+      "ja": "ああ、雨の川みたいに。なるほど。ええ、それは絶対嫌ですね。僕の通勤はもう十分大変ですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds like a serious warning. Stay safe.",
+      "ja": "かなり深刻な警告のようね。気をつけてね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I will. And another thing, I saw a headline about a long-lost ukiyoe painting being rediscovered. That's kind of amazing, actually.",
+      "ja": "はい。あと、見出しで、長らく行方不明だった浮世絵が再発見されたって見ました。それって結構すごいことですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It mentioned 26 courtesans in Fukagawa preparing for something.",
+      "ja": "そうね。『Fukagawa』の26人の『courtesans』が何か準備している、って書いてあったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Courtesans? Is that... like, geisha?",
+      "ja": "「Courtesans」？それは…芸者みたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Similar, but more specific. They were high-class women who entertained wealthy men in historical Japan, often skilled in arts and conversation, but also involved in prostitution.",
+      "ja": "似ているけど、もっと具体的ね。日本の歴史の中で、裕福な男性をもてなした上流階級の女性たちで、芸事や会話に長けていたけれど、売春もしていたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. That makes sense for the period. It's always cool when history comes back like that. Makes you wonder what else is out there.",
+      "ja": "ああ、なるほど。その時代なら納得です。ああいう風に歴史が戻ってくるのはいつもかっこいいですね。他には何があるんだろうって思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. And finally, for news, they've installed new emergency shelters on Mount Fuji for the climbing season. That's a good safety measure.",
+      "ja": "そうね。そして最後に、ニュースでは富士山の登山シーズンに向けて新しい緊急避難所が設置されたそうよ。それは良い安全対策ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I heard that. The climbing season starts Wednesday. I've always wanted to climb Fuji. It's been on my list for ages. Maybe next year, when the baby is a bit older.",
+      "ja": "ええ、聞きました。水曜日から登山シーズンが始まるんですよね。僕はいつも富士山に登りたいと思っていました。何年もリストに入っているんです。来年かな、赤ちゃんがもう少し大きくなったら。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a memorable experience.",
+      "ja": "思い出に残る経験よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I bet. I'm always thinking about getting some good camping gear. A new tent, a proper sleeping bag… Just getting away, you know? But then I remember the baby.",
+      "ja": "そうでしょうね。いつも良いキャンプ用品を揃えたいって考えているんですよ。新しいテントとか、ちゃんとした寝袋とか…。ただ、どこかへ行きたい、って感じで。でも、赤ちゃんがいることを思い出します。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. Different kind of adventure now.",
+      "ja": "ええ。今は別の種類のアドベンチャーね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally. My wife and I just want to sleep past six once in a while. Anyway, have you seen what today is? July 3rd?",
+      "ja": "全くです。妻と僕はたまには6時以降まで寝たいだけなんです。ところで、今日が何の日か知っていますか？7月3日？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, right. 梨の日, Nashi no Hi. It's a play on words, isn't it? 'Na-shi' for 7 and 4, even though it's the 3rd.",
+      "ja": "ああ、そうね。梨の日ね。語呂合わせよね？「な・し」で7と4だけど、今日は3日なのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's actually celebrated on July 4th for 'na-shi', but some people start a day early. I guess because they really love pears.",
+      "ja": "ええ、本来は7月4日に「な・し」で祝うんですけど、一部の人は1日早く始めるみたいです。多分、すごく梨が好きだからでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Pears are good. Refreshing.",
+      "ja": "梨は美味しいわね。さっぱりする。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They are. My kid just started eating solid foods more consistently. Maybe I'll try giving him some pureed pear soon. I wonder if he'll like it.",
+      "ja": "そうですね。うちの子、最近離乳食をしっかり食べるようになってきたんですよ。そろそろ梨のピューレをあげてみようかな。気に入ってくれるかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He might. My daughter loved fruit purees when she was little.",
+      "ja": "気に入るかもね。うちの娘は小さい頃、フルーツのピューレが大好きだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good to know. I'm just trying to make sure he gets enough nutrients. It's a lot of work, all this parenting stuff.",
+      "ja": "それは心強いです。とにかく栄養をしっかり摂らせてあげたいんですよ。子育てって、本当に大変な仕事ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But it goes by fast.",
+      "ja": "そうね。でもあっという間よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Sometimes I just need a huge cup of coffee to get through the day.",
+      "ja": "そうでしょうね。時には、一日を乗り切るために大きなコーヒーが一杯必要になります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'll stick with my tea. Well, it's time to get this Friday started.",
+      "ja": "私はお茶でいいわ。さあ、金曜日を始めましょうか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds good. Have a great one, Sarah.",
+      "ja": "そうですね。良い一日を、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Dense drizzle",
+      "temp_max": 25.0,
+      "temp_min": 20.0,
+      "rain_probability": 29
+    },
+    "news": [
+      {
+        "title": "Heavy rains expected over wide swath of Japan",
+        "summary": "Japan's weather agency on Thursday warned of heavy rains across a wide stretch of the country from east to west, with torrential downpours observed mostly in western Japan.…",
+        "link": "https://japantoday.com/category/national/update1-heavy-rains-expected-over-wide-swath-of-japan"
+      },
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "New emergency shelters installed on Mount Fuji ahead of climbing season",
+        "summary": "As the climbing season for Mount Fuji starts on Wednesday, two new emergency shelters have been installed on the Yoshida Trail, improving climber safety in the event of…",
+        "link": "https://japantoday.com/category/national/New-emergency-shelters-installed-on-Mount-Fuji-ahead-of-climbing-season"
+      }
+    ],
+    "wikipedia": {
+      "title": "梨の日",
+      "description": "「な（7）し（4）」の語呂合わせが由来。"
+    }
+  }
+}
