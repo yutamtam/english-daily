@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-04T22:15:09.630727+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Can you believe it's already July 4th?",
+      "ja": "おはようございます、サラさん。もう7月4日だなんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, time flies. It’s a pretty dense drizzle out there today.",
+      "ja": "おはよう、アレックス。ええ、本当に早いね。今日はかなり濃い霧雨だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is, isn't it? I saw the forecast. Low of 21.3 degrees, high of 24.6. And a 76% chance of rain all day.",
+      "ja": "そうですね。予報を見ました。最低気温が21.3度、最高が24.6度。そして一日中76%の降水確率です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Typical rainy season. At least it's not too hot yet.",
+      "ja": "梅雨らしい天気ね。まだそれほど暑くないのが救いかな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. I'm already on my second coffee. My little one was up three times last night. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "そうですね。僕はもう2杯目のコーヒーです。うちの子が昨夜3回も起きて。最近は何にでも飛び跳ねるんですよ。多分、赤ちゃんが原因です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days.",
+      "ja": "その頃を覚えてるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, any interesting news? I briefly saw something about Fukushima rebuilding.",
+      "ja": "それで、何か面白いニュースはありますか？福島が復興しているという記事をちらっと見ました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. NHK World has a piece on how they're recovering, focusing on fish, tomatoes, and even hula-dancing girls. It's really positive.",
+      "ja": "ええ、そうよ。NHKワールドが、彼らがどうやって復興しているか、魚やトマト、それからフラダンスの女の子たちに焦点を当てた記事を出してるわ。とても前向きな内容よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's great to hear. After everything, it must have been a real *plight* for them for so long. What does 'plight' mean, exactly?",
+      "ja": "それは素晴らしいですね。全てを経験した後、長い間彼らにとって本当に大変な*plight*だったでしょうね。その'plight'ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a difficult or dangerous situation. A bad state.",
+      "ja": "それは、困難な状況や危険な状況を意味するわ。悪い状態のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. Yeah, a really tough situation. It's good they're finding ways to recover. I wonder if it's still *strenuous* work, even now.",
+      "ja": "ああ、なるほど。ええ、本当に大変な状況だったんですね。回復の方法を見つけているのは良いことです。今でも*strenuous*な作業なんでしょうか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure it is. 'Strenuous' means it takes a lot of effort and energy.",
+      "ja": "きっとそうよ。'Strenuous'は、多くの努力とエネルギーを必要とするという意味ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That makes sense. My morning commute sometimes feels strenuous enough, let alone rebuilding an entire region. Then I get home, and it’s baby duty. It’s like a marathon sometimes.",
+      "ja": "なるほど。僕の朝の通勤でさえ、時々大変に感じますから、地域全体を再建するなんて想像もつきません。家に帰れば育児の仕事が待ってますしね。時々マラソンみたいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. My kids are teenagers now, but I still remember those early years.",
+      "ja": "想像できるわ。私の子供たちはもうティーンエイジャーだけど、あの頃はまだ覚えているわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And there was another news story about a designer, Keisuke Unosawa, making ordinary things extraordinary without going to a famous design school. That’s kind of amazing, actually.",
+      "ja": "それから、有名なデザイン学校に行かずに普通のものを特別なものに変えるデザイナー、宇野澤啓介さんのニュースがありましたね。あれはちょっとすごいな、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it shows you don't always need a specific path to succeed. And that tiny house on wheels too. My daughter thinks they're great.",
+      "ja": "ええ、成功するために必ずしも特定の道筋が必要なわけではないと教えてくれるわね。それから、あの小さな車輪付きの家も。私の娘はあれが素晴らしいと思ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw one on YouTube. They're pretty cool. I don't think it would work for our family though.",
+      "ja": "ええ、YouTubeで見ました。かなりかっこいいですよね。でも、うちの家族には合わないだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely not with teenagers.",
+      "ja": "ティーンエイジャーがいると無理ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Oh, hey, today is actually 農林水産省発足記念日.",
+      "ja": "そうですね。ああ、そういえば、今日は「農林水産省発足記念日」です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The Ministry of Agriculture, Forestry and Fisheries. It changed its name from just 'Agriculture and Forestry' in 1978, adding 'Fisheries'.",
+      "ja": "そうね。農林水産省のことよ。「農林省」から1978年に「水産」が加わって改称されたのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess that makes sense. Fishing is such a huge part of Japan's economy and culture.",
+      "ja": "それは納得ですね。漁業は日本の経済と文化のとても大きな部分を占めていますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's good to remember those kinds of things. It reminds me of how quickly things change, but also how some things stay the same. Like, the weather. It's so *fickle* in July, isn't it? One minute it's sunny, the next it's raining. What does 'fickle' mean?",
+      "ja": "そういうことを覚えているのは良いことですね。物事がどれほど早く変わるか、でも同時に変わらないものもあるということを思い出させてくれます。例えば、天気とか。7月って本当に*fickle*ですよね？晴れたかと思えば、すぐに雨が降ったり。その'fickle'ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Fickle' means changing often and suddenly. Like emotions or the weather.",
+      "ja": "'Fickle'は、頻繁に、そして突然変わるという意味よ。感情とか天気とかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. My kid's mood is a bit fickle sometimes too. One minute happy, the next crying for no reason. This is The Daily Tanu-chan Show. Hope everyone has a good Friday.",
+      "ja": "ええ、まさに。うちの子の機嫌も時々ちょっと気まぐれなんです。ある瞬間はご機嫌なのに、次の瞬間には理由もなく泣いたり。はい、こちらは「The Daily Tanu-chan Show」でした。皆さんも良い金曜日をお過ごしください。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "アレックスもね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Dense drizzle",
+      "temp_max": 24.6,
+      "temp_min": 21.3,
+      "rain_probability": 76
+    },
+    "news": [
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      }
+    ],
+    "wikipedia": {
+      "title": "農林水産省発足記念日",
+      "description": "1978年、農林省が農林水産省に改称された。"
+    }
+  }
+}
