@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-05T22:35:18.654351+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 5th, 2026. Can you believe it's already July?",
+      "ja": "おはようございます、サラさん。2026年7月5日。もう7月って信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time does fly, doesn't it? Especially with my kids getting older.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。特にうちの子たちが大きくなるのを見ると。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does. I'm still trying to wake up, actually. Need this coffee.",
+      "ja": "本当にそうですよ。僕、まだ起ききれてないんです、実は。このコーヒーが要りますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm on my second cup of tea. Looks like it's going to be a bit of a damp day today, doesn't it?",
+      "ja": "私は紅茶2杯目よ。今日は少しじめじめした一日になりそうね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah. I heard. Slight rain, right? It was pretty cloudy on my way in. The forecast said 23.1 high, 18.9 low. And a 48% chance of rain.",
+      "ja": "ああ、そうですね。聞きました。小雨ですよね？来る途中、かなり曇ってました。予報では最高23.1度、最低18.9度。降水確率48%って言ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It'll be a little `soggy` outside then.",
+      "ja": "じゃあ、外は少し「じめじめ」するわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Soggy`? What does that mean exactly?",
+      "ja": "「Soggy」？それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means wet and soft, usually unpleasantly so. Like wet bread or ground after a lot of rain.",
+      "ja": "濡れていて柔らかい、たいていは不快な感じね。雨がたくさん降った後の濡れたパンとか地面とか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I get it. Yeah, definitely don't want the baby's stroller getting all soggy. I need to get home before the real rain starts.",
+      "ja": "ああ、なるほど。そうですね、ベビーカーが全部じめじめになるのは避けたいです。本格的に雨が降る前に帰らないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good plan. Have you seen the news this morning?",
+      "ja": "いい計画ね。今朝のニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Not really, just the headlines on my phone. Something about land prices? That sounds like something that won't change at my office, no matter what.",
+      "ja": "いや、ほとんど見てないです。携帯のヘッドラインだけ。土地の価格についての何か？それって、僕の会社では何があっても変わらないことのように聞こえますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's about the average land price in Japan rising 2.9% again. Fifth year in a row, they said. Because of redevelopment and tourism.",
+      "ja": "日本の平均土地価格がまた2.9%上昇したって話よ。5年連続だって。再開発と観光が理由みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. That much? I feel like I read this every year. Good for some people, I guess. Not so much for others trying to buy a house.",
+      "ja": "うわあ。そんなに？毎年これ読んでる気がします。良いことなんでしょうね、一部の人にとっては。家を買おうとしてる人たちにとってはそうでもないですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's true. It's a complex issue.",
+      "ja": "それはそうね。複雑な問題よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. And there was something else, about a hip-hop dancing granny? That sounds more fun.",
+      "ja": "ええ。あと何か、ヒップホップを踊るおばあちゃんについてのニュースがありましたよね？そっちの方が楽しそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. She's in a new 'Rice Dance' video. It mentioned a trio of grandmothers from last year who danced to a Bruno Mars song. They're very `precocious`.",
+      "ja": "ええ、そうよ。彼女は新しい『ライスの踊り』のビデオに出てるの。去年、ブルーノ・マーズの曲に合わせて踊った3人組のおばあちゃんたちのことも言ってたわね。彼女たちはとても「ませてる」のよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Precocious`? Is that like... really good at dancing?",
+      "ja": "「Precocious」？それって…ダンスがすごく上手ってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means developing abilities or maturity earlier than expected. For a child, it might mean they can read really well very young. For these grandmothers, it means they're energetic and modern beyond their age.",
+      "ja": "それは、予想よりも早く能力や成熟を発達させるという意味よ。子供なら、幼いのにとてもよく本を読めるとか。このおばあちゃんたちの場合は、年齢以上にエネルギッシュでモダンだってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. That makes sense. My kid is just starting to try and stand. No hip-hop moves yet. Maybe someday. It's The Daily Tanu-chan Show, by the way.",
+      "ja": "ああ、なるほど。納得です。うちの子はまだ立ち上がろうとし始めたばかりです。ヒップホップはまだですね。いつかやるかな。そうそう、こちらは『The Daily Tanu-chan Show』です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good reminder. There was also a news story about four climbers rescued in Hokkaido.",
+      "ja": "良いリマインダーね。北海道で登山者4人が救助されたニュースもあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! They encountered a bear, didn't they? That's really scary. I hope they're all okay.",
+      "ja": "ああ、そうですね！クマに遭遇したんでしたっけ？それは本当に怖い。皆さん無事だといいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They were stranded for about three and a half hours, then rescued by helicopter. Glad they're safe.",
+      "ja": "3時間半ほど孤立してから、ヘリコプターで救助されたそうよ。無事でよかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A bear? That's definitely not something you want to run into on a hike. I guess Hokkaido is really wild in some parts, huh?",
+      "ja": "クマですか？ハイキング中に遭遇したいものではないですね。やっぱり北海道って、一部は本当に野生的なんですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I went to a hot spring resort there a few years ago, near Sapporo. It was lovely.",
+      "ja": "そうよ。数年前、札幌の近くの温泉地に行ったわ。とても素敵だった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that sounds nice. I haven't been to Hokkaido in ages. My wife would love that. Actually, speaking of dates, did you know what today is?",
+      "ja": "ああ、いいですね。北海道にはずっと行ってないです。妻が喜びそう。そういえば、日付の話なんですけど、今日が何の日か知ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is it something special?",
+      "ja": "何か特別な日かしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's Public Certified Accountant Day, or 'Kounin Kaikeishi no Hi'. It commemorates the Certified Public Accountant Act being established in 1948. The Japan CPA Association set it up in 1991.",
+      "ja": "公認会計士の日、です。「公認会計士法」が1948年に制定されたことを記念して、1991年に日本公認会計士協会が制定したそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I didn't know that. A day for accountants. I suppose every profession needs its own day.",
+      "ja": "知らなかったわ。会計士さんの日ね。どの職業も自分たちの日が必要なのかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. We have so many `miscellaneous` holidays or commemorative days, don't we?",
+      "ja": "ええ、そうでしょうね。僕たちって、本当にたくさんの「様々な」祝日とか記念日がありますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Miscellaneous` means varied or different types, often in a group. Like when you have a box of miscellaneous items.",
+      "ja": "「Miscellaneous」は、様々とか異なる種類の、という意味よ。たいていはグループの中のものを指すわ。色々なものが入った箱、みたいなね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Yeah, like all these news stories we just talked about. Different topics, all in one morning. Anyway, my head's still a bit foggy. The baby woke up three times last night.",
+      "ja": "なるほど。ええ、今話したニュース記事みたいですね。色々なトピックが、全部今朝一つに。とにかく、まだ頭が少しぼんやりしてます。昨夜、赤ちゃんが3回も起きて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It happens. It gets easier as they get older, but then they stay up later.",
+      "ja": "そういうこともあるわ。大きくなると楽になるけど、今度は夜更かしするようになるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no. My kids are already doing that a bit. I thought it would be better by now.",
+      "ja": "ああ、そうなんですか。うちの子たちはもう少しそうなってますね。今頃はもっと良くなってると思ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Teenagers have their own schedules.",
+      "ja": "ティーンエイジャーには彼ら自身のスケジュールがあるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Well, hopefully, I can get some actual work done today. And enjoy this coffee. Before it gets cold. I'm Alex.",
+      "ja": "ですよね。ええと、今日はちゃんと仕事ができるといいな。そしてこのコーヒーを味わって。冷める前に。アレックスでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And I'm Sarah. Have a good one.",
+      "ja": "そしてサラでした。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 23.1,
+      "temp_min": 18.9,
+      "rain_probability": 48
+    },
+    "news": [
+      {
+        "title": "Average land price in Japan rises 2.9% on redevelopment, tourism demand",
+        "summary": "The average price of land in Japan rose 2.9 percent in 2026, climbing for the fifth consecutive year due to redevelopment projects in urban areas and booming tourism,…",
+        "link": "https://japantoday.com/category/national/average-land-price-in-japan-rises-2.9-on-redevelopment-tourism-demand"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "4 climbers rescued by helicopter after encountering bear in Hokkaido",
+        "summary": "Four climbers were rescued by helicopter from a mountain in Hokkaido, northern Japan, after being stranded for about three and a half hours due to an encounter with…",
+        "link": "https://japantoday.com/category/national/4-climbers-rescued-by-helicopter-after-encountering-bear-in-northern-japan"
+      }
+    ],
+    "wikipedia": {
+      "title": "公認会計士の日",
+      "description": "1948（昭和23）年、公認会計士法が制定されたことを記念して、1991（平成3）年、日本公認会計士協会が制定。"
+    }
+  }
+}
