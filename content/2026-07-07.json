@@ -1,0 +1,252 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-06T22:48:49.430939+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 6th today. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。今日は7月6日。The Daily Tanu-chan Showへようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's drizzling again, isn't it?",
+      "ja": "おはよう、アレックス。また小雨が降ってるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it is. My commute was a bit slow, actually. And the air feels really heavy.",
+      "ja": "ええ、そうですね。通勤がちょっと遅れちゃって。空気がすごく重い感じがします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's only 24 degrees, so not too hot. But a high chance of rain later, too.",
+      "ja": "24度だから、そんなに暑くはないね。でも、この後も雨の確率が高いみたいだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Makes you just want to stay inside, doesn't it? Maybe grab some coffee.",
+      "ja": "ですね。家にこもっていたくなりますよね？コーヒーでも飲んで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. (Sips tea quietly).",
+      "ja": "ふん。（静かに紅茶をすする）。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, I saw some news about this Hiroko Machida academy. They're making digital copies of national treasures now?",
+      "ja": "そういえば、廣野町田アカデミーのニュースを見ました。国宝をデジタル複製してるんですって？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, high-quality reproductions. For interior design. To use as art in homes and offices.",
+      "ja": "ええ、高品質の複製ね。インテリアデザイン用よ。家やオフィスのアートとして使うの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. Imagine having something like that in your living room. A genuine digital copy.",
+      "ja": "それ、ちょっとすごいですね。リビングにそんなものがあるなんて想像してみてください。本物のデジタルコピーですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an interesting concept. Makes them more accessible, maybe.",
+      "ja": "面白いコンセプトね。もしかしたら、より身近になるのかも。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It feels a bit like… a different way to appreciate art. I wonder what the `turnout` will be like for their launch event.",
+      "ja": "ええ。なんだか…アートの新しい楽しみ方って感じですね。彼らのローンチイベントの『ターンアウト』はどうなるんでしょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Turnout` just means how many people show up to something. Like an event or an election.",
+      "ja": "『ターンアウト』っていうのは、イベントや選挙なんかにどれくらいの人が来るかってことよ。参加者数ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. Yeah, I didn't know that. I guess people are always looking for new ways to decorate.",
+      "ja": "あ、そうか。なるほど、知りませんでした。人はいつも新しい飾り方を探してるんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was also that story about the climbers in Hokkaido.",
+      "ja": "北海道の登山者の話もあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the bear! Yeah, four people rescued by helicopter. That sounds absolutely terrifying.",
+      "ja": "あ、クマ！そう、4人がヘリコプターで救助されたんですよね。それは絶対怖すぎますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. They were stranded for three and a half hours.",
+      "ja": "ええ。3時間半も立ち往生してたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. Any little noise, I think it's him. I can't imagine seeing a bear. Do you think they were trying to `coax` it away?",
+      "ja": "最近は、何にでも飛び上がっちゃいます。絶対、赤ちゃんのせいだと思います。ちょっとした音でも、彼のことかなって。クマを見るなんて想像できない。クマを『コークス』して追い払おうとしたんでしょうか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Coax` means to gently persuade someone to do something. Or an animal, yes.",
+      "ja": "『コークス』は、誰かを優しく説得して何かをさせるって意味よ。動物にも使うわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So like, 'Hey bear, go away, please'? That wouldn't really work, right?",
+      "ja": "じゃあ、「ねえクマさん、行ってください、お願いします」みたいな？それじゃあ、無理ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not. With a bear, usually you just want to make yourself look big and loud.",
+      "ja": "多分ね。クマが相手なら、普通は自分を大きく見せて、大きな声を出すものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And then the news about permanent residency. New language requirements for foreign nationals.",
+      "ja": "それから、永住権のニュースですね。外国籍の人向けの新しい言語要件。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, stricter guidelines.",
+      "ja": "ええ、より厳格なガイドラインね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I read this every year. It's always something about making it harder. That's not going to change at my office, though. We have a lot of international staff.",
+      "ja": "毎年このニュースを読んでる気がしますよ。いつも何かを難しくする方向ですよね。でも、僕のオフィスでは変わらないと思いますけどね。国際的なスタッフがたくさんいるので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It could change the `complexion` of things over time, though.",
+      "ja": "でも、時間をかけて物事の『コンプレクション』が変わる可能性はあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The `complexion`? What does that mean here?",
+      "ja": "『コンプレクション』？ここではどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the general character or appearance of something. So, the overall feel of the foreign community here.",
+      "ja": "それは、物事の一般的な特徴や外観を意味するわ。だから、ここにいる外国籍コミュニティ全体の雰囲気をね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. Yeah, I guess it could. It makes sense, in a way, to want people to speak Japanese if they live here permanently. But it's tough.",
+      "ja": "あ、なるほど。ええ、そうかもしれませんね。永住するなら日本語を話してほしい、というのは、ある意味では理解できます。でも、大変ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anyway, today is July 6th, which means tomorrow is Tanabata.",
+      "ja": "ところで、今日は7月6日だから、明日は七夕ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right, Tanabata! The star festival. I always forget which day it is.",
+      "ja": "あ、そうか、七夕！星祭りですね。いつも何日か忘れちゃうんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's usually on July 7th. The story of Orihime and Hikoboshi meeting across the Milky Way.",
+      "ja": "たいてい7月7日よ。天の川を挟んで織姫と彦星が再会する話ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, and you write wishes on tanzaku paper and hang them on bamboo. My kid is a bit too young for that, but I remember doing it as a child. I always wished for video games.",
+      "ja": "そうそう、短冊に願い事を書いて笹に吊るすんですよね。うちの子はまだちょっと小さいですけど、僕も子供の頃やってました。いつもゲームソフトをお願いしてましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids still do it. Usually for better grades.",
+      "ja": "うちの子たちはまだやってるわよ。たいていは良い成績のためね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good luck with that. My little one just pulls the bamboo leaves right off.",
+      "ja": "それは頑張ってください。うちの小さいのは、ただ笹の葉を引っこ抜いちゃうだけですよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You know, all this talk about the rain and things. It makes me want ramen.",
+      "ja": "なんか、こう雨の話とか色々してたら。ラーメン食べたくなってきました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ramen does sound good in this weather.",
+      "ja": "この天気だとラーメンもいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I've been thinking about this one place near work. Their tonkotsu is really rich, but not too heavy, if that makes sense. Like, a perfect balance.",
+      "ja": "職場の近くにある店のこと考えてたんですよ。そこの豚骨がすごく濃厚なんですけど、重すぎないというか。完璧なバランスなんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer a lighter shio ramen myself.",
+      "ja": "私はあっさりした塩ラーメンの方が好きだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, shio can be good too. But sometimes, you just need that rich broth to really hit the spot, especially when it's a bit gloomy outside. I'm already planning my lunch.",
+      "ja": "ええ、塩も美味しいですよね。でも、たまにはあの濃厚なスープが本当に欲しくなるんです。特に外がちょっとどんよりしてる日は。もうランチの計画立ててますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like a plan.",
+      "ja": "いい計画ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, I guess we should probably get started with the day.",
+      "ja": "さてと、そろそろ今日の仕事に取り掛からないとですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah.",
+      "ja": "ええ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks for the chat, Sarah.",
+      "ja": "おしゃべり、ありがとうございました、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 24.1,
+      "temp_min": 19.6,
+      "rain_probability": 65
+    },
+    "news": [
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      },
+      {
+        "title": "4 climbers rescued by helicopter after encountering bear in Hokkaido",
+        "summary": "Four climbers were rescued by helicopter from a mountain in Hokkaido, northern Japan, after being stranded for about three and a half hours due to an encounter with…",
+        "link": "https://japantoday.com/category/national/4-climbers-rescued-by-helicopter-after-encountering-bear-in-northern-japan"
+      },
+      {
+        "title": "Japan moves to enforce language requirements for foreign nationals seeking permanent residency",
+        "summary": "Japan is moving forward with plans to establish more formal guidelines for foreign nationals seeking permanent residency in Japan, as part of a broader push by the government…",
+        "link": "https://japantoday.com/category/national/japan-moves-to-enforce-language-requirements-for-foreign-nationals-seeking-permanent-residency"
+      }
+    ],
+    "wikipedia": {
+      "title": "七夕",
+      "description": "天の川をはさんだ彦星と織姫が再会するという説話は中国の星祭に由来。また、笹に歌や文字を書いた短冊を吊るして手習いの上達を祈る風習は、中国の乞巧奠（きこうでん）という習俗に由来している。"
+    }
+  }
+}
