@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-07T22:43:12.509446+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 7th, 2026. Can't start the day without coffee, right?",
+      "ja": "おはようございます、サラさん。2026年7月7日ですね。コーヒーなしでは一日が始まりません、でしょ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like a nice day. My tea is perfect today.",
+      "ja": "おはよう、アレックス。良い天気になりそうね。私の紅茶は今日完璧よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does look good out there. Partly cloudy, high of almost 28 degrees. Rain probability is zero. Perfect for… staying indoors.",
+      "ja": "確かに外は気持ちよさそうですね。一部曇り、最高気温は28度近く。降水確率はゼロ。完璧な…室内日和ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, a good day for whatever you need to do.",
+      "ja": "ええ、何をするにも良い日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, welcome to The Daily Tanu-chan Show. Did you happen to see the news about the new Murakami book?",
+      "ja": "さて、ザ・デイリー・たぬちゃんショーへようこそ。村上さんの新しい本のニュース、見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. People lining up at midnight, I think.",
+      "ja": "見たわ。真夜中に人々が並んでいたんでしょ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, dozens of fans. That's a lot of dedication for a book. I mean, I like books, but staying up until midnight for one… I can't even stay up until midnight for my own baby anymore.",
+      "ja": "ええ、何十人ものファンが。本のためにすごい熱意ですよね。僕は本が好きですけど、一冊のために真夜中まで起きているなんて…自分の赤ちゃんのためでさえ、もう真夜中まで起きられませんよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Some things are worth it for fans.",
+      "ja": "ファンにとっては、それだけの価値があるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. Did you see the story about the climbers in Hokkaido? Four people rescued by helicopter after a bear encounter.",
+      "ja": "そうかもしれませんね。北海道の登山者のニュースは見ましたか？熊に遭遇した後、ヘリコプターで4人が救助されたという。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, that sounds quite frightening. Good that they were rescued quickly.",
+      "ja": "ええ、それはかなり恐ろしいわね。早く救助されて良かったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally frightening. Can you imagine? What do you even do in that situation? I'd probably just… freeze. Or shout something silly.",
+      "ja": "本当に恐ろしいです。想像できますか？そんな状況でどうするんでしょう？多分僕はただ…固まるか、何か変なことを叫ぶでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably best to stay calm and make yourself look big.",
+      "ja": "落ち着いて体を大きく見せるのが一番でしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Make myself look big. Right. Good tip. I'll remember that for… my next interaction with a bear. Or maybe just a difficult client.",
+      "ja": "体を大きく見せる、ね。なるほど。良いアドバイスです。次のクマとの遭遇のために覚えておきます。あるいは、ちょっと手強いクライアントのために、かな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Something else that caught my eye: the government announced plans for a 20-fold increase in permanent residency fees. And higher visa costs.",
+      "ja": "もう一つ気になったニュースが、政府が永住権の申請料を20倍に引き上げる計画を発表したことです。ビザの費用も上がるそうで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a very big jump. It will affect many people already living here.",
+      "ja": "それはとても大きな値上げね。すでにここに住んでいる多くの人々に影響が出るでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A 20-fold increase! That's huge. It must cause a lot of consternation for people planning to apply. Do you know what 'consternation' really means?",
+      "ja": "20倍ですよ！すごいですよね。申請を考えている人々にとっては、きっとたくさんの『consternation』を引き起こすでしょうね。この『consternation』って、実際どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a feeling of worry or shock, especially when you don't know what to do. Like being really troubled or confused by something surprising.",
+      "ja": "心配や驚きの感情、特にどうしたらいいかわからない時に使うわ。何か驚くようなことに対して、本当に困惑したり混乱したりするような感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, like how I feel every morning when the baby wakes up at 5 AM. That's consternation. Got it.",
+      "ja": "ああ、なるほど。じゃあ、毎朝5時に赤ちゃんが起きる時に僕が感じるようなものですね。それがconsternation、と。理解しました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Something like that. Anyway, speaking of things that make people happy, did you know what today is?",
+      "ja": "そんな感じね。ところで、人々を幸せにするものと言えば、今日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, is it a holiday I forgot? No, I don't think so.",
+      "ja": "うーん、忘れてる祝日ですか？いや、違うと思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's チキン南蛮の日. Chicken Nanban Day.",
+      "ja": "チキン南蛮の日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I love Chicken Nanban! That's awesome. Is it because 7-7 sounds like 'nana-ban'?",
+      "ja": "おお、本当ですか？チキン南蛮大好きです！最高ですね。7-7が「ななばん」って聞こえるからですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Close. It's 'nan (7) ban (8)' from Nobeoka City. So actually July 8th, but some groups use 7th. A bit confusing.",
+      "ja": "惜しいわね。「南（7）蛮（8）」で延岡市が制定したの。だから本来は7月8日なんだけど、7日を使う団体もあるのよ。ちょっとややこしいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, a day early then. Still, it makes me want some now. I actually had some on the weekend. My wife made it.",
+      "ja": "ああ、一日早かったんですね。でも、今すぐ食べたくなりました。実は週末に食べたんです。妻が作ってくれて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's nice. I did some meal prep on Sunday. Made a big batch of stew. Very convenient for busy weeknights.",
+      "ja": "それは良いわね。私は日曜日にミールプレップをしたわ。大きな鍋でシチューをたくさん作ったの。忙しい平日の夜にはすごく便利よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's smart. I wish I had time for that. I feel like I'm always just trying to catch up. The baby is walking now, so I'm always chasing them. I feel like I'm in the vanguard of tired parents these days.",
+      "ja": "賢いですね。僕もそんな時間があればいいのに。いつも追いつこうと必死な感じです。赤ちゃんがもう歩くようになったから、いつも追いかけてて。最近は疲れた親たちの『vanguard』にいるような気分ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Vanguard' means the leading position in a movement or area, like the first ones. So yes, you probably are in the vanguard of tired parents.",
+      "ja": "『Vanguard』は、運動や分野の先頭に立つ位置、つまり最先端の人々という意味よ。だから、ええ、あなたはきっと疲れた親たちの最前線にいるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I definitely feel like the leading edge of exhaustion. Well, this was a good chat. Time to go face the day, and my difficult clients.",
+      "ja": "確かに疲労の最先端にいる気がします。さて、良いおしゃべりでした。一日と、手強いクライアントたちに立ち向かう時間ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah.",
+      "ja": "サラさんも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 27.8,
+      "temp_min": 20.4,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Fans mark release of new Haruki Murakami novel at midnight event in Tokyo",
+        "summary": "Hours before Haruki Murakami's new book was set to go on sale in Japan on Friday, dozens of fans gathered outside a major Tokyo bookstore for a special…",
+        "link": "https://japantoday.com/category/national/fans-mark-the-release-of-new-haruki-murakami-novel-at-a-midnight-event-in-tokyo"
+      },
+      {
+        "title": "4 climbers rescued by helicopter after encountering bear in Hokkaido",
+        "summary": "Four climbers were rescued by helicopter from a mountain in Hokkaido, northern Japan, after being stranded for about three and a half hours due to an encounter with…",
+        "link": "https://japantoday.com/category/national/4-climbers-rescued-by-helicopter-after-encountering-bear-in-northern-japan"
+      },
+      {
+        "title": "Japan announces plans for 20-fold increase in permanent residency fees, alongside higher visa costs",
+        "summary": "On July 3, the Immigration Services Agency of Japan published detailed draft guidelines setting out a new fee structure for visa renewals and permanent residency applications, following revisions…",
+        "link": "https://japantoday.com/category/national/japan-announces-plans-for-twenty-fold-increase-in-permanent-residency-fees-alongside-higher-visa-costs"
+      }
+    ],
+    "wikipedia": {
+      "title": "チキン南蛮の日",
+      "description": "宮崎県延岡市の市民グループ「延岡発祥チキン南蛮党」が「チキン南（7）蛮（8）」の語呂合わせから制定。"
+    }
+  }
+}
