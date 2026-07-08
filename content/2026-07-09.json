@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-08T22:40:41.476375+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 8th, 2026. Another day.",
+      "ja": "おはようございます、サラさん。2026年7月8日。また一日が始まるね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. You sound like you need coffee.",
+      "ja": "おはよう、アレックス。コーヒーが必要な顔してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Always. Already had one, but I think I need another. It's partly cloudy out there today, by the way. No rain.",
+      "ja": "いつもね。もう一杯飲んだけど、もう一杯いる気がする。ちなみに、今日は曇り時々晴れみたいですよ。雨はなし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good. It'll be around 30 degrees, I think. Felt nice on my walk this morning.",
+      "ja": "それは良かった。30度くらいになるんじゃないかしら。今朝の散歩は気持ちよかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw it was going to be 29.7 degrees high. Perfect for not getting soaked on the way to work, which is always a plus. For The Daily Tanu-chan Show, this is Alex.",
+      "ja": "ええ、最高気温が29.7度って見ました。通勤途中でびしょ濡れにならないのは最高にいいことですよ。ザ・デイリーたぬちゃんショー、アレックスでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And Sarah. So, some news today. Haruki Murakami's new novel came out. Fans gathered at midnight for it.",
+      "ja": "そしてサラです。さて、今日のニュースだけど。村上春樹さんの新しい小説が発売されたわね。ファンが深夜に集まってたって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! I totally forgot. My wife mentioned it yesterday. That's kind of amazing, actually, that people still do that for books.",
+      "ja": "ああ、そうか！完全に忘れてた。昨日妻が言ってたな。本のためにまだそんなことするって、なんかすごいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. He has quite the following. Also, there's a music venue in Tokyo looking for a band to live and perform there for a week.",
+      "ja": "するのよ。彼には熱心なファンが多いから。あと、東京のライブハウスが、一週間住み込みで演奏するバンドを探してるってニュースがあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Live there? For a week? Wow. That takes a lot of... I don't know, a lot of gusto, I guess, to do something like that.",
+      "ja": "住み込み？一週間？うわあ。それって、なんだろう、すごく…ガストが必要ですね、そんなことするのって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Gusto just means a lot of energy and enthusiasm. Like you do something with great enjoyment and spirit. Yeah, it would be quite an experience.",
+      "ja": "ガストっていうのは、たくさんのエネルギーと熱意のことよ。つまり、すごく楽しんで、情熱を持って何かをするっていう感じね。ええ、かなり貴重な経験になるでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, gusto. I'll remember that. I wonder if they'll find anyone.",
+      "ja": "なるほど、ガスト。覚えます。そういう人たち、見つかるのかなあ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure they will. Young bands are often looking for opportunities like that.",
+      "ja": "きっと見つかるわよ。若いバンドはああいう機会を探してるものだもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. And speaking of music and entertainment, I saw a headline about the government. They're thinking of doubling the budget for content industries like anime and games.",
+      "ja": "そうですね。そういえば、音楽とかエンタメ関係で、政府のニュースも見ました。アニメやゲームみたいなコンテンツ産業の予算を倍増しようとしてるって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, to about 100 billion yen. It's a significant increase.",
+      "ja": "そうね、約1000億円にね。かなりの増額だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a lot of money. I wonder what they'll do with it. Will it really help the smaller studios?",
+      "ja": "すごい金額ですね。それで何をするんだろう。本当に小さいスタジオの助けになるのかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I think it could, if it's managed well. But the impact is always contingent on how the funds are actually distributed.",
+      "ja": "うまく管理されれば、助けになると思うわ。でも、影響は常に、資金が実際にどう配分されるかに左右されるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Contingent on... so, dependent on? Like, it depends on that?",
+      "ja": "コンティンジェント・オン…つまり、〜次第、みたいな？それに左右されるってこと？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It's dependent on that specific condition. If they spend it wisely, it could be great for the industry.",
+      "ja": "その通りよ。特定の条件に依存している、ということ。もし賢く使えば、業界にとって素晴らしいことになり得るわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Contingent. Yeah, that makes sense. I just hope it doesn't all go to the big players.",
+      "ja": "わかりました。コンティンジェント。うん、納得です。大手に全部いかないといいんだけどな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "We'll see. Changing gears a little, do you know what today is, July 8th?",
+      "ja": "どうなるかしらね。少し話を変えるけど、7月8日、今日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, not off the top of my head. Is it something important?",
+      "ja": "うーん、すぐに思いつかないですね。何か重要な日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Jet Coaster Day. Apparently, the first roller coaster in Japan opened at Korakuen Amusement Park on this day in 1955.",
+      "ja": "ジェットコースター記念日よ。1955年の今日、後楽園遊園地に日本初のジェットコースターが登場したそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Jet Coaster Day? That's amazing! 1955, wow. That's before my parents were even born. I remember riding a small one with my kid last month.",
+      "ja": "ジェットコースター記念日？すごい！1955年か、すごいな。僕の両親が生まれる前だ。先月、うちの子と小さいのに乗ったの思い出すな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, how was that?",
+      "ja": "ああ、どうだった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "He just turned one, so he didn't really get it, I think. But I was so careful, holding him tight. I felt like I was constantly on edge, like I had to be perfectly poised for anything.",
+      "ja": "ちょうど1歳になったばかりだから、まだよく分かってないと思うけど。でも僕がずっと気をつけて、ぎゅっと抱きしめてた。常に神経を尖らせてたっていうか、何があっても完璧に構えてなきゃって感じでしたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, poised. Meaning you were ready and calm, prepared for anything. That's a good way to describe new parenthood.",
+      "ja": "ああ、ポイズドね。つまり、準備ができていて落ち着いていて、何にでも対応できる状態だったと。それは新しい子育ての表現として的を射てるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Poised. Every little sound, every little movement, I'm ready to react. It's exhausting, but he's worth it.",
+      "ja": "ええ、まさに。ポイズド。ちょっとした音も、ちょっとした動きも、すぐに反応できるように準備してる。疲れるけど、うちの子のためならね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. My kids are teenagers now, but I still remember those early days. It gets easier, I promise.",
+      "ja": "そうね。うちの子たちももうティーンだけど、あの頃のことはよく覚えてるわ。楽になるわよ、約束する。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Sometimes I miss sleeping through the night.",
+      "ja": "だといいなあ。たまに夜通し眠れるのが恋しくなる時があるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll get there. Well, that's all the time we have for today. Thanks for joining us.",
+      "ja": "大丈夫、いつかできるようになるわ。さて、今日はここまで。お聞きいただきありがとうございました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks, everyone. Have a good one. And get some coffee.",
+      "ja": "皆さん、ありがとうございました。良い一日を。そしてコーヒーをどうぞ。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 29.7,
+      "temp_min": 21.1,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "Fans mark release of new Haruki Murakami novel at midnight event in Tokyo",
+        "summary": "Hours before Haruki Murakami's new book was set to go on sale in Japan on Friday, dozens of fans gathered outside a major Tokyo bookstore for a special…",
+        "link": "https://japantoday.com/category/national/fans-mark-the-release-of-new-haruki-murakami-novel-at-a-midnight-event-in-tokyo"
+      },
+      {
+        "title": "Japan weighs doubling budget for supporting anime, content industries",
+        "summary": "The Japanese government is considering doubling its budget for supporting content industries such as anime, games and music to around 100 billion yen, sources close to the matter…",
+        "link": "https://japantoday.com/category/national/japan-weighs-doubling-budget-for-supporting-anime-content-industries"
+      }
+    ],
+    "wikipedia": {
+      "title": "ジェットコースター記念日",
+      "description": "1955（昭和30）年、日本で初めて東京・後楽園遊園地にジェットコースターが登場した。全長1500メートル、最高時速55キロで疾走。"
+    }
+  }
+}
