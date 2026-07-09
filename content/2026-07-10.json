@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-09T23:00:01.609277+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 9th already.",
+      "ja": "おはようございます、サラさん。もう7月9日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It is. Another warm one.",
+      "ja": "おはよう、アレックス。そうね。また暑くなりそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw it's supposed to be like 30 degrees today. Mainly clear, though. That's nice.",
+      "ja": "ええ、今日は30度くらいになるって見ました。でも、だいたい晴れみたいですね。それはいいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I went for my walk early. It was already feeling warm by 7 AM. But good to have no rain.",
+      "ja": "私は朝早く散歩に行ったの。もう7時には暖かく感じてたわ。でも雨がないのはいいことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I should probably try that. My baby's up so early anyway, I could probably sneak out.",
+      "ja": "あ、そうなんですか？僕もそうしようかな。うちの赤ちゃん、とにかく朝早いんで、こっそり出られそう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about the Shizuoka governor and the maglev train?",
+      "ja": "静岡県知事とリニア新幹線のニュース、見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! They're finally letting them start construction. That project feels like it's been stalled forever.",
+      "ja": "ああ、そうか！ついに建設を始める許可が出たんですね。あのプロジェクト、ずっと止まってる気がしてました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It has. For years. I guess they finally reached some kind of agreement.",
+      "ja": "そうね。何年も。ついに何らかの合意に達したんでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder if it'll actually change anything for our daily commute. Probably not for a long time.",
+      "ja": "実際に僕らの毎日の通勤に何か変化があるのかな。たぶん、ずっと先の話ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was also an item about a fleet of Japan-linked ships exiting the Strait of Hormuz.",
+      "ja": "あとは、ホルムズ海峡を日本関連の船団が出たという記事もあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't even see that. What's the significance of Hormuz?",
+      "ja": "へえ、そうなんですか？それは見てなかったです。ホルムズって、どんな意味があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a very important shipping lane. A lot of the world's oil passes through there. So, security is always a concern.",
+      "ja": "とても重要な航路なのよ。世界の石油の多くがそこを通るから。だから、安全保障はいつも懸念事項なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I remember hearing about it before. It sounds like something that would `preoccupy` a lot of people in, like, logistics.",
+      "ja": "なるほど。前にも聞いたことあります。物流関係の人たちをかなり『preoccupy』させるようなことですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it would definitely `preoccupy` them. Keep them busy and focused.",
+      "ja": "ええ、間違いなく彼らを『preoccupy』させるわね。忙しくさせたり、集中させたりする。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, `preoccupy`. So, my baby `preoccupies` me quite a bit these days, then.",
+      "ja": "ああ、『preoccupy』。じゃあ、うちの赤ちゃんは最近、僕をかなり『preoccupy』させてるってことですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, he does. That's a good example.",
+      "ja": "ええ、そうね。それはいい例だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. I'm usually `preoccupied` with trying to get him to sleep.",
+      "ja": "はい、本当に。たいてい彼を寝かしつけようと『preoccupied』してます。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of unexpected things, there was a hiker who fell trying to scare a bear cub. Near Tokyo!",
+      "ja": "予期せぬことと言えば、クマの子を追い払おうとして転落したハイカーがいたそうですね。東京の近くで！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. Very unfortunate. You really shouldn't approach them.",
+      "ja": "ええ、見たわ。とても残念なことね。本当に近づくべきじゃないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A cub! Imagine seeing a cub. My first thought is, where's the mom? That's a pretty `stark` reminder that we live close to nature, even in Tokyo.",
+      "ja": "子グマ！子グマを見るって想像してみてくださいよ。僕の最初の考えは、「お母さんはどこだ？」です。東京でさえ自然の近くに住んでるって、『stark』なリマインダーですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. We tend to forget.",
+      "ja": "そうね。忘れがちだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What does `stark` mean exactly? Like, a really clear, strong reminder?",
+      "ja": "『stark』って正確にはどういう意味ですか？すごくはっきりした、強いリマインダーみたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. Very clear and often unpleasant or severe. A `stark` reality.",
+      "ja": "ええ、その通り。非常に明確で、しばしば不快だったり厳しいこと。まさに『stark』な現実ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. A `stark` reality. Got it.",
+      "ja": "なるほど。まさに『stark』な現実。分かりました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Actually, tomorrow, July 10th, is `Natto no Hi`. Natto Day.",
+      "ja": "そういえば、明日、7月10日は「納豆の日」なんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. Na-tto. Seven-ten.",
+      "ja": "ああ、そうね。「な（7）っとう（10）」ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right! For the sound. You like natto, Sarah?",
+      "ja": "そう！語呂合わせで。サラさん、納豆好きですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I do. My kids usually eat it for breakfast sometimes too. It's good protein.",
+      "ja": "ええ、好きよ。うちの子たちもたまに朝食で食べるわ。良いタンパク源になるしね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm still a little `grudging` about it. The stickiness... but I'm trying to eat it more.",
+      "ja": "僕はまだちょっと『grudging』ですね。あのネバネバが…でも、もっと食べるようにしてます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're `grudging`? So you're reluctant, or you don't really want to, but you do it anyway?",
+      "ja": "『grudging』？つまり、気が進まない、あまりしたくないけど、それでもやるってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! Like, I eat it, but not with full enthusiasm. That's me with natto.",
+      "ja": "はい、まさに！食べるんですけど、あんまり乗り気じゃない。納豆に対する僕ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an acquired taste for some.",
+      "ja": "人によっては、慣れるまで時間がかかる味だものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of breakfast, I really need more coffee. This show, `The Daily Tanu-chan Show`, makes me realize how much I rely on it.",
+      "ja": "朝食と言えば、もっとコーヒーが必要です。この『The Daily Tanu-chan Show』、自分がどれだけコーヒーに頼ってるか実感しますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'll stick to my tea. Keeps me calm.",
+      "ja": "私はお茶でいいわ。落ち着くから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely works for you. Well, I think that's all for today. Thanks, Sarah.",
+      "ja": "確かにサラさんには効いてますね。じゃあ、今日はこれで。サラさん、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 30.6,
+      "temp_min": 22.1,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Shizuoka governor OKs start of construction for stalled maglev train project",
+        "summary": "Shizuoka Gov Yasutomo Suzuki told the prefectural assembly Tuesday that he will allow Central Japan Railway Co to begin construction of the Shizuoka section of a new high-speed…",
+        "link": "https://japantoday.com/category/national/shizuoka-gov.-oks-start-of-construction-for-stalled-maglev-train-project"
+      },
+      {
+        "title": "Hiker injured in bear encounter on Tokyo outskirts",
+        "summary": "A man was injured on the outskirts of Tokyo on Tuesday after falling 10 meters down a slope while trying to scare away a bear cub he encountered…",
+        "link": "https://japantoday.com/category/national/hiker-injured-in-bear-encounter-in-tokyo-outskirts"
+      },
+      {
+        "title": "Fleet of 10 Japan-related ships exit Hormuz, data shows",
+        "summary": "A fleet of 10 Japan-linked vessels was exiting the Strait ‌of Hormuz on Monday while a supertanker carrying Saudi crude for South Korea left over the ‌weekend, shipping data…",
+        "link": "https://japantoday.com/category/national/fleet-of-10-japan-related-ships-exit-hormuz-data-shows"
+      }
+    ],
+    "wikipedia": {
+      "title": "納豆の日",
+      "description": "「なっ（7）とう（10）」の語呂合わせで、1981（昭和56）年、関西での納豆のPRとして、関西納豆工業協同組合が制定。1992（平成4）年、全国的記念日として、全国納豆協同組合連合会が改めて制定。"
+    }
+  }
+}
