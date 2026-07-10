@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-10T22:36:37.763960+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Good morning. It's July 10th, 2026.",
+      "ja": "おはようございます。2026年7月10日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。「デイリーたぬちゃんショー」へようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks, Sarah. It's overcast again today, huh? Still feels pretty warm, though.",
+      "ja": "ありがとう、サラ。今日も曇りだね？でも、まだかなり暑い感じだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, low chance of rain, but definitely warm. About 30 degrees later.",
+      "ja": "ええ、雨の可能性は低いけど、間違いなく暖かい。後で30度くらいになるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh. I need more coffee. My little one was up at 4 AM today, so I'm already wiped out.",
+      "ja": "うう。もっとコーヒーが必要だ。うちの子が今日は午前4時に起きたから、もうぐったりだよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine used to do that. It gets better.",
+      "ja": "うちの子も昔はそうだったわ。そのうち良くなるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Hey, did you see that news about a music venue looking for a band to live and perform there for a week?",
+      "ja": "そうだといいんだけど。ねえ、音楽会場が1週間住み込みで演奏するバンドを探してるっていうニュース見た？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. That's a lot of commitment.",
+      "ja": "見たわ。すごい覚悟が必要ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, imagine trying to do that with a baby at home. I'd probably accidentally mix up all my lyrics. Or maybe 'inadvertently' is the right word?",
+      "ja": "うん、家に赤ちゃんがいるのにそれやろうとしたら大変だろうな。たぶん、うっかり歌詞を全部ごちゃ混ぜにしちゃいそうだ。それとも「inadvertently」が正しい言葉なのかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'inadvertently' means doing something by accident, or without meaning to.",
+      "ja": "ええ、「inadvertently」は、うっかり、とか、意図せず何かをしてしまうという意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, got it. Like I'd inadvertently spill my coffee this morning if I wasn't careful.",
+      "ja": "ああ、分かった。今朝、気をつけないと、うっかりコーヒーをこぼしちゃう、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "(sips tea) Exactly.",
+      "ja": "（お茶をすすりながら）その通り。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The news about Fukushima rebuilding with fish farms and hula dancers is pretty amazing, though.",
+      "ja": "でも、福島が養殖魚とフラダンスで復興してるっていうニュースは、かなりすごいね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good to see that. They've made so much progress since 2011.",
+      "ja": "そうね、良いことだわ。2011年以来、本当に大きな進歩を遂げたわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, a truly sizable effort. It's been a long road for them. I hope they're getting some peace now, some real quiet.",
+      "ja": "うん、本当にかなりの努力だ。彼らにとっては長い道のりだったね。今、彼らが安らぎ、本当の静けさを得ていることを願うよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You mean like a 'respite'? A period of rest from something difficult.",
+      "ja": "「respite（休息）」のこと？困難なことから一時的に解放される期間のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's the word! Respite. That's perfect. They deserve it.",
+      "ja": "それだ！レスパイト。完璧な言葉だ。彼らはそれに値するよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Also, the Yuki Tsumugi silk from Tochigi. I didn't know much about traditional silk manufacturing there.",
+      "ja": "あと、栃木の結城紬の絹。そこの伝統的な絹の製造についてはあまり知らなかったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a very famous craft. It takes a lot of skill.",
+      "ja": "とても有名な工芸品よ。かなりの技術が必要なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds like it. Hey, do you know what day it is today? Today is Cultured Pearl Invention Day!",
+      "ja": "そうみたいだね。ねえ、今日が何の日か知ってる？今日は真珠養殖発明記念日だよ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right. Mikimoto Kokichi. 1893.",
+      "ja": "ああ、そうだったわね。御木本幸吉。1893年よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, when he first succeeded in culturing pearls. That's pretty cool.",
+      "ja": "うん、彼が初めて真珠の養殖に成功した日。すごいよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A very important day for Mie Prefecture.",
+      "ja": "三重県にとってはとても大切な日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Makes me think about dinner tonight. I've been craving ramen all week. A really rich tonkotsu bowl.",
+      "ja": "今日の夕食のこと考えちゃうな。今週ずっとラーメンが食べたかったんだ。すごく濃厚な豚骨ラーメン。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I tend to prefer a lighter shio ramen myself.",
+      "ja": "私はあっさりした塩ラーメンの方が好きね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, sometimes. But today, I need that rich broth to make it through.",
+      "ja": "うん、時々ね。でも今日は、この濃いスープで乗り切りたい気分だよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand that feeling. More coffee for you, then.",
+      "ja": "その気持ちは分かるわ。じゃあ、あなたはもっとコーヒーね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Have a good one, Sarah.",
+      "ja": "絶対だね。じゃあ、良い一日を、サラ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 29.9,
+      "temp_min": 22.1,
+      "rain_probability": 3
+    },
+    "news": [
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      }
+    ],
+    "wikipedia": {
+      "title": "養殖真珠発明記念日",
+      "description": "1893（明治26）年、三重県鳥羽町の御木本幸吉が初めて真珠の養殖に成功した。"
+    }
+  }
+}
