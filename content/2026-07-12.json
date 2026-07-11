@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-11T21:35:53.282279+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Good morning, Sarah. July 11th, 2026. Can you believe it?",
+      "ja": "おはようございます、サラさん。2026年7月11日、信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Another Saturday. Yes, time moves on.",
+      "ja": "おはよう、アレックス。また土曜日ね。ええ、時間は進むものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. And it looks like a damp one today. My app says light drizzle all morning.",
+      "ja": "まったくですね。しかも今日はじめじめしそうです。僕のアプリだと、午前中ずっと小雨だって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, about 60% chance of rain. High around 29 degrees, low 22. Not too bad for July, I guess.",
+      "ja": "ええ、降水確率60%くらいね。最高気温は29度、最低が22度。7月にしては悪くないわね、多分。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I suppose. Still, it's nice when it's just clear skies. I need to get my coffee, I'm still half-asleep.",
+      "ja": "そうですね。でもやっぱり、晴れてるのが一番です。コーヒー飲まないと。まだ半分寝てます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm on my tea already. You're always rushing in.",
+      "ja": "私はもうお茶を飲んでるわ。あなたはいつも駆け込みね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the baby decided 4 AM was playtime. What can you do? Anyway, this is The Daily Tanu-chan Show.",
+      "ja": "ええ、うちの赤ちゃんが午前4時を遊び時間だと決めたみたいで。どうしようもないですね。さて、こちらはザ・デイリーたぬちゃんショーです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that sounds familiar. I saw a headline about Japanese kanji having five different pronunciations for one simple character.",
+      "ja": "あら、そういえば。日本の漢字が、たった一つの簡単な文字なのに5つの異なる読み方があるっていう記事を見かけたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That sounds like a nightmare for anyone learning Japanese. It's hard enough for us.",
+      "ja": "へえ、それは知りませんでした。日本語学習者にとっては悪夢みたいですね。僕らでさえ十分大変なのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just confirms what we already know, I suppose.",
+      "ja": "私たちがすでに知っていることを裏付けるだけね、きっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. No kidding. I also saw something about a clothing company making costumes from popular mobile games. Nutte and Axel Mark.",
+      "ja": "ええ、本当に。あと、衣料品会社が人気のモバイルゲームのキャラクター衣装を作るっていうニュースも見ました。NutteとAxel Markだったかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, cosplay. It's really taken off, hasn't it?",
+      "ja": "ああ、コスプレね。本当に人気が出たわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It has. I mean, my kid is only one, but I can already imagine all the costumes they'll want when they're older. It's going to be a `churn` of new characters.",
+      "ja": "そうですね。うちの子はまだ1歳ですけど、大きくなったらどんな衣装を欲しがるか、もう想像できます。新しいキャラクターがどんどん『チャーン』するんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A churn?",
+      "ja": "チャーン？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, a lot of new ones, constantly changing. What does 'churn' actually mean?",
+      "ja": "ええ、なんか、新しいのがたくさん出てきて、常に変化しているみたいな。実際、『チャーン』ってどういう意味なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a rapid, continuous movement or change, often in a cycle. Like when a lot of customers leave a company and new ones come in.",
+      "ja": "それは、急速で継続的な動きや変化のことで、しばしば循環的なものよ。例えば、多くの顧客がある会社を辞めて、新しい顧客が入ってくるような場合ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like a lot of staff leaving my sales department. Got it.",
+      "ja": "ああ、僕の営業部署から多くのスタッフが辞めていくみたいな。なるほど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "...Yes. That's one way to think about it.",
+      "ja": "…ええ。そういう考え方もあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, speaking of kids, there was a story about Japanese college students sharing how anime high school is different from real high school. I feel like I read this every year.",
+      "ja": "それはさておき、子供たちの話ですが、日本の大学生が、アニメの高校と現実の高校がいかに違うかについて語っている記事がありました。毎年読んでる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a popular topic. My son watches a lot of anime, and he often points out the differences.",
+      "ja": "人気の話題ね。うちの息子もアニメをよく見るから、よく違いを指摘しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? Like what?",
+      "ja": "本当ですか？どんなことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, in anime, they're always having these dramatic confessions under cherry blossom trees. He says that never happens.",
+      "ja": "そうね、アニメだといつも桜の木の下でドラマチックな告白をしているでしょう。彼はそんなことないって言うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. I guess I didn't have any dramatic confessions either, now that I think about it. Just some awkward ones.",
+      "ja": "へえ。そういえば、僕もドラマチックな告白はなかったな。ちょっと気まずいのがいくつかあったくらいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine too.",
+      "ja": "私もよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, hey, I just remembered. Today, July 11th, is Ningen Dock Day. Did you know that?",
+      "ja": "ああ、そうだ、今思い出したんですけど。今日、7月11日は人間ドックの日なんです。知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it started in 1954 at the National Tokyo First Hospital. It's good to keep track of your health.",
+      "ja": "ええ、1954年に国立東京第一病院で始まったのよ。自分の健康を管理するのは良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I should probably get one soon. My wife keeps telling me. Maybe it's time for a `spate` of health checks.",
+      "ja": "そうですよね。僕もそろそろ受けないと。妻にいつも言われてるんです。そろそろ健康診断の『スペイト』の時期かもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A spate?",
+      "ja": "スペイト？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, a lot of them, suddenly. I hear it sometimes on the news, like 'a spate of new cases.' What does it mean?",
+      "ja": "ええ、なんか、たくさん、突然に、みたいな。ニュースでよく聞くんです、「a spate of new cases」って。どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a large number of similar things happening in quick succession. Like a sudden rush or outpouring.",
+      "ja": "それは、似たようなことが立て続けにたくさん起こることよ。急な殺到とか、一斉に押し寄せる感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so like a sudden rush of hunger. I've been thinking about ramen all morning. A rich tonkotsu, maybe with some extra chashu...",
+      "ja": "ああ、なるほど。じゃあ、急にお腹が空く、みたいな。朝からずっとラーメンのこと考えてたんですよ。濃厚なとんこつ、チャーシュー増しで..."
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds good. My daughter is always asking for ramen.",
+      "ja": "いいわね。うちの娘もいつもラーメンをねだるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's just the best, isn't it? Rich or light, it doesn't matter. Just something warm and satisfying.",
+      "ja": "最高ですよね？こってりでもあっさりでも、関係ないです。ただ温かくて満足できるものが食べたい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It really is. Well, I hope you get your ramen today, Alex.",
+      "ja": "本当にそうね。さて、アレックス、今日はラーメンが食べられるといいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'll try! Have a good weekend, Sarah.",
+      "ja": "頑張ります！サラさんも良い週末を。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too. See you next week.",
+      "ja": "あなたもね。また来週。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 29.5,
+      "temp_min": 22.3,
+      "rain_probability": 62
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      },
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      }
+    ],
+    "wikipedia": {
+      "title": "人間ドックの日",
+      "description": "1954年、国立東京第一病院（現在の国立国際医療センター）で人間ドックが始められた。"
+    }
+  }
+}
