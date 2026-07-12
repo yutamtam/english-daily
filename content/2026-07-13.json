@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-12T21:35:48.168670+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 12th, 2026. Another week, another… drizzle.",
+      "ja": "おはようございます、サラさん。2026年7月12日。また一週間、また…小雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, it’s a dense drizzle out there. The kind that gets you wet even with an umbrella.",
+      "ja": "おはよう、アレックス。うん、今日は結構強い霧雨だね。傘差してても濡れちゃうやつ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? My weather app says 71% rain today. And a high of 27.4 degrees. Feels pretty humid.",
+      "ja": "でしょ？僕の天気アプリだと、今日の降水確率71%。最高気温は27.4度。かなり蒸し暑く感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. You’ll need the A/C on full blast later.",
+      "ja": "そうだね。後でエアコン全開にしなきゃだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Speaking of things heating up, I saw the news about Tokyo’s accommodation tax. Changing to a percentage-based system.",
+      "ja": "間違いなく。そういえば、話題は変わりますが、東京の宿泊税のニュースを見ました。パーセンテージ制に変わるんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, from April next year. And Airbnb rentals will be included now. It’s about time, I think.",
+      "ja": "ええ、来年の4月からね。Airbnbも含まれるようになる。やっとって感じだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. With all the tourists, maybe it helps the city get a better… what’s the word? A better financial situation, you know?",
+      "ja": "でしょうね。観光客がたくさんいるから、街の財政状況が良くなる、というか…なんて言うんですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You mean a better foothold?",
+      "ja": "足がかり、ってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes, a foothold! That’s it. Like, more stable ground. I hear a lot of places are still struggling after the pandemic, even with the tourists.",
+      "ja": "はい、足がかり！それです。もっと安定した基盤、みたいな。パンデミックの後、観光客が来てもまだ苦労している場所が多いって聞きます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It’s true. Some sectors are still a bit… stagnant. Not growing as much as others.",
+      "ja": "それは本当ね。一部のセクターはまだ少し…停滞してる。他のセクターほど伸びてないのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Stagnant. Ah, so like, not moving forward? Just staying still?",
+      "ja": "Stagnant。ああ、つまり、前に進まない？ずっと動かない、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Like a pond with no fresh water flowing in. It just sits there.",
+      "ja": "その通り。新鮮な水が流れ込まない池みたいに、ただそこに留まっている状態ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. I guess this tax change is one way to try and get things moving. My office probably won’t see any difference though.",
+      "ja": "分かりました。この税制変更は、状況を動かすための一つの方法なんでしょうね。僕の会社はたぶん何も変わらないだろうけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not. Did you see the other news about the ukiyoe painting? The long-lost one?",
+      "ja": "そうね。浮世絵のニュースは見た？あの行方不明だった絵の。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the one with the 26 courtesans? Yeah, I skimmed that. It’s pretty cool that they found it. Like finding a hidden treasure.",
+      "ja": "ああ、26人の遊女が描かれたやつ？ええ、ざっと読みました。見つかったのはかなりすごいですよね。隠された宝を見つけたみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It’s from a famous artist, apparently. And it’s putting ukiyoe back in the international spotlight.",
+      "ja": "そうね。有名な絵師のものらしいわ。そして、浮世絵が再び国際的な注目を浴びているみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That’s good. I always liked ukiyoe, but I don’t know much about it. Maybe I should actually look into it. For cultural education, you know, for the baby.",
+      "ja": "それはいいですね。浮世絵はずっと好きでしたが、あまり詳しくなくて。ちゃんと調べてみるべきかな。文化教育のために、ほら、赤ちゃんのために。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He’s just over a year old, Alex. He’ll probably prefer blocks.",
+      "ja": "まだ1歳過ぎたばかりよ、アレックス。たぶん積み木の方が喜ぶわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, right. Blocks first, then ukiyoe. Speaking of the baby, I’m so tired. He woke me up at 4 AM again. I need more coffee.",
+      "ja": "そうですね、そうですね。まずは積み木、それから浮世絵。赤ちゃんといえば、もう眠くて。また午前4時に起こされました。もっとコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I’ll stick to my tea. There was also news about a 'super' El Nino hitting Japan. Potentially affecting farming.",
+      "ja": "私は紅茶でいいわ。それから、日本に『スーパー』エルニーニョが到来するっていうニュースもあったわね。農業に影響が出る可能性が。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I feel like I read about El Nino every year. It’s always something with the weather, isn’t it?",
+      "ja": "ああ、エルニーニョって毎年読んでる気がします。いつも天候で何かありますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It’s a recurring pattern. And 'super' sounds a bit worrying for the crops.",
+      "ja": "そうね。繰り返しのパターンね。『スーパー』って聞くと、作物にとってはちょっと心配だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It probably won’t detract from my desire for iced coffee though. Even with a super El Nino, I’ll still want it.",
+      "ja": "ええ。でも、それが僕のアイスコーヒーへの欲求を損なうことはないでしょうね。スーパーエルニーニョが来ても、やっぱり飲みたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Detract means to take away from, or lessen the value or importance of something.",
+      "ja": "Detract は、何かから取り去る、あるいは価値や重要性を低下させるという意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, it won't lessen my desire. Got it. Thanks. Oh, hey, speaking of time, do you know what day today is?",
+      "ja": "ああ、なるほど。じゃあ、僕の欲求を減らしたりしない、ってことですね。分かりました。ありがとうございます。あ、そういえば、時間といえば、今日が何の日か知ってます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is it someone’s birthday?",
+      "ja": "誰かの誕生日？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, it’s 日本標準時制定記念日. Japanese Standard Time Establishment Day. It was on this day in 1886 that the 135th meridian east, passing through Akashi, Hyogo, was set as the national standard time.",
+      "ja": "いえ、日本標準時制定記念日です。1886年のこの日に、兵庫県の明石市を通る東経135度が国の標準時と定められたんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that’s right. And it started officially in 1888, I remember.",
+      "ja": "ああ、そうだったわね。そして1888年から正式に実施されたのよね、覚えてるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. It unified time across the country. Before that, every region had its own time, which must have been a mess for travel and business.",
+      "ja": "その通りです。これで全国の時間が統一されたんですよね。それまでは地域ごとに独自の時間があったそうで、旅行やビジネスには大変だったでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A complete mess, I imagine. My kids complain if their clocks are five minutes apart in the house.",
+      "ja": "それはもう大変だったでしょうね。うちの子たちは、家の中の時計が5分ずれてるだけで文句言うからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. Trying to schedule something across Japan then… wow.",
+      "ja": "ええ、想像できます。それで日本中で何かをスケジュールしようとすると…すごいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good that we have one unified time now, for The Daily Tanu-chan Show and everything else.",
+      "ja": "今では統一された時間があるのは良いことだわ、The Daily Tanu-chan Showにとっても、他の全てのことにとってもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. One less thing to worry about. Though with the baby, I’m still running on my own time zone.",
+      "ja": "間違いなく。心配事が一つ減りました。まあ、赤ちゃんがいると、僕はまだ自分だけの時間帯で動いてますけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That’s how it is when they’re little. My son used to wake up at 5 AM every day for years.",
+      "ja": "小さい頃はそんなものよ。うちの息子も何年間も毎日5時に起きてたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that’s not reassuring. Well, I should probably go get that second coffee. Before the drizzle gets heavier.",
+      "ja": "ああ、それはあまり安心できない話ですね。さて、そろそろ2杯目のコーヒーを取りに行こうかな。霧雨がもっと強くなる前に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. See you later, Alex.",
+      "ja": "そうね。じゃあまたね、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "See ya, Sarah.",
+      "ja": "またね、サラさん。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Dense drizzle",
+      "temp_max": 27.4,
+      "temp_min": 23.8,
+      "rain_probability": 71
+    },
+    "news": [
+      {
+        "title": "Tokyo revises accommodation tax amid tourism boom; Airbnb rentals now included",
+        "summary": "The Tokyo Metropolitan Government has announced major revisions to the city’s accommodation tax, replacing the current flat-rate system with a percentage-based tax from April 2027.\nUnder the current…",
+        "link": "https://japantoday.com/category/national/tokyo-revises-accommodation-tax-amidst-tourism-boom-airbnb-rentals-now-included"
+      },
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "Japan braces for 'super' El Nino to hit farming",
+        "summary": "El Nino has emerged for the first time in two years and is feared to intensify into a &quot;super El Nino,&quot; which would raise the risk of extreme…",
+        "link": "https://japantoday.com/category/national/japan-braces-for-heat-as-el-nino-may-intensify-to-hit-farming"
+      }
+    ],
+    "wikipedia": {
+      "title": "日本標準時制定記念日",
+      "description": "1886（明治19）年、兵庫県明石市を通る東経135度の子午線を日本標準時と定め、全国の時間統一が決定。1888（明治21）年1月1日から実施された。"
+    }
+  }
+}
