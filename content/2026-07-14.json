@@ -1,0 +1,252 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-13T22:14:22.091220+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 13th already, can you believe it?",
+      "ja": "おはようございます、サラさん。もう7月13日ですね、信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time moves fast. Overcast today, but still feels warm.",
+      "ja": "アレックス、おはよう。時間があっという間ね。今日は曇りだけど、まだ暖かいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 33 degrees, they said. Even with the clouds, it's gonna be a hot one. Rain chance is low, though, 20%.",
+      "ja": "ええ、33度って言ってましたね。曇りでも暑くなりそうです。でも、降水確率は20%と低いみたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good. I don't like trying to dry laundry on humid, rainy days.",
+      "ja": "よかった。湿気の多い雨の日に洗濯物を乾かすのは好きじゃないの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell me about it. I'm already thinking about my coffee. This is an early start.",
+      "ja": "本当ですよね。もうコーヒーのこと考えてますよ。今日は早いスタートです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My tea's just right.",
+      "ja": "私の紅茶はちょうどいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see the news about the space agency? They tested a reusable rocket prototype.",
+      "ja": "宇宙航空研究開発機構のニュース見ました？再利用可能なロケットの試作機をテストしたそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, the RV-X? I saw a headline. To cut costs, right?",
+      "ja": "ああ、RV-Xね？見出しだけ見たわ。コスト削減のためでしょ？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. They're trying to replicate successful models from other countries, I guess. It says 'paving the way for cutting costs' and encouraging frugality.",
+      "ja": "ええ、まさに。他の国の成功したモデルを『replicate』しようとしてるんでしょうね。『コスト削減への道を開き、倹約（frugality）を促す』とありました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, 'replicate' means to copy or reproduce something exactly. Like making another one just like the first. And 'frugality' means being careful with money, not wasteful.",
+      "ja": "ええ、『replicate』は何かを正確にコピーしたり複製したりすること。最初と同じものをもう一つ作るようなものね。そして『frugality』は、お金に注意して、無駄遣いをしないことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, got it. Both make a lot of sense for space travel, and for my household budget now too. I'm always looking for ways to cut costs.",
+      "ja": "なるほど、分かりました。宇宙旅行にも、そして今のうちの家計にも、どちらもすごく理にかなってますね。僕はいつもコスト削減の方法を探してますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "True for most places. Especially with a family.",
+      "ja": "ほとんどの場所でそうね。特に家族がいるとね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And the government is setting up a new body for crop seedlings. To stop them going overseas.",
+      "ja": "それから、政府が作物の苗のための新しい組織を立ち上げるそうね。海外流出を防ぐために。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the premium fruits? Like the expensive grapes and melons? Yeah, I saw that. I feel like I read this every year, some new plan.",
+      "ja": "ああ、高級フルーツのことですか？高いブドウとかメロンとか。ええ、見ました。毎年これ読んでる気がします、新しい計画ってやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're trying to protect the intellectual property, I suppose. It's important for farmers.",
+      "ja": "知的財産を守ろうとしているのでしょうね。農家にとっては重要なことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. My dad always says Japanese fruit is too good to share.",
+      "ja": "そうでしょうね。うちの父はいつも日本の果物は美味しすぎて分けられないって言ってますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's not wrong about the quality.",
+      "ja": "品質に関しては間違ってないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this one... raw chicken dishes to be regulated. That's... interesting.",
+      "ja": "それからこれ…生鶏肉料理が規制されるって。それは…興味深いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. Some restaurants still serve it, don't they?",
+      "ja": "ふむ。まだ出しているお店もあるわよね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I've seen it. But raw chicken? My stomach just tightens thinking about it. No thanks. Even if it's 'fresh'.",
+      "ja": "ええ、見たことあります。でも生鶏肉？考えるだけで胃がキュッとなります。遠慮しときます。『新鮮』だとしてもね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's always a risk.",
+      "ja": "常にリスクはあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I mean, who eats raw chicken regularly? Is that a thing?",
+      "ja": "というか、生鶏肉を定期的に食べる人っているんですか？そういうものなんですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is for some. Usually very specific cuts, from very specific places.",
+      "ja": "いるわよ、一部の人には。たいていはごく特定の部位を、ごく特定の場所でね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'd rather be safe. Especially with my little one starting to eat more solid food. Can't imagine.",
+      "ja": "僕は安全な方がいいですね。特にうちの子が固形物を食べ始めるところなので。考えられません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "By the way, did you know what today is?",
+      "ja": "ところで、今日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm? Not really. What's today? Some kind of animal day?",
+      "ja": "え？いや、別に。何の日ですか？何か動物の日とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Jelly Day, or ゼリーの日.",
+      "ja": "ゼリーの日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Jelly Day? Really? Is that a thing?",
+      "ja": "ゼリーの日？本当ですか？そんなのあるんですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. The Japan Gelatin and Collagen Industrial Association made it. Because gelatin consumption increases in summer. And it's also France's national day, and gelatin is used a lot in French sweets.",
+      "ja": "ええ。日本ゼラチン・コラーゲン工業組合が制定したの。夏はゼラチンの消費が増えるから。それに、フランスのナショナルデーでもあるし、ゼラチンはフランス菓子によく使われるからよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that makes sense. Gelatin, jelly... I like jelly. Especially cold in the summer.",
+      "ja": "ああ、なるほど。ゼラチン、ゼリー…。ゼリー好きですよ。特に夏に冷たいのが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids like the fruit jelly cups. They always ask for them when it's hot.",
+      "ja": "うちの子たちもフルーツゼリーのカップが好きよ。暑いといつもおねだりされるの。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of summer and cooling foods, I was thinking about Kyushu. I really want to go to Beppu again soon, or maybe explore Kagoshima.",
+      "ja": "夏と冷たい食べ物の話が出たけど、九州のことを考えてたの。また近いうちに別府に行きたいか、鹿児島を探索したいなって思って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, Kagoshima's good. They have great black pork, don't they?",
+      "ja": "ああ、鹿児島いいですね。美味しい黒豚がありますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, and the sweet potatoes. My son loves them. It's a nice change from the city heat.",
+      "ja": "そうよ、あとサツマイモもね。うちの息子が大好きなの。都会の暑さから離れるのにちょうどいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds good. My wife keeps talking about trying to take the baby somewhere, but it just feels like so much work.",
+      "ja": "いいですね。妻は赤ちゃんをどこかに連れて行こうってずっと話してるんですけど、なんだかすごく大変そうに感じちゃって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But worth it eventually.",
+      "ja": "そうね。でも結局はそれだけの価値があるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. Any sudden noise, I jump.",
+      "ja": "この頃、何にでも飛び起きちゃうんです。きっと赤ちゃんが原因でしょうね。どんな突然の音でもビクッとします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You get used to it. The house is never really quiet with little ones.",
+      "ja": "慣れるものよ。小さな子がいたら、家が本当に静かになることはないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It's a different kind of quiet now, isn't it?",
+      "ja": "ええ。今は別の種類の静けさ、って感じですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, looks like we're almost out of time for The Daily Tanu-chan Show.",
+      "ja": "さて、そろそろ『The Daily Tanu-chan Show』も終わりの時間ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, already? Time flies when you're talking about raw chicken and jelly. Thanks for the chat, Sarah.",
+      "ja": "ああ、もうですか？生鶏肉とゼリーの話をしてるとあっという間ですね。おしゃべりできてよかったです、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good one.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too. Don't forget your tea.",
+      "ja": "あなたも。お茶忘れないでくださいね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 33.3,
+      "temp_min": 23.6,
+      "rain_probability": 20
+    },
+    "news": [
+      {
+        "title": "Japan tests reusable rocket prototype RV-X to reduce costs",
+        "summary": "Japan's space agency tested a prototype of a reusable rocket in Akita Prefecture in the country's northeast on Saturday, paving the way for cutting the costs of future…",
+        "link": "https://japantoday.com/category/national/japan-tests-reusable-rocket-prototype-rv-x-to-reduce-costs"
+      },
+      {
+        "title": "Japan to launch new body to protect premium crop seedlings",
+        "summary": "The Japanese government will establish a new organization by August to manage plant variety rights, aiming to curb overseas leakage of branded fruits and other crops by monitoring…",
+        "link": "https://japantoday.com/category/national/japan-to-launch-new-body-to-protect-premium-crop-seedlings-amid-leaks"
+      },
+      {
+        "title": "Raw chicken dishes to be regulated by Japanese government",
+        "summary": "When it comes to choosing something to eat, there’s always a risk-reward calculation that needs to be done.  \nRaw chicken seems like a no-brainer in this sense. In…",
+        "link": "https://japantoday.com/category/national/raw-chicken-dishes-to-be-regulated-by-japanese-government"
+      }
+    ],
+    "wikipedia": {
+      "title": "ゼリーの日",
+      "description": "日本ゼラチン・コラーゲン工業組合が制定。この時期はゼラチンの消費が増えるうえ、フランス菓子・料理などによく使われるため、フランス革命の日と同じ日を「ゼラチンの日」及び「ゼリーの日」とした。"
+    }
+  }
+}
