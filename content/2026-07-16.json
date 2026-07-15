@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-15T22:33:35.797597+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Today is July 15th, 2026.",
+      "ja": "おはようございます、サラさん。今日は2026年7月15日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like it's going to be another hot one, and they're saying rain later.",
+      "ja": "おはよう、アレックス。また暑くなりそうね、それに後で雨が降るって言ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 93% chance, I saw. And already so humid, right? I definitely need my coffee this morning.",
+      "ja": "ええ、93%の確率って見ました。もうすでにすごく蒸し暑いですよね？今朝は絶対にコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine's tea.",
+      "ja": "私はお茶よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Probably for the best. My heart's already racing just thinking about the emails waiting for me. Anyway, did you see the news about the reusable rocket? Japan tested a prototype on Saturday.",
+      "ja": "それが一番でしょうね。メールを考えるだけで心臓がドキドキしてます。ところで、再利用可能なロケットのニュース見ました？日本が土曜日に試作品をテストしたって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's interesting they're trying to cut costs for space travel.",
+      "ja": "見たわ。宇宙旅行のコスト削減を試みているのが興味深いわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What exactly is a \"prototype\"? Is it like a test version of something?",
+      "ja": "「プロトタイプ」って正確には何ですか？何かのテスト版みたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's the first working model of something new. They use it to test things out before making the final product.",
+      "ja": "ええ、新しいものの最初の動作するモデルよ。最終製品を作る前に、それで色々と試すの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, makes sense. My company should do that more often. We just launch things, then fix them.",
+      "ja": "ああ、なるほど。うちの会社ももっとそうするべきですよ。うちはとりあえず出して、それから直すって感じです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sometimes that's quicker, too.",
+      "ja": "それも時には早いわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. Oh, and the Sailor Moon fan club is still taking applications. I didn't know the manga debuted 26 years ago.",
+      "ja": "そうかもしれません。そうそう、セーラームーンのファンクラブがまだ募集してるそうですよ。漫画が26年前にデビューしたって知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's been around for a long time. My daughter used to watch it when it first started.",
+      "ja": "ずっと昔からあるのよ。娘が初めて公開された時に見てたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "She did? So it's like a really old franchise then.",
+      "ja": "そうだったんですか？じゃあ、かなり昔からのフランチャイズなんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, a franchise is a series of products, like movies or comics, that all come from one original idea.",
+      "ja": "ええ、フランチャイズは、映画とか漫画みたいに、一つの元のアイデアから生まれた一連の作品のことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Like Pokémon, or Mario. I still play Mario Kart sometimes. My wife says I should grow up, but it's good stress relief.",
+      "ja": "なるほど。ポケモンとかマリオみたいな。僕もたまにマリオカートやりますよ。妻には大人になれって言われますけど、いいストレス解消になるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm.",
+      "ja": "うん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things that have been around a while, did you know what today is? Today is 国土交通Day.",
+      "ja": "昔からあるものと言えば、今日が何の日か知ってました？今日は国土交通Dayらしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. The day the Ministry of Land, Infrastructure, Transport and Tourism created to celebrate their establishment law.",
+      "ja": "ええ、そうね。国土交通省が、その設置法が公布されたことを記念して制定した日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, right. So, just a regular Wednesday for us, then. No time off.",
+      "ja": "ですよね。じゃあ、僕たちにとってはただの普通の水曜日ってことですね。休みはないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No.",
+      "ja": "ええ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wish it meant a day to just relax. I'd go to a sento, maybe a sauna. It's so quiet there. That feeling of 'totonou' is amazing.",
+      "ja": "ただリラックスできる日だったらよかったのに。銭湯とかサウナに行きたいですよ。あそこはすごく静かで。『ととのう』あの感じ、最高なんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I like a good bath.",
+      "ja": "私はゆっくりお風呂に入るのが好きね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, but the silence at the sento... it's just so different from home right now. The baby just started trying to pull himself up on everything.",
+      "ja": "ええ、でも銭湯の静けさって…今の家とは全然違うんですよ。うちの子、ちょうど何でもつかまって立ち上がろうとし始めたばかりで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They get very active around that age. My son was the same.",
+      "ja": "そのくらいの年齢はとても活発になるわね。うちの息子もそうだった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, he's everywhere. My wife and I are always saying, \"Don't touch that!\" all day.",
+      "ja": "ええ、もうどこにでもいるんですよ。妻と僕とで一日中「それ触っちゃダメ！」って言ってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You learn to block things off.",
+      "ja": "物を片付けるようになるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Anyway, this is The Daily Tanu-chan Show. Hope everyone has a good day.",
+      "ja": "本当にそうですね。さて、こちらThe Daily Tanu-chan Showでした。皆さん、良い一日を。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 33.6,
+      "temp_min": 24.4,
+      "rain_probability": 93
+    },
+    "news": [
+      {
+        "title": "Japan tests reusable rocket prototype RV-X to reduce costs",
+        "summary": "Japan's space agency tested a prototype of a reusable rocket in Akita Prefecture in the country's northeast on Saturday, paving the way for cutting the costs of future…",
+        "link": "https://japantoday.com/category/national/japan-tests-reusable-rocket-prototype-rv-x-to-reduce-costs"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      },
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      }
+    ],
+    "wikipedia": {
+      "title": "国土交通Day",
+      "description": "1999（平成11）年に国土交通省設置法が公布されたのを記念して、国土交通省が制定。"
+    }
+  }
+}
