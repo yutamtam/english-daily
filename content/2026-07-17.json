@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-16T22:32:39.467320+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 16th, 2026. Can you believe it's already mid-July?",
+      "ja": "おはようございます、サラさん。2020年7月16日。もう7月半ばなんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time goes fast. Especially with the rain we've been having.",
+      "ja": "おはよう、アレックス。時間はあっという間だね。特にこの雨続きだと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh, the drizzle again. My hair is already… well, it's just wet. And sticky.",
+      "ja": "うう、また小雨ですね。髪の毛がもう…なんだかベタベタします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 29 degrees out there. And 100% chance of rain all day. Not much choice.",
+      "ja": "外は29度だよ。一日中100%の雨予報だし。どうしようもないね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I need my coffee before I can even think straight. This humidity really gets to me.",
+      "ja": "ですよね。まずコーヒー飲まないと頭が働きません。この湿気は本当に参ります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm just enjoying my tea. Less drama.",
+      "ja": "私はお茶でいいや。その方が落ち着くし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. Speaking of drama, did you see the news about Mount Fuji?",
+      "ja": "まあ、そうですね。ドラマといえば、富士山のニュース見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The hiker? Twice in two days, right?",
+      "ja": "登山者の？2日間で2回も、だっけ？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I mean, I love hiking, but you'd think after the first rescue, you'd be a bit more careful. Or maybe just go home.",
+      "ja": "そうです。僕も登山は好きですけど、一度救助されたら、もう少し気をつけるか、家に帰るかしますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Some people are determined.",
+      "ja": "執着する人もいるからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Determined or just… what's the word? Not very good at learning? It just seems a bit… what's the word for something that happens all the time and is boring?",
+      "ja": "執着しているのか、それとも…なんていうんだろう？学習能力がない？なんかちょっと…いつも起こることで退屈なことって、なんて言いますっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mundane?",
+      "ja": "マンデイン？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mundane! Yes, that's it. It feels a bit mundane for the rescue team, too, I bet. Like, 'Oh, it's him again.'",
+      "ja": "マンデイン！それです。救助隊にとってもちょっとマンデインな感じがしますよね。「ああ、また彼か」みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mundane means ordinary, or not interesting. Common, everyday.",
+      "ja": "マンデインは、ごく普通のこと、面白くないこと。日常的な、ありふれたこと、という意味だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Yeah, it's not a very exciting headline, is it? Anyway, moving on, they're talking about a 'super El Nino' hitting farming.",
+      "ja": "なるほど。そうですよね、あまり刺激的なヘッドラインじゃないですよね。それはさておき、農業に「スーパーエルニーニョ」が来るって話ですが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's not good. My small garden is already struggling with this constant rain.",
+      "ja": "それは困るね。私の小さい庭も、このずっと続く雨でかなり大変だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right, your garden. What's growing this season?",
+      "ja": "ああ、そうか、サラさんの庭。今シーズンは何を育ててるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Tomatoes and cucumbers mostly. The tomatoes are doing okay, but the cucumbers… they're just not happy. Too much water, I think. But it's still nice to see things grow.",
+      "ja": "主にトマトときゅうり。トマトはまあまあなんだけど、きゅうりがね…元気がないんだ。水が多すぎるんだと思う。でも、やっぱり育つのを見るのは楽しいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. My little one just pulls up anything green from the pot on our balcony. So, no gardening for us yet.",
+      "ja": "想像できます。うちのちっちゃいのは、ベランダの植木鉢から緑のものを何でも引っこ抜いちゃうので。うちはまだガーデニングは無理ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They grow out of that phase.",
+      "ja": "そういう時期は過ぎるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. I jump at everything these days. Pretty sure it's the baby. Any sudden noise, I wince. Like, 'What was that?'",
+      "ja": "だといいんですけど。最近、何にでも飛び上がっちゃうんですよ。たぶん赤ちゃんが原因です。突然の音には、ビクッとします。「今のは何だ？」って。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Wince means to flinch or pull back slightly, usually from pain or discomfort.",
+      "ja": "ウインスは、痛みや不快感で、わずかに身をすくめたり、後ずさりしたりすることだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, exactly. Like when I hear the creak of the floorboards at 3 AM. Makes me wince.",
+      "ja": "ああ、まさにそれです。午前3時に床板がきしむ音を聞くと、ビクッとします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days.",
+      "ja": "そういう日もあったね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Anyway, one last headline here, I found this a bit random. 'Sailor Moon fan club taking applications for 2017, with English sign-up support.'",
+      "ja": "ええ。ところで、もう一つ見出しがあったんですが、これはちょっと唐突でした。「セーラームーンファンクラブ、2017年の入会受付中、英語でのサインアップ対応あり」って。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's old news. But I guess they're still accepting members from that year. My daughter used to be obsessed with Sailor Moon.",
+      "ja": "ああ、それは古いニュースだね。でも、きっとその年からずっと会員を受け付けているんだろうね。うちの娘はセーラームーンに夢中だった時期があるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Still accepting 2017 applications in 2026? That's quite a long run for a fan club. Shows dedication, I guess.",
+      "ja": "2026年にまだ2017年の申し込みを受け付けてるんですか？ファンクラブとしてはかなり長続きしてますね。献身的なファンが多いんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a huge franchise. Very popular overseas too, so English support makes sense.",
+      "ja": "すごく大きなフランチャイズだからね。海外でもとても人気があるし、英語対応は理にかなってるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. I didn't know it was that big. So, speaking of dedication, what's today's theme, Sarah? Anything interesting?",
+      "ja": "ええ、そうなんですね。そんなに大きいとは知りませんでした。じゃあ、献身といえば、今日のテーマは何ですか、サラさん？何か面白いことありますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Manga Day. 'Manga no Hi'.",
+      "ja": "今日は「漫画の日」だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Manga Day? Oh, cool! Is that because of some famous manga artist?",
+      "ja": "漫画の日？おお、いいですね！何か有名な漫画家と関係があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not exactly. It's because on this day in 1841, a satirical cartoon magazine called 'Punch' was first published in the UK. Many consider it the origin of the word 'cartoon'.",
+      "ja": "厳密には違うんだ。1841年のこの日に、イギリスで『パンチ』という風刺漫画週刊誌が創刊されたから。多くの人が、これが「漫画 (cartoon)」という言葉の起源だと考えているんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow, Punch magazine. That's way older than I expected. I thought it would be something more directly related to Japanese manga.",
+      "ja": "へえ、パンチ誌。思ったよりずっと古いですね。もっと日本の漫画に直接関係するのかと思ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The idea of visual storytelling with humor goes back a long way.",
+      "ja": "ユーモアを交えた視覚的な物語のアイデアは、ずっと昔からあるんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's actually pretty cool. So, all this time I thought manga was purely a Japanese thing, and it has roots in England.",
+      "ja": "それは結構すごいですね。今まで漫画は純粋に日本のものだと思ってたのに、イギリスにルーツがあるんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Influence travels.",
+      "ja": "影響は伝播するものだからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I need to remember that. Maybe I'll pick up a manga on the way home. Something to keep my mind off the rain.",
+      "ja": "ですよね。覚えておかないと。帰りに漫画でも買って帰ろうかな。雨のことを忘れるために。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. It's been The Daily Tanu-chan Show for July 16th, 2026. Thanks for joining us.",
+      "ja": "いい考えだね。2026年7月16日の「The Daily Tanu-chan Show」でした。お付き合いいただき、ありがとうございました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, thanks everyone. Have a good one, and we'll see you tomorrow.",
+      "ja": "ええ、皆さんありがとうございます。良い一日を、また明日お会いしましょう。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate drizzle",
+      "temp_max": 29.8,
+      "temp_min": 25.0,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Hiker needs to be rescued from Mount Fuji two times in two days",
+        "summary": "With June usually being a month of rainy, gloomy weather in Japan, you’ve really got to pack as much summer fun as you can into your July and…",
+        "link": "https://japantoday.com/category/national/hiker-needs-to-be-rescued-from-mount-fuji-two-times-in-two-days-but-system-is-working-as-intended"
+      },
+      {
+        "title": "Japan braces for 'super' El Nino to hit farming",
+        "summary": "El Nino has emerged for the first time in two years and is feared to intensify into a &quot;super El Nino,&quot; which would raise the risk of extreme…",
+        "link": "https://japantoday.com/category/national/japan-braces-for-heat-as-el-nino-may-intensify-to-hit-farming"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      }
+    ],
+    "wikipedia": {
+      "title": "漫画の日",
+      "description": "1841年、イギリスで風刺漫画週刊誌「パンチ」が創刊された。"
+    }
+  }
+}
