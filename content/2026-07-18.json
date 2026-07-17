@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-17T21:38:42.823023+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 17th, 2026. Hope you had a good start.",
+      "ja": "おはようございます、サラさん。2026年7月17日です。いいスタートを切れましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. I did. Though it's looking a bit gloomy out there, isn't it?",
+      "ja": "おはよう、アレックス。ええ。でも外は少し暗い感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. My weather app says light drizzle all day. High of 28.3, low of 23.8. And an 84% chance of rain. So, basically, bring an umbrella.",
+      "ja": "ええ、まさに。天気予報アプリだと一日中軽い霧雨だそうです。最高28.3度、最低23.8度。そして降水確率84%。つまり、傘を持っていくしかないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right for July. I heard about the new Kabuki show in Roppongi, 'Zatoichi Part II'. They're calling it the most accessible Kabuki ever.",
+      "ja": "7月らしい天気ね。六本木で新しい歌舞伎『座頭市 第二部』があるって聞いたわ。史上最もわかりやすい歌舞伎だそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's good! I've always wanted to go, but I always imagine sitting there for four hours, not understanding anything. So, 'accessible' sounds great.",
+      "ja": "おお、それはいいですね！いつも行きたいなと思ってたんですけど、4時間座って何も理解できないのを想像しちゃって。だから「わかりやすい」って聞くとすごくいいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means you don't have to be a Kabuki expert to enjoy it. Maybe it's designed to draw in new audiences.",
+      "ja": "歌舞伎の専門家じゃなくても楽しめるってことよ。新しい観客を呼び込むための工夫かもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Maybe. I mean, my kid would probably just try to eat the stage props if I brought him. He's at that age where everything is for tasting.",
+      "ja": "そうかもしれませんね。もしうちの子を連れて行ったら、たぶん舞台の小道具を食べようとするでしょうね。何でも口に入れる時期なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a bit young for Kabuki, I think. My son tried it once when he was little. Didn't last long.",
+      "ja": "歌舞伎には少し早すぎるわね、たぶん。うちの息子も小さい頃に一度試したけど、長くは続かなかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Hey, did you see that story about the samurai sword? Yoshida Shoin's, I think?",
+      "ja": "ですね。そういえば、あの侍の刀の話見ました？吉田松陰の、だったかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, discovered in a house in America. Yoshida Shoin, part of Japan's last generation of samurai.",
+      "ja": "ええ、アメリカの家で発見されたのね。吉田松陰、日本の最後の世代の侍の一人よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. To find something like that, so old, so important, in a random house. It's almost... uncanny. Like finding a piece of ancient history in your garage.",
+      "ja": "それって、実際ちょっとすごいですよね。そんな古い、大事なものが普通の家で見つかるなんて。なんだか…不気味というか。ガレージで古代の歴史の破片を見つけるみたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Uncanny?",
+      "ja": "不気味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like… a bit strange, maybe even mysterious, or spooky. Not in a scary way, but in a 'how did that get there?' kind of way. Like when you see something that feels familiar but also really out of place. It just gives you a weird feeling.",
+      "ja": "ええ、なんか…ちょっと変な、もしかしたら神秘的とか、ゾッとするような。怖いという意味じゃなくて、「どうしてそれがそこにあるの？」って感じで。見慣れているはずなのに、場違いなものを見たときに感じる、変な感覚です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I see. Yes, 'uncanny' can describe something that's strangely unsettling or mysterious, often because it's both familiar and unfamiliar at the same time. Like a robot that looks almost human, but not quite.",
+      "ja": "なるほど。「アンキャニー（uncanny）」は、奇妙に不安にさせる、あるいはミステリアスなものを表すのね。多くの場合、それが同時に身近で、かつ馴染みのないものだからよ。まるで人間そっくりだけど、完全ではないロボットみたいにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! Anyway, moving on to something less historical... the student loan news. Higher rates are hitting people unexpectedly.",
+      "ja": "まさしく！さて、歴史の話から離れて…学生ローンのニュースですね。金利上昇が予想外に人々を直撃していると。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, the Bank of Japan's policy rate move. It's pushing up borrowing costs.",
+      "ja": "ええ、日銀の政策金利引き上げね。それが借り入れコストを押し上げているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I read about this every year. It's a tough situation for people trying to get their footing after university. I'm glad I paid mine off early, though it was a struggle.",
+      "ja": "毎年こんな記事を読んでいる気がします。大学を卒業して、これから生活を立てようとしている人たちにとっては大変な状況ですよね。僕は早めに返済し終えてよかったですが、大変でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It can be a heavy burden. Young people today face different challenges than we did.",
+      "ja": "それは重い負担になり得るわね。今の若者たちは、私たちとは違う課題に直面しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's true. Speaking of challenges, getting my little one to sleep through the night is still… a work in progress. It’s like a daily negotiation. He’s quite spirited.",
+      "ja": "そうですね。課題といえば、うちの子を夜通し寝させるのはまだ…進行中です。毎日の交渉みたいなものですよ。なかなか活発な子で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They find their own routine eventually. You just have to ride it out.",
+      "ja": "そのうち自分のルーティンを見つけるわよ。ただ乗り切るしかないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I suppose. Anyway, just a little heads-up for tomorrow, July 18th. It's Nelson Mandela International Day.",
+      "ja": "そうですね。ところで、明日7月18日のことなんですが、ネルソン・マンデラ国際デーだそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. The UN designated it in 2009 to honor his contributions to peace and freedom.",
+      "ja": "ああ、そうね。国連が2009年に、彼の平和と自由への貢献を称えて制定したのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. It's always good to remember people like that. It makes you think about how things change, or don't, in the world.",
+      "ja": "ですね。そういう人たちのことを思い出すのはいつもいいことです。世界で物事がどう変わっていくのか、あるいは変わらないのか、考えさせられます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed. His birthday.",
+      "ja": "そうね。彼の誕生日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels good to start the day with a bit of a positive thought like that. Even if it's drizzling outside.",
+      "ja": "ええ、そんな感じで少しポジティブな気持ちで一日を始めるのはいい気分ですね。外が霧雨でも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. Well, that's all the time we have for today on The Daily Tanu-chan Show. Alex, thanks for the chat.",
+      "ja": "そうね。さて、今日の『ザ・デイリーたぬちゃんショー』のお時間はここまでです。アレックス、お話ありがとう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And enjoy your tea. I'm off to get another coffee.",
+      "ja": "こちらこそ、サラさん。そして、お茶を楽しんでください。僕はもう一杯コーヒーを淹れてきます。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 28.3,
+      "temp_min": 23.8,
+      "rain_probability": 84
+    },
+    "news": [
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Student loan borrowers unexpectedly hit by Japan's shift to higher rates",
+        "summary": "The Bank of Japan's move to raise its policy rate to rein in inflation has pushed up borrowing costs in Japan, and people repaying their student loans after…",
+        "link": "https://japantoday.com/category/national/student-loan-borrowers-unexpectedly-hit-by-japan%27s-shift-to-higher-rates"
+      }
+    ],
+    "wikipedia": {
+      "title": "ネルソン・マンデラ国際デー",
+      "description": "2009（平成21）年に国連が南アフリカ元大統領のネルソン・マンデラ氏の平和と自由の文化への貢献を称賛し、誕生日にあたるこの日を国際デーと決議。"
+    }
+  }
+}
