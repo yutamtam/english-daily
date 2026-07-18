@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-18T20:02:44.794030+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Another day, another coffee.",
+      "ja": "おはようございます、サラさん。また一日が始まるし、またコーヒーですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Still relying on that, huh?",
+      "ja": "おはよう、アレックス。まだそれに頼ってるの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, definitely. My kid was up at 4 AM today. July 18th, 2026, and I'm already tired.",
+      "ja": "ええ、もちろんです。うちの子、今日は午前4時に起きたんです。2026年7月18日、もう疲れてますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Rough start. Looks like it's going to be partly cloudy later. High of 30.2, low of 24.4. And there's a 39% chance of rain.",
+      "ja": "大変な始まりね。午後は部分的に曇りになりそうよ。最高気温30.2度、最低24.4度。降水確率は39%だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, still hot enough. I hate that sticky heat.",
+      "ja": "うーん、まだ十分暑いですね。あのべたつく暑さ、嫌だな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. Well, did you see the news about rice flour? The government wants people to use it more for sweets because rice consumption is down.",
+      "ja": "ええ、そうね。ところで、米粉のニュース見た？政府が、お米の消費が減ってるから、お菓子にもっと使うように奨励してるんだって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that. I feel like I read this every year. It's not going to change at my office, though. Still bentos every day.",
+      "ja": "ああ、それですか。毎年読んでる気がしますね。うちの会社では変わらないでしょうけどね。毎日お弁当だし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. It's tough to shift habits. I wonder if it will really help the farmers.",
+      "ja": "そうね。習慣を変えるのは難しいわ。本当に農家のためになるのかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. But talking about work, I had an `impromptu` meeting with my boss yesterday. Just popped into my office.",
+      "ja": "そうだといいんですけど。でも仕事の話だと、昨日、上司と急に`impromptu`なミーティングがあったんですよ。突然私のオフィスに来て。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "An `impromptu` meeting? That just means it was unplanned. No notice.",
+      "ja": "`impromptu`なミーティング？それはただ、計画されてなかったってことよ。事前連絡なしで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, unplanned. Got it. So, no time to prepare. Anyway, what else is happening? Oh, that survey about foreigners wanting to work here long-term dropping.",
+      "ja": "ああ、計画されてなかった、と。なるほど。だから準備する時間もなかったわけですね。ところで、他には何かありますか？あ、日本で長期的に働きたい外国人が減ってるっていう調査。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. Japan is popular for tourists, but not so much for working long-term, apparently.",
+      "ja": "ええ、それ見たわ。日本は観光客には人気だけど、長期で働くにはそうでもないみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's surprising. Everyone wants to visit, but not live? Is it the pay, or the work culture?",
+      "ja": "意外ですね。みんな訪れたいけど、住むのは違うってことですか？給料の問題ですか、それとも労働文化？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably a mix. My son sometimes talks about working abroad when he's older. He says he wants more flexibility.",
+      "ja": "多分、両方よ。うちの息子も、もっと大きくなったら海外で働きたいって言うことがあるわ。もっと柔軟性が欲しいって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Flexibility... yeah. I can see that. It's tough sometimes, trying to balance work and home life. Especially with a baby.",
+      "ja": "柔軟性…そうですね。わかります。仕事と家庭生活のバランスを取るのが大変な時がありますね。特に赤ちゃんがいると。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But you're doing well. Kids are pretty `resilient`, even when they're little.",
+      "ja": "そうね。でもあなたはよくやってるわ。子どもって、小さい頃でもかなり`resilient`よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Resilient`? What does that mean exactly?",
+      "ja": "`Resilient`？それって具体的にどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means they bounce back quickly from difficulties. Like when they fall down, they cry for a minute, then they're off playing again.",
+      "ja": "困難からすぐに立ち直るってことよ。転んだ時みたいに、一分泣いて、また遊びに戻るでしょ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that makes sense. My kid does that. Falls over, then just laughs. Amazing, actually.",
+      "ja": "ああ、なるほど。うちの子もそうですよ。転んで、そのまま笑ってる。すごいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They adapt quickly. That's a good thing. Speaking of adapting, did you hear about the 'Roppongi Kabuki Part II Zatoichi'?",
+      "ja": "すぐに順応するのよ。それはいいことだわ。順応といえば、「六本木歌舞伎 第2弾 座頭市」のニュース聞いた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Roppongi Kabuki? No. Sounds... modern?",
+      "ja": "六本木歌舞伎？いいえ。なんだか…モダンですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're calling it the most accessible Kabuki ever. Only a few hours, and apparently, it's easier to understand.",
+      "ja": "これまでで一番とっつきやすい歌舞伎だそうよ。数時間で終わるし、どうやら理解しやすいらしいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. Maybe I should take my wife. It's The Daily Tanu-chan Show, and we're always looking for new things to try.",
+      "ja": "それはちょっとすごいですね、実際。妻を連れて行ってみようかな。ザ・デイリータヌちゃんショーですが、私たちはいつも新しいことに挑戦する機会を探しているんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Could be fun. My daughter might even be interested. She likes new things.",
+      "ja": "楽しいかもしれないわね。うちの娘も興味を持つかも。新しいものが好きだから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Your daughter is into traditional performing arts?",
+      "ja": "娘さんは伝統芸能に興味があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not really, but if it's new and different, she'll give it a try. She helped me with dinner last weekend. We made a big batch of chicken adobo.",
+      "ja": "そうでもないんだけど、新しくて変わってるなら試してみるわね。先週末、夕食を手伝ってくれたのよ。鶏肉のアドボをたくさん作ったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Chicken adobo? Sounds good. For meal prep?",
+      "ja": "チキンアドボ？いいですね。作り置きですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Saves a lot of time during the week. That's my little secret for sanity.",
+      "ja": "その通り。平日の時間をかなり節約できるわ。それが私の正気を保つ秘訣ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should try that. With a baby, any time saved is a victory.",
+      "ja": "私も試してみようかな。赤ちゃんがいると、どんな時間の節約でも勝利ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It really is. Oh, and today is Women's Minister Day. On this day in 1960, Masa Nakayama became Japan's first female cabinet minister.",
+      "ja": "本当にそうね。そうそう、今日は女性大臣の日よ。1960年の今日、中山マサさんが厚生大臣として入閣して、日本初の女性大臣が誕生したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's a long time ago. 1960...",
+      "ja": "へえ、知りませんでした。ずいぶん昔ですね。1960年…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's good to remember milestones like that. It took a long time, but it was an important step.",
+      "ja": "ええ。そういう節目を覚えておくのはいいことよ。時間はかかったけど、重要な一歩だったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Hopefully, we'll see more women in leadership roles soon. Well, thanks for the chat, Sarah. I should get my second coffee.",
+      "ja": "確かに。もっと早く女性が指導的役割に就くのを見たいですね。では、サラさん、お話しありがとうございました。2杯目のコーヒーを淹れてきます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You do that, Alex. See you later.",
+      "ja": "そうしなさい、アレックス。また後でね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 30.2,
+      "temp_min": 24.4,
+      "rain_probability": 39
+    },
+    "news": [
+      {
+        "title": "Gov't urges use of rice flour amid slump in consumption of Japan staple",
+        "summary": "With the decline of rice consumption in Japan, the farm ministry is encouraging the use of rice flour to make sweets as a way of expanding how the…",
+        "link": "https://japantoday.com/category/national/gov%27t-urges-use-of-rice-flour-amid-slump-in-consumption-of-japan-staple"
+      },
+      {
+        "title": "Survey shows foreigners’ desire to work in Japan long-term dropping",
+        "summary": "These days, Japan is more popular than ever with international tourists, and that trend doesn’t show signs of slowing down anytime soon. However, the recently released results of…",
+        "link": "https://japantoday.com/category/national/survey-shows-foreigners%E2%80%99-desire-to-work-in-japan-long-term-dropping-but-that%E2%80%99s-not-the-whole-story"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      }
+    ],
+    "wikipedia": {
+      "title": "女性大臣の日",
+      "description": "1960（昭和35）年、第一次池田勇人内閣に中山マサが厚生大臣として入閣し、日本初の女性大臣が誕生した。"
+    }
+  }
+}
