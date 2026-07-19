@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-19T20:06:07.012254+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 19th, 2026. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。2026年7月19日、『ザ・デイリー・タヌちゃん・ショー』へようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It's already feeling pretty warm out there, isn't it?",
+      "ja": "おはようございます、アレックス。もうかなり暑いね、外は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I heard the forecast. They're saying mainly clear, high of 34 degrees Celsius again today. Only 6% chance of rain.",
+      "ja": "ええ、予報聞きました。今日はほとんど晴れで、また最高気温34度だそうです。雨の確率は6%だけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right. I had my tea this morning, looking out the window, and it was already so bright.",
+      "ja": "そんな感じだよね。今朝、窓の外を見ながらお茶を飲んでたんだけど、もうすごく明るかった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I need my coffee. These mornings are still a bit of a blur, even though my little one is finally sleeping a bit better.",
+      "ja": "僕はコーヒーが必要です。うちの子がようやく少し寝るようになったのに、朝はまだちょっとぼんやりしています。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good, though. More sleep helps.",
+      "ja": "でもそれは良いことね。睡眠が増えるのは助かる。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It does. I saw some news about a clothing company making mobile game character costumes. Nutte and Axel Mark. That's kind of cool.",
+      "ja": "そうですね。ニュースで服の会社がモバイルゲームのキャラクター衣装を作るって見ました。NutteとAxel Mark。ちょっと面白いですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My daughter would like that. She's always drawing characters.",
+      "ja": "うちの娘が喜びそうね。いつもキャラクターを描いてるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I wonder if they'll go for more classic characters too, or just the really popular new ones. It sounds like a pretty big project.",
+      "ja": "ええ、もっとクラシックなキャラクターもやるのか、それとも本当に人気のある新しいものだけなのか、気になります。かなり大きなプロジェクトみたいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably the popular ones first.",
+      "ja": "たぶん、まずは人気のものからでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. Oh, and I saw that the court rejected Kyoto residents' request to halt the Oi nuclear power plant. I feel like I read that headline every year.",
+      "ja": "確かに。あと、裁判所が京都の住民による大飯原発の運転停止要請を退けたっていうニュースを見ました。毎年この見出しを読んでいる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a recurring issue, yes.",
+      "ja": "繰り返される問題ね、ええ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It just never seems to change anything. You'd think after all this time, there'd be some kind of resolution.",
+      "ja": "結局何も変わらない気がします。こんなに時間が経ったんだから、何らかの解決があるはずなのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's complex.",
+      "ja": "複雑なことなのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. Also, there's a music venue in Tokyo looking for a band to live on the premises and perform every day for a week. That sounds pretty intense, actually.",
+      "ja": "そうですね。あと、東京の音楽会場が、敷地内に住み込みで1週間毎日演奏するバンドを探しているそうです。結構大変そうですよね、実際。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A full-time commitment.",
+      "ja": "フルタイムのコミットメントね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like a 24/7 gig. I'd be a bit... <em>wary</em> of that, honestly. Living with a band for a week straight?",
+      "ja": "ええ、24時間営業みたいな。正直、ちょっと…『wary』ですね。1週間ぶっ通しでバンドと一緒に暮らすなんて？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Wary means cautious or careful. Like you're not fully trusting of the situation.",
+      "ja": "Waryは、用心深いとか慎重な、という意味よ。状況を完全に信用していないような状態ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. I'd be wary of the noise, the food, everything. My wife would definitely not be okay with that idea.",
+      "ja": "まさに。騒音とか、食事とか、何もかもに警戒しちゃいます。妻は絶対その考えには賛成しないでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's not for everyone.",
+      "ja": "誰にでもできることじゃないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, definitely not for me these days. Speaking of days, tomorrow's a holiday, isn't it? Umi no Hi.",
+      "ja": "ええ、今の僕には絶対無理です。日といえば、明日は祝日ですよね？海の日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The 20th. It's Marine Day.",
+      "ja": "そうね。20日よ。海の日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I always forget what it's for. Something about Emperor Meiji and a boat, wasn't it?",
+      "ja": "そうそう。いつも何のための日か忘れちゃうんです。明治天皇と船の話でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, on July 20th, 1876, Emperor Meiji returned to Yokohama by boat after a trip to Tohoku. It became a national holiday in 1996.",
+      "ja": "ええ、1876年7月20日に、明治天皇が東北地方への巡幸を終えて船で横浜に帰着したの。1996年に国民の祝日になったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's pretty cool, actually. A holiday to remember a boat trip.",
+      "ja": "へえ、知りませんでした。結構面白いですね、船旅を記念する祝日なんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I took my morning walk today, down by the river. It was already so warm, even at six AM.",
+      "ja": "そうね。今朝、川沿いを散歩したの。もう午前6時なのに、すでにとても暑かったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Six AM? Wow. I was still trying to get my little one to eat his breakfast. Some mornings are just a bit... <em>grueling</em>.",
+      "ja": "午前6時？すごいですね。僕はまだうちの子に朝食を食べさせようとしていました。いくつかの朝は、ちょっと…『grueling』なんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Grueling means very tiring and difficult. I remember those days.",
+      "ja": "Gruelingは、とても疲れて大変な、という意味よ。そういう日々、覚えてるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, very tiring. But then he'll give me a big smile, and it makes it all worth it. Those moments are so precious, but they're so... <em>fleeting</em>.",
+      "ja": "ええ、とても疲れます。でも、彼がにっこり笑ってくれると、全部報われるんです。あの瞬間はとても貴重なのに、すごく…『fleeting』なんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Fleeting means passing quickly. You're right, they do.",
+      "ja": "Fleetingは、あっという間に過ぎ去る、という意味よ。そうね、本当にそうね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 34.4,
+      "temp_min": 23.5,
+      "rain_probability": 6
+    },
+    "news": [
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      },
+      {
+        "title": "Court rejects Kyoto residents' request to halt Oi nuclear power plant",
+        "summary": "A district court on Tuesday rejected a request by residents of Kyoto Prefecture to halt the operation of nuclear reactors at a power plant in a neighboring area…",
+        "link": "https://japantoday.com/category/national/court-rejects-kyoto-residents%27-request-to-halt-oi-nuclear-power-plant"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      }
+    ],
+    "wikipedia": {
+      "title": "海の日",
+      "description": "明治9年7月20日、明治天皇が東北地方の巡幸を終えて船で横浜に帰着したことから、昭和16年に「海の記念日」と制定。平成8年に「海の日」として国民の祝日になり、平成15年から7月の第3月曜日に。"
+    }
+  }
+}
