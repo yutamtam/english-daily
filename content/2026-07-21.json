@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-20T20:18:46.404026+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Today is July 20th, 2026. Welcome back to The Daily Tanu-chan Show!",
+      "ja": "おはようございます、サラさん。今日は2026年7月20日です。また「デイリーたぬちゃんショー」へようこそ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Another week already. How are you doing?",
+      "ja": "おはよう、アレックス。もう一週間ね。調子はどう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm okay. Just really need this coffee to kick in. It’s pretty dark out there this morning, isn't it?",
+      "ja": "まあまあです。とにかくこのコーヒーが効いてほしい。今朝は外、かなり暗いですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Looks like we're in for some rain. The forecast says overcast, high of almost 35 degrees, and a 94% chance of rain.",
+      "ja": "そうね。雨になりそうよ。予報だと曇り、最高気温は35度近くで、降水確率は94%だそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's rough. So, hot and wet. My least favorite combination. I guess I won't be taking the little one to the park after work today.",
+      "ja": "あー、それはきついですね。暑くてじめじめ。一番苦手な組み合わせです。今日は仕事の後、小さい子を公園に連れていけないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not. You'll need an umbrella for sure. Mine are usually a mess, always somewhere I can't find them.",
+      "ja": "多分ね。傘は必須よ。私のはいつもぐちゃぐちゃで、見つからない場所にあるのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I know that feeling. Let's look at some news headlines from NHK WORLD NEWS. First up: 'Deer population in Nara Park hits record high.'",
+      "ja": "ええ、その気持ちわかります。では、NHK WORLD NEWSのニュースヘッドラインを見てみましょう。まずはこれです。「奈良公園の鹿の生息数が過去最高を記録」"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, really? That's quite a lot of deer.",
+      "ja": "あら、そう？かなりたくさんの鹿ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It says 1,687 deer now. My kid loves animals. I wonder if they'd love Nara deer, or be totally scared.",
+      "ja": "今、1,687頭だそうです。うちの子、動物が大好きなんです。奈良の鹿を気に入るか、完全に怖がるか、どっちだろう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're pretty bold sometimes. My son almost had his snack stolen once. They really want those crackers.",
+      "ja": "けっこう大胆だからね、時々。うちの息子、一度おやつを盗られそうになったわ。あの鹿せんべいが本当に欲しいのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Okay, next headline: 'Japan notifies local governments they may ban private lodgings.'",
+      "ja": "想像できます。はい、次のヘッドラインです。「日本政府、地方自治体に私的宿泊施設の禁止を通知」"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, *minpaku*. That's been a topic for a while.",
+      "ja": "ああ、民泊ね。それは前から話題になっていたわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it says 'through ordinances to protect residential areas from noise, garbage and other disturbances.' What's an 'ordinance'?",
+      "ja": "ええ、「騒音、ゴミ、その他の迷惑行為から住宅地を保護するための条例によって」とありますね。「ordinance」って何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's like a local law, made by the city or town government. Not a national law, but a rule for a specific area.",
+      "ja": "それは地方の法律のようなもので、市や町の政府が作るの。国の法律じゃなくて、特定の地域のためのルールね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. So a city can just decide to ban them. That's kind of amazing, actually. I mean, my neighbors sometimes complain about the noise from the new apartment next door.",
+      "ja": "ああ、なるほど。じゃあ市がそれらを禁止することを決められるんですね。それはちょっと驚きですね、実際。つまり、うちの隣人も時々、隣の新しいアパートからの騒音について文句を言っています。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It makes sense. Especially in quiet neighborhoods. My kids often mention how loud some tourists can be sometimes.",
+      "ja": "それは理にかなっているわね。特に静かな住宅地では。うちの子どもたちも、時々観光客がどれだけ騒がしいか話しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, one more news item: 'Japanese master craftsman builds stunning tiny house on wheels.' Oh, this sounds cool!",
+      "ja": "はい、もう一つニュースです。「日本の熟練職人が素晴らしいタイニーハウスを車輪の上で建設」お、これ面白そう！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Tiny houses are very popular now, aren't they?",
+      "ja": "タイニーハウス、今すごく流行ってるわね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They are! I've been looking at them. I mean, I love my apartment, but sometimes I just dream about having a small place that I can take anywhere. Like, for camping.",
+      "ja": "そうなんです！私も見てるんです。もちろん今のアパートも好きなんですけど、でも、どこへでも持っていける小さな場所があったら、って夢見ちゃう時があるんです。例えば、キャンプに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You like camping?",
+      "ja": "キャンプが好きなの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I used to go all the time before the baby. Now it feels like an interminable task just to pack for a weekend trip. But I still look at outdoor gear online sometimes.",
+      "ja": "ええ、赤ちゃんが生まれる前はいつも行っていました。今は週末旅行の準備をするだけでも、果てしない仕事のように感じます。でも、まだ時々オンラインでアウトドア用品を見ています。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. Packing for kids is a lot of work. What does 'interminable' mean?",
+      "ja": "想像できるわ。子どもの荷造りは大変よ。「interminable」ってどういう意味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it means never-ending, or seems like it will never end. Like a meeting that just keeps going.",
+      "ja": "ああ、それは「終わらない」「終わりがないように感じる」という意味です。いつまでも続く会議みたいに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, I know those meetings. A tiny house would be nice for that. Less stuff to pack, too.",
+      "ja": "ああ、そういう会議は知っているわ。タイニーハウスはそういうのにいいわね。荷物も少ないし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! Anyway, what's today's theme, Sarah?",
+      "ja": "その通りです！ところで、サラさん、今日のテーマは何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Today is 'Nihon Sankei no Hi,' or Japan's Three Most Scenic Views Day. It commemorates the birthday of Hayashi Razan, a Confucian scholar from the Edo period who is said to have named the three most beautiful places in Japan.",
+      "ja": "今日は「日本三景の日」よ。江戸時代の儒学者、林羅山の誕生日を記念する日なの。彼は日本の最も美しい三つの場所を名付けたと言われているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I know them! Matsushima, Amanohashidate, and Miyajima. I've only been to Miyajima.",
+      "ja": "ああ、知ってます！松島、天橋立、そして宮島ですね。僕は宮島にしか行ったことがないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're all beautiful. I've been to Matsushima. It's really special. The small islands and pine trees are so picturesque.",
+      "ja": "どれも美しいわ。私は松島に行ったことがあるの。本当に特別よ。小さな島々と松の木がとても絵になるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'd love to visit the others someday. Maybe a tiny house road trip? Anyway, that's all the time we have for today.",
+      "ja": "いつか他の場所も訪れたいですね。タイニーハウスでロードトリップとか？まあ、今日の時間もこれで終わりです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like a plan for the future. Thanks for listening, everyone. We'll see you next time.",
+      "ja": "将来の計画としては良さそうね。皆さん、お聞きいただきありがとうございました。また次回お会いしましょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks, Sarah. Have a good one!",
+      "ja": "ありがとう、サラさん。良い一日を！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 34.7,
+      "temp_min": 24.5,
+      "rain_probability": 94
+    },
+    "news": [
+      {
+        "title": "Deer population in Nara Park hits record high",
+        "summary": "The deer population in Nara Park, a tourist spot in western Japan, hit a fresh record high of 1,687, a preservation group said Thursday, with the birth rate…",
+        "link": "https://japantoday.com/category/national/deer-population-in-japan%27s-nara-park-hits-record-high-amid-overfeeding"
+      },
+      {
+        "title": "Japan notifies local governments they may ban private lodgings",
+        "summary": "The Japanese government has notified local governments that they may effectively ban minpaku private lodgings through ordinances to protect residential areas from noise, garbage and other disturbances.\nThe…",
+        "link": "https://japantoday.com/category/national/japan-notifies-local-gov%27ts-they-may-ban-private-lodgings-amid-problems"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      }
+    ],
+    "wikipedia": {
+      "title": "日本三景の日",
+      "description": "日本三景の生みの親といわれる江戸時代の儒学者・林春斎の誕生日にちなみ、日本三景観光連絡協議会が制定。"
+    }
+  }
+}
