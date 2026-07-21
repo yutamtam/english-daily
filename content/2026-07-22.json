@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-21T20:17:59.076869+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah.",
+      "ja": "おはようございます、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex.",
+      "ja": "おはよう、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's July 21st, 2026. Another Tuesday, right?",
+      "ja": "2026年7月21日、また火曜日ですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And welcome to The Daily Tanu-chan Show! Hope you're all ready to tackle Tuesday.",
+      "ja": "そして、ザ・デイリー・タヌちゃんショーへようこそ！みんな、火曜日を乗り切る準備はできていますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hope everyone's ready for the day.",
+      "ja": "皆さんが今日一日を頑張れるといいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, it's already heating up, isn't it? The forecast says mainly clear, high 35.6 today.",
+      "ja": "うわー、もう暑くなってきましたね。今日の予報は、ほとんど晴れで最高気温35.6度だそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's going to be a hot one.",
+      "ja": "ええ、暑い一日になりそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And 88% chance of rain? How does that work? Clear and rain? I never get that.",
+      "ja": "そして降水確率88%？どういうことですか？晴れなのに雨？いつも理解できません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just means a high chance of a sudden downpour later, probably.",
+      "ja": "たぶん、後で突然の土砂降りの可能性が高いってことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Still, need my coffee. It's non-negotiable.",
+      "ja": "ですね。とにかくコーヒーが必要です。これだけは譲れません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And I've got my tea ready.",
+      "ja": "私はお茶を用意したわ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about that missing boy in Kagoshima?",
+      "ja": "鹿児島で行方不明になっていた男の子のニュース、見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the five-year-old? I saw a headline. They found a body, didn't they?",
+      "ja": "ああ、5歳の子ですか？見出しを見ました。遺体が見つかったんですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They believe it's him. In a river near the hot spring.",
+      "ja": "彼だと考えられているわ。温泉の近くの川で。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that's just... awful. My heart goes out to his family. You just never know, do you?",
+      "ja": "ああ、それはただ…ひどいですね。ご家族にお悔やみ申し上げます。本当に何が起こるかわからないものですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, you don't.",
+      "ja": "ええ、そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, on a completely different note, I saw something about foreign visitors to Japan dipping.",
+      "ja": "さて、全く別の話ですが、訪日外国人が減少しているというニュースを見ました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, down 2 percent in the first half of the year. Chinese travelers specifically.",
+      "ja": "ええ、上半期で2%減少ね。特に中国人観光客が。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm. I wonder what that means for... well, everything. Our sales, maybe?",
+      "ja": "うーん。それが...まあ、全てにどう影響するんでしょうね。もしかしたら僕たちの売上にも？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It could affect various sectors.",
+      "ja": "さまざまな分野に影響を与える可能性はあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. Though at my office, I feel like we always hear about dips and surges, but nothing ever really changes.",
+      "ja": "ええ、そうでしょうね。でも、僕のオフィスでは、いつも増減の話を聞くけど、結局何も変わらないような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Things tend to balance out in the long term.",
+      "ja": "物事は長期的には均衡する傾向にあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, this one was interesting. A Tokyo music venue looking for a band to live on the premises and perform every day for a week.",
+      "ja": "さて、これは面白かったですね。東京のあるライブハウスが、一週間敷地内に住み込みで毎日演奏するバンドを探しているそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds like an intense week.",
+      "ja": "それはかなり大変な一週間になりそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? Like a musical boot camp. I bet some young bands would jump at that, though. Imagine the practice you'd get.",
+      "ja": "でしょう？音楽のブートキャンプみたい。でも、若いバンドなら飛びつくでしょうね。どれだけ練習できるか想像してみてください。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a unique opportunity, definitely.",
+      "ja": "間違いなく、ユニークな機会ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, speaking of unique, I was looking up 'Today's Theme' for the show, and I totally mixed up the date.",
+      "ja": "あ、ユニークといえば、番組の「今日のテーマ」を調べていたんですが、完全に日付を間違えていました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "(A small, quiet chuckle) What did you find?",
+      "ja": "（小さく静かに笑い）何を見つけたの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's actually for tomorrow, July 22nd. It's 'Geta Day'.",
+      "ja": "実は明日、7月22日のことでした。「下駄の日」です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, 下駄の日. Yes, I know that one.",
+      "ja": "ああ、下駄の日ね。それは知っているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, geta, the traditional Japanese wooden clogs. Why the 22nd?",
+      "ja": "下駄、日本の伝統的な木製の履物ですね。なぜ22日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because of the numbers. Geta often used a measurement of 'seven sun, seven bu', which is 7寸7分. So, '7' for July. And the two parts of the geta, the 'teeth', look like the character for 'two', 二. So, July 22nd.",
+      "ja": "数字が理由よ。下駄はよく「七寸七分」という寸法が使われたから「7月」。そして下駄の歯の部分が「二」の字に見えるから、22日なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that! That's clever. I usually just think of them for summer festivals.",
+      "ja": "へえ、知りませんでした！それは賢いですね。僕はいつも夏祭りの時くらいしか考えません。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You know, with this heat, all I can think about is a good sento or a sauna. I went last weekend, after putting the baby to sleep.",
+      "ja": "この暑さだと、良い銭湯かサウナのことばかり考えちゃいますね。先週末、赤ちゃんを寝かしつけた後に行きました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That must have been nice. A little escape.",
+      "ja": "それは良かったわね。ちょっとした現実逃避。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It was. That feeling of 'totonou'... just completely relaxed. My mind goes totally blank. It's an *ephemeral* moment of peace, but I really crave it these days.",
+      "ja": "ええ、そうでした。「ととのう」って感覚…完全にリラックスして、頭が真っ白になるんです。つかの間の平和な瞬間なんですが、最近本当にそれを求めているんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ephemeral?",
+      "ja": "エフェメラル？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, temporary? Fleeting? Just for a short time. My little one is growing up so fast, and everything changes every day. It makes me realize how quickly these moments pass.",
+      "ja": "はい、一時的とか、はかない、とか。短い時間のことです。うちの子は本当にあっという間に大きくなって、毎日色々なことが変わるんです。こういう瞬間がいかに早く過ぎ去るかを実感しますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do grow quickly at that age. Mine are teenagers now. Still at home, but very different challenges.",
+      "ja": "あの頃はあっという間に大きくなるわね。うちの子たちはもうティーンエイジャーよ。まだ家にいるけど、また全然違う大変さがあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. My baby's just over a year old now. It's the best, but man, the sleep deprivation is real. Sometimes I feel like I'm barely holding on.",
+      "ja": "想像できます。うちの子は今1歳ちょっとです。最高なんですが、もう、睡眠不足が本当に辛くて。時々、ギリギリで持ちこたえているような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets better eventually.",
+      "ja": "いずれは良くなるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. This summer heat is not helping. It feels like the *culmination* of all the stress this year.",
+      "ja": "だといいんですが。この夏の暑さも全然助けになってないし。今年のストレスの全てが凝縮されているような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Culmination?",
+      "ja": "カルミネーション？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Uh, like the highest point, or the end result of something. The peak. This summer is definitely peaking in heat and stress for me.",
+      "ja": "えっと、一番高い点とか、何かの最終的な結果、最高潮って感じです。今年の夏は、僕にとっては暑さとストレスのピークですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it's been a particularly hot summer.",
+      "ja": "ええ、特に暑い夏だったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, speaking of stress, I think that's our cue to wrap up for today.",
+      "ja": "さて、ストレスの話といえば、今日はそろそろ終わりにする合図かなと思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Time flies when you're discussing the weather and geta.",
+      "ja": "天気と下駄について話していると時間が経つのが早いものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Thanks for joining us on The Daily Tanu-chan Show, everyone. Have a great day!",
+      "ja": "ですね。ザ・デイリー・タヌちゃんショーにご参加いただき、ありがとうございました。皆さん、良い一日を！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too. Stay cool.",
+      "ja": "あなたもね。涼しく過ごして。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 35.6,
+      "temp_min": 24.9,
+      "rain_probability": 88
+    },
+    "news": [
+      {
+        "title": "Body found near hot spring resort believed to be 5-year-old boy who went missing in June",
+        "summary": "Police in Kirishima City, Kagoshima Prefecture, said Friday that a body found in a river is likely that of a 5-year-old boy who went missing while bathing with…",
+        "link": "https://japantoday.com/category/national/body-found-near-hot-spring-resort-believed-to-be-5-year-old-boy-who-went-missing-in-june"
+      },
+      {
+        "title": "Foreign visitors to Japan dip 2% in 1st half of 2026 as Chinese travelers drop",
+        "summary": "The number of foreign visitors to Japan fell 2.0 percent from a year earlier to 21.1 million in the first six months of 2026, government data showed Wednesday,…",
+        "link": "https://japantoday.com/category/national/update1-foreign-visitors-to-japan-dip-2-in-1st-half-2026-as-chinese-travelers-drop"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      }
+    ],
+    "wikipedia": {
+      "title": "下駄の日",
+      "description": "全国木製はきもの業組合連合会が制定。下駄の寸法に7寸7分という数字が使われたことから「7月」、下駄の歯形の「二」から「22日」になった。"
+    }
+  }
+}
