@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-22T20:10:27.860533+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, everyone! Welcome to The Daily Tanu-chan Show. It's July 22nd, 2026. Can you believe it's already this hot, Sarah?",
+      "ja": "皆さん、おはようございます！『The Daily Tanu-chan Show』へようこそ。2026年7月22日です。もうこんなに暑いなんて信じられますか、サラさん？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really is. The forecast said Tokyo would hit 35.8 degrees Celsius today.",
+      "ja": "アレックス、おはよう。本当にね。今日の東京は35.8度になると予報が出てたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Over 35 degrees! That's what they call an 'extremely hot' day, right? I heard the news say that.",
+      "ja": "35度超え！それって『猛暑日』ってやつですよね？ニュースで言ってるのを聞きました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It's the first one of the year here in Tokyo, apparently. But then, they also said there's a 100% chance of rain later.",
+      "ja": "そうね。東京では今年初めてらしいわ。でも、その後で降水確率100%って言ってたわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Rain? How can it be so hot and then rain with 100% certainty? It feels like the air conditioning is fighting a losing battle against the sun already.",
+      "ja": "雨？こんなに暑くて、どうして降水確率100%なんてありえるんですか？もうエアコンが太陽と無駄な戦いをしてる気分ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The weather agency said the rainy season's likely over for regions like Tokyo. So this rain might just be a quick shower.",
+      "ja": "気象庁は東京とかの地域は梅雨明けしたって言ってたわね。だから、この雨もただの通り雨かもしれないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. I woke up so many times last night. My little one was just tossing and turning in his sleep, probably because of the heat.",
+      "ja": "だといいんですけど。昨夜は何度も目が覚めましたよ。うちの子も暑さのせいか、寝返りばかり打ってて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's hard for babies to regulate their temperature. My kids were the same when they were little. You just worry about them.",
+      "ja": "赤ちゃんは体温調整が難しいからね。うちの子たちも小さい頃はそうだったわ。心配になるよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, he's just started trying to walk, so he's full of energy all day, but then sleep is tough. It's a puzzle.",
+      "ja": "ええ、ちょうど歩き始めたばかりで、一日中元気いっぱいなんですけど、寝るのは大変で。難しいものです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. They'll find their rhythm eventually.",
+      "ja": "そうね。そのうちリズムを見つけるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, speaking of summer, I saw a headline about swimming beaches. It said the number of approved swimming beaches in Japan has fallen by around 30% over the last 30 years.",
+      "ja": "ところで、夏の話ですけど、海水浴場のニュースを見ました。日本全国の海水浴場が、過去30年で約30%も減ってるって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a significant drop. I've noticed fewer people going to some of the closer beaches around here.",
+      "ja": "それはかなり減ったわね。このあたりの近い海水浴場も、行く人が減ったなとは感じてたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thirty percent! That feels like a huge number. I guess it's pollution, or maybe people just prefer pools now?",
+      "ja": "30%！すごい数字ですよね。やっぱり汚染とか、あとはみんなプールの方が好きなのかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's probably a mix of things. Water quality, fewer facilities, not enough staff, and yes, more people choosing pools or other activities. My kids still love the beach, though.",
+      "ja": "色々な要因があるでしょうね。水質とか、施設の減少、スタッフ不足、そしてプールや他のアクティビティを選ぶ人が増えたこととか。うちの子たちは今でも海が大好きだけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. We'll probably just stick to a local pool with my little one this year. He loves splashing, but the ocean might be a bit much.",
+      "ja": "そうでしょうね。うちの子とは今年は地元のプールで我慢するかな。水遊びは大好きなんですけど、海はちょっとまだ大変かも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's probably a good idea for now.",
+      "ja": "今のところは、それが賢明かもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, and another thing I saw on NHK World News, totally different. Ukiyo-e tarot cards. They're combining traditional Japanese art with Western tarot.",
+      "ja": "ああ、それと、NHKワールドニュースで全然違うものを見たんですけど。浮世絵のタロットカード。日本の伝統的な芸術と西洋のタロットを組み合わせたものらしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. They looked quite beautiful. Tarot cards themselves have a long history, going back to the 15th century in Europe.",
+      "ja": "ええ、それ私も見たわ。すごくきれいだった。タロットカード自体は、ヨーロッパで15世紀に遡る長い歴史があるのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. And the article mentioned they became well-known in Japan after World War II. It said they're popular 'divination tools.' What does 'divination' mean, exactly?",
+      "ja": "そうですね。記事には第二次世界大戦後に日本で有名になったって書いてありました。そして、『人気のdivinationツール』って。この『divination』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Divination is the practice of trying to discover information about the future or unknown things, often by using supernatural means. Like fortune-telling, or reading tea leaves.",
+      "ja": "Divinationは、未来や未知の事柄について情報を得ようとする行為よ。超自然的な方法を使うことが多いわね。占いとか、紅茶の葉を読んだりとか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like fortune-telling! Got it. So, a way to try and see the future. That makes sense for tarot cards. I didn't know that word.",
+      "ja": "ああ、占いみたいな！なるほど。未来を見ようとする方法、と。タロットカードにはぴったりですね。その言葉、知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an interesting topic. People have always wanted to know what's coming next.",
+      "ja": "興味深い話題よね。人はいつも次に何が起こるか知りたがるものだから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Oh, and I just remembered something fun for 'Today's Theme.' I saw that today, July 22nd, is 'Fumi no Hi,' or Letter Day!",
+      "ja": "本当に。ああ、それと、『今日のテーマ』で面白いことを思い出したんですけど。今日、7月22日は『文の日』なんだそうです！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "文月ふみの日, yes. But the official day is actually the 23rd, Alex. July is 'Fumizuki' (文月), and 23 sounds like 'fumi' (ふみ).",
+      "ja": "文月ふみの日ね、そう。でも、アレックス、正式には23日なのよ。7月は「文月（ふみづき）」で、23が「ふみ」と読めるからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no! I got the date wrong again. Just one day early. My brain is definitely a bit fuzzy these mornings.",
+      "ja": "ああ、また！日付を間違えちゃった。一日早かっただけか。この頃、朝は頭がぼーっとしてるんですよ、本当に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It happens. The Post Office established it in 1979 to encourage people to write letters more. Some places celebrate it all month.",
+      "ja": "よくあることよ。1979年に郵政省が手紙を書く文化を広げるために制定したのよ。場所によっては一ヶ月間祝うところもあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's nice. In this digital age, receiving a handwritten letter would be really special. I should try that sometime. Maybe for my wife.",
+      "ja": "いいですね。このデジタル時代に、手書きの手紙をもらったらすごく特別だろうな。今度やってみようかな。妻にでも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I think she'd appreciate that. I still send postcards when I travel.",
+      "ja": "きっと喜ぶわよ。私は旅行に行くと今でもポストカードを送るわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's very thoughtful. I actually managed to get out for my morning walk today, despite the heat.",
+      "ja": "それはとても気が利いてますね。私は今日、この暑さにもかかわらず、なんとか朝の散歩に出かけたんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, you did? That's great. I go out early too, before it gets too hot. I saw some camellia flowers still blooming. It's a bit unusual for July.",
+      "ja": "あら、そうだったの？それはすごい。私も暑くなる前に早めに出かけるわ。ツバキの花がまだ咲いてるのを見たわ。7月にしては珍しいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Camellias in July? Wow. My 'walk' usually just means from my bed to the coffee machine, especially these days.",
+      "ja": "7月にツバキですか？へえ。僕の『散歩』は、この頃はもっぱらベッドからコーヒーメーカーまで、って感じですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You do need your coffee.",
+      "ja": "あなたはコーヒーが必要だものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Absolutely. Or I'll be completely 'glum' all day. Is that the right word? Like, gloomy and down?",
+      "ja": "本当に。じゃないと一日中完全に『glum』ですよ。この言葉で合ってますか？こう、憂鬱で落ち込んだ感じ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. Glum means quiet and rather sad, feeling a bit down. It's a very good word for someone who hasn't had their morning coffee.",
+      "ja": "ええ、その通り。Glumは、静かで少し悲しい、落ち込んだ気分、という意味ね。朝のコーヒーを飲んでない人にはぴったりの言葉よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Perfect. And I need coffee for 'consecutive' days of work, too. That's another one I hear sometimes.",
+      "ja": "完璧です。それと、『consecutive』な仕事の日々にもコーヒーが必要なんですよ。それも時々聞く言葉です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Consecutive means following one after another in order, without a break. Like three consecutive hot days, or five consecutive workdays.",
+      "ja": "Consecutiveは、途切れることなく、順序通りに次々と続く、という意味よ。例えば、3日連続の猛暑とか、5日連続の勤務日とかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. So I need coffee for my three 'consecutive' workdays leading up to the weekend. That's perfect. Thanks, Sarah.",
+      "ja": "分かりました。じゃあ、週末までの3つの『consecutive』な仕事の日々にはコーヒーが必要だ、と。完璧です。ありがとう、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome, Alex. Hopefully, that rain does cool things down a bit later.",
+      "ja": "どういたしまして、アレックス。その雨が、もう少し後で少しでも涼しくしてくれるといいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Let's hope so. Everyone, have a great rest of your day, and stay cool!",
+      "ja": "そう願いたいです。皆さん、残りの一日も良い一日を、そして涼しく過ごしてくださいね！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 35.8,
+      "temp_min": 25.9,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Number of swimming beaches in Japan down 30% over 30 years",
+        "summary": "The number of approved swimming beaches open during the summer in Japan has fallen by around 30 percent over the past three decades, a study by a travel…",
+        "link": "https://japantoday.com/category/national/number-of-swimming-beaches-in-japan-down-30-over-30-years"
+      },
+      {
+        "title": "Mercury hits 35 C in Tokyo, marking first 'extremely hot' day of the year",
+        "summary": "The rainy season has likely ended in regions including Tokyo and Nagoya, the weather agency said Monday, with the Japanese capital marking the first &quot;extremely hot&quot; day of…",
+        "link": "https://japantoday.com/category/national/rainy-season-over-in-tokyo-mercury-hits-35-c-as-extremely-hot-day-logged"
+      }
+    ],
+    "wikipedia": {
+      "title": "文月ふみの日",
+      "description": "7月は「文月（ふみづき）」、23日は「ふみ」と読むことから、1979（昭和54）年に当時の郵政省が制定。手紙文化の振興を図ることを目的として、さまざまなイベントが行われる。"
+    }
+  }
+}
