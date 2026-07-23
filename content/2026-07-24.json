@@ -1,0 +1,252 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-23T20:10:37.373635+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning. July 23rd, 2026. What a day, huh? I really need this coffee.",
+      "ja": "おはようございます。2026年7月23日。なんというか、すごい日ですね？このコーヒー、本当に必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, it's pretty gray out there. Drizzle all day, they say.",
+      "ja": "おはよう、アレックス。うん、外はかなりどんよりしてるね。一日中霧雨だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Drizzle. More like a full-on cloud weeping. My umbrella's barely doing anything.",
+      "ja": "霧雨。いや、本格的に雲が泣いてる感じですよ。傘もほとんど意味ないし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "At least it's not a typhoon. The temperature's still high though, 32 degrees.",
+      "ja": "台風じゃないだけマシかな。でも気温はまだ高いね、32度。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels like that. Muggy. My little one was really restless last night, probably the humidity.",
+      "ja": "ええ、そんな感じです。じめじめして。うちの子、昨夜はすごく寝苦しそうでした。たぶん湿気のせいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It makes sense. The air feels heavy.",
+      "ja": "わかる。空気が重いよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Welcome back to The Daily Tanu-chan Show. Hope everyone's having a slightly less drizzly morning than us.",
+      "ja": "「The Daily Tanu-chan Show」へようこそ。皆さん、私たちよりは少しマシな霧雨の朝をお過ごしだといいのですが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about Keisuke Unosawa, the designer? Making ordinary things extraordinary.",
+      "ja": "ニュースで宇野澤啓介さん、あのデザイナーのこと見た？普通のものを非凡にするって話。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I saw that headline. The guy who didn't go to a fancy design school?",
+      "ja": "あ、その見出しは見た気がします。高級なデザイン学校に行ってないって人ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's the one. His story is quite *exemplary*, actually. He started from nothing.",
+      "ja": "そう、その人。彼の話は、実はとても*模範的*なのよ。何もないところから始めたんだから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "*Exemplary*? What does that mean, exactly? Like, really good?",
+      "ja": "*模範的*？それって、具体的にどういう意味ですか？すごく良いってこと？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, exactly. Like a perfect example, a model for others. He's a good example for people who think you need a specific background to succeed.",
+      "ja": "ええ、その通り。完璧な手本とか、他の人にとっての模範。特定の経歴がないと成功できないと思っている人たちにとって、彼は良い例だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. That's true. I feel like my office always wants people from certain universities.",
+      "ja": "ああ、なるほど。確かにそうですね。うちの会社はいつも、特定の大学の人ばかりを欲しがる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a common mindset, but not always the best one. And there was something about national treasures, digital reproductions? Hiroko Machida?",
+      "ja": "よくある考え方だけど、いつも最善とは限らないわ。それから、国宝のデジタル複製について何かあったよね？町田裕子さん？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, her academy is launching interior art with digital versions of Japan's treasures. That's kind of cool. Imagine having a digital Hokusai in your living room instead of a poster.",
+      "ja": "ええ、彼女のアカデミーが日本の国宝をデジタル化したインテリアアートを出すとか。それはちょっとかっこいいですね。リビングにポスターじゃなくてデジタルの北斎があるなんて想像すると。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It's about accessibility, too. Making those pieces available to more people.",
+      "ja": "その通り。アクセシビリティも重要よね。より多くの人が作品に触れられるようにするのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, and this one! Clothing company Nutte and Axel Mark, doing character costumes from mobile games. Cosplay stuff.",
+      "ja": "あ、あとこれ！アパレル会社のNutteとアクセルマークが、スマホゲームのキャラクター衣装を出すってやつ。コスプレですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My daughter would be very excited about that. She's always talking about different game characters.",
+      "ja": "うちの娘はすごく喜びそう。いつも色々なゲームのキャラクターの話をしてるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my younger cousin is super into it too. It's huge now, isn't it?",
+      "ja": "ええ、僕のいとこもすごくハマってます。今、すごい人気ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It really is. It's a big part of youth culture. I guess it always has been, in a way.",
+      "ja": "本当にそうね。若い文化の大きな部分だわ。ある意味、昔からそうだったのかもしれないけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of culture, did you know today is 劇画の日? Gekiga Day.",
+      "ja": "文化といえば、今日って劇画の日だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Gekiga Day? Oh, I didn't know that. What's gekiga again? It's like manga, right?",
+      "ja": "劇画の日？ああ、知りませんでした。劇画って何でしたっけ？漫画みたいなものですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a specific style of Japanese comics, more dramatic and realistic than traditional manga. It started in 1964 with Garo magazine.",
+      "ja": "日本の漫画の特定のスタイルで、伝統的な漫画よりもドラマチックでリアルなの。1964年に「ガロ」という雑誌から始まったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Garo magazine... I think I've heard of that. Kamui Den came from there, right?",
+      "ja": "ガロ...聞いたことあります。カムイ伝って、そこから生まれたんですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. Shirato Sanpei's Kamui Den. It pushed the boundaries of what comics could be at the time.",
+      "ja": "そうよ。白土三平の『カムイ伝』。当時の漫画の可能性を広げた作品ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, today's like the *inception* of that movement. The very beginning.",
+      "ja": "じゃあ、今日はそのムーブメントの*始まり*の日なんですね。まさに最初。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You could say that, yes. The start of it.",
+      "ja": "そう言えるわね、ええ。その始まり。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, inception. So like when something first starts?",
+      "ja": "わあ、インセプション。つまり何かが最初に始まる時ってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. The beginning or origin of something.",
+      "ja": "その通り。物事の始まりや起源ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I learn something new every day here. Even if my brain feels a bit like a wet sponge with this weather.",
+      "ja": "ここでは毎日新しいことを学びますね。この天気で脳が濡れたスポンジみたいになってても。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My kid just learned to pull himself up on furniture this week. Now he's trying to climb everything. My desk at home isn't safe anymore.",
+      "ja": "うちの子、今週ついに家具によじ登るのを覚えましたよ。もう何でも登ろうとする。家の机ももう安全じゃない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They move fast at that age. Mine did too.",
+      "ja": "あの時期は成長が早いのよ。うちの子たちもそうだった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I swear he can teleport sometimes. I turn my back for one second... And then there's the crying. For no reason. Maybe he just likes the sound.",
+      "ja": "たまにテレポートできるんじゃないかと思うんですよ。一瞬目を離した隙に...そして泣く。理由もなく。もしかしたらあの音自体が好きなのかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They usually have a reason. You just don't always know what it is.",
+      "ja": "だいたい理由はあるものよ。あなたがいつもそれを知らないだけ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. I'm just always trying to figure it out. It's a full-time job after the full-time job.",
+      "ja": "ええ、まあそうですね。いつも必死で理由を探してます。本業の後のフルタイムの仕事ですよ、これ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Mine are teenagers now, so it's a different kind of challenge. More talking, less climbing.",
+      "ja": "そうね。うちはもうティーンエイジャーだから、また別の種類の課題があるわ。登るより話す方が多いけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm not ready for the talking challenges. I'm still trying to get enough sleep for the current ones.",
+      "ja": "話す方の課題はまだ心の準備ができてないです。今の課題のために、とにかく睡眠をとろうとしてる段階なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "This rain makes me think about being somewhere warm and dry. I was thinking about going to Beppu in Oita Prefecture next year.",
+      "ja": "この雨だと、どこか暖かくて乾燥した場所にいることを考えてしまうわ。来年、大分県の別府に行こうかなって思ってるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, Beppu, the onsen? That sounds nice.",
+      "ja": "おお、別府の温泉ですか？いいですねぇ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. I haven't been in years. Their hells are quite famous, and the food in Oita is really good too.",
+      "ja": "ええ。もう何年も行ってないのよ。地獄めぐりも有名だし、大分の食べ物も本当に美味しいから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a good plan. Maybe I'll actually get some sleep there.",
+      "ja": "それは良い計画ですね。もしかしたら、そこで本当に眠れるかもしれない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, that's it for us this morning.",
+      "ja": "さて、今朝はここまでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Have a good day, everyone. Try not to get too drenched out there.",
+      "ja": "皆さん、良い一日を。外でびしょ濡れにならないように気をつけてくださいね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 32.0,
+      "temp_min": 23.9,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      },
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      }
+    ],
+    "wikipedia": {
+      "title": "劇画の日",
+      "description": "1964（昭和39）年、劇画雑誌「ガロ」が創刊された。白土三平の「カムイ伝」など、多くの話題作がこの雑誌から生まれた。"
+    }
+  }
+}
