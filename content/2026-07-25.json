@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-24T20:18:29.025941+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Is it July 24th already? Wow.",
+      "ja": "おはようございます、サラさん。もう7月24日ですか？すごいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Good morning, Alex.",
+      "ja": "そうね。アレックス、おはよう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Feels like the week just started, but it's Thursday already. And it's another rainy one out there.",
+      "ja": "まだ週が始まったばかりな気がするのに、もう木曜日。そして、また雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, slight rain. They're saying 88% chance all day. And 34 degrees. It's really humid.",
+      "ja": "ええ、小雨ね。一日中88％の降水確率だって。34度。本当に蒸し暑い。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I'm already sweating, and I haven't even had my coffee yet.",
+      "ja": "でしょう？もう汗だくですよ、まだコーヒーも飲んでないのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Get that coffee.",
+      "ja": "コーヒー飲みなさい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I will. Did you see that news from Nagoya? About the man who fell from the apartment building?",
+      "ja": "そうします。名古屋のニュース見ました？マンションから男性が落ちたっていう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. That was terrible. For both of them, really.",
+      "ja": "見たわ。ひどい話ね。どちらにとっても本当に。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can't imagine. And hitting someone walking below... just unbelievable. I heard the police had to cordon off the whole street.",
+      "ja": "ええ、想像できないです。そして下に歩いてた人にぶつかるなんて...信じられない。警察が通り全体を『cordon off』したって聞きました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They did. It was a big area.",
+      "ja": "そうね。広い範囲だったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What does 'cordon' mean, actually? Like, block it off?",
+      "ja": "ところで、『cordon』ってどういう意味なんですか？立ち入り禁止にする、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. To block off an area, usually with police tape or ropes, to control access.",
+      "ja": "その通り。警察のテープやロープなどで、人々の立ち入りを制限するためにエリアを封鎖することよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. My building manager is so strict, I feel like they'd cordon off the laundry room if someone left socks in there.",
+      "ja": "なるほど。うちのマンションの管理人、すごく厳しいから、誰かが靴下を置きっぱなしにしたらランドリールームを封鎖しそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe.",
+      "ja": "そうかもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway... I was looking at my phone on the train. You know, what day it is today? It's 'Kakigori Day' apparently!",
+      "ja": "とにかく...電車の中で携帯を見てたんですけど。今日が何の日か知ってます？どうやら『かき氷の日』らしいです！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is it today? I thought that was tomorrow, the 25th.",
+      "ja": "今日？それは明日、25日だと思ってたけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, is it tomorrow? My phone sometimes gets things wrong. But it said 'Natsu-go-ri', like 7-2-5. So maybe it is tomorrow.",
+      "ja": "あ、明日ですか？僕の携帯、たまに間違えるんですよね。でも、『な（7）つ（2）ご（5）おり』って書いてあったんで、やっぱり明日なのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because of the sound of 'natsu-gori' – 7 for 'na', 2 for 'tsu', 5 for 'go'. And also the hottest day on record back in 1933, 40.8 degrees.",
+      "ja": "『なつごおり』の音にちなんでるのよ。7が『な』、2が『つ』、5が『ご』。それと、1933年に40.8度という日本最高気温を記録した日でもあるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 40.8 degrees. That's really hot. I wish I had a kakigori right now. Or maybe a cold coffee. My little one is sleeping so badly these days, I just need caffeine.",
+      "ja": "うわ、40.8度。それは本当に暑いですね。今すぐかき氷食べたいな。もしくは冷たいコーヒー。うちの小さいのが最近全然寝てくれなくて、とにかくカフェインが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those nights. You just get used to being tired.",
+      "ja": "あの頃を思い出すわ。ただ疲れていることに慣れるだけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm trying. But she just started pulling herself up, so she's always trying to climb out of the crib now. It's a whole new level of exhaustion.",
+      "ja": "頑張ってますけどね。最近、つかまり立ちを始めたから、いつもベビーベッドから這い出そうとしてるんです。疲労のレベルがまた一段上がりました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that. Speaking of summer, did you see the news about swimming beaches? They're down 30% in Japan over the last 30 years.",
+      "ja": "そういうものよ。夏といえば、海水浴場のニュース見た？この30年で日本中の海水浴場が30%減ったって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? Wow. I guess more people just go to pools now? Or stay home with air conditioning.",
+      "ja": "本当ですか？へえ。やっぱり、みんな今はプールに行くんでしょうか？それかエアコンの効いた家で過ごすとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Could be. Or maybe the quality of the water, or just less interest in maintaining them. It's a shame, though. I love going to the beach. Not for swimming, really, but just to relax by the water.",
+      "ja": "そうかもしれないわね。水質の問題とか、あるいは維持管理への関心が薄れたとか。でも残念だわ。私はビーチに行くのが好きなの。泳ぐためじゃなくて、ただ水辺でリラックスするのが。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's nice. We haven't taken the baby to the beach yet. Too much sand, I think. She'd just eat it.",
+      "ja": "ええ、いいですよね。うちはまだ赤ちゃんをビーチに連れて行ってないんです。砂が多すぎると思うし。たぶん全部食べちゃうでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They probably would. I want to go to Okinawa next year, maybe try one of the smaller islands. The ones with really clear water and beautiful foliage near the shore.",
+      "ja": "そうね、きっとそうするわ。来年、沖縄に行きたいな。たぶん小さな島のどれかに行ってみる。本当に透明な水と、岸辺の美しい『foliage』があるようなところ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okinawa sounds great. What's 'foliage'?",
+      "ja": "沖縄いいですね。『foliage』って何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's all the leaves and plants on trees. The green part of nature, especially a lot of it together.",
+      "ja": "木々の葉っぱや植物のことよ。自然の緑の部分、特にたくさん集まっているもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like the jungle-y bits! Got it. That sounds nice. My boss was really brusque with me yesterday, I need a vacation.",
+      "ja": "ああ、ジャングルっぽいところ！なるほど。それはいいですね。昨日、上司が僕にすごく『brusque』で、休暇が必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh?",
+      "ja": "あら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, just, 'Do this, do that, now.' Really short. No explanation. Like he just woke up on the wrong side of the bed. What does 'brusque' mean again?",
+      "ja": "ええ、もう、『これやれ、あれやれ、今すぐ。』って。本当に短くて、説明もなし。寝起きが悪かったみたいで。また、『brusque』ってどういう意味でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means speaking or behaving in a very direct, sudden, and often rude way. Not friendly.",
+      "ja": "とても直接的で、突然で、しばしば無礼な話し方や行動のことよ。親しげじゃないの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! That's it. It's tough when people are like that first thing in the morning. Especially before I've had my second coffee.",
+      "ja": "まさにそれです！それだ。朝一番にそんな風な人だと大変ですよね。特に僕が2杯目のコーヒーを飲む前は。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, some mornings are harder than others, I guess. Did you see the news about the kanji character that has five different pronunciations?",
+      "ja": "まあ、朝は日によって大変なこともあるわね。ところで、5つの異なる読み方がある漢字のニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah, I saw that. With a super simple sentence too. That's classic Japanese. Just when you think you understand it, there's another level of difficulty.",
+      "ja": "ああ、見ました。すごくシンプルな文なのに、ってやつですよね。あれが日本の古典的なところですよ。理解したと思ったら、また別の難易度があるっていう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son is struggling with kanji right now. He keeps saying Japanese is too hard.",
+      "ja": "うちの息子も今、漢字に苦戦しているわ。日本語は難しすぎるっていつも言ってる。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell him to wait until he's trying to teach his own kid English. That's going to be a real challenge.",
+      "ja": "自分の子供に英語を教えることになったら、もっと大変だって言ってやってください。あれは本当に試練ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "True. Anyway, that's all the time we have for today on The Daily Tanu-chan Show.",
+      "ja": "確かに。さて、今日の『The Daily Tanu-chan Show』はここまでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks for listening, everyone. Have a good rest of your Thursday. And if you're eating kakigori, enjoy it for me!",
+      "ja": "皆さん、お聴きいただきありがとうございました。良い木曜日の残りの時間をお過ごしください。そして、かき氷を食べる方は、僕の分も楽しんでくださいね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you tomorrow.",
+      "ja": "また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 34.6,
+      "temp_min": 24.4,
+      "rain_probability": 88
+    },
+    "news": [
+      {
+        "title": "Man falls from apartment building, hitting and killing female pedestrian in Nagoya",
+        "summary": "A man fell or jumped from an apartment building in Nagoya on Sunday morning, hitting a woman who was walking on the sidewalk below. The woman died and…",
+        "link": "https://japantoday.com/category/national/man-falls-from-apartment-building-hitting-and-killing-female-pedestrian-in-nagoya"
+      },
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Number of swimming beaches in Japan down 30% over 30 years",
+        "summary": "The number of approved swimming beaches open during the summer in Japan has fallen by around 30 percent over the past three decades, a study by a travel…",
+        "link": "https://japantoday.com/category/national/number-of-swimming-beaches-in-japan-down-30-over-30-years"
+      }
+    ],
+    "wikipedia": {
+      "title": "かき氷の日",
+      "description": "日本かき氷協会が制定。かき氷の別名「夏氷・な（7）つ（2）ご（5）おり」の語呂合わせと、1933年（昭和8年）のこの日に山形市で、当時の日本最高気温40．8度を記録したことにちなんだもの。"
+    }
+  }
+}
