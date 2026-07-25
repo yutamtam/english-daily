@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-25T20:09:30.437247+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 25th, 2026 already. This coffee is exactly what I need.",
+      "ja": "おはようございます、サラさん。もう2026年7月25日ですね。このコーヒーがまさに必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's pouring outside, isn't it? My tea's helping too.",
+      "ja": "おはよう、アレックス。外は土砂降りだね。私の紅茶も役立ってるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, moderate rain. 100% chance today. Max 32.4 degrees, minimum 22.8. Just humid and wet.",
+      "ja": "ええ、小雨ですね。今日は降水確率100%。最高気温32.4度、最低22.8度。ただただ蒸し暑くて濡れるだけです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Always humid in summer. At least it feels a bit cooler than yesterday with the rain.",
+      "ja": "夏はいつもじめじめしてるね。雨のおかげで昨日よりは少し涼しく感じるけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. Hey, I saw this headline from NHK World about Japanese college students saying anime high school is different from real high school. Well, obviously, right?",
+      "ja": "そうですね。ねえ、NHKワールドで日本の大学生がアニメの高校と現実の高校は違うって言ってる見出しを見ました。まあ、当たり前ですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anime is fantasy. Real life is... more complicated.",
+      "ja": "アニメはファンタジーだからね。現実は…もっと複雑よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my high school definitely didn't have magical girl battles after class. Or, you know, a school festival that always *culminated* in some huge romantic confession.",
+      "ja": "ええ、僕の高校は放課後に魔法少女の戦いなんてありませんでしたしね。それか、いつも壮大なロマンチックな告白で*最高潮に達する*文化祭とかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Culminated means it reached its highest point or end. Like the main event or the grand finale.",
+      "ja": "「最高潮に達する」っていうのは、一番盛り上がる点とか、最後を迎えるってこと。メインイベントとか、グランドフィナーレみたいな感じかな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, it always *culminated* in a confession. Got it. That never happened at my school.",
+      "ja": "ああ、なるほど。じゃあ、いつも告白で最高潮に達する、と。わかりました。僕の学校では一度もなかったですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the article about Yuki Tsumugi silk from Tochigi? Sounds interesting.",
+      "ja": "栃木の結城紬（ゆうきつむぎ）の絹についての記事は見た？面白そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't actually read that one. Tochigi, right? I've been there a few times, but didn't know about their silk. What's special about it?",
+      "ja": "ああ、それは読んでないんです。栃木ですよね？何回か行ったことはありますけど、絹のことは知りませんでした。何が特別なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a very traditional method of silk making. Hand-spun, hand-woven. Very unique to the area.",
+      "ja": "すごく伝統的な絹の作り方なんだって。手紡ぎで手織り。その地域ならではの特色があるらしいよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's cool. And there was this one about Hiroko Machida bringing Japan's national treasures into focus with high-quality digital *reproduction*. So, like, prints of old art?",
+      "ja": "それはすごいですね。それから、町田ひろ子さんが日本の国宝を高品質なデジタル*複製*で注目させてるっていう記事もありましたよね。つまり、古い絵画の複製みたいなことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. A *reproduction* is a copy or a duplicate of something, especially a work of art. So you can have a high-quality copy to display.",
+      "ja": "ええ、その通り。「複製」は、何か、特に芸術作品のコピーとか複製のこと。だから、質の高い複製を飾れるってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. I wouldn't mind a giant digital print of, like, a Hokusai wave in my living room.",
+      "ja": "それは結構すごいですね、実際。僕のリビングにも、北斎の波みたいな巨大なデジタルプリントがあったらいいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It would certainly make a statement.",
+      "ja": "確かにインパクトはあるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of statements, today is Yurei no Hi. Ghost Day. Is that a real thing?",
+      "ja": "そういえば、今日は幽霊の日らしいですね。幽霊の日って。それって本当にあるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's the anniversary of the first performance of 'Tokaido Yotsuya Kaidan,' a famous Japanese ghost story. Back in 1825.",
+      "ja": "ええ。有名な日本の怪談、『東海道四谷怪談』が1825年に初めて上演された日なんだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That explains why I feel a bit... jumpy this morning. Must be the ghosts. Or maybe the baby waking up at 4 AM.",
+      "ja": "ああ、知りませんでした。それなら今朝、ちょっと…びくびくしてるのも納得です。きっと幽霊のせいですね。それか、朝4時に赤ちゃんが起きたせいか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The baby is probably more likely.",
+      "ja": "多分、赤ちゃんの方が可能性が高いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. My little one is just starting to try and walk. Everything is a challenge. And a new way to fall down.",
+      "ja": "ええ。うちの子は歩き始めようとしてるところなんです。何をするにも挑戦で。そして新しい転び方を見つけるたびに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That stage is fun. And exhausting.",
+      "ja": "その時期は楽しいね。そして疲れる。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. And I keep finding little toys everywhere. Like they just appear. I step on them. My feet are constantly sore. It's a never-ending *pendulum* swing of sleep deprivation and caffeine.",
+      "ja": "まさに。そして、いつも小さなオモチャがそこら中にあるんですよ。まるで突然現れるみたいに。それを踏んで。足の裏が常に痛いんです。睡眠不足とカフェインの終わりのない*振り子*運動です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A *pendulum* is a weight swinging back and forth. So you mean your energy and sleep are constantly moving between two extremes.",
+      "ja": "振り子っていうのは、重りが前後に揺れるものね。だから、あなたのエネルギーと睡眠が常に二つの極端な状態を行ったり来たりしてるってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes, that's exactly it. My life is a pendulum. A very tired pendulum. I almost got hit by a guy on a bike on my commute this morning too. He just swung out without looking.",
+      "ja": "ええ、まさにそれです。僕の人生は振り子です。すごく疲れた振り子。今朝の通勤でも、自転車の男にひかれそうになりました。確認せずに急に飛び出してきて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Bikes are getting more common. You have to be careful.",
+      "ja": "自転車も増えてるからね。気をつけないと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I was thinking of cycling to work more often, but maybe not today. This rain makes it even worse.",
+      "ja": "もっと頻繁に自転車通勤しようかと思ってたんですけど、今日はやめておきます。この雨だとさらにひどいですしね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids are busy with club activities these days. I barely see them.",
+      "ja": "うちの子たちは最近、部活で忙しいみたい。ほとんど会えないよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Soon you'll have the house to yourself, right? When they go off to college or something.",
+      "ja": "もうすぐ家を独り占めできますね？大学とか行ったら。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not really. They just take up more space, in different ways.",
+      "ja": "そうでもないわ。違う形で、もっと場所を取るようになるだけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm. Well, that's a lot to think about for a Friday morning, Sarah. The Daily Tanu-chan Show always delivers.",
+      "ja": "うーん。まあ、金曜の朝から色々考えることがありますね、サラさん。『ザ・デイリー・たぬちゃん・ショー』はいつも期待を裏切りませんね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex. Try not to see any ghosts.",
+      "ja": "良い一日を、アレックス。幽霊を見ないようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. See you Monday.",
+      "ja": "サラさんも。また月曜日に。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 32.4,
+      "temp_min": 22.8,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      }
+    ],
+    "wikipedia": {
+      "title": "幽霊の日",
+      "description": "1825年、日本の代表的な怪談「東海道四谷怪談」（鶴屋南北作）が江戸の中村座で初演された。"
+    }
+  }
+}
