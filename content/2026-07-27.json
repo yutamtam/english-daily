@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-26T20:07:02.111494+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 26th, 2026. Man, I need this coffee today.",
+      "ja": "おはようございます、サラさん。2026年7月26日。ああ、今日このコーヒーがめちゃくちゃ必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, it's already a warm one. And it’s drizzling outside.",
+      "ja": "おはよう、アレックス。うん、もう暑いね。そして外は小雨が降ってるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. I saw the forecast, 66% chance of rain. I hate summer rain. It just makes everything stickier.",
+      "ja": "ああ、そうか。予報で見た、降水確率66％。夏の雨嫌いです。何もかもベタベタするだけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It’s supposed to hit 30 degrees later. Even with the rain, it’ll still be hot.",
+      "ja": "後で30度になるらしいよ。雨が降っても、やっぱり暑いだろうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh. I wish it would just decide to be one thing or the other. Anyway, let's see what's in the news today. The Daily Tanu-chan Show is on!",
+      "ja": "うう。どっちかに決めてほしいです。まあ、今日のニュースを見てみましょう。「ザ・デイリー・タヌちゃんショー」オンエアです！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "First up, NHK World says a Japanese master craftsman built a stunning tiny house on wheels. It was featured on a YouTube channel.",
+      "ja": "まず一つ目、NHKワールドによると、日本人熟練職人が見事なタイニーハウスを車輪の上に乗せて作ったって。YouTubeチャンネルで紹介されたらしいよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A tiny house on wheels? That's kind of amazing, actually. I mean, the skill involved.",
+      "ja": "車輪付きのタイニーハウス？それは結構すごいですね、本当に。つまり、その技術ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, they said it was one of their all-time favorites. Very impressive.",
+      "ja": "ええ、今までで一番のお気に入りだって言ってたよ。とても印象的だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. But living in it... I don't know. It might feel a bit `eerie` sometimes, you know, being so small and moving around.",
+      "ja": "想像できます。でもそこに住むのは…どうだろう。たまに少し薄気味悪く感じるかもしれませんね、なんだか、すごく小さくて動き回るのが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Eerie`? You mean, like, strange or a bit spooky?",
+      "ja": "「イーアリー」？つまり、奇妙とか、少し不気味ってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! Like, where's the space? Where do you put anything? It's just... I couldn't do it.",
+      "ja": "ええ、まさに！なんていうか、どこにスペースがあるの？物をどこに置くの？ただ…僕には無理ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I suppose it's not for everyone. Well, next, Japan's Crown Prince and Crown Princess are going to Paraguay in August.",
+      "ja": "まあ、万人向けではないだろうね。さて、次は、日本の皇嗣殿下と皇嗣妃殿下が8月にパラグアイを訪問されるそうだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's a long trip. Good for them. What's the occasion?",
+      "ja": "ああ、それは長旅ですね。素晴らしいことです。何の用件ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's to mark the 90th anniversary of Japanese immigration to South America.",
+      "ja": "南米への日本人移住90周年を記念してだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. That makes sense. I guess they have the `prerogative` to travel wherever they need to for official duties.",
+      "ja": "ああ、なるほど。それは納得です。公務のために必要な場所ならどこへでも旅行する特権があるんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Prerogative` means a special right or privilege that someone has.",
+      "ja": "「プリロガティブ」というのは、誰かが持っている特別な権利や特権のことだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Yeah, like their unique role. I didn't know that word. Good to know.",
+      "ja": "分かりました。ええ、彼らの特別な役割のようなものですね。その単語は知りませんでした。覚えておきます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Then, there's a Tokyo music venue looking for a band to live on the premises and perform every day for a week. Sounds intense.",
+      "ja": "それから、都内の音楽会場が、敷地に住み込みで1週間毎日演奏してくれるバンドを探しているって。大変そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, live on the premises? That's a serious commitment. Sounds like a challenge, but could be amazing for the right band. Maybe they'll become famous.",
+      "ja": "わあ、住み込みですか？それはすごい覚悟ですね。挑戦的だけど、ぴったりのバンドにとっては素晴らしいことかも。有名になるかもしれませんね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Performing every day for a week is a lot of work. They'd need a lot of songs.",
+      "ja": "1週間毎日演奏するって、かなりの仕事だよ。たくさんの曲が必要だろうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. I can barely get my kid to sleep every day. He just started walking everywhere, you know? It's like I'm running a marathon after him all day.",
+      "ja": "確かに。僕なんて毎日子どもを寝かしつけるのがやっとですよ。どこでも歩き始めたばかりだから、一日中彼を追いかけてマラソンしてるみたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's probably faster than you now.",
+      "ja": "もうあなたより速いんじゃない？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "(laughs) Yeah, probably. My energy levels are definitely not what they used to be. Oh, hey, what's today's 'Nan no hi'?",
+      "ja": "（笑）ええ、多分。僕の体力はもう昔ほどじゃないですね。ああ、そういえば、今日の「何の日」は何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Today is Watermelon Day. Suika no Hi.",
+      "ja": "今日はスイカの日だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Watermelon Day? That's great! I love watermelon, especially in summer. Why today?",
+      "ja": "スイカの日？いいですね！スイカ大好きです、特に夏は。なんで今日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a wordplay. The stripes on a watermelon look like a rope, 'tsuna'. And 'natsu no tsuna' sounds like 'natsunotsuna' which means 'summer rope'. They made it to promote watermelon consumption.",
+      "ja": "語呂合わせだよ。スイカの縞模様が綱に見えるでしょ。「夏の綱」、ナツのツナって言葉を合わせたんだ。スイカの消費を拡大するために作られたんだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Natsu no Tsuna! That's clever. I didn't know that. I'm definitely going to buy some watermelon later.",
+      "ja": "夏の綱！それ、うまいですね。知りませんでした。後で絶対スイカ買います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. It's refreshing.",
+      "ja": "いいね。さっぱりするよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of refreshing, I went to the sento on the weekend. It was so nice to just sit in the cold bath after the sauna. That feeling... you know, 'totonou'.",
+      "ja": "さっぱりするといえば、週末に銭湯に行ったんですよ。サウナの後に水風呂に浸かるのが最高で。あの感覚…「ととのう」ってやつです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, that's good.",
+      "ja": "ええ、それは良いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's the only time I feel truly quiet these days. No baby crying, no work emails. Just... quiet.",
+      "ja": "最近、本当に静かだと感じるのはあの時だけです。赤ちゃんの泣き声も、仕事のメールもなし。ただ…静か。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's a good way to relax.",
+      "ja": "ええ。良いリラックス方法だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My wife says I should go more often. But then who watches the baby? It's a whole thing.",
+      "ja": "妻はもっと行けばって言うんですけど、じゃあ誰が赤ちゃんを見てくれるの？って。大変なんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah.",
+      "ja": "そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, maybe I can find a tiny house on wheels with a sento inside. That would solve everything.",
+      "ja": "まあ、もしかしたら銭湯付きの車輪付きタイニーハウスを見つけられるかもしれませんね。そうすれば全て解決だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not.",
+      "ja": "多分無理だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "(laughs) Yeah, probably not. I can dream though.",
+      "ja": "（笑）ええ、多分無理ですね。でも夢を見るのは自由です。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate drizzle",
+      "temp_max": 30.2,
+      "temp_min": 23.3,
+      "rain_probability": 66
+    },
+    "news": [
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Japan's crown prince, princess to visit Paraguay in August",
+        "summary": "Japan's Crown Prince Fumihito and Crown Princess Kiko will make an official visit to Paraguay in August to mark the 90th anniversary of Japanese immigration to the South…",
+        "link": "https://japantoday.com/category/national/japan%27s-crown-prince-princess-to-visit-paraguay-in-august"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      }
+    ],
+    "wikipedia": {
+      "title": "スイカの日",
+      "description": "スイカの消費拡大を願って、スイカ生産者のグループが制定。スイカの縞模様を綱に見立て、ナツのツナ（夏の綱）の語呂合わせ。"
+    }
+  }
+}
