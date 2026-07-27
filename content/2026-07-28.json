@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-27T20:20:10.341539+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 27th, can you believe it? And welcome everyone to The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。7月27日、信じられます？そして皆さん、『ザ・デイリーたぬちゃんショー』へようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, another Monday. It's already so humid outside.",
+      "ja": "おはよう、アレックス。うん、また月曜日だね。もう外はすごく蒸し暑い。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell me about it. It’s drizzling, too. The weather app says a high of 28.3 today, low of 21.7. And a 92% chance of rain. Great.",
+      "ja": "本当にね。しかも小雨が降ってる。天気アプリだと最高28.3度、最低21.7度だって。そして降水確率92%。参ったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "At least it's not the 'brutally hot' weather they were talking about last week. Remember? The news said some parts hit 40 degrees.",
+      "ja": "少なくとも先週ニュースで言ってた『猛暑』ではないね。覚えてる？一部の地域では40度になったって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! I saw that. The government actually gave it a new name, right? 'Brutally hot days' or something. It’s definitely not good when you have a little one.",
+      "ja": "ああ、そうだった！あれ見たよ。政府が新しい名前をつけたんだよね？『猛暑日』とか。小さい子がいると、あれは本当に大変だよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it isn't. You have to be so careful with heatstroke, especially now that the rainy season is officially over in Tokyo.",
+      "ja": "ええ、そうね。熱中症には本当に気をつけないと。特に東京も梅雨が明けたからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I keep checking the temperature in his room. My wife is pretty strict about it. Anyway, I need coffee. Really, really need coffee this morning.",
+      "ja": "うん、部屋の温度を常にチェックしてるよ。妻がかなり厳しくてさ。とにかく、コーヒーが必要だ。今朝は本当に、本当にコーヒーが飲みたい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I’ve got my tea. Did you see the news about permanent residency? They're making the requirements tougher.",
+      "ja": "私はお茶だよ。永住権のニュース見た？要件を厳しくするって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I did. Higher income and 'a certain level of...' I didn't actually finish reading it. My office isn't going to change anything because of it, I don't think.",
+      "ja": "ああ、見たよ。所得が上がって、『ある程度のレベルの…』までは読んだかな。うちの会社はそれで何か変わるってことはないと思うけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's certainly a big topic for many people. It's an interesting discussion to follow.",
+      "ja": "多くの人にとっては大きな話題だね、確かに。今後の議論も注目だ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. This feeling of being tired... it's just so *pervasive* lately. Like it’s everywhere, all the time.",
+      "ja": "うん。この疲労感…最近は本当に『パーヴェイシブ』なんだ。どこにでも、いつもいる感じ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Pervasive means spreading everywhere, Alex. Like a mood, or a smell. It's common when you have a baby.",
+      "ja": "『パーヴェイシブ』っていうのは、どこにでも広がるって意味だよ、アレックス。気分とか、匂いみたいに。赤ちゃんがいるとよくあることだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Pervasive. I'll remember that. Anyway, speaking of preventing summer fatigue, it’s 'Nappa no Hi' today!",
+      "ja": "なるほど。パーヴェイシブ。覚えるよ。ところで、夏バテ防止といえば、今日は『菜っ葉の日』だって！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, is it? From the numbers seven, two, and eight. 'Na-tsu-pa'. So, like, July 28th?",
+      "ja": "ああ、そうなんだ。7、2、8の語呂合わせで『な（7）っ（2）ぱ（8）』ね。7月28日なの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, it’s July 27th today, but the 'nappa' sound comes from the 7 and 2. So it’s the day to eat leafy greens like cabbage and spinach.",
+      "ja": "いや、今日は7月27日だけど、菜っ葉の音が7と2から来てるんだって。だから、キャベツとかほうれん草みたいな葉物野菜を食べる日なんだって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I see. To prevent summer fatigue. That makes sense. My kids don't always like leafy greens, but I try.",
+      "ja": "なるほどね。夏バテ防止か。それならわかる。うちの子たちは葉物野菜があまり好きじゃないけど、私も頑張って食べさせてるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it’s hard. I’ve been trying to get more vegetables into my diet too. Actually, last weekend, I went to a sento.",
+      "ja": "うん、難しいよね。僕ももっと野菜を食生活に取り入れようとしてる。そういえば、先週末、銭湯に行ったんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh? That’s nice. A good way to relax.",
+      "ja": "へえ？いいじゃない。リラックスできるしね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. You know, with the baby, it’s not often I get some real quiet time. And sometimes, when the baby is finally asleep, the quiet is almost... *eerie*.",
+      "ja": "本当にそうだよ。ねえ、赤ちゃんがいると、なかなか本当の静かな時間ってないじゃない。で、たまに、赤ちゃんがやっと寝た時の静けさが、なんだかこう…『イーリィー』なんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Eerie? Like a strange, unsettling quiet. Yes, I know that feeling. It's a bit too quiet sometimes.",
+      "ja": "イーリィー？奇妙で、落ち着かない静けさ、ってことね。ええ、その気持ちわかる。たまに静かすぎるとね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. But at the sento, it’s different. It's a good quiet. You get all warmed up, then a cold plunge. It really 'totonou's you.",
+      "ja": "まさにそれ。でも銭湯だと違うんだ。いい静けさなんだよ。しっかり温まって、それから水風呂。本当に『ととのう』んだよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The sauna culture is really big now, isn't it? A lot of my colleagues go.",
+      "ja": "サウナ文化、最近すごく人気だよね。うちの同僚もよく行ってるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It’s the best. I wish I could go every day. But with work and the baby… I’ll be lucky to go once a month.",
+      "ja": "最高だよ。毎日行けたらいいんだけど。仕事と赤ちゃんで…月に一度行けたらラッキーかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. Finding that quiet time is hard. But it's important to make time for yourself, even small moments.",
+      "ja": "わかるよ。静かな時間を見つけるのは大変だよね。でも、たとえ短い時間でも、自分のための時間を作るのは大切だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm trying. Maybe I'll make a big salad with lots of nappa for dinner tonight. That's a start.",
+      "ja": "頑張ってるよ。たぶん今夜は菜っ葉をたくさん入れた大きなサラダを夕食にしようかな。それが第一歩だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds good. Enjoy your coffee, Alex. Have a good one, everyone.",
+      "ja": "それはいいね。コーヒー楽しんでね、アレックス。皆さんも良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And stay hydrated, everyone!",
+      "ja": "サラさんもね。そして皆さん、水分補給を忘れずに！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate drizzle",
+      "temp_max": 28.3,
+      "temp_min": 21.7,
+      "rain_probability": 92
+    },
+    "news": [
+      {
+        "title": "Japan gov't to impose tougher requirements for permanent residency",
+        "summary": "The government plans to raise the bar for granting permanent residency to foreigners by requiring incomes higher than the average for Japanese households and a certain level of…",
+        "link": "https://japantoday.com/category/national/japan-gov%27t-to-impose-tougher-requirements-for-permanent-residency"
+      },
+      {
+        "title": "Japan sizzles in first 'brutally hot' days of the year",
+        "summary": "Japan sizzled under sweltering, life-threatening heat on Wednesday, ‌with temperatures expected to top 40 degrees Celsius (104 degrees Fahrenheit) in some cities in what ‌the government has newly…",
+        "link": "https://japantoday.com/category/national/japan-sizzles-in-first-%27brutally-hot%27-days-of-the-year"
+      },
+      {
+        "title": "Mercury hits 35 C in Tokyo, marking first 'extremely hot' day of the year",
+        "summary": "The rainy season has likely ended in regions including Tokyo and Nagoya, the weather agency said Monday, with the Japanese capital marking the first &quot;extremely hot&quot; day of…",
+        "link": "https://japantoday.com/category/national/rainy-season-over-in-tokyo-mercury-hits-35-c-as-extremely-hot-day-logged"
+      }
+    ],
+    "wikipedia": {
+      "title": "菜っ葉の日",
+      "description": "「な（7）っ（2）ぱ（8）」の語呂合わせから、青果商関係者が制定。キャベツ、ハクサイ、ホウレンソウ、レタスなどの葉物の野菜を食べて夏バテを防ごうというもの。"
+    }
+  }
+}
