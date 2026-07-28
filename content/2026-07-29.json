@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-28T20:14:42.798851+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 28th already.",
+      "ja": "おはようございます、サラさん。もう7月28日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really is. Another warm one, isn't it?",
+      "ja": "アレックス、おはよう。本当に。また暑くなりそうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, mainly clear, 33.5 degrees Celsius high. But then it says 55% rain probability.",
+      "ja": "ええ、主に晴れで最高33.5度。でも、降水確率55％って書いてありますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's just how July is sometimes. Always a chance of a sudden shower.",
+      "ja": "7月はそういうものよ。突然の通り雨があるかもしれない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. I jump at everything these days. Pretty sure it's the baby. My little one was up twice last night, trying to climb out of the crib.",
+      "ja": "そうですね。最近、何にでもびっくりしちゃって。多分、うちの子のせいです。昨夜も2回起きて、ベビーベッドからよじ登ろうとしていました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They start moving fast at that age.",
+      "ja": "その年頃になると、動きが早くなるのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I need my coffee. Anyway, welcome to The Daily Tanu-chan Show. Hope everyone's having a good morning.",
+      "ja": "コーヒーが必要です。さて、皆さん、『The Daily Tanu-chan Show』へようこそ。良い朝をお過ごしください。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm on my second cup of tea. Ready for the news?",
+      "ja": "私は紅茶2杯目よ。ニュースの準備はいい？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Always. First up, the government plans to raise the bar for permanent residency. Higher income, certain Japanese language level...",
+      "ja": "いつでも。まず、政府は永住権の基準を厳しくする予定だそうです。より高い収入、一定の日本語レベル..."
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a big change for many people. It's a challenging time.",
+      "ja": "多くの人にとって大きな変化ね。大変な時期だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I mean, it just feels like this whole issue is pretty *intractable*.",
+      "ja": "ええ、なんていうか、この問題全体がかなり『intractable』な気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Intractable? It's a problem that's really difficult to deal with or solve.",
+      "ja": "Intractable？それは、対処したり解決したりするのが本当に難しい問題のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. That's what I mean. Not going to change at my office, I guess.",
+      "ja": "そう、それです。うちの会社では変わらないでしょうけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Next, a foreign hiker on Mount Fuji lost consciousness and died, the second fatality this climbing season.",
+      "ja": "次は、富士山で外国人登山者が意識を失って死亡したとのこと。今シーズンの死者は2人目だそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's terrible. I feel like I read about things like this on Mount Fuji every year. It's almost... *obsessive* how often it happens.",
+      "ja": "ああ、それはひどいですね。富士山のこういうニュース、毎年読んでいる気がします。こんなに頻繁に起こるなんて、まるで『obsessive』ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Obsessive means you can't stop thinking about something. I think you mean it's a recurring issue, or a persistent problem.",
+      "ja": "Obsessiveは、あることについて考えるのを止められないという意味よ。あなたが言いたいのは、繰り返される問題、あるいは根強い問題ということかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, right. Recurring. Yeah. It's dangerous, I guess.",
+      "ja": "ああ、そうか。繰り返される。ええ。危険なんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. People underestimate it.",
+      "ja": "そうよ。みんな、富士山を甘く見ているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And finally, a simple kanji character has five different pronunciations depending on the sentence. Five!",
+      "ja": "そして最後に、一つの簡単な漢字が、文脈によって5つの異なる発音を持つというニュースです。5つですよ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's one of those things that makes Japanese unique. Not always easy.",
+      "ja": "日本語がユニークな理由の一つね。いつも簡単ではないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My head hurts just thinking about it. No wonder foreign learners struggle.",
+      "ja": "考えただけで頭が痛くなります。外国の学習者が苦労するのも無理ないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, but they get there.",
+      "ja": "ええ、でも彼らはできるようになるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, hey, speaking of unique things, do you know what today is? My phone says it's 'Amateur Radio Day' in Japan.",
+      "ja": "ああ、そういえば、ユニークな話で、今日が何の日か知っていますか？私の携帯には、日本では「アマチュア無線の日」と出ています。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It marks the day in 1952 when amateur radio got its first preliminary license after the war.",
+      "ja": "そうね。1952年に戦後初めてアマチュア無線の予備免許が発行された日を記念して制定されたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. So, like, people just talk to strangers from far away on the radio?",
+      "ja": "へえ、それは知りませんでした。じゃあ、ラジオで遠くの見知らぬ人と話す感じですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. They connect with people all over the world, using specific radio frequencies. It's a hobby.",
+      "ja": "その通りよ。特定の無線周波数を使って、世界中の人々と繋がるの。趣味ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. That's kind of amazing, actually. Maybe I should get into that. I could talk to people while the baby's sleeping.",
+      "ja": "へえ。それって実はちょっとすごいですね。私も始めてみようかな。赤ちゃんが寝ている間に、誰かと話せるかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'd need a license.",
+      "ja": "免許が必要になるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh. Right. Anyway, my morning walk was lovely today, by the way. The air felt a little lighter than yesterday.",
+      "ja": "ああ。そうか。ところで、今朝の散歩は素晴らしかったわ。昨日に比べて少し空気が軽かった気がする。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's nice. Mine was just a dash to the coffee machine.",
+      "ja": "ああ、それはいいですね。私はただコーヒーマシンに駆け込んだだけです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, enjoy your coffee, Alex. We'll be back tomorrow.",
+      "ja": "じゃあ、コーヒーを楽しんで、アレックス。また明日ね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 33.5,
+      "temp_min": 22.1,
+      "rain_probability": 55
+    },
+    "news": [
+      {
+        "title": "Japan gov't to impose tougher requirements for permanent residency",
+        "summary": "The government plans to raise the bar for granting permanent residency to foreigners by requiring incomes higher than the average for Japanese households and a certain level of…",
+        "link": "https://japantoday.com/category/national/japan-gov%27t-to-impose-tougher-requirements-for-permanent-residency"
+      },
+      {
+        "title": "Foreign hiker on Mount Fuji loses consciousness and dies, becoming climbing season’s second fatality",
+        "summary": "The Fujinomiya Trail, one of the most popular routes to the top of Mount Fuji, opened for this year’s climbing season on July 10. Just one week later,…",
+        "link": "https://japantoday.com/category/national/foreign-hiker-on-mount-fuji-loses-consciousness-and-dies-becoming-climbing-season%E2%80%99s-second-fatality"
+      },
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      }
+    ],
+    "wikipedia": {
+      "title": "アマチュア無線の日",
+      "description": "1952（昭和27）年のこの日、戦後初めてアマチュア無線の予備免許が発給されたことから、1973（昭和48）年、日本アマチュア無線連盟が制定。"
+    }
+  }
+}
