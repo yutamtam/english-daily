@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-29T20:10:29.144094+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 29th, 2026 already.",
+      "ja": "おはようございます、サラさん。もう2026年7月29日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, another Wednesday.",
+      "ja": "おはよう、アレックス。ええ、また水曜日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Welcome to The Daily Tanu-chan Show! Wow, I really need this coffee.",
+      "ja": "「ザ・デイリー・タヌちゃんショー」へようこそ！あー、このコーヒー、本当に必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is your little one keeping you up?",
+      "ja": "お子さん、夜泣きがひどいの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, she just started walking properly, so everything is an adventure. And a potential hazard.",
+      "ja": "ええ、やっとちゃんと歩き始めたんですよ。だから何でも冒険で。そして潜在的な危険も。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's going to be a hot one again today. Partly cloudy, but 34 degrees.",
+      "ja": "今日も暑くなるわね。曇り時々晴れだけど、34度まで上がるって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh, really? And a 59% chance of rain. So humid then.",
+      "ja": "うわ、マジですか？しかも降水確率59%。じゃあ、蒸し暑いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's Tokyo in summer, isn't it? My kids complain about it every morning.",
+      "ja": "夏の東京ってこんなものよね。うちの子たちも毎朝文句言ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, did you see that article about the Gucci owl fan?",
+      "ja": "ねえ、グッチのフクロウの扇子の記事、見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The one that looks like a traditional uchiwa? I saw a photo.",
+      "ja": "伝統的なうちわみたいに見えるやつ？写真見たわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, apparently it's super expensive. Like, an *exorbitant* amount. What does that word even mean, 'exorbitant'?",
+      "ja": "そう、どうやらすごく高価らしいです。なんていうか、法外な額っていうか。その『exorbitant』って言葉、どういう意味なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just means ridiculously high, way too much. Like, for that fan, it's an exorbitant price.",
+      "ja": "それはね、バカみたいに高いとか、多すぎるって意味よ。あの扇子みたいに、法外な値段ってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! Who buys an exorbitant fan? I'm thinking, my Uniqlo stuff is fine.",
+      "ja": "ですよね！誰がそんな法外な扇子を買うんでしょう？僕はユニクロで十分だなって思っちゃいました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, speaking of Japanese culture, there was good news about Kabuki. The 'Roppongi Kabuki' show sounds really accessible.",
+      "ja": "まあ、日本の文化といえば、歌舞伎で良いニュースがあったわね。六本木歌舞伎の公演が、すごく見やすくなってるそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. 'Zatoichi,' right? So you don't have to sit there for four hours, confused?",
+      "ja": "ああ、そうか。『座頭市』ですね？じゃあ、4時間も座って、何が何だか分からないってことにはならないんですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's the idea. Shorter, easier to understand. My daughter actually said she might be interested.",
+      "ja": "そういうことね。短くて、分かりやすくなっているの。うちの娘が、興味あるって言ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. I always thought Kabuki was for, you know, connoisseurs.",
+      "ja": "それはちょっとすごいですね、実は。歌舞伎って、なんか、通の人向けだと思ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're trying to make it for everyone.",
+      "ja": "みんなのために、って頑張ってるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, by the way, do you know what today is? 'Pro-Wrestling Anniversary.'",
+      "ja": "あ、そういえば、今日が何の日か知ってます？「プロレス記念日」だそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is that when Rikidozan formed the association?",
+      "ja": "力道山が協会を結成した日かしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's it! 1953. I just looked it up. He really made pro-wrestling popular here.",
+      "ja": "まさにそれです！1953年。今調べたら。彼が日本でプロレスを本当に人気にしたんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He did. It was a huge deal back then.",
+      "ja": "そうね。当時はすごく話題になったものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I remember my grandfather talking about it. He used to stay up late to watch the matches.",
+      "ja": "祖父がその話をしてたのを覚えています。夜遅くまで起きて試合を見てたって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder if pro-wrestling is good for kids. Maybe not for my little one yet, she'd try to copy it. She's already throwing her toys.",
+      "ja": "プロレスって子供に見せるの、どうなんでしょうね。うちの子にはまだ早いかな、真似しようとしそうです。もうおもちゃ投げてるし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not yet. My son went through a wrestling phase a few years ago. It passes.",
+      "ja": "まだ早いでしょうね。うちの息子も数年前、プロレスにはまる時期があったわ。でも、時期が過ぎれば落ち着くものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's reassuring. I was starting to think I'd have a tiny wrestler on my hands. I need another coffee.",
+      "ja": "ああ、それは安心しました。ちっちゃなレスラーを抱えることになるかと思ってましたよ。もう一杯コーヒーが要るな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm good with my tea.",
+      "ja": "私はお茶で大丈夫。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "この頃、何にでも飛び起きちゃうんですよ。多分、赤ちゃんのせいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah.",
+      "ja": "ええ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You know, talking about traditions and things, I was thinking about going to Beppu next spring. My parents used to take us there.",
+      "ja": "ねえ、伝統とかそういう話が出たから思い出したんだけど、来年の春、別府に行こうかと思ってるの。親が昔、私たちを連れて行ってくれた場所なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, Beppu, the onsen? I've never been. Is it good?",
+      "ja": "おお、別府、温泉ですか？行ったことないです。いいところですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's really nice. Lots of different kinds of hot springs, and the local food is great.",
+      "ja": "すごくいいわよ。いろんな種類の温泉があるし、地元の食べ物も美味しいの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds relaxing. I could use some relaxation right now.",
+      "ja": "リラックスできそうですね。僕も今、ちょっとリラックスしたいです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's our look at the morning news for July 29th. Hope you have a good one.",
+      "ja": "さて、7月29日の朝のニュースでした。良い一日を過ごしてくださいね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. And enjoy that coffee.",
+      "ja": "あなたもね、アレックス。そして、コーヒー楽しんで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I will.",
+      "ja": "そうします。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 34.0,
+      "temp_min": 23.7,
+      "rain_probability": 59
+    },
+    "news": [
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Family of French woman missing for 8 years renew appeal for information",
+        "summary": "The family of a 36-year-old French woman who went missing in Nikko, Tochigi Prefecture, eight years ago, on Tuesday appealed to the public for information on the case.…",
+        "link": "https://japantoday.com/category/national/family-of-french-woman-missing-for-8-years-renew-appeal-for-information"
+      }
+    ],
+    "wikipedia": {
+      "title": "プロレス記念日",
+      "description": "1953（昭和28）年、力道山が日本プロレスリング協会の結成披露を行った。力道山はプロレスラーの養成を行い、プロレス人気を高めることに貢献した。"
+    }
+  }
+}
