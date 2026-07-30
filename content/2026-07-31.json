@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-30T20:13:05.548931+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. July 30th, 2026. Can you believe it's already this late in the month?",
+      "ja": "おはようございます、サラさん。2026年7月30日。もう月末だなんて信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. I know. It really does fly by. How are you doing today?",
+      "ja": "おはよう、アレックス。本当にあっという間ね。今日の調子はどう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm okay. Just really need this coffee today. It's so humid already. And it's still overcast.",
+      "ja": "まあまあです。今日は本当にこのコーヒーが必要ですね。もうすごく蒸し暑いですし。まだ曇り空ですしね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. They're predicting rain, too, right? Like, a 92% chance. And over 33 degrees high.",
+      "ja": "そうね。雨の予報も出てたわよね？92%とか。最高気温も33度超えって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. I saw that. Not ideal for my bike commute later. Hope I don't get soaked.",
+      "ja": "ええ、まさに。見ました。後で自転車通勤には理想的じゃないですね。びしょ濡れにならないといいんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll manage. Just take it easy on the roads.",
+      "ja": "大丈夫よ。道で無理しないようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I will. Did you see the news this morning? That earthquake in the southwest sounds pretty serious.",
+      "ja": "はい。今朝のニュース見ました？西南の地震、かなり深刻そうでしたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Prime Minister Takaichi said buildings collapsed and there were fires. At least 50 people hurt.",
+      "ja": "ええ、見たわ。高市総理が建物が倒壊して火災も発生したって言ってた。少なくとも50人が負傷したそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's just terrible. I can't imagine what it's like. You always worry about your family, you know?",
+      "ja": "それはひどいですね。どんな状況か想像できません。家族のことがいつも心配になりますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a scary thing. I just hope everyone there is safe and recovery starts soon.",
+      "ja": "恐ろしいことね。あちらの皆さんが無事で、早く復旧が始まることを願うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Me too. And another thing in the news, about the coral reefs in Okinawa. They said they were 'decimated' by heat.",
+      "ja": "私もです。それからニュースで、沖縄のサンゴ礁のこともありましたね。「熱で壊滅的な被害を受けた」って書いてありました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that headline. Climate-driven bleaching.",
+      "ja": "ええ、その見出しを見たわ。気候変動による白化現象ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What does 'decimated' mean exactly? I've heard it before, but I'm not totally sure.",
+      "ja": "「decimated（壊滅的な被害を受けた）」って、正確にはどういう意味ですか？前にも聞いたことはあるんですけど、完全に理解してなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a very large proportion of something has been destroyed or severely reduced. Like, almost all of it.",
+      "ja": "それは、何かの大部分が破壊されたり、ひどく減ったりしたという意味よ。ほとんど全部、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So a lot of the coral is gone. That's really sad. It's a shame to lose all that beauty.",
+      "ja": "ああ、なるほど。つまり、たくさんのサンゴがなくなってしまったんですね。それは本当に悲しいです。あの美しさが失われるのは残念です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Scientists are trying to save them, though. Using 'heatwave simulators' and things.",
+      "ja": "そうね。でも科学者たちが救おうと努力しているわ。「熱波シミュレーター」とかを使って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds like a big project. Hope they succeed.",
+      "ja": "それは大きなプロジェクトですね。成功するといいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Me too.",
+      "ja": "私もそう思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And there was also that story about the French woman missing in Nikko, eight years ago. Her family is still looking for information.",
+      "ja": "それから、8年前に日光で行方不明になったフランス人女性の話もありましたね。ご家族がまだ情報を求めていると。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Eight years is a long time. I can't imagine their worry.",
+      "ja": "8年というのは長いわね。ご家族の心配を思うと胸が痛むわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. You never really stop hoping, do you? Especially when it's your own. My kid is just over a year now, and I can't even think about it.",
+      "ja": "そうですね。本当に、希望を捨てることはできないですよね？特に自分の子だったら。うちの子はもう1歳を過ぎたばかりなんですけど、想像するだけでも無理です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, you don't. It's always in the back of your mind.",
+      "ja": "ええ、無理ね。いつも心の片隅にあるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "On a slightly lighter note, did you know today is 蓄音機の日? Phonograph Day. Edison patented it in 1877.",
+      "ja": "少し明るい話ですが、今日は蓄音機の日って知ってました？エジソンが1877年に特許を取ったんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right. I remember seeing that. Before that, no recorded sound at all.",
+      "ja": "ああ、そうだったわね。それを見た覚えがあるわ。それ以前は、録音された音なんて全くなかったのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! Imagine a world with no music on demand, no podcasts. Just silence, or live performances.",
+      "ja": "そうなんです！オンデマンドの音楽もポッドキャストもない世界を想像してみてください。ただ静かか、生演奏だけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was a huge invention. Definitely changed things.",
+      "ja": "それは本当に大きな発明だったわね。間違いなく物事を変えたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally. Now I just stream lullabies for my little one, or listen to English lessons on my bike. It's so different.",
+      "ja": "本当に。今はうちの小さな子に子守歌をストリーミングしたり、自転車で英語のレッスンを聞いたりしています。全然違いますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Technology makes a lot of things easier, and harder sometimes.",
+      "ja": "そうね。テクノロジーは多くのことを簡単にするけど、時には難しくもするわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. I just wish it could make the baby sleep through the night more consistently. That would be great.",
+      "ja": "そうでしょうね。赤ちゃんがもっと一晩中寝てくれるようになればいいのに、と思います。それは最高なんですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a wish many parents have. My kids are teenagers now, and I still wish they'd sleep more.",
+      "ja": "それは多くの親が願うことよ。うちの子たちはもうティーンエイジャーだけど、それでももっと寝てほしいと思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ha, I bet. So it never really ends, huh?",
+      "ja": "はは、そうでしょうね。じゃあ、これは本当に終わらないってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not really. Just changes.",
+      "ja": "そうね。ただ形が変わるだけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's reassuring... I think. Anyway, this is The Daily Tanu-chan Show. Thanks for joining us this morning.",
+      "ja": "まあ、安心しますね…多分。とにかく、こちらはThe Daily Tanu-chan Showです。今朝もありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks, Alex. We'll be back tomorrow.",
+      "ja": "ありがとう、アレックス。また明日お会いしましょう。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 33.8,
+      "temp_min": 24.6,
+      "rain_probability": 92
+    },
+    "news": [
+      {
+        "title": "Takaichi says injuries, buildings collapsed in major quake",
+        "summary": "A major earthquake collapsed buildings and sparked fires in Japan's southwest, Prime Minister Sanae Takaichi said on Tuesday, with broadcaster NHK saying that at least 50 people were…",
+        "link": "https://japantoday.com/category/national/japan-pm-says-injuries-buildings-collapsed-in-major-quake"
+      },
+      {
+        "title": "Japan coral protectors race to save reefs from heat 'bomb'",
+        "summary": "From &quot;heatwave simulators&quot; to ecological bootcamps, scientists and conservationists are trying ways to revive and reinforce the famous coral reefs off Japan's Okinawa, decimated by climate-driven bleaching two…",
+        "link": "https://japantoday.com/category/national/japan-coral-protectors-race-to-save-reefs-from-heat-%27bomb%27"
+      },
+      {
+        "title": "Family of French woman missing for 8 years renew appeal for information",
+        "summary": "The family of a 36-year-old French woman who went missing in Nikko, Tochigi Prefecture, eight years ago, on Tuesday appealed to the public for information on the case.…",
+        "link": "https://japantoday.com/category/national/family-of-french-woman-missing-for-8-years-renew-appeal-for-information"
+      }
+    ],
+    "wikipedia": {
+      "title": "蓄音機の日",
+      "description": "1877（明治10）年、エジソンが蓄音機の特許をとった。"
+    }
+  }
+}
