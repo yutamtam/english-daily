@@ -1,0 +1,242 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-01T20:08:51.221577+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 1st, 2026. Can you believe it's already August?",
+      "ja": "おはようございます、サラさん。2026年8月1日です。もう8月だなんて信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time really flies. Especially with kids.",
+      "ja": "おはよう、アレックス。本当に時間はあっという間ね。特に子どもがいると。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, absolutely. It feels like yesterday my little one was just a tiny bundle. Now he's trying to climb everything.",
+      "ja": "ええ、本当に。昨日までうちの子は本当に小さな塊だった気がします。今は何でも登ろうとしてますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, they do that. My son used to scale the bookshelves.",
+      "ja": "ええ、そうなるわね。うちの息子も昔は本棚を登ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of climbing, it's pretty wet out there, isn't it? Dense drizzle all the way in.",
+      "ja": "登る話はさておき、外はかなり濡れてますね。ずっと細かい霧雨でしたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Looks like 100% chance of rain today. High of 33.8, low of 23.8. Very humid.",
+      "ja": "そうね。今日は降水確率100%みたい。最高33.8度、最低23.8度。湿度が高いわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh, a full summer day, but with rain. I hate when it's hot and rainy. Makes everything feel… sticky.",
+      "ja": "うわあ、真夏日なのに雨ですか。暑くて雨が降るのは嫌ですね。なんか全部が…ベタベタする感じ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. I've already had a cup of tea. It helps.",
+      "ja": "するわね。私はもうお茶を一杯飲んだわ。落ち着くのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm on my second coffee. Need it to function. It's The Daily Tanu-chan Show, and I'm barely awake.",
+      "ja": "僕は2杯目のコーヒーです。機能するために必要で。ザ・デイリー・タヌちゃんショーなのに、僕はかろうじて起きてます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll get there.",
+      "ja": "大丈夫よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. He's sleeping through the night more often now, but still, I'm always on alert.",
+      "ja": "最近は、何にでも飛び起きちゃうんです。たぶん、うちの子のせいですね。夜通し寝てくれることも増えたんですけど、やっぱり常に警戒状態ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's just part of it. It gets easier eventually.",
+      "ja": "それはもう、そういうものよ。そのうち楽になるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hopefully. Hey, did you see the news about kanji? Apparently, one simple character has five different pronunciations.",
+      "ja": "そうだといいな。ねえ、漢字のニュース見ました？どうやら、一つの簡単な漢字が5つの異なる読み方をするらしいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. That doesn't surprise me. Kanji are tricky. My daughter struggles with them in school.",
+      "ja": "見たわ。驚かないわね。漢字は本当にややこしいもの。娘も学校で苦労してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I read that every year. 'Kanji is hard.' Yeah, we know! What are the ramifications?",
+      "ja": "毎年このニュースを読んでいる気がしますよ。「漢字は難しい」。ええ、知ってますよ！それで、どんな『ramifications』があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ramifications? Oh, it means the consequences or effects of something. In this case, maybe more errors in documents.",
+      "ja": "Ramifications？ああ、それは何かの結果や影響という意味よ。この場合、文書での間違いが増えるとかかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. Yeah, I can see that. No real surprise there, then.",
+      "ja": "ああ、なるほど。ええ、それはありそうですね。じゃあ、特に驚きはないか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not really.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "There was also a story about a French woman missing in Nikko for eight years. Her family is still appealing for information.",
+      "ja": "あと、日光で8年間行方不明になっているフランス人女性の話もありました。家族がまだ情報提供を呼びかけているそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a difficult situation for everyone involved. Eight years is a long time.",
+      "ja": "関係者全員にとって辛い状況ね。8年は長いわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. I can't imagine what that must be like.",
+      "ja": "本当にそうですね。それがどんな気持ちなのか想像もできない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, you can't.",
+      "ja": "ええ、できないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "On a slightly different note, the Okinawa coral reefs are in trouble. They're being 'decimated' by climate change. What does 'decimated' mean, exactly?",
+      "ja": "少し違う話ですが、沖縄のサンゴ礁が大変なことになっているそうです。気候変動によって「decimated」されているって。この『decimated』って、どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a very large number of them have been destroyed or killed. Massively reduced.",
+      "ja": "それは、非常に多くのものが破壊されたり、死んだりしたという意味よ。大幅に減少したってこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so like a huge part of them are gone. That's really sad. I love Okinawa. The ocean there is amazing.",
+      "ja": "ああ、じゃあ、大部分がなくなってしまった、と。それは本当に悲しいですね。沖縄大好きなんですよ。あそこの海は素晴らしいから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. And coral reefs are important for the ecosystem. They're trying to save them with 'heatwave simulators' and things.",
+      "ja": "そうね。サンゴ礁は生態系にとって重要よ。「熱波シミュレーター」とかを使って救おうとしているらしいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope they can. It's a big problem. My kid loves looking at fish in aquariums. I want him to see real coral someday.",
+      "ja": "成功してほしいですね。大きな問題だ。うちの子は水族館で魚を見るのが大好きなんです。いつか本物のサンゴを見せてあげたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He will, I'm sure.",
+      "ja": "きっと見れるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, did you know that tomorrow, August 2nd, is 'Herb Day'? ハーブの日.",
+      "ja": "ところで、明日、8月2日は『ハーブの日』だって知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I did. From the Japanese wordplay: 'ha' for 8 and 'bu' for 2. So, August 2nd.",
+      "ja": "ええ、知っていたわ。『ハ』が8、『ブ』が2の語呂合わせからね。だから8月2日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so it's tomorrow, not today. My bad. I always get those days mixed up. Do you use a lot of herbs, Sarah?",
+      "ja": "ああ、じゃあ今日じゃなくて明日なんですね。失礼しました。いつもそういう日を間違えちゃうんですよ。サラさん、ハーブってよく使いますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I grow some basil and mint on my balcony. Good for cooking, and mint tea is nice.",
+      "ja": "ベランダでバジルとミントを少し育てているわ。料理にもいいし、ミントティーも美味しいのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mint tea sounds refreshing, especially with this humidity. I tried to grow a tomato plant once, but it didn't really... stipulate.",
+      "ja": "ミントティー、この湿気の中で飲むと爽やかそうですね。僕も一度トマトを育てようとしたんですが、あまり…『stipulate』しなかったんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Stipulate? You mean, it didn't grow well? Stipulate means to specify or demand something, like in a contract.",
+      "ja": "Stipulate？うまく育たなかったってことかしら？Stipulateは、契約などで何かを明記したり要求したりする意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh! Right. My mistake. I meant it didn't really... flourish. Yeah. I need more coffee.",
+      "ja": "ああ！なるほど。僕の間違いです。うまく…育たなかった、という意味で。ええ。もっとコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You do. My kids have been asking for me to bake something with rosemary lately. Maybe I'll try that tomorrow.",
+      "ja": "そうね。うちの子たちは最近、ローズマリーを使ったものを焼いてほしいって言っているの。明日、試してみようかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Rosemary? That sounds fancy. I just managed to make a decent omelette for breakfast today. Small victories.",
+      "ja": "ローズマリーですか？それはおしゃれですね。僕は今朝、そこそこのオムレツを朝食に作れただけですよ。小さな勝利です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good start. For some people, that's a big victory.",
+      "ja": "いいスタートね。人によっては、それが大きな勝利だもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is for me, sometimes. Especially before the coffee kicks in. Anyway, guess that's our time.",
+      "ja": "僕にとっては、時々そうですよ。特にコーヒーが効く前は。まあ、もう時間ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Have a good one, Alex. Stay dry.",
+      "ja": "そうね。良い一日を、アレックス。濡れないようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And enjoy that mint tea.",
+      "ja": "サラさんもね。ミントティー楽しんでください。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Dense drizzle",
+      "temp_max": 33.8,
+      "temp_min": 23.8,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Family of French woman missing for 8 years renew appeal for information",
+        "summary": "The family of a 36-year-old French woman who went missing in Nikko, Tochigi Prefecture, eight years ago, on Tuesday appealed to the public for information on the case.…",
+        "link": "https://japantoday.com/category/national/family-of-french-woman-missing-for-8-years-renew-appeal-for-information"
+      },
+      {
+        "title": "Japan coral protectors race to save reefs from heat 'bomb'",
+        "summary": "From &quot;heatwave simulators&quot; to ecological bootcamps, scientists and conservationists are trying ways to revive and reinforce the famous coral reefs off Japan's Okinawa, decimated by climate-driven bleaching two…",
+        "link": "https://japantoday.com/category/national/japan-coral-protectors-race-to-save-reefs-from-heat-%27bomb%27"
+      }
+    ],
+    "wikipedia": {
+      "title": "ハーブの日",
+      "description": "「ハ（8）ーブ（2）」の語呂合わせから、エスビー食品株式会社が制定。"
+    }
+  }
+}
