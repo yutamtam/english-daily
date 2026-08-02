@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-02T20:08:41.980636+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 2nd, 2026. Can't believe it's already August.",
+      "ja": "おはようございます、サラさん。2026年8月2日。もう8月なんて信じられないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time moves fast, doesn't it? Especially in summer.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。特に夏は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does. And it's another drizzly one today, huh? Still feels a bit muggy. Welcome to The Daily Tanu-chan Show.",
+      "ja": "本当にそうですね。そして今日もまた小雨っぽい天気ですね。まだちょっと蒸し暑いし。ようこそ、ザ・デイリー・タヌちゃんショーへ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, light drizzle. Highs around 26 degrees. At least it's not boiling hot yet.",
+      "ja": "ええ、小雨ね。最高気温は26度くらい。少なくともまだ猛暑じゃないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. I need this coffee to properly start my day. Did you get your tea?",
+      "ja": "そうですね。このコーヒーがないと一日がちゃんと始まらないです。お茶は飲みましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Already on my second cup.",
+      "ja": "飲んだわ。もう2杯目よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, I saw a headline this morning that Japan's paternity leave rate topped 50% for the first time in fiscal 2025. That's good, right?",
+      "ja": "そういえば、今朝のニュースで、2025年度の日本の男性育児休業取得率が初めて50%を超えたって見ました。良いことですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's been a long time coming. My husband's company didn't even offer much when our kids were small.",
+      "ja": "そうね。ずいぶん時間がかかったわ。うちの夫の会社なんて、子供たちが小さかった頃はほとんど何もなかったもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's really changing. I wonder about the eligibility for some of those new programs, though. Like, do you have to be full-time?",
+      "ja": "ええ、本当に変わってきてますよね。でも、新しい制度のいくつかで、受給資格（eligibility）はどうなってるんだろうって思います。例えば、正社員じゃなきゃダメとか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Eligibility just means if you're qualified, or if you meet the requirements for something. Like, who can take it. Many companies are expanding it.",
+      "ja": "Eligibilityっていうのは、資格があるかどうか、何かの条件を満たしているか、ってことね。誰が取得できるか、とか。多くの企業がそれを拡大しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. That makes sense. I mean, my company has a decent policy, but it's still hard for some guys to actually take it.",
+      "ja": "ああ、なるほど。それは分かります。僕の会社もそこそこの制度はあるんですけど、実際に取るのはまだ難しいって人もいますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's about culture, too. Not just the rules. But 50% is a big step.",
+      "ja": "規則だけじゃなくて、文化の問題でもあるわね。でも50%は大きな一歩よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I remember feeling like I was just floundering a bit when the baby was first born, even with some time off. It's a lot.",
+      "ja": "間違いないです。僕も、生まれたばかりの頃は、少し休みを取ったとはいえ、ただただおろおろ（floundering）してた感じでした。本当に大変で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Floundering means struggling clumsily, like trying to move but not quite succeeding. Or just feeling lost. It's normal for new parents.",
+      "ja": "Flounderingっていうのは、ぎこちなくもがく、うまく動けない、とか、ただ途方に暮れる感じね。新米の親にはよくあることよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! Like trying to walk on ice for the first time. I still feel that way sometimes.",
+      "ja": "まさに！初めて氷の上を歩くような。今でも時々そう感じますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of energy, did you see the news about the hip-hop dancing granny? From NHK World?",
+      "ja": "元気の話で言うと、NHKワールドでヒップホップを踊るおばあちゃんのニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the one doing the 'Rice Dance'? Yeah, I saw a clip. She's got more moves than I do.",
+      "ja": "ああ、「ライスダンス」を踊ってる人ですか？ええ、クリップを見ました。僕よりずっとキレがありますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "She does. My son actually showed me that video last year, too. They're pretty amazing.",
+      "ja": "そうね。うちの息子も去年その動画を見せてくれたわ。本当にすごいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can barely touch my toes in the morning these days. All that chasing a one-year-old around.",
+      "ja": "最近は朝、ほとんどつま先に触れないですよ。1歳の子を追いかけ回してるから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. Kids keep you busy.",
+      "ja": "ええ。子供がいると忙しいものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Another interesting one was about a samurai sword, apparently found in a house in America. One of Japan's last samurai, Yoshida Shoin.",
+      "ja": "もう一つ面白いニュースは、アメリカの家で発見されたらしい日本刀の件でした。日本の最後の侍の一人、吉田松陰の刀だとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I heard about that. It's amazing how things like that turn up, isn't it?",
+      "ja": "ああ、それ聞いたわ。そういうものがひょっこり出てくるなんて、驚きよね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally. Imagine finding something like that just lying around. I didn't know Yoshida Shoin's story was so... tragic-romantic, as the article said.",
+      "ja": "本当に。そんなものがただ置いてあるのを見つけるなんて。吉田松陰の物語が、記事にあったようにそんなに悲劇的でロマンチックだとは知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He was a significant figure. History sometimes just pops up in unexpected places.",
+      "ja": "彼は重要な人物だったからね。歴史って、時々思いがけない場所で顔を出すものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, speaking of sweet things, I just remembered, tomorrow, August 3rd, is Hachimitsu no Hi, Honey Day.",
+      "ja": "そうそう、甘いものの話で思い出したんですけど、明日、8月3日は「はちみつの日」らしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, is it? I didn't know that. Makes sense, 8-3 for hachimitsu.",
+      "ja": "あら、そうなの？知らなかったわ。8と3ではちみつね、なるほど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw it online. I actually put a bit of honey in my coffee sometimes. Makes it interesting.",
+      "ja": "ええ、ネットで見ました。僕、実は時々コーヒーに少しハチミツを入れるんですよ。面白くなります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer it in my tea, if I use a sweetener. Especially green tea.",
+      "ja": "私は甘味料を使うなら、紅茶に入れるのが好きね。特に緑茶に。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, never tried that. Sounds... refined. I'm more of a honey toast guy, usually.",
+      "ja": "うーん、それは試したことないです。なんだか…上品ですね。僕は普段、ハニートースト派なんですけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "All this talk of food is making me hungry. I've been craving a really rich tonkotsu ramen lately. You know, with that thick, creamy broth.",
+      "ja": "こんなに食べ物の話してたらお腹空いてきちゃいました。最近、すごく濃厚な豚骨ラーメンが食べたくて。あの、とろっとしたクリーミーなスープのやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A good tonkotsu is satisfying. I had a really light shio ramen last week, that was nice too.",
+      "ja": "美味しい豚骨は満足感があるわね。私は先週、すごくあっさりした塩ラーメンを食べたんだけど、それも良かったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah, shio is good for a change. But today, I need something heavy. Something that just sticks to your ribs.",
+      "ja": "ああ、そうですね、たまには塩もいいですよね。でも今日は、何かヘビーなものが食べたいです。体に染み渡るようなやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like you need a big lunch.",
+      "ja": "盛大なランチが必要そうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, we should probably get to it. Another busy day ahead.",
+      "ja": "まあ、そろそろ始めないとね。また忙しい一日が始まるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I guess I'll grab another coffee before I dive into emails. Thanks for the chat, Sarah.",
+      "ja": "ええ。メールに飛び込む前にもう一杯コーヒーを飲もうかな。おしゃべりありがとう、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No problem, Alex. Have a good one.",
+      "ja": "どういたしまして、アレックス。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too.",
+      "ja": "サラさんも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 25.9,
+      "temp_min": 22.2,
+      "rain_probability": 65
+    },
+    "news": [
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "Japan's paternity leave rate tops 50% for 1st time in fiscal 2025",
+        "summary": "The rate of men in Japan taking child care leave topped 50 percent for the first time in fiscal 2025, apparently boosted by government efforts to encourage fathers…",
+        "link": "https://japantoday.com/category/national/japan%27s-paternity-leave-rate-tops-50-for-1st-time-in-fiscal-2025"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      }
+    ],
+    "wikipedia": {
+      "title": "はちみつの日",
+      "description": "1985（昭和60）年、日本養蜂はちみつ協会と全日本はちみつ協同組合が「はち（8）みつ（3）」の語呂合わせから制定。"
+    }
+  }
+}
