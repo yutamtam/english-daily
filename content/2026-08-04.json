@@ -1,0 +1,172 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-03T20:25:09.104335+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 3rd, 2026. Can you believe it's already August?",
+      "ja": "おはようございます、サラさん。2026年8月3日。もう8月なんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time does fly, doesn't it? My tea's still hot.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。私の紅茶はまだ温かいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I need my coffee. Just a little tired today. My kid was up early.",
+      "ja": "あー、僕はコーヒーが必要だ。今日はちょっと疲れてて。うちの子が朝早くから起きてたんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. It's light drizzle outside. Not too bad, though. High of 28.2°C, low of 21.6°C. Only a 12% chance of proper rain.",
+      "ja": "ええ。外は小雨よ。でもそんなにひどくないわ。最高気温28.2℃、最低21.6℃。本格的な雨の確率は12%だけ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's good. I almost thought about taking the train, but then I'd miss my bike ride. I actually saw a very determined-looking cat on my commute.",
+      "ja": "ああ、それは良かった。電車に乗ろうかとも思ったんだけど、それだと自転車に乗れないし。通勤中にすごく決意に満ちた顔の猫を見たんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Determined? What was it doing?",
+      "ja": "決意に満ちた？何してたの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just staring at a pigeon. It had a real `penchant` for that pigeon, I think. Wait, `penchant`… what does that mean again?",
+      "ja": "ただハトをじっと見てたんだ。そのハトにすごく『ペンシャント』があったと思う。あれ、ペンシャントってどういう意味だっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a strong liking or tendency for something. Like a strong preference.",
+      "ja": "それは、何かに強い好みや傾向があるという意味よ。強い好みね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, a strong liking for that pigeon. I get it. Anyway, back to the news. NHK World says Japanese college students shared four ways anime high school is different from real high school.",
+      "ja": "ああ、なるほど。そのハトに強い好み。分かった。とにかく、ニュースに戻るけど。NHKワールドが、日本の大学生がアニメの高校と現実の高校の違いを4つ紹介したって言ってるよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds about right. Anime high school always looks so dramatic. And clean.",
+      "ja": "それはそうでしょうね。アニメの高校っていつもすごくドラマチックに見えるもの。そしてきれいだし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I feel like I read this kind of article every year. My little one is probably going to be obsessed with anime someday, too. Then I'll have to explain it all.",
+      "ja": "でしょ？毎年この手の記事を読んでる気がするよ。うちの子もいつかアニメに夢中になるんだろうな。そしたら全部説明しないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You will. There's also a story about a sword of one of Japan's last samurai, Yoshida Shoin, found in America.",
+      "ja": "そうね。あとは、日本の最後の侍の一人、吉田松陰の刀がアメリカで見つかったという話もあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's kind of amazing, actually. Yoshida Shoin, huh? A samurai's sword, all the way in America. It's a sad `distinction` for him, being one of the last.",
+      "ja": "へえ、それはかなりすごいな。吉田松陰かあ。侍の刀がアメリカにまでね。彼にとっては、最後の一人であるというのは悲しい『ディスティンクション』だね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. `Distinction` here means a special quality that sets someone or something apart, often honor, but also that tragic finality.",
+      "ja": "そうね。『ディスティンクション』はここで、何かを際立たせる特別な品質を意味するわ。名誉であることも多いけど、この場合はその悲劇的な終わりもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. And finally, there's a two-day event bringing unique Japan-inspired steampunk style to Harajuku. It's called Steam Garden.",
+      "ja": "分かった。そして最後に、ユニークな日本風スチームパンクスタイルを原宿にもたらす2日間のイベントがあるって。スチームガーデンだって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that'll be interesting. Their `aesthetics` are always so detailed.",
+      "ja": "あら、それは面白そうね。彼らの『エステティクス』はいつもすごく凝っているから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Aesthetics` is like, the visual style, right? The beauty side of it?",
+      "ja": "『エステティクス』って、視覚的なスタイルみたいなものだよね？美的な側面？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's exactly right. The way something looks and feels, especially when it comes to art or design.",
+      "ja": "その通りよ。物事の見た目や雰囲気、特に芸術やデザインに関するものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Cool. I wonder what Japanese Victorian `aesthetics` look like. Maybe my son would like the gears and stuff. He's really into anything that moves these days.",
+      "ja": "いいね。日本のビクトリア朝の『エステティクス』ってどんな感じなんだろう。息子も歯車とか好きかもしれないな。最近、動くものなら何でも夢中なんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That age, they often are. And speaking of interesting days, tomorrow, August 4th, is 'Hashi no Hi' – Bridge Day.",
+      "ja": "その年頃の子はよくそうなるものよ。そして興味深い日と言えば、明日、8月4日は『橋の日』よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? Hashi no Hi? Because of the sound, ha-shi?",
+      "ja": "え、そうなの？橋の日？語呂合わせのハシから？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It's about showing love for our local rivers and the bridges that cross them, and keeping them clean. It started in 1986.",
+      "ja": "その通り。地元の川やその上にかかる橋への愛を示し、きれいに保とうというもの。1986年に始まったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, I didn't know that. I pass over so many bridges on my commute every day. Never really thought about them much.",
+      "ja": "へえ、知らなかった。毎日通勤でたくさんの橋を渡るけど、あまり考えたことなかったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's easy to overlook everyday things.",
+      "ja": "日常のことは見過ごしがちだものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Well, for The Daily Tanu-chan Show today, I guess that's everything. It's almost time for my next coffee.",
+      "ja": "うん。じゃあ、今日のザ・デイリー・たぬちゃん・ショーはこれで全部かな。そろそろ次のコーヒーの時間だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks for listening, everyone. Have a productive day.",
+      "ja": "皆様、お聴きいただきありがとうございました。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "See you tomorrow!",
+      "ja": "また明日！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 28.2,
+      "temp_min": 21.6,
+      "rain_probability": 12
+    },
+    "news": [
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      }
+    ],
+    "wikipedia": {
+      "title": "橋の日",
+      "description": "1986年、「は（8）し（4）」の語呂合わせから、宮崎市の湯浅利彦さんの提唱により、橋の日実行委員会が制定。郷土のシンボルである河川に架かる橋を通し、ふるさとを愛する心と河川の浄化を図ろうというもの。"
+    }
+  }
+}
