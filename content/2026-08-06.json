@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-05T20:24:40.319647+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 5th already. Feels like another day on The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。もう8月5日ですね。『たぬちゃん毎日ショー』の別の日って感じです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. You look like you need that coffee.",
+      "ja": "おはよう、アレックス。そのコーヒーが必要な顔してるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. (sips coffee) It's drizzling out there, did you notice? Feels a bit heavy.",
+      "ja": "ええ、本当に。 (コーヒーを飲む) 外は小雨が降ってますよ。ちょっと重たい感じがします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. My tea tastes better when it's like this, somehow. Looks like a high of 31 today, even with the rain.",
+      "ja": "ええ、そうね。こんな日は紅茶が somehow 美味しいのよ。雨でも最高気温は31度みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? Even with the drizzle. I was hoping it would cool down. My office is always so hot in summer.",
+      "ja": "ああ、そうなんですね？小雨でも。涼しくなるかなと思ったのに。うちのオフィスは夏はいつもすごく暑いんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I know the feeling.",
+      "ja": "その気持ち、わかるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, did you see the news about Kabuki? This new 'Roppongi Kabuki' thing. It sounds really accessible.",
+      "ja": "そういえば、歌舞伎のニュース見ました？この新しい『六本木歌舞伎』ってやつ。すごく身近に感じられそうですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. They called it the 'most accessible Kabuki ever.' Shorter performances, easier to understand stories.",
+      "ja": "ええ、見たわ。『史上最も親しみやすい歌舞伎』って言ってたわね。上演時間が短くて、物語もわかりやすいって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 'the advent of a new Kabuki style.' What does 'advent' mean, actually?",
+      "ja": "そう、『新しい歌舞伎スタイルの到来（advent）』って。その『advent』ってどういう意味なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just means the start or arrival of something important. A new era, you could say.",
+      "ja": "それはね、何か重要なことの始まりとか到来を意味するの。新しい時代、って言ってもいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. A new era for Kabuki then. I've only been once, and honestly, I didn't really get it. Four hours is a long time. My little one would never sit through that.",
+      "ja": "ああ、なるほど。じゃあ歌舞伎の新しい時代ですね。僕、一度しか行ったことないんですけど、正直、あんまりわからなかったんです。4時間は長いですよね。うちの子は絶対座ってられませんよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, probably not. Even my kids find it a bit much. This new format might bring in younger audiences, which is good.",
+      "ja": "ええ、無理でしょうね。うちの子たちもちょっと長いって思うわ。この新しい形式は若い観客を呼び込むかもしれないわね、それは良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. And then there was that ukiyoe painting news. Rediscovered, right? With the courtesans in the cold.",
+      "ja": "確かに。それから、浮世絵のニュースもありましたね。再発見された絵画。寒そうな遊女たちが描かれたやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds beautiful. Fukagawa in winter, preparing for something. I love those old woodblock prints. It's always nice when something like that gets found again.",
+      "ja": "素敵ね。冬の深川、何かを準備している女性たち。ああいう古い木版画、私も好きだわ。ああいうものがまた見つかるのは、いつも嬉しいことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Oh, and the immigration news. Tougher rules for permanent residency? Income and pension. I feel like I read this headline every year.",
+      "ja": "本当に。ああ、それと入管のニュース。永住権の取得条件が厳しくなるんですか？所得とか年金。毎年この見出しを読む気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're proposing to require applicants to maintain income above the average for Japanese households. And certain pension contributions.",
+      "ja": "申請者に、日本の世帯平均所得以上の収入と、特定の年金拠出を維持することを求める提案だそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. So, if your income isn't high enough, that would kind of... preclude you, wouldn't it? Preclude? Is that the right word?",
+      "ja": "なるほど。じゃあ、収入が十分じゃないと、それがちょっと… preclude（プレクルード）するってことですか？プレクルード、で合ってます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it means it would prevent you from getting it. It would make it impossible to meet the requirements.",
+      "ja": "ええ、そうよ。それはあなたがそれを手に入れるのを妨げる、という意味ね。要件を満たすことができなくなる、と。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess it would. It's a big hurdle, especially for young families. You know, trying to save up and maintain a certain income level with a baby, it's not easy.",
+      "ja": "ええ、そうでしょうね。特に若い家族にとっては大きなハードルです。ほら、貯金しようとして、赤ちゃんがいる中で一定の収入レベルを維持するのって、簡単じゃないですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It certainly does. It’s always a balance.",
+      "ja": "本当にそうね。いつもバランスが大事だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And speaking of today, tomorrow is August 6th, right? Hiroshima Peace Memorial Day.",
+      "ja": "そういえば、今日のことなんですが、明日って8月6日ですよね？広島平和記念日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, that's tomorrow. It's when the peace memorial ceremony is held in Hiroshima. A very important day for Japan, for remembering.",
+      "ja": "ええ、明日よ。広島で平和記念式典が開催される日ね。日本にとって、そして追悼にとって、とても大切な日だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I didn't know the exact date, but I always think about it around this time of year. It's a heavy thought for a morning.",
+      "ja": "ええ、正確な日付は知らなかったんですけど、毎年この時期になるといつも考えます。朝からちょっと重い話ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But remembering is important. On a lighter note, my cucumbers are doing really well in the garden this year. I've been making a lot of sunomono.",
+      "ja": "そうね。でも思い出すことは大切だわ。もう少し軽い話題だけど、今年は庭のキュウリがすごくよく育っているの。酢の物をたくさん作ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? That's nice. I keep meaning to try gardening, but with the baby and work, I don't know where I'd find the time.",
+      "ja": "ああ、そうなんですね？それはいいですね。僕もずっとガーデニングをやってみたいと思ってるんですけど、赤ちゃんもいるし仕事もあるし、どこで時間を見つければいいのか分からなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a slow process. Not something you rush. You find the time when you need it.",
+      "ja": "それは時間をかけるものよ。急ぐものじゃない。必要な時に、きっと時間を見つけられるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Well, I'd better get ready for my first meeting. This coffee isn't going to last forever.",
+      "ja": "そうですね。さて、最初の会議の準備しないと。このコーヒーも永遠にはもたないし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And thanks for the vocab lessons!",
+      "ja": "サラさんも。それと、語彙のレッスン、ありがとうございました！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 31.4,
+      "temp_min": 22.6,
+      "rain_probability": 81
+    },
+    "news": [
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "Japan proposes tougher income, pension rules for permanent residency",
+        "summary": "Japan's immigration agency on Tuesday proposed tougher requirements for granting permanent residency to foreigners, including requiring applicants to maintain income above the average for Japanese households and a…",
+        "link": "https://japantoday.com/category/national/japan-proposes-tougher-income-pension-rules-for-permanent-residency"
+      }
+    ],
+    "wikipedia": {
+      "title": "広島平和記念日",
+      "description": "1945（昭和20）年、米軍のB29爆撃機エノラ・ゲイ号が、広島市上空で原子爆弾「リトルボーイ」を投下。毎年この日に、広島市では原爆慰霊碑の前で平和記念式典が行われる。"
+    }
+  }
+}
