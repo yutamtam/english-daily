@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T00:39:54.609746+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 7th. Another Friday for The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。8月7日。また金曜日ですね、ザ・デイリーたぬちゃんショーです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It's already August, isn't it? Feels like summer just started.",
+      "ja": "おはよう、アレックス。もう8月なんだね。夏が始まったばかりみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, time flies. Especially when you're jumping out of bed at 5 AM. And is it just me, or is it drizzling out there?",
+      "ja": "ええ、あっという間ですね。特に朝5時に飛び起きていると。それに、僕だけですかね、外は小雨が降ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Light drizzle. The forecast said 80% chance of rain today. High around 30, low 24.",
+      "ja": "そうね。小雨よ。今日の予報は降水確率80%って言ってたわ。最高30度、最低24度くらい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Great. So, humid and wet. My coffee is extra important today. I need to wake up properly.",
+      "ja": "なるほど。つまり、蒸し暑くてじめじめ。今日はコーヒーがいつも以上に大事ですね。ちゃんと目を覚まさないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sticking to my tea. It's calming.",
+      "ja": "私はお茶にするわ。落ち着くから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wish I could be calm. I just glanced at the news headlines. The one about the elderly woman in Kumamoto, heatstroke in her car...",
+      "ja": "落ち着いていられたらいいんですけどね。ニュースの見出しをちらっと見たんです。熊本の高齢の女性が、車の中で熱中症で…というやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. It's really sad. People are still struggling in those temporary shelters.",
+      "ja": "ええ、見たわ。本当に悲しい。仮設住宅で苦労している人がまだいるのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It makes you think, doesn't it? Even just being in a car for a bit can be dangerous with this heat. My little one gets fussy so quickly.",
+      "ja": "考えさせられますよね。ちょっと車に乗っているだけでも、この暑さだと危険ですよね。うちの子もすぐに機嫌が悪くなるから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's different when you have small children. You have to be extra careful.",
+      "ja": "小さい子がいたら違うわね。特に気をつけないといけない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. And then there's a different kind of news, about a long-lost ukiyoe painting being found. That's kind of amazing, actually.",
+      "ja": "そうですね。それで、また別の種類のニュースなんですけど、行方不明だった浮世絵が見つかったって。あれはちょっとすごいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It brings more international attention to Japanese art.",
+      "ja": "そうね。日本の美術に国際的な注目が集まるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And there's something about Yuki Tsumugi silk from Tochigi. Sounds really traditional.",
+      "ja": "それから栃木の結城紬のシルクについても載ってましたね。すごく伝統的でしょ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yuki Tsumugi is quite special. It's a very old weaving technique. Takes a lot of effort to make.",
+      "ja": "結城紬はかなり特別よ。とても古い織物技術で、作るのにかなりの手間がかかるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know that. I guess I just see a flurry of news every morning and don't dig deep.",
+      "ja": "知りませんでした。毎日、ニュースのフラリーを見るだけで、深く掘り下げてないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A 'flurry' of news? You mean like a sudden, quick burst of many things?",
+      "ja": "「フラリー」のニュース？ 急にたくさんのことが押し寄せるような感じのことかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes! Exactly. Like a sudden shower of short articles. Is that not how you use it?",
+      "ja": "そうです！まさに。短い記事が突然シャワーみたいに降ってくる感じ。そういう使い方じゃないですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is, yes. It's used for things like a 'flurry of activity' or a 'flurry of snow'. A short, busy period.",
+      "ja": "ええ、そうよ。例えば、「活動のフラリー」とか「雪のフラリー」のように使うわ。短くて忙しい期間のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. Good to know. Well, today is also 'Hana no Hi' — Nose Day.",
+      "ja": "ああ、なるほど。勉強になります。さて、今日は『鼻の日』だそうですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, right. 8/7 for 'ha-na'. I always forget about that one.",
+      "ja": "ああ、そうだったわね。8/7で「はな」。いつも忘れちゃうのよ、これは。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's to raise awareness for nose disease prevention. Do you know the rationale behind picking August 7th?",
+      "ja": "鼻の病気の予防を呼びかける日ですよね。8月7日を選んだラショナーレって知ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Rationale? You mean the reason or the logic behind it?",
+      "ja": "ラショナーレ？ それを選んだ理由とか根拠のことかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes, exactly! Why that specific date?",
+      "ja": "ええ、そうです！ なぜその特定の日付なのか、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, like you said, 'ha-na'. It's a simple phonetic play. There's not usually a deep historical reason for these kinds of days.",
+      "ja": "まあ、あなたが言った通り、「はな」よ。単純な語呂合わせ。この手の記念日には、たいてい深い歴史的な理由はないのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, just a simple wordplay. I was expecting something more... medical.",
+      "ja": "ああ、ただの語呂合わせだったんですね。もっとこう…医学的な理由があるのかと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, not always. Sometimes it's just to make it easy to remember.",
+      "ja": "いいえ、いつもそうとは限らないわ。時には覚えやすくするためだけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I see. My nose is always fine, but I guess some people really struggle with allergies or other issues.",
+      "ja": "なるほど。僕の鼻はいつも大丈夫なんですけど、アレルギーとか他の問題で本当に困っている人もいるんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son gets pretty bad hay fever in spring. It's no fun at all.",
+      "ja": "うちの息子は春にひどい花粉症になるわ。全然楽しくないそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. My little one seems to be sniffly sometimes, but I'm not sure if it's allergies yet. He just started walking, so he's exploring everything.",
+      "ja": "ああ、そうでしたね。うちの子もたまに鼻が詰まっているみたいなんですけど、まだアレルギーかどうかは分からないですね。ちょうど歩き始めたばかりだから、何でも探索してます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a fun age. Keeps you busy.",
+      "ja": "楽しい時期ね。目が離せないでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Busy is an understatement. I actually tried cycling to work yesterday, just to get some extra exercise.",
+      "ja": "忙しいなんてものじゃないです。実は昨日、運動不足解消のために自転車で会社まで行ってみたんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, how was that?",
+      "ja": "ああ、どうだった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, it was fine until I got to the office. Then I realized I was completely soaked from sweat. Had to change my shirt right away.",
+      "ja": "まあ、会社に着くまでは良かったんですけど。そしたら、汗でびしょ濡れになっていることに気づいて。すぐにシャツを着替えましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right for August. Good for you for trying, though.",
+      "ja": "8月ならそうなるわね。でも、挑戦したのはえらいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess I'll stick to the train for now. Or just wake up earlier for my coffee.",
+      "ja": "とりあえず今は電車に乗っておきます。それか、コーヒーのためにさらに早く起きるかですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Have a great Friday.",
+      "ja": "サラさんも。良い金曜日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 30.7,
+      "temp_min": 24.2,
+      "rain_probability": 80
+    },
+    "news": [
+      {
+        "title": "Woman dies of apparent heatstroke while taking shelter in car in quake-hit area",
+        "summary": "An elderly woman who developed heatstroke while taking shelter in a car is the latest fatality from a powerful earthquake that struck Japan’s southwestern prefecture of Kumamoto last…",
+        "link": "https://japantoday.com/category/national/Woman-dies-of-apparent-heatstroke-while-taking-shelter-in-car-in-quake-hit-area"
+      },
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      }
+    ],
+    "wikipedia": {
+      "title": "鼻の日",
+      "description": "「は（8）な（7）」の語呂合わせから、1961（昭和36）年に日本耳鼻咽喉科学会が制定。鼻の病気予防を呼びかけ。"
+    }
+  }
+}
