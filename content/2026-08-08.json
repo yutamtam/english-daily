@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-07T19:51:03.734797+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 7th already.",
+      "ja": "おはようございます、サラさん。もう8月7日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really is. Friday tomorrow, huh?",
+      "ja": "おはようございます、アレックス。本当に。明日もう金曜日ですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Looks like another clear one today. The news said 32 degrees. And low rain chance.",
+      "ja": "ええ。今日もまた晴れそうですね。ニュースで32度って言ってました。降水確率も低いって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Feels hot already. My kids are complaining about school still being in session.",
+      "ja": "そうね。もうすでに暑いし。うちの子たちは、まだ学校があるって文句言ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it definitely is. I need my coffee before I can even think. Had a bit of a night with the baby.",
+      "ja": "ああ、本当にそうです。コーヒー飲まないと何も考えられません。昨夜はうちの赤ちゃんとちょっと大変で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm on my second cup of tea.",
+      "ja": "私はもう2杯目の紅茶よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see that news about the steampunk event in Harajuku? I saw a headline.",
+      "ja": "原宿のスチームパンクのイベントのニュース見ました？見出しだけ見たんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Steam Garden, I think it's called. They're showcasing Japanese-style steampunk fashion.",
+      "ja": "見たわ。スチームガーデンって名前だったかしら。日本のスチームパンクファッションを披露するのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Japanese steampunk? That sounds... interesting. Like, a samurai wearing goggles and gears? I can't quite picture it. Is it like a *fusion* style?",
+      "ja": "日本のスチームパンクですか？それは…面白いですね。ゴーグルと歯車をつけた侍、みたいな？ちょっと想像できないな。なんていうか、*フュージョン*スタイルみたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Kind of. It blends 19th-century industrial tech with Victorian aesthetics, but with a unique Japanese twist. Often incorporates Edo period elements.",
+      "ja": "まあ、そんな感じ。19世紀の産業技術とヴィクトリア朝の美学を融合させてるんだけど、そこに日本独自のひねりを加えているの。江戸時代の要素を取り入れることも多いわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. I didn't know that was even a thing. I wonder if the atmosphere is more... how do you say, 'buoyant'? Like, very light and energetic?",
+      "ja": "へえ。そんなのがあったんですね。雰囲気はもっと、なんていうか、『buoyant』？すごく軽やかでエネルギッシュな感じですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Buoyant means cheerful and optimistic. Or able to float. Yeah, I imagine it's pretty lively.",
+      "ja": "Buoyantは、陽気で楽観的、って意味よ。あと、水に浮くことができる、とか。ええ、かなり活気があるでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, buoyant. Got it. I should take my kid there someday. When he's older, of course.",
+      "ja": "ああ、buoyant。なるほど。いつかうちの子を連れて行きたいな。もう少し大きくなったら、ですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely a unique experience.",
+      "ja": "間違いなくユニークな体験ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, and speaking of unique, they're getting a new giant Gundam robot statue this fall. That was in the news too.",
+      "ja": "ああ、ユニークな話といえば、この秋に新しい巨大なガンダムの像ができるらしいですね。それもニュースで見ました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I heard that. The one that was in Odaiba before left a lot of people sad.",
+      "ja": "ええ、私も聞いたわ。前の台場のガンダムがいなくなった時は、たくさんの人が悲しんでたものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I remember that. My colleagues were talking about it for weeks. It's cool they're bringing one back so quickly. Even if I don't really know Gundam.",
+      "ja": "覚えています。うちの同僚たちが何週間もその話をしてましたよ。あんなに早くまた戻ってくるなんてすごいですよね。僕はガンダムのことあんまり知らないんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a big part of Japanese pop culture.",
+      "ja": "日本のポップカルチャーの大きな部分を占めているわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "There was also something about art... Hiroko Machida, digital reproduction of national treasures?",
+      "ja": "あと、アートのニュースもありましたよね…町田ひろ子さん、国宝のデジタル複製とかいう？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. Her academy is launching interior art. High-quality digital copies of famous Japanese artworks.",
+      "ja": "ええ、そうよ。彼女のアカデミーがインテリアアートを立ち上げるの。日本の有名な美術品の高品質なデジタル複製ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. So people can have famous art in their homes without, you know, stealing it.",
+      "ja": "それ、ちょっとすごいですよね。みんなが自宅に有名なアートを飾れるってことですよね、ほら、盗まなくても。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It makes it more accessible.",
+      "ja": "その通り。もっと身近になるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder if it actually feels like the real thing. Or if you can tell it's just a print.",
+      "ja": "実際に本物みたいに感じるのかな。それともただの印刷だってわかるのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's digital reproduction. The quality is usually very high.",
+      "ja": "デジタル複製よ。質はたいていとても高いわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should probably get some art for my place. My wife keeps saying the baby's room is too plain. But he doesn't care, right? He just wants to chew on things.",
+      "ja": "うちも何かアートを飾ったほうがいいのかな。妻が、赤ちゃんの部屋がシンプルすぎるっていつも言ってるんです。でも、赤ちゃんは気にしないですよね？ただ物を噛みたいだけだし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He probably doesn't.",
+      "ja": "多分気にしないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? Babies don't have taste yet. He'd probably try to eat a national treasure if it was within reach. Had a bit of a *meltdown* last night over a toy.",
+      "ja": "でしょ？赤ちゃんにまだ美的センスはないですよね。手が届くところに国宝があったら、きっと食べようとすると思いますよ。昨夜、おもちゃでちょっとした*メルトダウン*を起こしちゃって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A meltdown?",
+      "ja": "メルトダウン？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like a sudden burst of anger or distress. Just completely lost it because his rattle fell under the sofa. It was quite dramatic.",
+      "ja": "ええ、急に怒ったり、すごく苦しそうにしたりするんです。ガラガラがソファの下に落ちただけで、完全にパニックになっちゃって。かなりドラマチックでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, I know those. They pass.",
+      "ja": "ああ、それね。そのうち落ち着くわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. It felt like an hour, but it was probably only five minutes. It just drains you.",
+      "ja": "だといいんですけど。1時間くらいに感じたけど、多分5分くらいでした。ただ、すごく消耗するんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, do you know what tomorrow, August 8th, is? I just remembered it's 'Soroban no Hi'.",
+      "ja": "ねえ、明日、8月8日が何の日か知ってます？ちょうど思い出したんですけど、『そろばんの日』らしいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Soroban Day. Yes, I saw that. It's because the sound 'pachi-pachi' that the abacus makes sounds like '8-8' in Japanese.",
+      "ja": "そろばんの日ね。ええ、見たわ。そろばんを弾く『パチパチ』っていう音が、日本語の『8-8』に似てるからってことらしいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Pachi-pachi! Of course. I remember using a soroban in elementary school. My kids use calculators now. Do yours?",
+      "ja": "パチパチ！なるほど。僕、小学校でそろばん使ってたの思い出しました。うちの子は今は電卓使ってますね。サラさんのところは？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids learned the basics, but they mostly use calculators too. It's a different era.",
+      "ja": "うちの子たちも基礎は習ったけど、ほとんど電卓を使ってるわね。時代が違うのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. I remember trying to do mental math for it, like imagining the beads moving. It was a lot of concentration.",
+      "ja": "そうですよね。頭の中で珠が動くのを想像して暗算しようとしてたの覚えてます。かなりの集中力が必要でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good for developing focus, I think.",
+      "ja": "集中力を養うのに良いと思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Focus. Yeah, I need more of that. Especially with the baby waking up at random hours. It's hard to get anything done.",
+      "ja": "集中力か。ええ、もっと必要ですね、僕には。特に赤ちゃんが不規則な時間に起きるから。何も手につかなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I try to do a lot of meal prep on the weekends to save time during the week. Made a big batch of chicken chili last Sunday.",
+      "ja": "私は週末にまとめて料理を作って、平日の時間を節約するようにしてるの。この前の日曜日に、チキンチリを大量に作ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's smart. My wife tries to do that too. What kind of chili?",
+      "ja": "おお、賢いですね。うちの妻もやろうとしてます。どんなチリですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just a basic one, with beans and lots of vegetables. It freezes well. I just portion it out.",
+      "ja": "ごく普通のチリよ、豆と野菜をたくさん入れて。冷凍できるから、小分けにしてるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds good. I should suggest that to my wife. Anything to make the evenings easier.",
+      "ja": "いいですね。妻に勧めてみよう。夜が楽になるなら何でも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It helps a lot.",
+      "ja": "すごく助かるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, it's going to be another warm one. I should probably get some more coffee before the day really starts.",
+      "ja": "さて、今日もまた暑くなりそうですね。本格的に1日が始まる前に、もう一杯コーヒーを飲んだ方がいいかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Enjoy your coffee, Alex. Have a good one.",
+      "ja": "コーヒー、ゆっくり飲んでね、アレックス。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And that was The Daily Tanu-chan Show for August 7th. See you all tomorrow.",
+      "ja": "サラさんも。ということで、8月7日の『The Daily Tanu-chan Show』でした。また明日！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you.",
+      "ja": "またね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 32.3,
+      "temp_min": 24.7,
+      "rain_probability": 36
+    },
+    "news": [
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      },
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      }
+    ],
+    "wikipedia": {
+      "title": "そろばんの日",
+      "description": "1968（昭和43）年、全国珠算教育連盟が制定。そろばんの「パチパチ」という音を「8」「8」ともじって、8月8日とした。"
+    }
+  }
+}
