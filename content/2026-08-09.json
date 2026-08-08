@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-08T19:26:25.671478+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 8th, 2026. Another Friday.",
+      "ja": "おはようございます、サラさん。2026年8月8日。また金曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, Friday already.",
+      "ja": "おはよう、アレックス。ええ、もう金曜日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Welcome to The Daily Tanu-chan Show! Time for my coffee.",
+      "ja": "ザ・デイリー・タヌちゃんショーへようこそ！コーヒーの時間です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yours is probably already gone, I imagine.",
+      "ja": "あなたの多分もう飲んじゃったでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Almost. Looks like a moderate drizzle out there today, doesn't it?",
+      "ja": "もうすぐです。今日は小雨が降ってるみたいですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Didn't even notice it when I came in, to be honest.",
+      "ja": "そうね。正直、来た時には気づかなかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my umbrella didn't help much. Feels muggy. What's the temperature?",
+      "ja": "ええ、傘もあまり役に立たなかったです。蒸し暑いですね。気温はどれくらいですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "High of 31.9 degrees, low of 23. Rain probability 91%. So, more rain later maybe.",
+      "ja": "最高気温31.9度、最低23度。降水確率91%よ。だから、後でまた雨が降るかもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 91%. That's almost a guarantee. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "わあ、91%ですか。それはほぼ確実ですね。最近、何にでも飛び起きちゃって。多分赤ちゃんのせいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that. Mine used to empty all the kitchen drawers.",
+      "ja": "そうなるわね。うちの子も昔はキッチンの引き出しを全部空っぽにしてたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I saw something about a designer named Keisuke Unosawa. Making 'the ordinary extraordinary.' No design school, apparently.",
+      "ja": "あ、宇野澤啓介さんというデザイナーのニュースを見ました。「普通を非凡に」してるって。デザイン学校出身じゃないらしいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's interesting. I like stories like that. It shows you don't always need the traditional path.",
+      "ja": "それは面白いわね。そういう話は好きよ。必ずしも伝統的な道を進む必要はないってことを見せてくれるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, maybe I should try that. Make my sales reports extraordinary.",
+      "ja": "ええ、僕もそうしてみようかな。自分の営業報告書を非凡なものにしてみるとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Or just clear.",
+      "ja": "それか、ただ分かりやすくね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see the ANA flight news? From Shanghai to Haneda? It had to make some kind of `evasive` maneuver.",
+      "ja": "ANA便のニュース見ました？上海から羽田の。なんか、`evasive` maneuver をしなくちゃいけなかったって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I read that. A collision avoidance system warning.",
+      "ja": "ええ、読んだわ。衝突防止システムの警告だったのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Evasive`... what does that mean exactly? Like, they had to move really fast to avoid something?",
+      "ja": "`Evasive`... それって正確にはどういう意味ですか？何かを避けるためにすごく速く動かなきゃいけなかった、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It means they had to quickly change course to avoid a collision. To `evade` something is to avoid it.",
+      "ja": "その通りよ。衝突を避けるために、素早く進路を変えなければならなかったということ。`evade` は何かを避けるという意味ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. That sounds scary. I hope everyone was okay.",
+      "ja": "あー、なるほど。それは怖いですね。皆さん無事だったんでしょうか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They said the flight landed safely.",
+      "ja": "飛行機は無事に着陸したって言ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this last piece... 'Damn hot': last summer for Japan cosplay `extravaganza`.",
+      "ja": "そして最後の記事...「クソ暑い」：日本コスプレ`extravaganza`の最後の夏。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, the heat. It's really something this summer.",
+      "ja": "ああ、暑さね。今年の夏は本当にすごいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Extravaganza`? What's that? A festival?",
+      "ja": "`Extravaganza`？それは何ですか？お祭り？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a very big, elaborate show or event. So, a big cosplay event.",
+      "ja": "とても大きくて、手の込んだショーやイベントのことよ。だから、大規模なコスプレイベントね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Well, it must be tough to wear those costumes in this weather.",
+      "ja": "なるほど。まあ、この天気でその衣装を着るのは大変でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. My daughter went to one last year, and she said it was difficult even then.",
+      "ja": "本当にね。うちの娘も去年行ったんだけど、その時でも大変だったって言ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just thinking about all the rain and heat... it's good for some things, I guess. My plants at home are not doing great.",
+      "ja": "この雨と暑さのこと考えると...良いこともあるんでしょうけどね。家の植物はあまり調子が良くないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine are enjoying the rain after so much sun. My tomatoes are finally getting red.",
+      "ja": "うちのは、たくさん日差しを浴びた後に雨が降って喜んでるわ。トマトがようやく赤くなってきたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you have a garden, don't you?",
+      "ja": "ああ、サラさんガーデニングしてるんでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just a small one. I managed to get some nice shiso this year. It's very satisfying to pick your own.",
+      "ja": "小さいものだけどね。今年は美味しいシソが採れたわ。自分で収穫するのはとても満足感があるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. My apartment balcony is too small for anything serious. Maybe a single potted basil.",
+      "ja": "想像できます。僕のマンションのベランダは、本格的なものには小さすぎます。せいぜい鉢植えのバジル一つくらいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You know, today is August 8th. Tomorrow is Nagasaki Atomic Bomb Day.",
+      "ja": "そういえば、今日は8月8日ね。明日は長崎原爆の日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. I always forget the exact date for Nagasaki. Hiroshima is the 6th, and Nagasaki the 9th, isn't it?",
+      "ja": "ああ、そうか。長崎の正確な日付はいつも忘れちゃうんです。広島が6日で、長崎が9日でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The bombing was on August 9th, 1945. So, tomorrow is the actual day. We're a day early.",
+      "ja": "その通りよ。原爆が投下されたのは1945年8月9日。だから、明日が実際の日ね。私たちは一日早いけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow, I really got that mixed up. I always remember Hiroshima, but Nagasaki... my brain sometimes...",
+      "ja": "あ、うわ、本当にごっちゃになってました。広島はいつも覚えてるんですけど、長崎は...僕の頭の中が時々..."
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's okay. It was the B-29 bomber 'Bockscar' that dropped the 'Fat Man' atomic bomb. They have a memorial service every year.",
+      "ja": "大丈夫よ。B-29爆撃機「ボックスカー」が「ファットマン」という原子爆弾を投下したの。毎年慰霊式典が行われているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I know about the ceremonies. It's a heavy day.",
+      "ja": "ええ、式典のことは知ってます。重い日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Important to remember.",
+      "ja": "そうね。記憶しておくことが大切だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's our look at the news and some thoughts for today. Another week almost done.",
+      "ja": "さて、今日のニュースといくつかの考えでした。また一週間がもうすぐ終わりますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, almost the weekend.",
+      "ja": "ええ、もうすぐ週末ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Time for another coffee, I think.",
+      "ja": "そろそろもう一杯コーヒーの時間かな、と思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Of course.",
+      "ja": "もちろんよ。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate drizzle",
+      "temp_max": 31.9,
+      "temp_min": 23.0,
+      "rain_probability": 91
+    },
+    "news": [
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      },
+      {
+        "title": "ANA flight makes evasive maneuver before landing at Tokyo's Haneda airport",
+        "summary": "An All Nippon Airways flight from Shanghai made an evasive maneuver while approaching Haneda airport around 6 a.m. Tuesday, the company said.\nANA Flight 968's collision avoidance system…",
+        "link": "https://japantoday.com/category/national/update1-ana-flight-makes-evasive-maneuver-before-landing-at-tokyo%27s-haneda-airport"
+      },
+      {
+        "title": "'Damn hot': Last summer for Japan cosplay extravaganza",
+        "summary": "Shawn, like her sister Whitney dressed as a character from &quot;Demon Slayer&quot;, has two words to describe the weather as she waits to watch the grand parade at…",
+        "link": "https://japantoday.com/category/national/%27damn-hot%27-last-summer-for-japan-cosplay-extravaganza"
+      }
+    ],
+    "wikipedia": {
+      "title": "長崎原爆の日",
+      "description": "1945（昭和20）年、アメリカ軍のB29爆撃機「ボックスカー」が、長崎市上空で原子爆弾「ファットマン」を投下。毎年この日、長崎市では原爆犠牲者慰霊平和祈念式典が行われる。"
+    }
+  }
+}
