@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-09T19:30:52.244661+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 9th already. Can you believe it? The summer just flies by.",
+      "ja": "おはようございます、サラさん。もう8月9日ですよ。信じられます？夏があっという間に過ぎていきます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It certainly does. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。本当にそうね。The Daily Tanu-chan Showへようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks. I haven't even had my first coffee yet, so I'm running on fumes. This is going to be a struggle.",
+      "ja": "ありがとうございます。まだ一杯目のコーヒーも飲んでないんで、ガス欠状態です。これは大変になりそうだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Your tea's ready. Hot and fresh, just how you like it.",
+      "ja": "お茶は用意してあるよ。熱々で淹れたて、あなたの好きなようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, thanks, Sarah, but... you know me. Coffee is non-negotiable. The weather looks a bit iffy, doesn't it? Gray skies.",
+      "ja": "ああ、サラさん、ありがとう。でも…僕のこと、知ってますよね。コーヒーは譲れないんです。天気、ちょっと怪しいですね？どんよりしてる。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's partly cloudy right now. The high will be 30.6 degrees, low of 22.7. And they're predicting an 82% chance of rain later.",
+      "ja": "今は一部曇りだね。最高気温は30.6度、最低は22.7度。そして、午後から雨の予報が82%だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Eighty-two percent? That's basically a guarantee, isn't it? I hope I remembered my umbrella. I always seem to leave it at home on rainy days.",
+      "ja": "82パーセント？それって、ほぼ確実ってことですよね？傘、持ってきたかな。雨の日に限って家に忘れがちなんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You can always grab one from the office supply room.",
+      "ja": "いつでも会社の備品室から取れるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a relief. My little one is really into puddles these days. He's past the crawling stage, so he just stomps right into them. Getting him home after daycare is a whole production.",
+      "ja": "それは助かります。うちの子、最近水たまりが本当に好きで。ハイハイの時期は過ぎたから、もうそのままザブザブ入っていくんです。保育園の後、家に連れて帰るのが一苦労で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. My son used to come home covered in mud, no matter how short the walk.",
+      "ja": "懐かしいね、そういう時期。うちの息子も、どんなに短い散歩でも泥だらけで帰ってきてたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! Hey, I saw this news headline... something about kanji having five different pronunciations for one character? That sounds like a real predicament for anyone learning Japanese.",
+      "ja": "ええ、まさに！そういえば、ニュースで見たんですけど…漢字が1文字で5つの読み方があるって？日本語を学ぶ人にとっては、まさにpredicamentですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A predicament? You mean a difficult or tricky situation. Yes, kanji can certainly be that. Different readings for different contexts.",
+      "ja": "predicament？難しい状況とか厄介な立場ってことね。うん、漢字は確かにそうなり得るよ。文脈によって読み方が違うからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. You think you've got it, and then boom, a new reading appears. It's like a never-ending quiz. My boss actually has a real knack for remembering all of them, even the rare ones.",
+      "ja": "そうです。覚えたと思ったら、いきなり新しい読み方が。終わりのないクイズみたいです。うちの上司は、珍しい読み方まで全部覚えるknackがあるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A knack? That means a special skill or talent for doing something easily. Some people just have that ability.",
+      "ja": "knack？それは、何かを簡単にするための特別な技術や才能ってことね。そういう能力がある人もいるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. It's kind of annoying how easily he remembers them, honestly. Anyway, there was also something about a Japanese master craftsman building a stunning tiny house on wheels.",
+      "ja": "そうかもしれませんね。彼の記憶力が羨ましいというか、正直ちょっとムカつきます。ところで、日本の匠が車輪付きの素晴らしいタイニーハウスを作ったっていうニュースもありましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I saw that. They're really popular now. For people who want to live simply, or maybe just travel a lot.",
+      "ja": "ああ、それ見た。今、すごく人気だよね。シンプルに暮らしたい人とか、旅行をたくさんしたい人向けにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It looked amazing. But I don't think my family could fit. Maybe a tiny house just for my kid's mountain of toys? That would be useful.",
+      "ja": "素晴らしそうでしたね。でも、うちの家族は入れないな。うちの子の山ほどあるおもちゃ専用のタイニーハウスなら使えるかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son's room is basically a tiny house for his gaming setup and all his manga already. So I understand.",
+      "ja": "うちの息子の部屋は、もうゲーミングセットアップと漫画用のタイニーハウスみたいなものだよ。だからわかる。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. My office cubicle sometimes feels like a tiny house too. No wheels, though. Just a lot of paperwork and a tiny window view.",
+      "ja": "ええ、そうですよね。僕のオフィスの個室も時々タイニーハウスみたいに感じますよ。車輪はないですけど。ただ書類がたくさんで、小さな窓からしか見えないんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds familiar.",
+      "ja": "よくある話ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this one... 'Two-day event will bring unique Japan-inspired steampunk style to Harajuku.' What is steampunk, exactly? I always get confused.",
+      "ja": "あとこれ…「2日間のイベントで、日本風スチームパンクスタイルが原宿に登場」って。スチームパンクって、一体何ですか？いつも混乱しちゃうんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a style of science fiction, usually set in the 19th century, with industrial technology and Victorian aesthetics. Think brass, gears, goggles, and fancy hats, but with a futuristic twist.",
+      "ja": "SFのスタイルの一つで、大体19世紀を舞台にしていて、産業技術とヴィクトリア朝の美学が融合しているの。真鍮、歯車、ゴーグル、豪華な帽子、でも未来的なひねりがある感じよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I think I've seen that in movies. Like, a clockwork robot, but very elegant? That sounds pretty cool for Harajuku.",
+      "ja": "ああ、映画で見たことある気がします。ゼンマイ仕掛けのロボットだけど、すごくエレガントなやつ？原宿にはすごく合いそうですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. Harajuku always has interesting fashion events. My daughter would probably love it.",
+      "ja": "そうね。原宿はいつも面白いファッションイベントがあるからね。うちの娘はきっと好きだろうな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My wife sometimes brings up Harajuku, but I'm always a bit apprehensive about going there. It's just so crowded, especially with a stroller.",
+      "ja": "妻が時々原宿の話を出すんですけど、僕はそこに行くのがいつも少しapprehensiveなんです。人が多すぎて、特にベビーカーだと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Apprehensive? You mean a bit worried or nervous. Yeah, it can be a lot. All those people and the narrow streets.",
+      "ja": "Apprehensive？少し心配したり、緊張したりってこと？うん、すごい人になるからね。あの人混みと狭い道は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. I prefer a quiet park with my kid, or even just our neighborhood. Less sensory overload, and he can run around freely.",
+      "ja": "そうです。僕は子供と静かな公園の方が好きですね。あるいは、近所を散歩するだけでも。感覚的な負担が少ないし、自由に走り回れるので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand that. Speaking of roads and neighborhoods, did you know today is 'Road Day'?",
+      "ja": "それはわかるよ。道や近所の話が出たところで、今日って「道の日」だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Road Day? Is that like a special day to avoid traffic jams?",
+      "ja": "道の日？それって、渋滞を避けるための特別な日、とかですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not quite. It was established in 1986 by the Ministry of Construction. It commemorates August 9th, 1920, the day Japan's first modern road maintenance plan was put into effect.",
+      "ja": "違うの。1986年に建設省によって制定されたんだ。1920年8月9日、日本初の近代的な道路整備計画が実施された日を記念してね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, so it's about recognizing the importance of roads. I mean, I use them every single day, for work, for taking my kid out, but I don't really *think* about them.",
+      "ja": "へえ、道路の重要性を再認識する日なんですね。確かに、仕事で、子供を連れて外出するのに、毎日使ってますけど、あまり『考える』ことはないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Most people don't. It's easy to take good infrastructure for granted. Until a road is closed, or there's a big construction project.",
+      "ja": "ほとんどの人はそうだよ。良いインフラは当たり前だと思いがちだからね。道路が閉鎖されたり、大規模な工事があったりするまでは。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's true. Especially with a stroller, potholes are a nightmare. So, yeah, thank you, roads. For being mostly smooth and getting us where we need to go.",
+      "ja": "それはそうですね。特にベビーカーだと、水たまりは悪夢ですから。そうですね、ありがとう、道路。ほとんど滑らかでいてくれて、行きたいところに連れて行ってくれて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. They're essential.",
+      "ja": "その通り。不可欠だよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I need that coffee before I can truly appreciate anything, though. My brain just isn't fully operational yet.",
+      "ja": "間違いなく。でも、本当に感謝できるのは、コーヒーを飲んでからですね。まだ頭が完全に機能してないんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Go get that coffee, Alex. And don't forget your umbrella on your way out. You wouldn't want to be apprehended by that 82% chance of rain.",
+      "ja": "さあ、コーヒーを淹れてきて、アレックス。そして帰りには傘を忘れないでね。82%の雨にapprehendedされたくないでしょう？"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 30.6,
+      "temp_min": 22.7,
+      "rain_probability": 82
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      }
+    ],
+    "wikipedia": {
+      "title": "道の日",
+      "description": "1920（大正9）年、日本初の近代的な道路整備計画が実施されたことにちなんで、1986年（昭和61年）、建設省が制定。国民が道路の重要性を再認識し、関心を持つことを目的にしたもの。"
+    }
+  }
+}
