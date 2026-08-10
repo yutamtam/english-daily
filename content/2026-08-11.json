@@ -1,0 +1,297 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-10T19:53:34.670672+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 10th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう8月10日ですね。信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. No, time goes fast.",
+      "ja": "おはよう、アレックス。うん、時間はあっという間ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Need my coffee today. Always need it, but especially with this weather.",
+      "ja": "ええ。今日はコーヒーが要りますね。いつもそうなんですけど、この天気だと特に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's pretty gloomy out there.",
+      "ja": "外はかなりどんよりしてるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. They're saying 100% chance of rain. And 26 degrees? Feels colder than that, somehow.",
+      "ja": "そうですね。降水確率100%だって。26度？なぜかそれより寒く感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, low is 21.5. So, not exactly summer anymore.",
+      "ja": "まあ、最低気温は21.5度だからね。もう夏って感じじゃないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, feels like autumn is trying to push its way in. It's too early for that.",
+      "ja": "ええ、秋が割り込もうとしているみたい。まだ早すぎますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about Fukushima? Rebuilding with fish and tomatoes and hula-dancing girls.",
+      "ja": "福島のニュース見た？魚とトマトと、フラダンサーの女の子たちで復興してるって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hula-dancing girls? That's quite a mix. I mean, good for them, rebuilding. It's been a long time since 2011.",
+      "ja": "フラダンサーですか？すごい組み合わせですね。まあ、復興してるのはいいことですよね。2011年からずいぶん経ちましたもんね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It has. It's good to see positive stories from there.",
+      "ja": "そうね。そこから良い話が聞けるのは嬉しいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my parents visited a few years ago. Said it was really coming back. I just hope the fish are okay.",
+      "ja": "ええ、うちの両親が数年前に訪れたんですよ。かなり復興しているって言ってました。魚だけは大丈夫だといいんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are very careful about that now.",
+      "ja": "今はその辺り、とても気をつけてるから大丈夫よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, this one, though. Japan's food self-sufficiency rate, 37%. Record low. That's not great, is it?",
+      "ja": "あ、でもこれですよ。日本の食料自給率、37%だって。過去最低。これ、良くないですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's not. It worries me a bit, actually. Especially with global events.",
+      "ja": "ええ、良くないわね。正直、少し心配になるわ。特に世界情勢を考えると。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I mean, my office isn't going to start farming on the roof, so I don't know what we can do about that.",
+      "ja": "ええ。うちの会社が屋上で農業を始めるわけじゃないし、どうしたらいいのかって思っちゃいますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a national issue.",
+      "ja": "それは国家的な問題よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I just feel like I read this headline every year. It keeps getting lower.",
+      "ja": "そうですね。毎年この見出しを読んでる気がします。どんどん下がっていってる。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There's also something about ukiyo-e tarot cards. East-meets-West.",
+      "ja": "それと、浮世絵のタロットカードの話もあったわね。東洋と西洋の融合ってやつ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tarot cards? Like, fortune telling? I didn't know that was big in Japan.",
+      "ja": "タロットカード？占いみたいなやつですか？日本でそんなに人気があるとは知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It became popular after World War II. And ukiyo-e, of course, is a very Japanese art style. So, it makes sense.",
+      "ja": "第二次世界大戦後に人気が出たのよ。そして浮世絵はもちろん、とても日本的な芸術様式だから、納得できるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. My wife would probably like those. She's into that kind of thing. She's been a bit moody lately, you know, with the baby's tantrums.",
+      "ja": "へえ。うちの妻、たぶん好きだと思いますよ。ああいうの好きなんです。最近ちょっと機嫌が悪いというか、ほら、赤ちゃんが癇癪をね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh? What kind of tantrums?",
+      "ja": "あら？どんな癇癪なの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just, you know, when he gets upset and screams and won't calm down. It's like he's just expressing himself, but it's intense. I mean, he's just over a year old. Is \"tantrum\" the right word for a baby?",
+      "ja": "もう、あの、機嫌が悪くなって叫んだり、落ち着かなかったりするんです。自分を表現してるだけなんでしょうけど、激しいんですよ。まだ1歳ちょっとですし。「tantrum」って、赤ちゃんにも使う言葉ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it is. A `tantrum` is when a child, usually a young child, gets very angry or frustrated and expresses it by crying loudly, yelling, or hitting things.",
+      "ja": "ええ、そうよ。`tantrum`（癇癪）というのは、子ども、特に小さい子が、とても怒ったり、不満を感じたりして、大声で泣いたり、叫んだり、物を叩いたりしてそれを表現することね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. That's exactly it. He's a very expressive little guy.",
+      "ja": "ああ、なるほど。まさにそれです。うちの子は感情表現豊かな子なので。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of holidays, it's Yama no Hi today, right? Mountain Day.",
+      "ja": "祝日といえば、今日って山の日ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. August 10th.",
+      "ja": "その通りよ。8月10日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I always forget which day it is, or why. It's a newer holiday, isn't it? Since 2016?",
+      "ja": "いつも何の日かとか、なぜなのか忘れちゃうんですよ。比較的新しい祝日でしたっけ？2016年から？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, the 16th national holiday. It's for appreciating mountains and getting closer to them.",
+      "ja": "ええ、16番目の国民の祝日よ。山に親しむ機会を得て、山の恩恵に感謝することが目的ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess that's nice. I don't really climb mountains. My idea of \"getting close\" is maybe seeing one from a train.",
+      "ja": "まあ、いいことだと思います。僕はあまり山に登ったりしないですけどね。「親しむ」っていうのは、電車から山を見るくらいかなあ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Most people don't climb them on a holiday, I think.",
+      "ja": "ほとんどの人が祝日に山に登ったりはしないと思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. My kids would probably complain about the `rigor` of it all. Like, \"Dad, are we there yet?\" every five minutes.",
+      "ja": "ええ。うちの子どもたちは、きっとその大変さに文句を言うでしょうね。5分おきに「パパ、まだ着かないの？」とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The... the `rigor` of climbing. Is that the right word?",
+      "ja": "その…登山の『rigor』。その言葉で合ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Rigor` means the difficulty and strictness of something, or how challenging it is physically or mentally. So, yes, the physical difficulty of climbing.",
+      "ja": "`Rigor`（厳しさ）とは、何かの困難さや厳格さ、あるいはそれが肉体的にも精神的にもどれほど挑戦的か、という意味よ。だから、ええ、登山の肉体的な困難さ、で合ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Yeah, my son especially. He doesn't like anything too challenging. My daughter is a bit more adventurous.",
+      "ja": "なるほど。ええ、特に息子がそうです。彼はあまり大変なことが好きじゃないんです。娘の方はもう少し冒険好きなんですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Teenagers are like that.",
+      "ja": "ティーンエイジャーってそんなものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, with all this rain, maybe it's a good day for an indoor activity. I was thinking about going to the sento this weekend.",
+      "ja": "ところで、こんな雨だと、室内での活動がいいかもしれませんね。今週末、銭湯に行こうかと思ってて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds nice.",
+      "ja": "それはいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, just to get that `totonou` feeling. You know? You sit in the sauna, then the cold bath, then relax. It's quiet.",
+      "ja": "ええ、あの『ととのう』感じを味わいたくて。サウナに入って、水風呂、それから休憩。静かで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. A lot of people enjoy that.",
+      "ja": "わかるわ。多くの人があれを楽しむわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's my escape sometimes. The baby's just started walking, so the house is always a bit chaotic. I need some quiet time after a few `consecutive` days of that.",
+      "ja": "ええ、僕にとって時々、逃げ場なんです。赤ちゃんが歩き始めたばかりで、家の中がいつもちょっと混沌としてて。何日か続けてそんな状態だと、静かな時間が欲しくなるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Consecutive` days. Is that the right word?",
+      "ja": "『consecutive』な日々。その言葉で合ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes. `Consecutive` means following one after another without interruption. So, several days in a row.",
+      "ja": "ええ。『consecutive』（連続した）というのは、途切れることなく次から次へと続く、という意味よ。だから、何日も連続して、ということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay. It feels like many days in a row sometimes. My wife says I need to relax more.",
+      "ja": "なるほど。時には何日も連続してるように感じます。妻も僕にもっとリラックスしろって言うんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Taking time for yourself is important.",
+      "ja": "自分の時間を持つことは大切よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, are you planning anything for Mountain Day, Sarah?",
+      "ja": "それで、山の日、サラさんは何か予定ありますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not really. Maybe a nice cup of tea.",
+      "ja": "特にないわね。美味しいお茶でも飲むくらいかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds very Sarah-like. Mine will definitely be coffee.",
+      "ja": "いかにもサラさんらしいですね。僕は間違いなくコーヒーです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's it for us on The Daily Tanu-chan Show this morning. Thanks for listening!",
+      "ja": "さて、今朝の『The Daily Tanu-chan Show』はここまでです。お聴きいただきありがとうございました！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thank you.",
+      "ja": "ありがとうございました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "We'll be back tomorrow. Have a good one!",
+      "ja": "また明日お会いしましょう。良い一日を！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 26.4,
+      "temp_min": 21.5,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Japan's food self-sufficiency rate falls to record low 37% in FY2025",
+        "summary": "Japan's food self-sufficiency rate on a caloric intake basis reached a record low 37 percent in the fiscal year that ended March, marking a decline for the first…",
+        "link": "https://japantoday.com/category/national/japan%27s-food-self-sufficiency-rate-falls-to-record-low-37-in-fy-2025"
+      },
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      }
+    ],
+    "wikipedia": {
+      "title": "山の日",
+      "description": "16番目の祝日として2016年に施行。「山に親しむ機会を得て、山の恩恵に感謝する」ことが目的。"
+    }
+  }
+}
