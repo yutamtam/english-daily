@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-11T19:59:28.983612+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 11th, 2026. Happy Tuesday, I guess.",
+      "ja": "おはようございます、サラさん。2026年8月11日。火曜日、かな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's really coming down out there, isn't it? My tea is just hitting the spot.",
+      "ja": "アレックス、おはよう。外は本当に降ってるわね。私のお茶がちょうどいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it's terrible. I need this coffee just to feel human. And I'm pretty sure my shoes are already soaked.",
+      "ja": "ああ、ひどいですよ。人間らしくなるためにこのコーヒーが必要だ。もう靴がびしょ濡れになった気がする。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The forecast said heavy rain, 100% chance. High 24.8°C, low 22.4°C. So, not much change there.",
+      "ja": "天気予報では大雨、降水確率100%だったわね。最高気温24.8℃、最低22.4℃。だから、あまり変わらないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. It feels like every August is just endless rain lately. Anyway, you want to jump into some news?",
+      "ja": "ですよね。最近、毎年8月は延々と雨が降ってる気がします。さて、ニュースいきますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sure. What's caught your eye this morning?",
+      "ja": "ええ、いいわ。今朝は何が気になった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, there's this one about Mercari reminding users not to sell used school swimsuits. I mean, why would you even need to remind people of that?",
+      "ja": "ええと、メルカリがユーザーに中古のスクール水着を販売しないよう注意喚起しているっていうニュースです。というか、そもそもなんでそんなことを注意する必要があるんですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a common issue, unfortunately. They're just being clear about their rules.",
+      "ja": "残念ながら、よくある問題なのよ。彼らはただルールを明確にしているだけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. I didn't know that. I guess people sell everything online. It’s like... anything goes?",
+      "ja": "へえ。それは知らなかったです。みんな何でもオンラインで売るんですね。もう何でもありって感じですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not quite. There are always limits.",
+      "ja": "そうでもないわ。いつも制限はあるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, then there's a cool one: a Japanese master craftsman built a stunning tiny house on wheels. I saw the video, it's amazing.",
+      "ja": "なるほど。それから、これは面白いニュースです。日本の職人さんが素晴らしいタイニーハウスを車輪の上につくったって。ビデオを見たんですけど、すごくきれいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I saw that too. Very clever design. I just wonder how practical it is for a family.",
+      "ja": "ああ、私もあれ見たわ。とても巧妙なデザインね。家族にとってどれくらい実用的なのかしらとは思うけれど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, for me and the baby, maybe not. My little one has way too many toys already. But the idea of just, like, moving your whole house? Sounds kind of free.",
+      "ja": "ええ、僕と赤ちゃんには無理かも。うちの小さいのはもうおもちゃが多すぎますからね。でも、家ごと移動するっていう発想は、なんか自由な感じがします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. For one person, it could be a nice option.",
+      "ja": "そうね。一人暮らしなら、いい選択肢になるかもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, next up: a landslide in Nagano left nearly 400 people temporarily stranded. They built a temporary bridge.",
+      "ja": "さて、次は長野の土砂崩れで、400人近くが一時的に孤立したそうです。仮設の橋ができたと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's serious. It's good they were able to get a bridge up quickly. The heavy rain always makes me worry about that sort of thing.",
+      "ja": "それは大変ね。すぐに橋を架けられたのは良かったわ。大雨の時はいつもああいうことを心配してしまうのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, makes you think. Oh, speaking of things that make you think, it's August 11th, so it's 太平洋横断記念日. It’s about Horie Kenichi, right?",
+      "ja": "ええ、考えさせられますね。ああ、そういえば、8月11日は太平洋横断記念日です。堀江謙一さんの話ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. In 1962, he became the first Japanese person to cross the Pacific Ocean solo in his yacht, the Mermaid. Quite a feat.",
+      "ja": "その通りよ。1962年に、彼はヨット『マーメイド号』で日本人初の太平洋単独横断に成功したの。すごい偉業だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's incredible. He must have been so intrepid. I can't even imagine sailing alone like that.",
+      "ja": "信じられないですね。彼は本当に『intrepid』だったでしょうね。あんな風に一人で航海するなんて想像もできない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Intrepid means brave, unafraid of danger. He certainly was.",
+      "ja": "Intrepidというのは、勇敢で、危険を恐れないという意味よ。彼は確かにそうだったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks. I feel pretty intrepid just getting through my to-do list at work sometimes. Which actually reminds me, I have a big project coming up. It’s going to entail a lot of late nights, I think.",
+      "ja": "ありがとうございます。僕も仕事のToDoリストを片付けるだけで、時々すごく『intrepid』に感じますよ。それで思い出したんですけど、大きなプロジェクトが控えてるんです。かなり夜遅くまでかかることになりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Entail just means involve or include. So, it will involve a lot of late nights.",
+      "ja": "Entailというのは、伴うとか含むという意味よ。だから、たくさんの深夜作業を伴うでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Yeah, it'll entail a lot of effort. And probably more coffee. Maybe I need to find some time for a sento this weekend. Just to relax, you know, get that 'totonou' feeling.",
+      "ja": "分かりました。ええ、かなりの労力を伴うでしょうね。そして多分、もっとコーヒーも。週末は銭湯にでも行く時間を見つけないと。リラックスするために、あの「ととのう」感覚を味わいたいんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds like a good plan, Alex. A nice way to reset.",
+      "ja": "それはいい計画ね、アレックス。リセットするのに良い方法だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, a quiet moment away from, well, everything. All right, this is The Daily Tanu-chan Show. We've got to wrap up for today, I think.",
+      "ja": "ええ、すべてから離れて静かな時間。さて、こちらは『The Daily Tanu-chan Show』です。そろそろ今日の放送を締めないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks for listening, everyone. We'll be back tomorrow.",
+      "ja": "皆さん、聞いてくれてありがとう。また明日お会いしましょう。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 24.8,
+      "temp_min": 22.4,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Japan’s largest online flea market reminds users that selling used school swimsuits is prohibited",
+        "summary": "Mercari is Japan’s largest online flea market, a place where individual sellers offer an extremely wide range of new and used items. It’s not just collectibles that Mercari…",
+        "link": "https://japantoday.com/category/national/japan%E2%80%99s-largest-online-flea-market-reminds-users-that-selling-used-school-swimsuits-is-prohibited"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Landslide in Nagano left nearly 400 people temporarily stranded",
+        "summary": "Local police in the central Japan prefecture of Nagano said Sunday that a temporary bridge had been set up to allow the 390 or so people temporarily stranded…",
+        "link": "https://japantoday.com/category/national/landslide-in-central-japan-leaves-nearly-400-people-stranded"
+      }
+    ],
+    "wikipedia": {
+      "title": "太平洋横断記念日",
+      "description": "1962（昭和37）年のこの日、堀江謙一さんが小型ヨット「マーメイド号」で日本人初の太平洋単独横断に成功した。"
+    }
+  }
+}
