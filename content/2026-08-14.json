@@ -1,0 +1,267 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-13T19:55:13.705627+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 13th, 2026. Can you believe it's already August? Feels like summer's flying by.",
+      "ja": "おはようございます、サラさん。2026年8月13日です。もう8月なんて信じられますか？夏があっという間に過ぎていく気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really does. And what a morning to start the day, too. That rain is something else.",
+      "ja": "アレックス、おはよう。本当にそうね。それに、今日はすごい朝だわ。この雨はひどいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah. 'The Daily Tanu-chan Show' is starting with a downpour. They said 100% chance, and they weren't kidding. I just ran from the station and I'm already pretty soaked. Not the best way to kick off a Thursday, is it?",
+      "ja": "ええ、本当に。『ザ・デイリー・たぬちゃんショー』は土砂降りでスタートです。100%の確率って言ってたけど、嘘じゃなかった。駅から走ってきたけど、もうかなりびしょ濡れです。木曜日の始まり方としては最悪ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's not. But at least it's still warm. Low of 22, high almost 26 degrees Celsius. So, no need for heavy coats just yet.",
+      "ja": "ええ、そうね。でも、少なくともまだ暖かいわ。最低気温は22度、最高気温は26度近く。だから、まだ厚手のコートは必要ないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just humid, which is its own kind of pain. I definitely need my coffee today. Like, this is a two-cup morning already.",
+      "ja": "ただ蒸し暑いのがまた辛いです。今日は間違いなくコーヒーが必要です。もう、朝から2杯分の気分ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you catch the news about the typhoon last night? I saw it made landfall.",
+      "ja": "昨夜の台風のニュースは見た？上陸したみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! Typhoon No. 15. Yeah, it hit Ibaraki, then weakened to a tropical depression over the Sea of Japan, I heard. That's good, isn't it?",
+      "ja": "ああ、そうか！台風15号。ええ、茨城に上陸して、その後日本海で熱帯低気圧に変わったそうですね。良かったですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. We were lucky it lost strength so quickly. Those typhoons can cause so much damage, especially after a really hot summer.",
+      "ja": "そうね。あんなに早く勢力を弱めてくれて幸運だったわ。ああいう台風は、特に猛暑の後に来ると、本当に大きな被害をもたらすから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I always get a bit nervous when they mention heavy rain warnings. Especially with a little one at home now. You just think about everything differently.",
+      "ja": "ええ、大雨警報とか聞くといつもちょっと不安になります。特に今は小さい子が家にいるので。何でも以前とは違う風に考えちゃいますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's natural. Always good to be prepared, though.",
+      "ja": "それは自然なことよ。でも、常に準備しておくのは良いことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "On a lighter note, did you see the story about those ukiyo-e tarot cards? They looked super cool.",
+      "ja": "話は変わりますが、あの浮世絵のタロットカードの話、見ました？すごく格好良かったですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. East-meets-West, a really interesting blend of styles. They mentioned they're used for divination.",
+      "ja": "ええ、見たわ。東洋と西洋の融合で、本当に興味深いスタイルね。占い、つまりディヴィネーションに使われるって言ってたわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Divination? What does that... what does that word mean? I think I've heard it, but I'm not totally sure.",
+      "ja": "ディヴィネーション？それって…どういう意味ですか？聞いたことはある気がするんですけど、はっきりとは分かりません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's the practice of trying to predict the future or gain insight into a situation, often using special rituals or tools. Like fortune-telling.",
+      "ja": "それは、特殊な儀式や道具を使って、未来を予測したり、状況への洞察を得ようとする行為のことよ。つまり、占いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see! So, like using cards or reading palms to find out what's going to happen. My wife actually has a set of regular tarot cards. She even bought a book to try and learn how to read them.",
+      "ja": "ああ、なるほど！じゃあ、カードを使ったり手相を見たりして、何が起こるかを知ることなんですね。うちの妻も普通のタロットカードのセット持ってるんですよ。読み方を学ぼうと本まで買っちゃって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Many people find that interesting.",
+      "ja": "多くの人がそれを面白いと感じるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, she's really into it. I keep telling her, 'You don't need cards to know what your future holds. Just ask me.' She just gives me this look, like, 'Alex, no.'",
+      "ja": "ええ、彼女は本当に夢中なんです。いつも僕が「カードなんていらないよ。君の未来がどうなるかなんて僕に聞けばわかるさ」って言うんですけどね。彼女はいつも「アレックス、違うわ」って顔するだけです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, one future event we *can* predict is the new giant Gundam robot statue coming to Tokyo this fall.",
+      "ja": "さて、私たちが*予測できる*未来の出来事の一つは、この秋東京に新しい巨大ガンダム像がやってくることね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yes! That's what I'm talking about! I saw that headline. I was so sad when the last one left, but a new one? This is fantastic news! I'm already mentally planning a trip with my little one.",
+      "ja": "はい！それですよ！その見出しを見ました。前のガンダムがいなくなった時はすごく悲しかったんですが、新しいのが来るんですか？これは素晴らしいニュースです！もう頭の中で、うちの小さい子と行く計画を立ててますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's just over a year old, right? Isn't he a bit young for giant anime mecha?",
+      "ja": "彼、まだ1歳過ぎたばかりでしょう？巨大なアニメのメカを見るには、ちょっと早すぎない？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Never too young, Sarah! He'll appreciate the scale, the engineering, the sheer coolness. It's an iconic piece of Japanese culture, you know? And honestly, it's mostly for me. He just gets to come along.",
+      "ja": "早すぎるなんてこと、ないですよ、サラさん！彼はそのスケール、エンジニアリング、純粋な格好良さをきっと理解しますよ。日本の文化の象徴的な一部ですからね？そして正直なところ、ほとんどは僕のためです。彼はただ付き合ってくれるだけですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure it'll be a popular spot for many.",
+      "ja": "多くの人にとって人気の場所になるでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely! I bet it'll be packed. We'll have to go early in the morning, right when it opens.",
+      "ja": "間違いなく！きっと混雑するでしょうね。朝早く、開園直後に行かないと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, speaking of icons and Japanese culture, do you know what today, August 13th, is? It's 'Senbai Tokkyo no Hi' – Patent Day.",
+      "ja": "ああ、アイコンとか日本文化といえば、今日8月13日が何の日か知っていますか？『専売特許の日』、つまり特許の日なんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Patent Day? I actually didn't know that. What's the significance?",
+      "ja": "特許の日？それは知らなかったわ。どんな意味があるの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's the anniversary of Japan granting its very first patent. That was back in 1885, in the Meiji era. And get this – the first one was for a rust-preventing paint and the method for applying it.",
+      "ja": "日本で初めて特許が交付された日なんです。明治時代の1885年でした。そして、これ聞いてください — 最初の特許は、錆止め塗料とその塗り方だったんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Rust-preventing paint. That's a very practical invention for a first patent. Not something flashy, but very useful.",
+      "ja": "錆止め塗料。最初の特許としては、とても実用的な発明ね。派手ではないけれど、非常に役立つものだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? You'd think the first one would be something groundbreaking, but no, just paint. Though, I guess preventing rust is pretty important. I was thinking about patents, and how much work must go into securing one. The application process itself sometimes feels pretty onerous.",
+      "ja": "でしょう？最初のはもっと画期的なものかと思いきや、ただの塗料。でも、錆を防ぐのはかなり重要ですもんね。特許について考えていたんですが、それを取得するのにどれだけの手間がかかるか。出願プロセス自体が、時々かなり骨が折れると感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Onerous means something that's a burden or a lot of effort, making it difficult. Like a heavy task.",
+      "ja": "オナラスというのは、負担が大きいとか、大変な努力が必要で、困難にするという意味よ。重い仕事のようなものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! It feels like such a heavy task sometimes, all the paperwork and the details. Even for something that seems simple on the surface, like a new office supply design.",
+      "ja": "まさにそれです！表面上はシンプルなこと、例えば新しい文房具のデザインとかでも、書類作業や詳細が多すぎて、時々本当に重いタスクだと感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "But necessary to protect innovation and inventors.",
+      "ja": "でも、革新や発明家を守るためには必要不可欠なことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Absolutely. Like my brilliant idea for a baby monitor that also brews fresh coffee for tired parents. That's definitely going to need a patent.",
+      "ja": "全くです。例えば、僕の素晴らしいアイデア、疲れた親のために淹れたてのコーヒーも淹れるベビーモニターとか。あれは間違いなく特許が必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds like it would be in high demand.",
+      "ja": "それは需要が高そうだわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Seriously though, I didn't get much sleep last night. My little one decided 3 AM was prime time for babbling and toy throwing. I really need some proper relaxation this weekend.",
+      "ja": "冗談抜きで、昨夜はあまり寝てないんです。うちの子が午前3時を、おしゃべりしたりおもちゃを投げたりするのに最高の時間だと決めたみたいで。今週末はしっかりリラックスしたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough. The lack of sleep really takes its toll. It's a challenging stage.",
+      "ja": "それは大変ね。睡眠不足は本当に体に響くものよ。大変な時期ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. So, I'm thinking of hitting the sento this weekend. Maybe even try to get some 'totonou' time in the sauna. Just that total quiet, you know? No noise, no distractions.",
+      "ja": "本当にそうなんです。だから、今週末は銭湯に行こうかなと思ってます。サウナでしっかり『ととのう』時間を過ごしたいなと。あの完全に静かな感じ、わかります？騒音も、邪魔なものも一切ない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A sento visit sounds like a good plan.",
+      "ja": "銭湯に行くのは良い計画ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Just sitting there, completely silent. No baby sounds, no work emails, no notifications. Just... nothing. It's like a complete reset for your brain. I crave that quiet these days.",
+      "ja": "ええ。ただそこに座って、完全に静かに。赤ちゃんの声も、仕事のメールも、通知もなし。ただ…何もない。脳の完全なリセットみたいなんです。最近、あの静けさがたまらなく恋しいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids don't really like the sauna. They say it's too hot. They prefer just soaking in the hot bath.",
+      "ja": "うちの子たちはサウナがあまり好きじゃないのよ。暑すぎるって言うの。ただお風呂に浸かる方が好きみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I get that. But for me, that feeling of sweating everything out, and then the cold plunge, and then the quiet... it's pure bliss. It really clears your head. Especially after a 3 AM wake-up call.",
+      "ja": "わかります。でも僕にとっては、全部汗を流して、それから水風呂に入って、そしてあの静けさ…それが純粋な至福なんです。本当に頭がすっきりします。特に午前3時に起こされた後なんかはね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer a quiet cup of tea to start my day. No sauna required.",
+      "ja": "私は静かなお茶で一日を始める方が好きだわ。サウナは必要ないの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I'm more of a coffee guy, especially today. Many coffees.",
+      "ja": "ええ、僕はコーヒー派です、特に今日は。たくさんのコーヒーを。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, I hope you manage to find that quiet time, Alex, whether it's in a sauna or just with a strong coffee.",
+      "ja": "まあ、サウナであろうと、濃いコーヒーであろうと、アレックスがその静かな時間を見つけられるといいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Me too. Thanks, Sarah. And thanks to everyone listening to 'The Daily Tanu-chan Show' today. We'll be back tomorrow with more.",
+      "ja": "僕もそう願ってます。ありがとう、サラさん。そして、今日も『ザ・デイリー・たぬちゃんショー』をお聴きいただきありがとうございます。明日もまたお会いしましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good day, everyone.",
+      "ja": "皆さん、良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Bye!",
+      "ja": "バイ！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 25.9,
+      "temp_min": 22.9,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Typhoon weakens to tropical depression after making landfall in Ibaraki",
+        "summary": "Typhoon No. 15 lost strength and was downgraded to a tropical depression Wednesday over the Sea of Japan after making landfall the previous night in Ibaraki Prefecture, northeast…",
+        "link": "https://japantoday.com/category/national/update2-typhoon-makes-landfall-in-eastern-japan%27s-kanto-region"
+      },
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      }
+    ],
+    "wikipedia": {
+      "title": "専売特許の日",
+      "description": "1885（明治18）年、日本初の専売特許が交付された。特許第1号は、堀田瑞松のサビ止め塗料とその塗り方だった。"
+    }
+  }
+}
