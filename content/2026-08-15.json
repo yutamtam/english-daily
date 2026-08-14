@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-14T19:45:26.778405+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 14th, 2026.",
+      "ja": "おはようございます、サラさん。2026年8月14日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's a really dense drizzle out there today, isn't it?",
+      "ja": "おはよう、アレックス。今日はすごい濃い霧雨だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. And humid, too. I'm already feeling kind of sticky. Definitely need my coffee today.",
+      "ja": "そうなんです。そして蒸し暑いし。もうべたつく感じです。今日は絶対コーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sticking to tea. My kids are still asleep, which is nice.",
+      "ja": "私はお茶にするわ。うちの子たちはまだ寝てるから、それはいいことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Lucky. My little one was up at 5 this morning. Again. Anyway, did you see the news about climber traffic? It's really dwindling.",
+      "ja": "うらやましいです。うちの子は今朝5時に起きました。また。ところで、登山者の交通量についてのニュース見ました？本当に減ってるみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes, I saw that. In Hokkaido and Tohoku, right? Because of the bears.",
+      "ja": "ええ、見たわ。北海道と東北でしょ？クマのせいで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, over 30% down. I mean, bears are scary, but that's a huge drop. \"Dwindle\"... is that like, getting smaller?",
+      "ja": "ええ、30%以上も減少って。クマは怖いけど、かなりの減少ですよね。「dwindle」って、なんか、小さくなるって意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It means to gradually decrease in amount or size. So, the number of climbers is getting smaller.",
+      "ja": "その通りよ。徐々に量や大きさが減少するという意味。だから、登山者の数が減っているということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, makes sense. And then they had another story about bear complaints. Forty percent of municipalities are getting angry calls.",
+      "ja": "なるほど。それから、クマに関する苦情の別のニュースもありましたね。40%の自治体が怒りの電話を受けているって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, their plight is difficult. It means a serious, difficult, or dangerous situation. People are scared, but also, the local governments are trying their best. It's tough for everyone.",
+      "ja": "ええ、彼らの苦境は難しいわね。「plight」は深刻で困難な、または危険な状況を意味するの。人々は怖がっているけど、地方自治体も最善を尽くしている。みんなにとって大変なことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the plight of those local governments, dealing with all those calls, must be really tough.",
+      "ja": "ええ、あの地方自治体の苦境は、そんな電話の対応もあって、本当に大変でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I wonder if they'll ever find an optimal solution for the bears and people.",
+      "ja": "そうね。クマと人間にとって最適な解決策がいつか見つかるのかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Optimal... like, the perfect way? Is there even a perfect way to handle it?",
+      "ja": "最適な…つまり、完璧な方法ってことですか？そんな完璧な解決策ってあるんでしょうか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "\"Optimal\" means the best or most favorable. It's hard to find a perfect solution, but they're definitely working on it.",
+      "ja": "「Optimal」は、最高または最も好ましいという意味よ。完璧な解決策を見つけるのは難しいけど、彼らは間違いなく取り組んでいるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Anyway, moving on... Fukushima. It seems like they're doing a lot to rebuild, with fish and tomatoes and hula dancers.",
+      "ja": "分かりました。ところで、福島ですね。魚やトマト、フラダンサーで、ずいぶん復興のために頑張っているみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are. It's good to see that progress. It's been a long time since 2011, but the resilience of the people there is quite something.",
+      "ja": "そうね。あの進展を見るのは良いことだわ。2011年からずいぶん経ったけど、そこの人々の回復力は本当に素晴らしいものがある。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that disaster... it really makes you think. Oh, speaking of dates, today is August 14th. You know what today is, right?",
+      "ja": "ええ、あの災害…本当に考えさせられます。ああ、日付の話ですが、今日は8月14日ですね。今日が何の日かご存知ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it's 終戦記念日, End of War Memorial Day. Japan accepted the Potsdam Declaration in 1945.",
+      "ja": "ええ、終戦記念日よ。1945年に日本がポツダム宣言を受諾した日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. My grandfather always talks about it. A really important day. I wonder if my kid will learn about it in school like we did.",
+      "ja": "そうですよね。祖父がいつも話しています。本当に大切な日です。うちの子も、僕たちみたいに学校で学ぶのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They will. It's a significant part of our history.",
+      "ja": "学ぶわよ。私たちの歴史の重要な一部だから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My little one is finally sleeping through the night sometimes. It's such a relief. Though I still wake up at every little sound.",
+      "ja": "うちの子、ついに時々夜通し寝てくれるようになりました。本当にホッとします。でも、まだちょっとした音でも目が覚めますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's just part of being a parent, I think. You get used to it. Eventually.",
+      "ja": "それは親なら誰でもそうなるものよ。慣れるわ。いずれはね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My neighbor recommended this special white noise machine. Said it worked wonders for their baby. I'm willing to try anything at this point, honestly.",
+      "ja": "隣の人が、この特別なホワイトノイズマシンを勧めてくれたんです。彼らの赤ちゃんにはすごく効果があったって。正直、今は何でも試すつもりです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "White noise can be effective. I used it for my daughter when she was a baby.",
+      "ja": "ホワイトノイズは効果があるわね。私も娘が赤ちゃんの時に使ったことがある。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, The Daily Tanu-chan Show. It's another humid one today.",
+      "ja": "というわけで、「The Daily Tanu-chan Show」。今日もまた蒸し暑い一日になりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Try to stay cool, Alex.",
+      "ja": "そうね。アレックス、涼しく過ごしてね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Dense drizzle",
+      "temp_max": 27.3,
+      "temp_min": 22.8,
+      "rain_probability": 94
+    },
+    "news": [
+      {
+        "title": "Climber traffic falls 30% in Japan's bear-hit Hokkaido, Tohoku",
+        "summary": "Climber traffic fell more than 30 percent in northern Japan's Hokkaido and Tohoku regions between April and June compared with the same period two years earlier, with the…",
+        "link": "https://japantoday.com/category/national/climber-traffic-falls-30-in-japan%27s-bear-hit-hokkaido-tohoku"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Intensity of bear complaints strains over 40% of Japan municipalities",
+        "summary": "More than 40 percent of local governments responding to a surge in bear encounters in Japan have received abusive complaints or gruelingly long phone calls, according to a…",
+        "link": "https://japantoday.com/category/national/intensity-of-bear-complaints-strains-over-40-of-japan-municipalities"
+      }
+    ],
+    "wikipedia": {
+      "title": "終戦記念日",
+      "description": "1945（昭和20）年、日本はポツダム宣言を受諾し、無条件降伏して太平洋戦争が終わった。昭和天皇による戦争終結の玉音放送によって国民に伝えられた。"
+    }
+  }
+}
