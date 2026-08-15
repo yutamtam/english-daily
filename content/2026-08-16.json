@@ -1,0 +1,272 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-15T19:19:22.229068+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 15th, 2026. Another Friday.",
+      "ja": "おはようございます、サラさん。2026年8月15日。また金曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, another Friday.",
+      "ja": "おはよう、アレックス。うん、また金曜日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Already need coffee. Haven't even started The Daily Tanu-chan Show yet.",
+      "ja": "もうコーヒーが必要ですよ。まだザ・デイリー・タヌちゃんショーも始まってないのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea. Did you see the weather? It's kind of misty out there.",
+      "ja": "私はお茶にしたわ。天気見た？外は少し霧っぽい感じよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah. Light drizzle all day, isn't it? My weather app says 88% chance of rain. High 26.6, low 21.8.",
+      "ja": "ああ、そうですね。一日中、小雨みたいですね？僕の天気アプリだと、降水確率88%って出てます。最高26.6度、最低21.8度。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's still warm for drizzle. I was hoping for some clearer skies.",
+      "ja": "小雨にしてはまだ暑いわね。もっと晴れた空を期待してたんだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Me too. I was trying to figure out what to do with the baby this weekend if it's always raining. Parks are out.",
+      "ja": "僕もです。この週末、ずっと雨だったら赤ちゃんとどうしようかなって考えてたんです。公園は無理だし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There are indoor play areas. Or just staying home is fine sometimes.",
+      "ja": "屋内遊び場もあるわね。あるいは、ただ家にいるだけでも良い時もあるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True, true. We've got a mountain of laundry to tackle anyway.",
+      "ja": "確かに、確かに。とにかく、山のような洗濯物を片付けなくちゃいけないし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, speaking of things that are difficult, I saw this news. Bear complaints are really high. It says 'intensity of bear complaints strains over 40% of Japan municipalities'.",
+      "ja": "そういえば、大変なことと言えば、こんなニュースを見ました。クマの苦情がすごく多いみたいで。『クマの苦情の激しさで、日本の地方自治体の40%以上がstrainsしている』って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What does 'strains' mean in that context, Sarah? Like, it's hard for them?",
+      "ja": "サラさん、その文脈での「strains」ってどういう意味ですか？彼らにとって大変、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it means it's putting a lot of pressure on them, making things difficult. Like the local governments are struggling with all the complaints.",
+      "ja": "ええ、それはね、彼らに多くのプレッシャーをかけていて、物事を困難にしているってこと。地方自治体が苦情の多さに苦労している、みたいな感じよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Struggling. That makes sense. I can imagine. People get really upset. That's not going to change at my office, though. We don't get bear calls.",
+      "ja": "ああ、なるほど。苦労している。それは納得です。想像できますね。みんな本当に怒るでしょうし。でも、僕の会社ではそれは変わらないでしょうけど。クマの電話は来ないし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, probably not. But it's a serious issue. More bears are coming into residential areas now.",
+      "ja": "ええ、おそらくね。でも深刻な問題よ。今はクマが住宅地にどんどん出てきてるもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I feel like I read this every year, though. Is it getting worse?",
+      "ja": "ですよね。でもこれ、毎年読んでる気がします。悪化してるんですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I think the reporting is more frequent. And maybe more people live closer to nature now.",
+      "ja": "報道が頻繁になってるんだと思うわ。そして、今は自然に近い場所に住む人も増えてるのかもしれない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, next one. This is pretty different. 'Beautiful ukiyo-e tarot cards are East-meets-West'.",
+      "ja": "さて、次です。これはかなり違うニュース。『美しい浮世絵タロットカードは東洋と西洋の融合』。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I saw that. They're quite striking.",
+      "ja": "ああ、それ見たわ。かなり印象的だったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It says they're popular 'divination tools'. What's 'divination' again?",
+      "ja": "人気のある「divinationツール」だって書いてありますね。サラさん、「divination」ってなんでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Divination is trying to find out about the future or get guidance from a supernatural source. Like fortune-telling.",
+      "ja": "ディビネーションは、未来について知ろうとしたり、超自然的な源から助言を得ようとすることよ。占いのことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, fortune-telling. So it's like reading your luck. I didn't know tarot cards went back to the 15th century. That's old.",
+      "ja": "ああ、占いか。運勢を見る、みたいな感じですね。タロットカードが15世紀にまで遡るなんて知りませんでした。古いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. But they only became well-known here after World War II, apparently.",
+      "ja": "そうよ。でも日本では第二次世界大戦後にようやく知られるようになったらしいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. I had no idea. I thought they were a newer thing.",
+      "ja": "へえ。全然知らなかったです。もっと新しいものだと思ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And the last one, 'Sword of one of Japan’s last samurai discovered in house in America: Yoshida Shoin'.",
+      "ja": "それで最後のニュースだけど、『日本の最後の侍の一人、吉田松陰の刀がアメリカの家で発見された』って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yoshida Shoin? I've heard the name, but I don't really know who he was.",
+      "ja": "吉田松陰？名前は聞いたことありますけど、どんな人だったかはよく知らないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He was a very influential figure in the late Edo period. A big thinker, though he died young. He taught many of the people who went on to lead the Meiji Restoration.",
+      "ja": "彼は江戸時代後期に非常に影響力のある人物だったわね。若くして亡くなったけれど、大きな思想家だった。明治維新を主導した多くの人たちを教えたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. So like a real historical figure. And his sword was in America? That's kind of amazing, actually.",
+      "ja": "おお、すごい。じゃあ本当に歴史上の人物なんですね。その刀がアメリカにあったと？それはちょっとすごいですね、実際。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. It's a significant find.",
+      "ja": "ええ。とても重要な発見よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Alright, let's switch gears. Today is August 15th. Do you know what today is, Sarah? 'Kyo wa Nan no Hi?'",
+      "ja": "よし、じゃあ話題を変えましょう。今日は8月15日ですけど、サラさん、今日は何の日か知ってます？「今日は何の日？」"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is it... Digital Comic Day? I think I saw that somewhere.",
+      "ja": "えっと…電子コミックの日？どこかで見たような気がするわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You got it! 電子コミックの日. It 'commemorates' the start of Comic C'moa's service.",
+      "ja": "大正解です！電子コミックの日。コミックシーモアのサービス開始を「commemorates」してるんですって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What does 'commemorates' mean? Like, celebrates?",
+      "ja": "「commemorates」ってどういう意味ですか？祝う、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It means to celebrate or remember an event, especially with a ceremony or by marking the date. It's their 10th anniversary, actually.",
+      "ja": "その通りよ。特に式典を行ったり、その日を記念することで、出来事を祝ったり思い出したりするってこと。実は彼らの10周年記念なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "10th anniversary! Wow. I didn't realize electronic comics were around for that long. I still mostly read physical books, but my little one, I bet he'll be all digital eventually.",
+      "ja": "10周年！わあ。電子コミックがそんなに長く存在してたなんて知りませんでした。僕はまだほとんど紙の本を読んでますけど、うちの小さいのは、きっと最終的には全部デジタルになるんだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids read a lot of digital comics. It's so convenient for them. They've got so many on their phones.",
+      "ja": "うちの子たちはデジタルコミックをたくさん読んでるわ。彼らにとってはすごく便利なのよね。スマホにたくさん入ってるし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my kid already tries to grab my phone all the time. He's really into screens. I'm trying to limit it, but it's tough.",
+      "ja": "ええ、うちの子ももうしょっちゅう僕のスマホを掴もうとしますからね。画面にすごく夢中で。制限しようとはしてるんですけど、なかなか難しくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Everything is on screens now.",
+      "ja": "そうね。今は何でも画面上にあるものね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of convenience, I did some meal prep this weekend. Made a big batch of curry.",
+      "ja": "便利さと言えば、週末にいくつか作り置きをしたの。カレーを大量に作ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Curry? Nice. Always a good choice for meal prep. My wife does that sometimes too.",
+      "ja": "カレーですか？いいですね。作り置きにはいつも良い選択肢ですよね。うちの妻もたまにやります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's just easy to have something ready when the kids get home from school and they're starving. I tried adding some extra vegetables this time, like eggplant.",
+      "ja": "子供たちが学校から帰ってきてお腹を空かせている時に、何かすぐ食べられるものがあると楽なのよね。今回はナスみたいな野菜を少し足してみたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Eggplant in curry. Interesting. Was it good?",
+      "ja": "カレーにナス。面白いですね。美味しかったですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was. It softened up nicely.",
+      "ja": "美味しかったわ。柔らかく煮えて良かったわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Maybe I'll suggest that to my wife. Our little one is starting to eat more solid foods. So much to prepare.",
+      "ja": "もしかしたら妻に提案してみようかな。うちの小さいのも、最近離乳食を食べる量が増えてきて。準備することがたくさんあって大変です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets easier as they get older. And then they start making their own food, eventually.",
+      "ja": "大きくなるにつれて楽になるわよ。そして、いつかは自分で料理するようになるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, eventually. Right now, I'm just focused on getting through the day with enough coffee.",
+      "ja": "ええ、いつかはね。今は、十分なコーヒーを飲んで一日を乗り切ることだけを考えてますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right. Have a good one, Alex.",
+      "ja": "そんな感じね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah.",
+      "ja": "サラさんも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 26.6,
+      "temp_min": 21.8,
+      "rain_probability": 88
+    },
+    "news": [
+      {
+        "title": "Intensity of bear complaints strains over 40% of Japan municipalities",
+        "summary": "More than 40 percent of local governments responding to a surge in bear encounters in Japan have received abusive complaints or gruelingly long phone calls, according to a…",
+        "link": "https://japantoday.com/category/national/intensity-of-bear-complaints-strains-over-40-of-japan-municipalities"
+      },
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      }
+    ],
+    "wikipedia": {
+      "title": "電子コミックの日",
+      "description": "電子書籍ストア「コミックシーモア」のサービス開始日。サービス開始10周年を記念し、NTTソルマーレ株式会社が制定した。"
+    }
+  }
+}
