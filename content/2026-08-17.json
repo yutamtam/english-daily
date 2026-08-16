@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-16T19:19:18.636700+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 16th, 2026. Another day here on The Daily Tanu-chan Show, huh?",
+      "ja": "おはようございます、サラさん。2026年8月16日。また一日が始まりましたね、ザ・デイリーたぬちゃんショーで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like it. A bit drizzly out there today.",
+      "ja": "おはよう、アレックス。そうね。今日はちょっと霧雨が降ってるみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the forecast said light drizzle. High 30.2, low 21.9. Feels… humid. So humid.",
+      "ja": "ええ、天気予報も小雨って言ってました。最高30.2度、最低21.9度。なんか…じめじめしますね。すごくじめじめ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely humid. And a 58% chance of rain. I think I felt a few drops on the way in.",
+      "ja": "確かにじめじめね。降水確率58％だし。通勤中に何滴か感じたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really need this coffee today. Like, absolutely need it. How's your tea holding up?",
+      "ja": "今日はこのコーヒーが本当に必要です。もう、絶対。お茶はどうですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good. Keeps me going.",
+      "ja": "いい感じよ。元気が出るわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see the news about the pythons in Kawasaki? Escaped from an apartment.",
+      "ja": "川崎のニシキヘビのニュース見ました？マンションから逃げたってやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I did. Two of them, apparently. That's… quite something.",
+      "ja": "ええ、見たわ。2匹だってね。それは…なかなかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Two pythons. Just… out there. I mean, how do you even lose a python? Are they like, *itinerant*?",
+      "ja": "ニシキヘビが2匹も。そこらへんに。いや、どうやってヘビを見失うんですか？まさか、放浪する、*itinerant*なやつらなんですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Itinerant? You mean like, wandering around without a fixed home? I don't think they're doing that intentionally.",
+      "ja": "イティネラント？つまり、決まった家なく歩き回るってこと？彼らが意図的にそうしてるわけじゃないと思うけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Like, they just pack up their little snake bags and leave. Anyway, makes you think about what kind of pets people have.",
+      "ja": "そう。自分の小さなヘビ用バッグに荷物を詰めて出て行く、みたいな。それにしても、どんなペットを飼ってる人がいるのか考えさせられますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I don't think snakes pack bags, Alex. But yes, it's a bit unsettling.",
+      "ja": "ヘビはバッグに荷物を詰めないと思うわ、アレックス。でも、ええ、少し落ち着かないニュースね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, I guess not. Still. On a slightly more exciting note, Tokyo's getting a new giant Gundam robot statue this fall.",
+      "ja": "そうですね。まあでも。もう少しワクワクするニュースだと、東京に新しい巨大ガンダム像がこの秋できるらしいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I saw that. They're pretty *prolific* with those statues, aren't they?",
+      "ja": "ええ、見たわ。あの像、ずいぶん*多作*というか、たくさん作ってるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Prolific? Oh, I didn't know that word. Does it mean like, they make a lot of them?",
+      "ja": "プロリフィック？ああ、その単語知りませんでした。たくさん作るって意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. Producing a lot of something. They seem to pop up everywhere.",
+      "ja": "そう、その通り。たくさんのものを生み出す、という意味よ。本当にあちこちに出現するわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels like there's always a new one. My kid will probably love robots when he's a bit older. Right now it's just grabbing everything.",
+      "ja": "ええ、いつも新しいのが出てる気がします。うちの子ももう少し大きくなったらロボット好きになるかな。今はまだ、何でも掴みたがる時期で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Give him time. My son used to love all those big robot shows.",
+      "ja": "そのうちね。うちの息子も昔はああいう大きなロボット番組が大好きだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this Gucci owl fan… a bit baffling. It's like, a Japanese-style fan, but super expensive.",
+      "ja": "それと、このグッチのフクロウの扇子…ちょっと戸惑いますね。日本の扇子なのに、めちゃくちゃ高くて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw that. It's an owl. And it's Gucci. So, expensive.",
+      "ja": "見たわ。フクロウでしょ。しかもグッチ。だから高いのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I just don't get the price sometimes. For a fan. I buy my clothes at Uniqlo when there's a sale.",
+      "ja": "時々、価格が理解できないです。扇子ですよ。僕なんて、服はユニクロのセールで買ってますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Most things are overpriced these days. That's just how luxury brands work.",
+      "ja": "最近はほとんどのものが高すぎるわね。それが高級ブランドのやり方よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. Hey, speaking of Japan, you know what today is? プロ野球ナイター記念日.",
+      "ja": "ええ、そうですね。ところで、日本といえば、今日が何の日か知ってます？プロ野球ナイター記念日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right! The first night game for pro baseball, back in '48. Giants versus Chunichi at Yokohama.",
+      "ja": "ああ、そうだったわね！1948年のプロ野球初のナイター。横浜での巨人対中日戦。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's it. And it's when they first started using the word 'nighter' for a night game, too, apparently.",
+      "ja": "そうです。そして、ナイターという言葉も、夜の試合に対して初めて使われた日らしいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember my father talking about that. How much it changed things for fans.",
+      "ja": "父がそのことよく話していたわ。ファンにとってどれだけ物事が変わったか、ってね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it changed everything for fans who worked during the day. More people could go. My dad talks about how different games were back then.",
+      "ja": "ええ、昼間働いてるファンにとっては全てが変わったんですよね。もっと多くの人が行けるようになった。うちの父も、昔の試合がどれだけ違ったか、よく話してます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It definitely opened up new possibilities.",
+      "ja": "確かに、新しい可能性を広げたわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of work, I've been thinking about ramen all morning. Like, a really rich tonkotsu broth. My baby slept okay last night, for once, so I'm feeling a bit more human.",
+      "ja": "仕事といえば、今朝はずっとラーメンのこと考えてるんですよ。それも、すごく濃厚な豚骨スープの。うちの子が昨日は珍しくよく寝てくれたんで、ちょっと人間らしい気分です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good to hear. Sleep is precious.",
+      "ja": "それは良かったわね。睡眠は貴重よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. Sometimes I wonder how I even *concocted* a work schedule before he was born. Now everything is a puzzle.",
+      "ja": "本当にそうですよ。彼が生まれる前、どうやって仕事のスケジュールを*練り上げていた*のか、たまに不思議に思います。今は全てがパズルみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Concocted? You mean, how did you come up with it? Or put it together? Yeah, having kids definitely changes your daily routine. My daughter still keeps me up late sometimes, but for different reasons.",
+      "ja": "コンコクト？どうやって思いついてたか、あるいは作り上げてたかってこと？ええ、子どもがいると日々のルーティンは確実に変わるわね。うちの娘もまだ時々夜更かしさせるけど、理由は違うわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess it just keeps changing, doesn't it? From babies to teenagers, I suppose.",
+      "ja": "ええ、ずっと変わり続けるんですよね、きっと。赤ちゃんからティーンエイジャーまで、ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. But a good bowl of ramen can help.",
+      "ja": "そうね。でも、美味しいラーメンは助けになるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really can. Well, I guess we should probably get to it. Drizzle's still out there.",
+      "ja": "本当にそう思います。じゃあ、そろそろ仕事に取り掛かりましょうか。まだ小雨が降ってるみたいですし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Looks like it. Have a good one, Alex.",
+      "ja": "そうね。良い一日を、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 30.2,
+      "temp_min": 21.9,
+      "rain_probability": 58
+    },
+    "news": [
+      {
+        "title": "Two pet pythons escape from apartment in Kawasaki",
+        "summary": "Two pythons kept as pets in an apartment in Kawasaki City, Kanagawa Prefecture, have escaped, police said Thursday.\nAccording to police, a 19-year-old man called 110 at around…",
+        "link": "https://japantoday.com/category/national/Two-pythons-escape-from-apartment-in-Kawasaki"
+      },
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      },
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      }
+    ],
+    "wikipedia": {
+      "title": "プロ野球ナイター記念日",
+      "description": "1948（昭和23）年、日本プロ野球史上初の夜間の公式試合が、横浜ゲーリッグ球場で行われた。試合は巨人－中日戦で、ナイターという言葉も初めて使われた。"
+    }
+  }
+}
