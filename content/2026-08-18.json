@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T19:25:25.693788+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. It's August 17th. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。8月17日です。ザ・デイリー・タヌちゃんショーへようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. You sound a bit... sleepy. Rough night?",
+      "ja": "おはよう、アレックス。ちょっと…眠そうだね。大変な夜だった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just need my coffee. It's so humid again today, isn't it? I feel like I'm already sweating, and I just got here.",
+      "ja": "コーヒーさえあれば大丈夫です。今日もまた蒸し暑いですね？ここに着いたばかりなのに、もう汗だくになりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's partly cloudy today, but the air still feels heavy, doesn't it? High of 30.9 degrees later, with a 54% chance of rain.",
+      "ja": "ええ、今日は曇りだけど、やっぱり空気が重いよね？最高気温は30.9度で、降水確率は54％だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh. My shirt's already sticking to me. I really don't want to go outside again. Anyway, I saw that news about Japan's mission to Mars' moons. That sounds pretty audacious, doesn't it?",
+      "ja": "うーん。もうシャツが体に張り付いてます。また外に出たくないなあ。そういえば、日本の火星の衛星へのミッションのニュースを見ました。かなり大胆な計画に聞こえますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. They're planning to retrieve samples that might tell us about the origins of the solar system and even life on Earth.",
+      "ja": "そうね。太陽系の起源や地球上の生命について教えてくれるかもしれないサンプルを回収する計画だそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I mean, going all the way to Mars' moons to get samples... that's a huge undertaking. Do you actually think they'll find anything significant from that?",
+      "ja": "ですよね。火星の衛星まで行ってサンプルを取ってくるなんて…ものすごい事業です。それで本当に何か重要なものが見つかると思いますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, they certainly hope to. It's an ambitious project, aiming for something pretty incredible.",
+      "ja": "まあ、彼らはきっとそう願っているわ。かなり驚くべきことを目指した、野心的なプロジェクトね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels really bold. Maybe a bit crazy. But cool.",
+      "ja": "うん、本当に大胆な感じがします。ちょっとクレイジーだけど。でも、かっこいい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just a little bit. And then I saw something else, about Kabuki. 'Roppongi Kabuki Part II Zatoichi.' It says it's 'the most accessible Kabuki ever.'",
+      "ja": "少しだけね。それから別のニュースで歌舞伎について見たわ。『六本木歌舞伎 第弐弾 座頭市』。史上最も親しみやすい歌舞伎だって書いてあったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's interesting. Because my understanding of traditional Kabuki is pretty rudimentary, honestly. I've only seen it once, and I mostly just felt confused the whole time.",
+      "ja": "あ、それは面白いですね。僕の伝統的な歌舞伎に対する理解は、正直言ってかなり基本的なものです。一度しか見たことがなくて、ほとんどずっと混乱してました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Rudimentary? You mean, like, very basic or simple. Yeah, traditional Kabuki can be hard to follow if you don't know the stories or the traditional style.",
+      "ja": "Rudimentary？つまり、すごく基礎的とか、単純ってことね。ええ、伝統的な歌舞伎は、物語や伝統的な様式を知らないと、ついていくのが難しいことがあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. So, a more accessible version... that might actually be something I could enjoy. For my cultural education, you know.",
+      "ja": "まさにそうです。だから、もっと親しみやすいバージョンなら…実際に楽しめるかもしれません。僕の文化教育のために、ね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You should try it. It's definitely an experience, especially if they make it easier to grasp.",
+      "ja": "試してみたらいいわ。特に理解しやすくなっているなら、きっといい経験になるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I might. And speaking of things that have been around for a long time, the Sailor Moon fan club is still taking applications for 2017. With English sign-up support. That's a really long run for a manga and anime series, isn't it?",
+      "ja": "そうですね。そして、長く続いているものといえば、セーラームーンのファンクラブが2017年の申し込みを受け付けているそうです。英語での登録サポート付きで。マンガとアニメのシリーズとしては、本当に長い間続いてますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. My son and daughter were both really into Sailor Moon when they were younger. It's amazing how popular it still is after all these years.",
+      "ja": "そうね。うちの息子も娘も、小さい頃はセーラームーンに夢中だったわ。こんなに長い間経っても、まだ人気があるなんてすごいことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Twenty-six years since it debuted. That's before I was even out of elementary school. They've really built one of the most passionate fanbases around.",
+      "ja": "デビューから26年ですよ。僕がまだ小学生にもなってない頃です。本当に情熱的なファン層を築き上げましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They have. Some things just stick around and keep finding new fans.",
+      "ja": "そうね。一部のものは、ただ残り続けて、新しいファンを見つけ続けるのよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hey, speaking of historical things, do you know what today is, August 17th?",
+      "ja": "ねえ、歴史的なことといえば、今日8月17日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no, I don't. Is it something interesting? Not like, 'National Miso Soup Day,' right?",
+      "ja": "あ、いや、知りません。何か面白いことですか？まさか「全国味噌汁の日」とかじゃないですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, nothing like that. It's High School Baseball Day. 高校野球記念日.",
+      "ja": "ううん、そんなんじゃないわ。高校野球記念日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, like Koshien? The first national junior high school baseball tournament was held today in 1915, in Toyonaka Stadium in Osaka.",
+      "ja": "ああ、甲子園みたいな？最初の全国中学校野球大会が1915年の今日、大阪の豊中球場で行われた日、ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The venue changed to Koshien Stadium from the tenth tournament, and then it became the National High School Baseball Championship in 1948.",
+      "ja": "その通りよ。第10回大会から会場が甲子園球場に変わり、1948年には全国高校野球選手権大会になったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. I didn't know the first one was that early, or that it wasn't at Koshien originally. That's quite a legacy. My little one is still too small for a bat, but maybe someday.",
+      "ja": "へえ。最初の大会がそんなに早かったとは知りませんでしたし、最初から甲子園じゃなかったんですね。すごい歴史ですね。うちの子はまだバットを持つには小さすぎるけど、いつか、ね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, summer baseball is a big part of Japanese culture. Who knows, maybe your kid will be on the field one day, hitting a home run.",
+      "ja": "ええ、夏の野球は日本の文化の大きな部分だもの。誰にも分からないわ、いつかあなたのお子さんがグラウンドでホームランを打っているかもしれないわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Don't even put that pressure on me! I jump at everything these days. Pretty sure it's the baby. Every little noise at night, my heart just stops. It's a bit fraught, this early parenting stage.",
+      "ja": "そんなプレッシャーかけないでください！最近はもう、あらゆることに飛び上がっちゃうんです。きっと赤ちゃんのせいですよ。夜のちょっとした物音でも、心臓が止まるかと思う。この子育ての初期段階は、ちょっと大変です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Fraught? It means it's full of difficulties or anxiety. Yeah, the early days are definitely like that. It gets a little easier eventually, I promise.",
+      "ja": "Fraught？困難や不安でいっぱいってことね。ええ、初期の頃は本当にそんな感じよ。でも、最終的には少し楽になるから、約束するわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really hope so. I'm operating on like four hours of sleep. This coffee is my lifeline right now. I don't know what I'd do without it.",
+      "ja": "本当にそう願ってます。僕、睡眠時間が4時間くらいなんです。このコーヒーが今、命綱ですよ。これがないとどうなるか分かりません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer my tea, but I understand the need for a morning boost. Are you still trying to grow those herbs in your window box?",
+      "ja": "私は紅茶派だけど、朝の活力が欲しい気持ちはよく分かるわ。まだ窓辺でハーブを育てているの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the basil? Yeah, it's... struggling a bit. The leaves are looking a bit yellow. Not sure what I'm doing wrong.",
+      "ja": "ああ、バジルですか？ええ、ちょっと…元気がないんです。葉が少し黄色くなってきてて。何がいけないのか分からないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My tomatoes are doing pretty well this year. I got a lot of sun on them, and the recent rain helped. It's really satisfying, isn't it, seeing things grow and actually harvesting something?",
+      "ja": "私のトマトは今年はすごく調子がいいわ。たくさん日を浴びたし、最近の雨も助けになったわね。植物が育って、実際に何かを収穫できるって、本当に満足感があるでしょう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, when they actually grow and don't just... wilt. Mine just look kind of sad. Maybe I'll try again next year with something easier.",
+      "ja": "ええ、実際に育って、ただ…しおれたりしなければ、ね。僕のはなんか悲しい感じなんです。来年、何か簡単なものでもう一度試してみようかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Don't give up. Gardening just takes time and a bit of trial and error. You learn as you go.",
+      "ja": "諦めないで。ガーデニングはただ時間がかかって、少し試行錯誤が必要なだけよ。やっていくうちに学ぶものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's true. Well, I better get to it. This sales report isn't going to write itself. And I've got a meeting soon.",
+      "ja": "そうですね。さて、そろそろ取り掛からないと。この営業報告書は自分で書かれるわけじゃないし。それに、もうすぐ会議があるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex. Hope your basil recovers.",
+      "ja": "じゃあ、良い一日を、アレックス。バジルが回復するといいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And thanks for the vocab lessons.",
+      "ja": "サラさんも。それと、語彙のレッスン、ありがとうございました。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 30.9,
+      "temp_min": 22.5,
+      "rain_probability": 54
+    },
+    "news": [
+      {
+        "title": "Japan aims for the moons of Mars",
+        "summary": "Japanese scientists are readying a mission to Mars' moons to retrieve samples that may unlock the origins of the solar system and life on Earth, although a rival…",
+        "link": "https://japantoday.com/category/national/japan-aims-for-the-moons-of-mars"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      }
+    ],
+    "wikipedia": {
+      "title": "高校野球記念日",
+      "description": "1915年、第1回全国中等学校優勝野球大会の開会式が大阪の豊中球場で行われた。第10回から会場が甲子園球場となり、1948年、学制改革により全国高校野球選手権大会となった。"
+    }
+  }
+}
