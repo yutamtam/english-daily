@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-18T19:25:30.959274+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 18th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう8月18日ですね。信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. No, I can't. Feels like summer just started. Welcome to The Daily Tanu-chan Show, everyone.",
+      "ja": "おはよう、アレックス。信じられないわね。夏が始まったばかりって感じ。皆さん、『The Daily Tanu-chan Show』へようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's going to be another hot one today, isn't it? They're saying mainly clear, high of 31.5.",
+      "ja": "今日もまた暑くなりそうですね。晴れ時々曇りで、最高気温は31.5度だそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, I saw that. Hope it cools down a bit tonight.",
+      "ja": "ええ、見たわ。今夜は少し涼しくなるといいんだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Me too. I felt it already this morning. Need my coffee to deal with this heat. My brain just melts otherwise.",
+      "ja": "僕もです。今朝もう感じました。この暑さにはコーヒーが必須ですね。ないと頭が溶けそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine too. Just a different kind of drink.",
+      "ja": "私もよ。飲み物の種類が違うだけで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, did you see the news about the bluefin tuna talks? The *quota* discussions are resuming next week.",
+      "ja": "ところで、クロマグロの交渉のニュース見ました？来週また『クオータ』の話し合いが再開するそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. They couldn't agree last month, right?",
+      "ja": "ああ、ええ。先月は合意できなかったのよね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I don't really understand how these *quotas* work, though. What does that even mean?",
+      "ja": "そうです。でも、この『クオータ』ってどういう仕組みなのか、よく分からないんですよね。一体どういう意味なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's like a limit. How much tuna each country is allowed to catch, to make sure there are enough fish left for the future.",
+      "ja": "それは『上限』のようなものよ。将来のために十分な魚が残るように、各国が獲っていいマグロの量のこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, a limit. Got it. Yeah, I guess that makes sense. Seems like a tough job to agree on that every year.",
+      "ja": "ああ、上限。なるほど。ええ、それなら納得です。毎年それに合意するのは大変な仕事でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Also, the tourism news was interesting. Japan is expecting fewer Chinese tourists this summer, but more from other Asian countries and Europe.",
+      "ja": "そうね。それから、観光のニュースも興味深かったわね。この夏は中国人観光客が減る一方で、他のアジア諸国やヨーロッパからの観光客が増える見込みだそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's good for some of my clients, I guess. We've been talking about diversifying our market for a while. Though, it probably won't change anything for *my* department right away.",
+      "ja": "ああ、それは僕の顧客の一部には良いニュースですね。しばらく市場の多様化について話していましたから。でも、僕の部署にはすぐには何も影響ないでしょうけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes time for things like that to shift.",
+      "ja": "そういうことが変わるには時間がかかるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Did you see the one about the city in Aichi? They urged residents to limit smartphone and game console use to two hours a day, and only 5% are actually doing it.",
+      "ja": "そうですね。愛知県の市のニュースは見ましたか？住民にスマホやゲームの使用を1日2時間までにするよう促したら、実際に守っているのはたった5％だったそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Only 5%? That's not much, is it?",
+      "ja": "たった5％？それは少ないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, it's not. I mean, my little one is still too young for screens, mostly, but I'm already thinking about it. My neighbor says his kids are always on their tablets.",
+      "ja": "ええ、少ないです。うちの子はまだスクリーンには早いですけど、もうそのこと考えていますよ。隣の家の人は、子供たちがいつもタブレットを使っているって言っていました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids are teenagers, so it's a constant battle. Two hours would be a dream.",
+      "ja": "私の子供たちはティーンエイジャーだから、いつも戦いよ。2時間なんて夢のようだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. My friend says it's like a constant… uh… *enigma*? No, that's not right. A constant *struggle*?",
+      "ja": "想像できます。友人は、それがいつも…ええと…『エニグマ』だって言ってましたっけ？いや、違うな。いつも『闘い』だって？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A constant negotiation, maybe.",
+      "ja": "絶え間ない『交渉』、かしらね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Negotiation. Yes, that's the word! Okay, I just remembered. Tomorrow is August 19th. That's Bike Day, right?",
+      "ja": "交渉。そうです、その言葉です！そういえば、今思い出したんですけど。明日は8月19日。バイクの日ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. 'Ba-i-ku' (8-1-9). It's a kind of *pun* in Japanese.",
+      "ja": "その通りよ。『バ・イ・ク』で8月19日。日本語の『ダジャレ』のようなものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A pun? Oh, you mean like a wordplay?",
+      "ja": "ダジャレ？ああ、言葉遊びのことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. They chose the date to promote bike safety and prevent accidents. So, it's a serious topic, but the name is a bit playful.",
+      "ja": "その通りよ。バイクの安全を促して事故を防止するために、その日付が選ばれたの。だから、真面目なテーマだけど、名前はちょっと遊び心があるのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know that. I thought it was just 'Bike Day.' Speaking of relaxing, I really need a good sento session this weekend. Or a sauna.",
+      "ja": "知りませんでした。ただ『バイクの日』なんだとばかり。リラックスと言えば、今週末は良い銭湯に行きたいですね。か、サウナでも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just to clear your head?",
+      "ja": "頭をすっきりさせるために？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. With the baby, it's hard to find any quiet time at home, you know? I just want to feel 'totonou' for a bit.",
+      "ja": "ええ、まさに。赤ん坊がいると、家で静かな時間を見つけるのが難しいんですよ。少しだけ『ととのう』気分になりたいんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. A quiet bath was a luxury. I usually just have a long bath at home now. My son usually needs something before I'm fully relaxed though.",
+      "ja": "その頃を思い出すわ。静かなお風呂は贅沢だった。私も今は家でゆっくりお風呂に入るくらいよ。でも、すっかりリラックスする前に、大抵息子が何かを求めてくるんだけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, let's hope it's a good day for everyone, whether you're on a bike, at work, or just trying to get some quiet time.",
+      "ja": "さて、バイクに乗っている人も、仕事中の人も、あるいはただ静かな時間を過ごそうとしている人も、皆さんにとって良い一日になりますように。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex. And enjoy that coffee.",
+      "ja": "良い一日を、アレックス。そしてコーヒーを楽しんでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Enjoy your tea.",
+      "ja": "サラさんもね。お茶を楽しんでください。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 31.5,
+      "temp_min": 22.6,
+      "rain_probability": 10
+    },
+    "news": [
+      {
+        "title": "Bluefin tuna quota expansion talks to resume next week",
+        "summary": "International talks on the sustainable management of Pacific bluefin tuna will resume online Tuesday, Japan's Fisheries Agency said Friday, after negotiations last month ended without an agreement due…",
+        "link": "https://japantoday.com/category/national/bluefin-tuna-quota-expansion-talks-to-resume-next-week"
+      },
+      {
+        "title": "Japan summer tourism season sees shift from China-driven demand",
+        "summary": "Japan is expecting its heavy dependence on Chinese tourists to lessen this summer travel season, counting on visitors from other Asian countries and European travelers to make up…",
+        "link": "https://japantoday.com/category/national/japan-summer-tourism-season-sees-shift-from-china-driven-demand"
+      },
+      {
+        "title": "City in Aichi Pref pleased with impact of 2-hour guideline on screen use",
+        "summary": "A city that drew attention for urging residents to limit smartphone and game console use to two hours a day has found that about 5 percent of people…",
+        "link": "https://japantoday.com/category/national/japan-city-pleased-with-impact-of-2-hour-guideline-on-screen-use"
+      }
+    ],
+    "wikipedia": {
+      "title": "バイクの日",
+      "description": "1989（平成元）年、「バ（8）イ（1）ク（9）」の語呂合わせから、総務庁交通対策本部が制定。バイクの安全を考え、バイクによる交通事故の増加を防止するため。"
+    }
+  }
+}
