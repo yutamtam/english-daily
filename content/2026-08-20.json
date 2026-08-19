@@ -1,0 +1,262 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-19T19:22:46.827548+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 19th, 2026. Can you believe it's already past mid-August?",
+      "ja": "おはようございます、サラさん。2026年8月19日。もう8月も半ばを過ぎたなんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time moves fast. Especially when you have teenagers.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。特にティーンエイジャーがいると。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I'm starting to get that feeling with my little one. He's trying to walk everywhere. Anyway, this is The Daily Tanu-chan Show. How's your morning so far?",
+      "ja": "ええ、うちの子も歩き回ろうとしてるから、その気持ちがだんだん分かってきました。さて、こちらは「ザ・デイリーたぬちゃんショー」です。サラさんの朝はどうですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's been fine. My tea is perfectly brewed. You look like you need your second coffee.",
+      "ja": "順調よ。紅茶も完璧に淹れたわ。アレックスは2杯目のコーヒーが必要そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I definitely do. I just finished my first. I'm still adjusting to the early mornings. The baby's pretty active these days.",
+      "ja": "間違いなく必要です。1杯目を飲み終えたばかりで。早朝にまだ慣れてなくて。最近、うちの子はかなり活発で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They don't slow down, do they?",
+      "ja": "彼らはスピードを落とさないわよね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, they really don't. Well, at least the weather is looking pretty good today. Partly cloudy, they're saying. High of 30.4 degrees.",
+      "ja": "ええ、本当に。まあ、少なくとも今日の天気はかなり良さそうですね。一部曇りって言ってます。最高気温は30.4度。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. Sounds about right for August. And only 4% chance of rain. That's nice.",
+      "ja": "ふむ。8月にしてはそんな感じね。降水確率も4%だけ。それはいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, no sudden downpours, hopefully. Did you see that news story about the clothing company making real-life costumes from mobile games?",
+      "ja": "ええ、突然の土砂降りがないことを願います。モバイルゲームのキャラクター衣装を現実世界で作るというアパレル会社のニュース見ましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Nutte and Axel Mark, right? For cosplay.",
+      "ja": "見たわ。NutteとAxel Mark、でしょ？コスプレ用ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. I bet a lot of people will be pretty giddy about that. People love those characters.",
+      "ja": "ええ、そうです。多くの人がかなり興奮すると思います。みんなあのキャラクターが大好きですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Giddy? You mean really excited, or maybe a bit light-headed with excitement?",
+      "ja": "Giddy？すごく興奮している、あるいは興奮で少し頭がくらくらするような感じ？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like super excited. Is that what 'giddy' means? I always hear it, but I'm not totally sure.",
+      "ja": "ええ、すごく興奮してるって感じ。それが「giddy」の意味なんですか？よく聞くんですけど、はっきりとは分からなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good way to put it. It's when you're so happy or excited, you almost feel a bit dizzy or silly. It's a fun word.",
+      "ja": "その表現で合ってるわ。とても嬉しかったり興奮したりして、少しめまいがしたり、おかしくなったりする感じね。面白い言葉よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, got it. I'm feeling a little giddy about the idea of a new coffee machine for the office, actually. So that makes sense.",
+      "ja": "なるほど、分かりました。実は、オフィスに新しいコーヒーメーカーが来るって聞いて、ちょっと興奮しています。だから、しっくりきますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine.",
+      "ja": "想像できるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "There was also something about Yuki Tsumugi silk from Tochigi Prefecture. That's a traditional craft, isn't it?",
+      "ja": "栃木県の結城紬のニュースもありましたね。あれは伝統工芸品ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's a very special kind of silk, made in a very particular way. Really beautiful fabric.",
+      "ja": "そうよ。とても特別な種類の絹で、非常に独特な方法で作られているの。本当に美しい織物よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know it was from Tochigi. My parents have some old kimono made from it, I think. Very intricate patterns.",
+      "ja": "栃木産だったんですね。うちの両親がそれでできた古い着物を持っていると思います。とても複雑な模様で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm. Takes a lot of skill and patience. My mother used to say that too.",
+      "ja": "うん。たくさんの技術と忍耐が必要なのよ。私の母もそう言っていたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And the other headline... Crown Prince Akishino had 'mixed feelings' about the imperial succession law. That's a serious topic.",
+      "ja": "それからもう一つの見出しは…秋篠宮皇嗣殿下が皇室典範の皇位継承について「複雑な思い」と。これは深刻な話題ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's an ongoing discussion. I don't think it's going to change soon.",
+      "ja": "そうね。今も続いている議論よ。すぐに変わるとは思えないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, I suppose not. It feels like I read something about it every year, but nothing ever really changes at my office. I mean, in the news.",
+      "ja": "ええ、そうでしょうね。毎年何か読んでいる気がしますが、私のオフィスでは何も変わらないんですよ。いや、ニュースではってことです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Well, speaking of things that change... or maybe didn't change for a while. Do you know what today is?",
+      "ja": "そうね。ところで、変わるもの…あるいはしばらく変わらなかったものといえば。今日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Today? Is it someone's birthday?",
+      "ja": "今日ですか？誰かの誕生日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 交通信号の日. Traffic Signal Day.",
+      "ja": "「交通信号の日」よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! I totally forgot about that. Why is today Traffic Signal Day?",
+      "ja": "ああ、そうか！完全に忘れてました。どうして今日が交通信号の日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because the first three-color automatic traffic signals were installed in Japan, in Ginza and Kyobashi, on this day in 1931.",
+      "ja": "1931年の今日、日本で最初の3色自動交通信号機が銀座と京橋に設置されたからよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1931. That's a long time ago. Those things are everywhere now. We really take them for granted.",
+      "ja": "へえ、1931年。ずいぶん昔ですね。今ではどこにでもありますね。本当に当たり前だと思って使ってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "We do. Imagine driving in Tokyo without them.",
+      "ja": "そうね。それなしで東京を運転するのを想像してみて。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no, I can't. Especially now that I'm driving with the baby in the car. Safety is always on my mind.",
+      "ja": "ああ、無理です。特に今は赤ちゃんを車に乗せて運転しているので。安全が常に頭にあります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I remember that feeling. You just want everything to be perfectly safe for them.",
+      "ja": "ええ、その気持ちはよく分かるわ。彼らのためなら、すべてが完璧に安全であってほしいと願うものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. And sleep, I always want more sleep. My energy levels really dwindle by the afternoon. I feel like I'm running on empty.",
+      "ja": "その通りです。そして睡眠、いつももっと寝たいです。午後の私のエネルギーレベルは本当に減少します。空っぽで走っているような気分です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Dwindle? You mean they get smaller and smaller, or less and less?",
+      "ja": "Dwindle？小さくなっていく、あるいはどんどん少なくなっていくってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like they disappear. By 3 PM, I'm practically asleep at my desk.",
+      "ja": "ええ、消えていくみたいな感じです。午後3時には、デスクでほとんど眠っています。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's when something gradually gets less or smaller over time. Like your coffee supply, perhaps.",
+      "ja": "それは、何かが時間とともに徐々に少なくなる、あるいは小さくなることよ。例えば、あなたのコーヒーの供給量とかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's perfect. My coffee supply dwindles very quickly. So does my patience sometimes, after a long day.",
+      "ja": "ぴったりです。私のコーヒーの供給量はあっという間に減ります。長い一日を終えた後、時々私の忍耐力もね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I know the feeling. My son is starting to think he knows everything. And my daughter is always on her phone. It's a challenge.",
+      "ja": "その気持ちは分かるわ。息子は自分が何でも知っていると思いたがってるし、娘はいつもスマホに夢中。大変よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, man. I'm going to have that to look forward to, aren't I?",
+      "ja": "ああ、マジですか。僕もそれを楽しみにしなきゃいけないってことですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Eventually. But it's also rewarding. Like seeing my tomatoes finally ripening in the garden. Small successes.",
+      "ja": "いずれね。でも、やりがいもあるわよ。庭のトマトがようやく熟してきたのを見るようなものよ。小さな成功ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You have a garden? That's nice. What else are you growing?",
+      "ja": "庭があるんですか？いいですね。他に何を育ててるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Cucumbers, eggplants. It's been a pretty good year for the peppers, too. It's satisfying to grow your own food.",
+      "ja": "キュウリ、ナス。今年はピーマンも豊作だったわ。自分で作物を育てるのは満足感があるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Maybe when my kid is a bit older, we can try something like that. Right now, it's just trying to keep him from eating the houseplants.",
+      "ja": "想像できます。うちの子がもう少し大きくなったら、何かそういうのを試せるかもしれませんね。今は、観葉植物を食べないようにするだけで精一杯ですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right. Well, it's almost time for us to wrap up. Thanks for listening to The Daily Tanu-chan Show this morning.",
+      "ja": "そんな感じね。さて、そろそろ終わりにしましょうか。今朝も「ザ・デイリーたぬちゃんショー」をお聞きいただきありがとうございました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks, everyone. Have a great day. And remember your traffic signals.",
+      "ja": "皆さん、ありがとうございました。良い一日を。そして交通信号を忘れずに。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 30.4,
+      "temp_min": 23.4,
+      "rain_probability": 4
+    },
+    "news": [
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Crown Prince Akishino says he has 'mixed feelings' about male-only imperial succession law",
+        "summary": "Crown Prince Akishino, the younger brother of Emperor Naruhito, on Thursday said he has “mixed feelings” about the government's revision to the Imperial House Law that insists only…",
+        "link": "https://japantoday.com/category/national/japan%27s-crown-prince-akishino-has-%27mixed-feelings%27-about-male-only-imperial-succession-law"
+      }
+    ],
+    "wikipedia": {
+      "title": "交通信号の日",
+      "description": "1931年、東京・銀座や京橋などの交差点に、日本初の3色灯の自動交通信号機が設置された。"
+    }
+  }
+}
