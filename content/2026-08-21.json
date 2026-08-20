@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-20T19:28:16.042876+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 20th, 2026. Wow, where does the time go?",
+      "ja": "おはようございます、サラさん。2026年8月20日ですね。時間の経つのが早いなぁ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It's The Daily Tanu-chan Show, and yes, it does.",
+      "ja": "おはようございます、アレックスさん。ザ・デイリー・タヌちゃんショーです。ええ、本当にね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I was just checking the weather. Eighty-seven percent chance of rain today. And partly cloudy, but still almost 30 degrees Celsius.",
+      "ja": "天気予報をさっき確認してました。今日は降水確率87%。部分的に曇りなのに、まだ30度近いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It feels like summer isn't quite ready to leave yet. That's fine by me.",
+      "ja": "まだ夏が終わらない感じね。私はそれでいいけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely need my coffee this morning. The baby was up a few times last night, talking to himself, I think.",
+      "ja": "今朝は絶対コーヒーが要りますね。昨夜、赤ちゃんが何回か起きて、独り言を言ってたみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that. My daughter used to sing to the wall when she was little.",
+      "ja": "そういうものよ。うちの娘も小さい頃、壁に向かって歌ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? That's... uh, interesting. Anyway, I was perusing the news headlines earlier. Anything catch your eye?",
+      "ja": "え、本当ですか？それは、えーと、面白いですね。そういえば、さっきニュースの見出しをいくつか見ていたんですが、何か気になるものはありましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Perusing? What does that mean, Alex?",
+      "ja": "Perusing？ それってどういう意味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, sorry! It just means reading something carefully, or looking through it. Like, 'I perused the menu.'",
+      "ja": "あ、すみません！それは「何かを注意深く読む」とか「目を通す」っていう意味です。例えば「メニューを熟読した」みたいに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, I see. Well, Fukushima rebuilding its future with fish, tomatoes, and hula-dancing girls. That was a nice headline.",
+      "ja": "ああ、なるほど。ええと、福島が魚やトマト、フラダンスガールで未来を再建しているという見出しね。あれは良いニュースだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's good to hear something positive. After everything they've been through, it must have been quite a plight for them.",
+      "ja": "ええ、良い話ですね。彼らが経験してきたことを考えると。彼らにとっては、かなりのplightだったでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was. A plight is a difficult or sad situation, often a very serious one. But they're quite resilient.",
+      "ja": "ええ、そうだった。Plightというのは、困難で悲しい状況、しばしば非常に深刻な状況のこと。でも、彼らはとても立ち直りが早いから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. There was also a headline about the Imperial Japanese Army conducting experiments on its own troops. That's pretty heavy for the morning.",
+      "ja": "本当に。それと、旧日本軍が自国の兵士に実験を行っていたという見出しもありましたね。朝にはちょっと重い話ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. Some difficult history we're still learning about.",
+      "ja": "ええ。まだ知られていない、難しい歴史ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know that. I always feel like I read about new discoveries related to World War II every year.",
+      "ja": "知りませんでした。毎年、第二次世界大戦に関する新しい発見を読んでいるような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's true. History keeps revealing more layers.",
+      "ja": "そうね。歴史は常に新たな層を明らかにし続けているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And the other one was about a city in Aichi Prefecture pleased with its 2-hour guideline on screen use. Only 5 percent of people followed it, though.",
+      "ja": "それからもう一つは、愛知県の市がスクリーン使用を2時間までとするガイドラインに満足しているという話でしたね。でも、5%の人しか守ってなかったらしいですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a tough one. My kids are teenagers now, but it's always a battle to get them off their devices.",
+      "ja": "それは難しい問題ね。うちの子たちはもうティーンエイジャーだけど、いつもデバイスから離れさせるのは戦いよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. My little one is only a year old, but I already worry about screen time. Sometimes I feel like my brain just stagnates if I stare at my phone all day.",
+      "ja": "想像できます。うちの子はまだ1歳ですが、もうスクリーンタイムが心配です。僕自身も、一日中スマホを見ていると頭がstagnatesするような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Stagnates? You mean stops moving or developing?",
+      "ja": "Stagnates？動かなくなるとか、発展しなくなるとかいう意味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Like, it just gets dull. Doesn't grow.",
+      "ja": "ええ、その通りです。なんだか、鈍くなるというか。成長しないというか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. I prefer my tea and a book.",
+      "ja": "わかるわ。私は紅茶と本の方が好きね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good point. Anyway, speaking of today, did you know August 20th is Kenketsu no Hi, Blood Donation Day?",
+      "ja": "そうですね。ところで今日といえば、8月20日は献血の日って知ってましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it is. It's when the cabinet decided back in 1964 to change the system. Before that, people actually used to sell their blood for transfusions.",
+      "ja": "ええ、そうよ。1964年に閣議決定で制度が変わった日ね。それまでは、輸血のために血を売っていたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sell their blood? Really? Oh, I didn't know that. That's a huge change.",
+      "ja": "血を売ってたんですか？本当に？あ、それは知りませんでした。すごい変化ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was. From a commercial system to a donation system.",
+      "ja": "そうね。商業的なシステムから献血システムへと変わったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. That's a much better way to do it. All this talk about health and… actually, I’ve been thinking about ramen all morning.",
+      "ja": "へえ。その方がずっと良いやり方ですね。健康の話とか…そういえば、今朝からずっとラーメンのことを考えてるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ramen?",
+      "ja": "ラーメン？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like a really rich tonkotsu ramen. The kind that makes you feel full for a week. Sometimes I crave that, sometimes a lighter shio ramen. But today, definitely tonkotsu.",
+      "ja": "ええ、すごく濃厚な豚骨ラーメン。一週間くらいお腹いっぱいになりそうなやつ。時々それが食べたくなるし、時々あっさりした塩ラーメンもいいなと。でも今日は、絶対豚骨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can see that. My son is always looking for the newest ramen shops.",
+      "ja": "わかるわ。うちの息子もいつも新しいラーメン屋さんを探しているわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, maybe I'll go get some after this. Need to fuel up for another day of parenting.",
+      "ja": "そうですね、この後食べに行こうかな。子育てのもう一日を乗り切るために栄養補給しないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like a plan, Alex. Have a good one.",
+      "ja": "いい計画ね、アレックスさん。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 29.8,
+      "temp_min": 24.1,
+      "rain_probability": 87
+    },
+    "news": [
+      {
+        "title": "Imperial Japanese Army conducted experiments on its own troops: researcher",
+        "summary": "The Imperial Japanese Army conducted experiments on its own soldiers during the Second Sino-Japanese War, exposing troops hospitalized for mental illnesses and deemed unfit for combat to malaria-carrying…",
+        "link": "https://japantoday.com/category/national/imperial-japanese-army-conducted-experiments-on-own-troops-researcher"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "City in Aichi Pref pleased with impact of 2-hour guideline on screen use",
+        "summary": "A city that drew attention for urging residents to limit smartphone and game console use to two hours a day has found that about 5 percent of people…",
+        "link": "https://japantoday.com/category/national/japan-city-pleased-with-impact-of-2-hour-guideline-on-screen-use"
+      }
+    ],
+    "wikipedia": {
+      "title": "献血の日",
+      "description": "1964（昭和39）年のこの日、それまでの売血制度を改め、輸血用血液を献血で確保するよう閣議決定した。"
+    }
+  }
+}
