@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-21T19:23:47.099872+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning. August 21st, 2026. Wow, it's already a proper downpour out there, isn't it?",
+      "ja": "おはようございます。2026年8月21日。わあ、もう土砂降りですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It certainly is. My umbrella barely survived the walk from the station. And they said 'dense drizzle.'",
+      "ja": "おはよう、アレックス。本当にね。駅から歩いてくる間、傘がギリギリだったわ。「密集した霧雨」って言ってたのに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know. The forecast was pretty clear: 98% chance of rain. Almost a guarantee. High of 29.3 degrees Celsius today, too.",
+      "ja": "ええ、そうですね。予報はかなりはっきりしてましたね。降水確率98%。ほぼ確実。今日の最高気温も29.3度だそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "So, humid, hot, and soaking wet. A classic Tokyo summer day. Good thing I brought my thermos of tea.",
+      "ja": "つまり、湿度が高くて暑くて、びしょ濡れってことね。典型的な東京の夏の日だわ。お茶の魔法瓶を持ってきてよかった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. I'm actually still trying to wake up. Need my coffee before I can process anything today. This is The Daily Tanu-chan Show.",
+      "ja": "その通りです。実はまだ寝ぼけてるんですよ。今日はコーヒーを飲まないと何も考えられないです。ザ・デイリー・タヌちゃんショーです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And good morning to everyone listening. Hope you have your coffee or tea ready. Let's get into some news.",
+      "ja": "そして、お聴きの皆さん、おはようございます。コーヒーやお茶の準備はできていますか。それではニュースを見ていきましょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw something kind of funny, or maybe just strange. Gucci made a Japanese-style 'owl fan.'",
+      "ja": "ええ、ちょっと面白いというか、変なニュースを見ました。グッチが日本の「フクロウ扇子」を作ったらしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I saw that headline. Very expensive, right? I think it was something like 80,000 yen.",
+      "ja": "ああ、その見出しを見たわ。すごく高かったでしょ？確か8万円くらいだったような。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "More like 88,000 yen! The article said it was 'baffling expensive.' What does 'baffling' mean, exactly? Like, confusingly?",
+      "ja": "もっとですよ、8万8千円！記事には「baffling expensive（途方もなく高価）」って書いてありました。「baffling」って、正確にはどういう意味ですか？「困惑させるほど」って感じですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good guess, Alex. It means it's so confusing or mysterious that you can't really understand or explain it. So, 'baffling expensive' means it's so expensive it just doesn't make sense.",
+      "ja": "いい推測ね、アレックス。「baffling」は、それがとても紛らわしいとか、謎めいていて、理解したり説明したりできないという意味よ。だから「baffling expensive」は、理屈が通らないほど高価だということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay, I get it. That's exactly how I felt. An owl fan for almost 90,000 yen... My 1000 yen Uniqlo fan works perfectly fine, thank you very much.",
+      "ja": "ああ、なるほど、分かりました。まさにそう感じましたよ。フクロウの扇子に9万円近くって…僕のユニクロの1000円の扇子で十分ですよ、全く。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed. Speaking of things that maybe don't quite reflect reality, I saw an article about Japanese college students sharing how anime high school is different from real high school.",
+      "ja": "本当にそうね。現実とは少し違うものといえば、日本の大学生が、アニメの高校と実際の高校がどう違うかを語る記事を見たわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I saw that one too. I'm sure it's pretty different. My kid's still too young for high school, of course. He's only a year and two months.",
+      "ja": "ああ、それも見ました。かなり違うでしょうね。うちの子はまだ高校生には早すぎますけどね。まだ1歳2ヶ月ですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine are in high school and middle school. They both watch a lot of anime. I think they know the difference pretty clearly.",
+      "ja": "うちは高校生と中学生がいるわ。二人ともアニメはたくさん見るけど、彼らはその違いをはっきり理解していると思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. I always wonder if they get confused about how real life actually works from all the media they consume.",
+      "ja": "そうかな、どうでしょう。いつも、彼らが消費するすべてのメディアから、実際の生活がどう機能するのかについて混乱しないのかな、って思いますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, they're smart. They know it's just a story for entertainment. They deal with real school issues every day.",
+      "ja": "いいえ、彼らは賢いから。それがただの娯楽のための物語だと分かっているわ。彼らは毎日、実際の学校の問題に対処しているもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's reassuring. I guess I'm just extra anxious these days. I read another one, though, about a 7-year-old boy left behind on Mount Fuji by his dad.",
+      "ja": "それは安心しますね。最近、僕はいつもより心配性なだけかもしれません。でも、もう一つ読んだんですけど、お父さんに富士山に置き去りにされた7歳の男の子の話です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. That was quite shocking. A very irresponsible thing to do.",
+      "ja": "ええ、私も見ました。かなり衝撃的だったわ。とても無責任なことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can't imagine doing something like that. My little one is almost a year and a half. I check on him every five minutes, even when he's just sleeping soundly in his crib.",
+      "ja": "そんなこと、僕には想像もできません。うちの小さい子はもうすぐ1歳半なんです。彼がベビーベッドでぐっすり眠っていても、5分ごとに確認しちゃいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's easy to get distracted as a parent, especially with young kids. But leaving them behind is a whole different level of neglect.",
+      "ja": "子育て中は、特に小さい子がいると気が散りやすいものよ。でも、子供を置き去りにするというのは、全く別のレベルのネグレクトだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I mean, what kind of *penchant* do you have for just forgetting your child? Wait, no. Is 'penchant' the right word there? I'm messing it up again.",
+      "ja": "でしょ？つまり、自分の子供を忘れるなんて、どんな「penchant」を持っているんだって…いや、違うな。「penchant」はここで正しい言葉ですか？また間違ってる気がする。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, not quite, Alex. 'Penchant' means a strong liking or tendency for something. Like, 'He has a penchant for collecting old coins.' You probably mean 'tendency' or 'habit' to forget, but not 'penchant.'",
+      "ja": "いいえ、ちょっと違うわね、アレックス。「penchant」は、何かに対する強い好みや傾向を意味するの。例えば、「彼には古銭を集める傾向がある」とかね。あなたは「忘れる傾向」や「癖」という意味で言いたかったのでしょうけど、「penchant」ではないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. My bad. Just… how could you do that, as a parent? It's really upsetting.",
+      "ja": "ああ、なるほど。すみません。ただ…親としてどうしてそんなことができるんだろう？本当に腹立たしいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. On a lighter note, did you know today is 'Chin-chin Densha Day'?",
+      "ja": "そうね。話は変わるけど、今日は「チンチン電車の日」って知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't know that. What's that about?",
+      "ja": "え、本当ですか？知りませんでした。どういう日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because on this day, August 21st, back in 1903, Tokyo's first streetcar, what we used to call a 'Chin-chin Densha,' started operating. It ran between Shinbashi and Shinagawa.",
+      "ja": "それはね、この8月21日に、1903年に東京初の路面電車、私たちが「チンチン電車」と呼んでいたものが運行を開始したからよ。新橋と品川の間を走っていたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1903. That's a long, long time ago. 'Chin-chin Densha'... I always thought that was just a funny, old nickname, not a real name.",
+      "ja": "わあ、1903年ですか。ずいぶん昔ですね。「チンチン電車」って…僕はてっきり、面白い昔のあだ名だと思ってました、正式名称じゃなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, it became a very popular nickname because of the bell sound it made. Every time it stopped or started, it went 'Chin chin!'",
+      "ja": "そうね、それがベルの音からくる、とても人気のあるあだ名になったのよ。止まったり発車したりするたびに「チンチン！」って鳴ったから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that makes perfect sense! So, it's like 'Ding-ding Tram Day' in English. I'll remember that.",
+      "ja": "ああ、それはすごく納得です！じゃあ、英語で言えば「ディンディン路面電車の日」みたいな感じですね。覚えておきます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. All this talk of rain and history makes me think of my home garden. Everything is doing so well with all the water.",
+      "ja": "その通りよ。雨の話や歴史の話をしていると、家の庭を思い出すわ。水がたくさんあるおかげで、どれも順調に育っているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! How's it doing this season? Are the tomatoes still going strong?",
+      "ja": "ああ、そうでした！今シーズンはどうですか？トマトはまだ元気に育ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are! My tomatoes are finally getting really red, and the cucumbers are almost too much. I'm actually giving them away to neighbors and a guy at work.",
+      "ja": "ええ、そうよ！トマトはついに真っ赤になってきたし、キュウリはもう採れすぎなくらい。近所の人や職場の同僚にもおすそ分けしているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's amazing. I always wanted a garden, but with the baby and work... no time for anything extra, you know?",
+      "ja": "すごいですね。僕もずっと庭が欲しかったんですけど、赤ちゃんもいるし仕事もあるし…余計なことをする時間が全くないんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a lot of work, that's for sure. But it's very satisfying to grow your own food and see things thrive. My son helps sometimes.",
+      "ja": "確かに大変な仕事よ。でも、自分で食べ物を育てて、ものが育つのを見るのはとても満足感があるわね。息子がたまに手伝ってくれるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I bet. Well, I really should get some more coffee before my morning meetings. My brain needs all the help it can get today.",
+      "ja": "ええ、そうでしょうね。さて、朝の会議の前に、もう一杯コーヒーを飲んだ方が良さそうです。今日は僕の脳みそに、できる限りの助けが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. Have a good day, Alex. And to all our listeners, stay dry out there.",
+      "ja": "いい考えね。良い一日を、アレックス。そして、お聴きの皆さん、雨に濡れないようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And everyone listening. See you tomorrow.",
+      "ja": "サラさんも。そしてお聴きの皆さん、また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Dense drizzle",
+      "temp_max": 29.3,
+      "temp_min": 23.4,
+      "rain_probability": 98
+    },
+    "news": [
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      },
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      },
+      {
+        "title": "7-year-old boy left behind on Mount Fuji by his dad",
+        "summary": "“This summer, I hiked Mount Fuji with my dad!” sounds like a pretty cool opening for a kid’s how-I-spent-my-summer-vacation essay. The composition gets less heartwarming, though, if it…",
+        "link": "https://japantoday.com/category/national/7-year-old-boy-left-behind-on-mount-fuji-by-his-dad"
+      }
+    ],
+    "wikipedia": {
+      "title": "チンチン電車の日",
+      "description": "1903（明治36）年、東京電車鉄道の路面電車（チンチン電車）が新橋－品川で営業を開始した。"
+    }
+  }
+}
