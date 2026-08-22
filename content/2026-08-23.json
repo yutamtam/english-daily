@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-22T19:20:39.391961+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 22nd. Already, huh?",
+      "ja": "おはようございます、サラさん。8月22日。もうですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time flies, doesn't it? It's Friday.",
+      "ja": "おはよう、アレックス。あっという間ね。金曜日だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it really does. Looks like it's going to be a pretty gray day today. Overcast.",
+      "ja": "ええ、本当に。今日はかなりどんよりした一日になりそうですね。曇り空で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm. And quite humid, I think. Feels like it might rain later.",
+      "ja": "ええ。そしてかなり蒸し暑いと思うわ。後で雨が降りそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The forecast says 82% chance of rain. High of 29.5, low of 23.5. So, still warm.",
+      "ja": "予報だと降水確率82%です。最高29.5度、最低23.5度。まだ暑いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Better bring an umbrella then. My tea will keep me warm enough, though.",
+      "ja": "じゃあ傘を持っていかないとね。私はお茶で十分温まるけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I definitely need my coffee. Just one more cup to really get going. The baby was up a lot last night.",
+      "ja": "僕は絶対コーヒーが必要です。もう一杯飲んでからじゃないと。昨夜は赤ちゃんが何度も起きてしまって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, that's tough. Mine are teenagers now, so it's a different kind of disturbance.",
+      "ja": "あら、大変ね。うちの子たちはもうティーンエイジャーだから、また別の種類の妨害よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. My little one is really starting to explore everything. I turn my back for a second...",
+      "ja": "ええ、想像できます。うちの子は本当に何でも探索し始めて。ちょっと目を離した隙に…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're quick at that age.",
+      "ja": "その歳の子は素早いからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway. On to some news. I saw a headline about Kabuki. 'Roppongi Kabuki Part II Zatoichi'. Sounds interesting.",
+      "ja": "とにかく。ニュースの話ですが。歌舞伎のヘッドラインを見ました。「六本木歌舞伎 第2部 座頭市」。面白そうですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. They say it's more accessible than traditional Kabuki. Shorter, easier to follow.",
+      "ja": "ええ、そうね。伝統的な歌舞伎よりもアクセスしやすいって言われているわね。短いし、追いやすいって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. I mean, four hours of sitting still, not really knowing what's going on... I've tried.",
+      "ja": "それはいいですね。だって、4時間もじっと座って、何が起こっているのかよくわからないのは…試したことはありますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an experience. But maybe not for everyone. Especially if you're trying to recuperate from a long week.",
+      "ja": "あれは体験ね。でも全員向けではないわね。特に、長い週の疲れを recuperate しようとしているなら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Recuperate? What does that word mean, Sarah?",
+      "ja": "Recuperate？その言葉、サラさん、どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to recover, to get your strength back after being sick or tired. Like how you need to recover from sleepless nights.",
+      "ja": "病気や疲れた後に回復する、力を取り戻すっていう意味よ。あなたが眠れない夜から回復しないといけないみたいにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So, get my energy back. Yeah, definitely. I need to recuperate a lot these days.",
+      "ja": "なるほど、分かりました。つまり、エネルギーを取り戻す、と。ええ、まさに。最近はたくさん recuperate する必要があります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You do. There was another one about Japan's graying villages looking to Peru for help.",
+      "ja": "そうね。もう一つ、日本の高齢化が進む村が、ペルーに助けを求めているというニュースがあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that. Yeah, population decline and labor shortage. It feels like I read this every year.",
+      "ja": "ああ、それ。ええ、人口減少と労働力不足。毎年これ読んでる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a serious issue, though. My son was asking about it for a school project just last week.",
+      "ja": "でも深刻な問題よ。うちの息子が先週、学校のプロジェクトでそのことについて聞いてきたばかりよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess it won't change at my office anytime soon. We're always busy.",
+      "ja": "うちの会社ではすぐには変わらないでしょうね。いつも忙しいですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure. And finally, something a bit lighter: Japanese college students sharing how anime high school is different from real high school.",
+      "ja": "そうでしょうね。そして最後に、もう少し軽い話題。日本の大学生たちが、アニメの高校と現実の高校がいかに違うかについて話しているというもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I saw that! Like, everyone in anime high school has a super unique hairstyle, right? And they're always saving the world or something.",
+      "ja": "ああ、それ見ました！アニメの高校生って、みんな超個性的な髪型してますよね？そしていつも世界を救ったりとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, and the school festivals are always incredibly elaborate. Not quite like my daughter's culture festival last year.",
+      "ja": "そうね、それに学園祭がいつも信じられないくらい凝っているわよね。去年のうちの娘の文化祭とはだいぶ違うわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mine was mostly making yakisoba. Not very heroic.",
+      "ja": "僕の時はほとんど焼きそば作りでした。あまり英雄的ではないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Fulfilling, though. And speaking of school, do you know what today, August 22nd, is?",
+      "ja": "でも充実していたでしょう。それで、学校の話だけど、今日、8月22日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, 'Kyo wa Nan no Hi'? Is it someone's birthday?",
+      "ja": "うーん、「今日は何の日」？誰かの誕生日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 白虎隊の日, Byakkotai no Hi.",
+      "ja": "白虎隊の日、よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh! The Byakkotai! From the Boshin War. They, uh, committed seppuku, right? At Iimoriyama?",
+      "ja": "おお！白虎隊！戊辰戦争の。彼らは、えーと、飯盛山で切腹したんですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, that's right. In 1868. It's a sad story from Aizu-han.",
+      "ja": "ええ、その通り。1868年にね。会津藩の悲しい話よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I remember visiting the site in Aizu. It's really moving. So much history there.",
+      "ja": "会津のその場所を訪れたのを覚えています。本当に感動的ですよね。たくさんの歴史がある。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It makes you think about a lot.",
+      "ja": "そうね。色々なことを考えさせられるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Sometimes after a long week, I just want to clear my head. You know, like going to the sento or a sauna?",
+      "ja": "ええ。時々、長い週の後って、頭をすっきりさせたいんですよね。銭湯とかサウナに行くとか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. Do you go often?",
+      "ja": "ええ、そうね。よく行くの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "When I can. It's that feeling of 'totonou,' right? That deep relaxation. And it's so quiet. No baby crying, no work emails.",
+      "ja": "行ける時に。あの「ととのう」って感じですよね？深いリラックス。そして、すごく静か。赤ちゃんの泣き声もないし、仕事のメールもない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a good way to reset. My husband goes sometimes too. He says it helps him clear out the general 'fluff' from his brain.",
+      "ja": "リセットするのに良い方法ね。うちの夫も時々行くわ。頭の中の一般的な「fluff」を追い出すのに役立つって言ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Fluff? What's 'fluff'?",
+      "ja": "Fluff？「fluff」って何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, it's like, trivial or unimportant stuff. Things that aren't really necessary, just taking up space in your mind.",
+      "ja": "ああ、それはね、取るに足らないとか、重要じゃないもの。本当に必要じゃないもの、ただ頭の中で場所を取ってるだけのものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like all those random thoughts I have about what's for dinner or if I remembered to lock the door. That's a lot of fluff.",
+      "ja": "ああ、夕飯は何にしようとか、鍵を閉めたかとか、そういうランダムな考えのことですね。それならたくさんfluffがあります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. So, a sento helps with that.",
+      "ja": "その通り。だから銭湯はそれに役立つわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it really does. Well, I think that's all for today on The Daily Tanu-chan Show. Thanks for the chat, Sarah.",
+      "ja": "ええ、本当に。さて、今日のザ・デイリー・タヌちゃんショーはこれで全部ですね。サラさん、おしゃべりありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good Friday, and I hope you get some recuperation this weekend.",
+      "ja": "こちらこそ、アレックス。良い金曜日を。そして、この週末にしっかり recuperation できるといいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'll try! You too.",
+      "ja": "頑張ります！サラさんも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 29.5,
+      "temp_min": 23.5,
+      "rain_probability": 82
+    },
+    "news": [
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Japan's most graying village looks to Peru sister city for lifeline",
+        "summary": "Japan's most graying municipality has turned to its Peruvian sister city in search of a way to reverse its population decline and address the labor shortage that together…",
+        "link": "https://japantoday.com/category/national/japan%27s-most-graying-village-looks-to-peru-sister-city-for-lifeline"
+      },
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      }
+    ],
+    "wikipedia": {
+      "title": "白虎隊の日",
+      "description": "1868年、戊辰戦争で会津藩の白虎隊が飯盛山で自刃した。"
+    }
+  }
+}
