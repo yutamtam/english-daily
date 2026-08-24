@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-24T19:26:16.878155+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 24th, 2026.",
+      "ja": "おはようございます、サラさん。2026年8月24日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. You look like you're already on your second coffee.",
+      "ja": "おはよう、アレックス。もう2杯目のコーヒーって顔してるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I need it. My little one was up pretty early today.",
+      "ja": "必要なんです。うちの子、今日は朝早かったんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, the early bird phase.",
+      "ja": "ああ、早起き期ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. So, you ready for The Daily Tanu-chan Show?",
+      "ja": "ええ。それで、ザ・デイリーたぬちゃんショーの準備はいいですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Always. Got my tea ready.",
+      "ja": "いつでも。お茶は準備万端よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's already hot out there, isn't it? Like, really hot.",
+      "ja": "もう外は暑いですね？本当に暑い。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, partly cloudy. High 33.6°C, low 23.6°C. Only 2% chance of rain, so no relief there.",
+      "ja": "ええ、ところどころ雲があるわね。最高気温33.6°C、最低23.6°C。降水確率はたった2%だから、雨による涼しさも期待できないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No kidding. My phone kept sending alerts about heat stroke. I feel like I read this every year.",
+      "ja": "本当に。スマホが熱中症アラートをずっと出してて。毎年見てる気がしますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about the master craftsman building a tiny house on wheels?",
+      "ja": "匠が車輪付きの小さな家を建てたっていうニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah! I saw a picture. It looked really cool. I mean, my apartment is already pretty tiny with all the baby stuff.",
+      "ja": "ああ、見ました！写真。すごくかっこよかったです。というか、うちのアパートは赤ちゃんの物で既にかなり手狭なんですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It looked beautifully made. Very clever use of space.",
+      "ja": "本当に美しく作られていたわね。空間の使い方がとても賢い。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of beautiful, there's a painting in Osaka, right? The 'Girl with a Pearl Earring'?",
+      "ja": "美しいものといえば、大阪で絵画が展示されてますよね？『真珠の耳飾りの少女』？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, Johannes Vermeer's masterpiece. It's on a rare trip abroad, maybe the last time it will leave the museum.",
+      "ja": "そう、ヨハネス・フェルメールの傑作ね。珍しい海外での展示で、もしかしたら美術館から外に出るのは最後かもしれないそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. That's a big deal. Imagine if something happened to it. The museum would be... uh... quite distraught, I guess?",
+      "ja": "へえ。それは大変なことですね。もし何かあったらと思うと。美術館は…ええと…かなりdistraughtでしょうね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They would be very worried and upset, yes. Distraught means extremely upset or distressed.",
+      "ja": "ええ、とても心配で、取り乱すでしょうね。Distraughtは、ひどく動揺している、取り乱している、という意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I bet they have really good security.",
+      "ja": "なるほど。きっと警備もすごく厳重なんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And a more positive note from Fukushima. They're rebuilding, with fish, tomatoes, and even hula-dancing girls.",
+      "ja": "そして、福島からのもっとポジティブなニュース。魚やトマト、それにフラダンスの女の子たちもいて、復興が進んでいるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good to hear. It's been a long time, but it's nice to see new things happening.",
+      "ja": "それは良いニュースですね。長い時間が経ちましたけど、新しいことが起こっているのを見るのは嬉しいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They've done a lot to mitigate the damage and create new opportunities.",
+      "ja": "被害を軽減して、新しい機会を作るために、たくさんのことをしてきたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mitigate? What does that mean?",
+      "ja": "Mitigate？どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to make something less severe or serious. Like, to lessen the bad effects.",
+      "ja": "よりひどくならないように、深刻さを和らげること。悪い影響を減らす、みたいな感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So, lessen the damage from the disaster. That makes sense.",
+      "ja": "ああ、なるほど。災害の被害を軽減する、と。分かりました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I almost forgot. Today is Instant Ramen Day!",
+      "ja": "ああ、忘れるところだった。今日はインスタントラーメン記念日ですよ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is it? Because that's when Nissin Foods launched Chicken Ramen in 1958?",
+      "ja": "そうなの？日清食品が1958年にチキンラーメンを発売した日だから？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! The world's first instant ramen. Can you imagine life without it?",
+      "ja": "その通りです！世界初のインスタントラーメン。それがない生活なんて想像できますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids certainly can't. It's their go-to snack sometimes.",
+      "ja": "うちの子たちは、確かにそうね。時々、定番のおやつになってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mine too, when I was a student. Still is, sometimes, late at night when the baby's finally asleep.",
+      "ja": "僕も学生の時はそうでした。今でも、夜遅くに赤ちゃんがやっと寝た後とか、ありますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I went for my walk this morning, before it got too hot. It was quiet, but already humid.",
+      "ja": "今朝、暑くなる前に散歩してきたのよ。静かだったけど、もう湿度が高かったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds nice. I should try to walk more. Maybe push the stroller around.",
+      "ja": "いいですね。僕ももっと歩くようにしないと。ベビーカーを押して散歩とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It helps clear your head. I noticed some early autumn flowers starting to bloom, despite the heat.",
+      "ja": "頭がすっきりするのよ。この暑さでも、もう初秋の花が咲き始めてるのに気づいたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a nice thought. I'm still just focused on getting through the day with enough coffee.",
+      "ja": "それは素敵な考えですね。僕はまだ、十分なコーヒーで一日を乗り切ることに集中してますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll get there. Have a good one, Alex.",
+      "ja": "大丈夫、慣れるわよ。良い一日をね、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. See you tomorrow.",
+      "ja": "サラさんも。また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 33.6,
+      "temp_min": 23.6,
+      "rain_probability": 2
+    },
+    "news": [
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "'Girl with a Pearl Earring' in Japan, perhaps for the last time",
+        "summary": "&quot;Girl with a Pearl Earring&quot; will go on show in Osaka this week, on a rare trip abroad for the 17th-century Johannes Vermeer masterpiece and potentially its last…",
+        "link": "https://japantoday.com/category/national/%27girl-with-a-pearl-earring%27-in-japan-perhaps-for-the-last-time"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      }
+    ],
+    "wikipedia": {
+      "title": "即席ラーメン記念日",
+      "description": "1958（昭和33）年、日清食品が世界で初めてインスタントラーメン「チキンラーメン」を発売したことを記念して制定。"
+    }
+  }
+}
