@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-25T19:28:40.804364+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Good morning, Sarah. Welcome to The Daily Tanu-chan Show. It's August 25th already, can you believe it?",
+      "ja": "おはようございます、サラさん。「今日のたぬちゃんショー」へようこそ。もう8月25日ですよ、信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time really does fly. You look a bit tired today.",
+      "ja": "おはよう、アレックス。本当に時間が経つのは早いね。今日は少し疲れているように見えるけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I am. The baby was up a few times last night. I really need my coffee this morning.",
+      "ja": "そうなんです。昨夜、赤ちゃんが何回か起きてしまって。今朝は本当にコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's how it is with a little one. Mine are teenagers now, so it's a different kind of tired.",
+      "ja": "小さい子がいるとそうなるものだよ。うちの子たちはもうティーンエイジャーだから、また違う種類の疲れだけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can only imagine. My kid is just over a year old now, and I jump at everything these days. Pretty sure it's the baby. Every little noise, I think they're crying.",
+      "ja": "想像できます。うちの子はもう1歳過ぎたんですけど、最近は些細なことにもすぐ飛び跳ねちゃって。きっと赤ちゃんのせいですよ。ちょっとした物音でも、泣いてるんじゃないかって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a common reaction. It goes away eventually. I'm having green tea today, by the way.",
+      "ja": "よくある反応だよ。そのうちなくなるよ。ちなみに、私は今日は緑茶にしているよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I saw it's overcast again today. And the rain chance is, like, 82%.",
+      "ja": "そうですよね。今日も曇り空みたいですね。降水確率も82%とかで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. I brought my umbrella. It's supposed to get up to 33.5 degrees, even with the clouds.",
+      "ja": "うん。傘は持ってきたよ。曇りでも33.5度まで上がるらしいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so humid and hot. That's a classic summer combo. It makes me feel a bit... I guess, 'perplexed' how we still get such hot days in late August.",
+      "ja": "ああ、じめじめして暑いですね。典型的な夏の組み合わせだ。8月下旬になってもこんなに暑い日が続くなんて、ちょっと…なんていうか、『perplexed』な気持ちになります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Perplexed means confused or puzzled. Like you're not sure what to think.",
+      "ja": "Perplexedは、混乱しているとか、困惑しているという意味だよ。どう考えたらいいか分からない、みたいな感じだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, puzzled. That's a good word. Anyway, I was just skimming the news. Japan's setting new criteria for visa fee cuts for people with financial hardship. Interesting.",
+      "ja": "うん、puzzled。良い言葉ですね。それはさておき、ニュースをざっと見てたんですが。日本が、経済的に困窮している人向けのビザ手数料減免の新しい基準を設けるらしいですね。興味深いなと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They've been talking about that for a while. It makes sense, for some cases, especially with humanitarian consideration.",
+      "ja": "それは前から話に出ていたことだね。人道的な配慮がある場合など、いくつかのケースでは理にかなっていると思うよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. I didn't know they had such specific rules for it. It's good they're clarifying it.",
+      "ja": "そうでしょうね。そこまで具体的なルールがあるとは知りませんでした。明確にしてくれるのは良いことですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, and hotels in the southwest canceled, like, 174,000 bookings after the Kumamoto quake last month. That's a lot.",
+      "ja": "あ、それから、先月の熊本地震の後、南西部のホテルで約17万4000件もの予約がキャンセルになったそうです。すごい数ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough for the local economy. It was a big quake, people are still careful.",
+      "ja": "地元の経済にとっては大変なことだね。大きな地震だったから、みんなまだ慎重になっているんだろう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it must have really impacted them. It takes a long time to recover from something like that.",
+      "ja": "ええ、本当に大きな影響があったでしょうね。ああいうものから立ち直るには長い時間がかかりますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of interesting things, today is 'Youth Hostel Day' in Japan.",
+      "ja": "面白い話といえば、今日は「ユースホステルの日」なんだよ、日本では。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Youth Hostel Day? What's that about?",
+      "ja": "ユースホステルの日ですか？どういうことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because a German teacher, Richard Schirrmann, started them in 1909. He got caught in heavy rain on a school trip and sheltered in a school overnight. He realized young people needed affordable places to stay when traveling.",
+      "ja": "ドイツの教師、リヒャルト・シルマンが1909年に始めたのがきっかけなんだ。彼は遠足中に大雨に遭って、学校で一晩過ごしたんだ。その経験から、若者が経済的に旅行しやすい宿泊場所が必要だと考えたんだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a nice story. So, it's about making travel accessible. That's a great idea, actually.",
+      "ja": "いい話ですね。つまり、旅行をもっと身近なものにするってことですね。それは実際、素晴らしいアイデアです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "There's also this story about Keisuke Unosawa, a designer. Making the ordinary extraordinary, they said. Sounds cool. I always admire people with good interior decor ideas.",
+      "ja": "あと、宇野澤啓介さんというデザイナーの話も載ってました。「OrdinaryをExtraordinaryにする」って書いてましたね。かっこいいな。僕はいつもインテリアのデコレーションのセンスがいい人に憧れます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Decor refers to the style and arrangement of furniture and decorations in a room or building. He's the one who didn't go to a fancy design school, right? I read about him.",
+      "ja": "Decorは、部屋や建物の家具や装飾のスタイル、配置のことだよ。彼は、一流のデザイン学校を出ていない人だよね？私も彼のことを読んだことがあるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that part. That's even cooler, actually. It's like, self-made. It's always inspiring to see someone succeed outside the usual path.",
+      "ja": "あ、その部分は知りませんでした。それはさらにクールですね。自力で成り上がった、みたいな。いつもの道筋以外で成功する人を見ると、いつも刺激を受けます。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You know, all this talk about travel and old stories, it makes me think. I'm really craving ramen today.",
+      "ja": "あの、旅行とか昔の話とか聞いてたら、ふとラーメンが食べたくなりました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh? What kind?",
+      "ja": "あら？どんな種類？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm always torn. Sometimes I want that super rich tonkotsu, but then sometimes a really light shio hits the spot, you know? I'm thinking of that place near the office, their shio is just perfect.",
+      "ja": "いつも迷うんですよ。たまに超濃厚なとんこつが食べたくなるけど、その一方で、すごくあっさりした塩ラーメンが完璧にハマる時もあって。あの、会社近くの店の塩ラーメン、本当に最高なんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I know the place. Their broth is clear and flavorful.",
+      "ja": "その店、知ってるよ。スープが澄んでいて風味豊かだよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. Just thinking about it makes me hungry. It’s hard to choose between rich and light.",
+      "ja": "まさに。考えてるだけでお腹が空いてきます。濃厚とあっさり、選ぶのが本当に難しいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Sometimes you just need something comforting.",
+      "ja": "そうだね。たまには、ただホッとするものが欲しくなるものだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, time flies when you're talking ramen and history.",
+      "ja": "まあ、ラーメンと歴史の話をしていると、時間はあっという間ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. Have a good day, Alex.",
+      "ja": "そうだね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And enjoy your tea.",
+      "ja": "サラさんも。お茶、楽しんでくださいね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 33.5,
+      "temp_min": 24.5,
+      "rain_probability": 82
+    },
+    "news": [
+      {
+        "title": "Japan sets financial hardship, humanitarian need criteria for visa fee cuts",
+        "summary": "Japan's immigration agency said Tuesday that foreigners who meet criteria for financial hardship and humanitarian consideration will be eligible for fee cuts when visa application and renewal charges…",
+        "link": "https://japantoday.com/category/national/japan-sets-financial-hardship-humanitarian-need-criteria-for-visa-fee-cuts"
+      },
+      {
+        "title": "Southwestern Japan hotels see 174,000 cancellations after Kumamoto quake",
+        "summary": "Around 174,000 hotel and ryokan bookings were canceled in six southwestern Japan prefectures, excluding Kumamoto, following the earthquake in the prefecture last month, a tally compiled by Kyodo…",
+        "link": "https://japantoday.com/category/national/southwestern-japan-hotels-see-174-000-cancellations-after-kumamoto-quake"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      }
+    ],
+    "wikipedia": {
+      "title": "ユースホステルの日",
+      "description": "1909年、ドイツの小学校教師だったシルマンが、子供たちの遠足で大雨にあい、ある小学校で雨宿りして翌朝まで過ごした。この経験から、若者たちが経済的な旅をしやすいようにユースホステルを創設した。"
+    }
+  }
+}
