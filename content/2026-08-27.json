@@ -1,0 +1,267 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-26T21:38:10.311055+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 26th already.",
+      "ja": "おはようございます、サラさん。もう8月26日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yes, it is. Raining again.",
+      "ja": "おはよう、アレックス。ええ、そうね。また雨が降ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, feels like it never stops these days. It's 30 degrees, too. The humidity is killer.",
+      "ja": "ええ、最近は降り止まない感じですね。しかも30度。この湿度はきついです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I saw the forecast, 84% chance of rain all day. Low of 23.6 tonight.",
+      "ja": "そうね。予報を見たけど、一日中84%の降水確率よ。今夜の最低気温は23.6度だそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh. I need my coffee before I can even think.",
+      "ja": "うーん。コーヒーを飲まないと何も考えられないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea.",
+      "ja": "私はお茶よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Welcome to The Daily Tanu-chan Show, everyone! Just kidding, don't tell the producer.",
+      "ja": "皆さん、『デイリーたぬちゃんショー』へようこそ！冗談です、プロデューサーには言わないでくださいね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about the river bacteria?",
+      "ja": "川のバクテリアのニュース、見たかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no. What about it?",
+      "ja": "ああ、いえ。どんなニュースですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A Japanese university found bacteria strains that can remove 'forever chemicals' from river sediments.",
+      "ja": "日本の大学が、川の堆積物から『永遠の化学物質』を除去できるバクテリアの株を発見したそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? That sounds pretty good. Those chemicals are pretty bad for us, right? I mean, they're like, really harmful.",
+      "ja": "本当ですか？それはかなり良いニュースですね。あの化学物質って、かなり体に悪いんですよね？というか、本当に有害なものですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, they're considered harmful. It's good news if they can actually remove them.",
+      "ja": "ええ、有害とされているわ。実際に除去できるなら良いニュースね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I wonder how long it'll take to clean up everything. I feel like these things are everywhere now.",
+      "ja": "うん。全部きれいにするのにどれくらいかかるんでしょうね。なんか、今ではどこにでもある気がします。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I heard these chemicals are really detrimental to our health. That means bad, right?",
+      "ja": "この化学物質は健康に本当に『detrimental』だと聞きました。それって、悪いって意味ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it means they cause harm or damage.",
+      "ja": "ええ、害や損害を引き起こすという意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. That's what I thought. So, removing them is definitely a good thing.",
+      "ja": "ああ、なるほど。やっぱり。だから、それらを除去するのは間違いなく良いことですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was also sad news from Aichi. A 13-year-old girl died after being hit by a train.",
+      "ja": "愛知からも悲しいニュースがあったわ。13歳の女の子が電車にはねられて亡くなったそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no. That's awful. So young. My heart goes out to her family.",
+      "ja": "ああ、そんな。ひどい話ですね。まだそんなに若いのに。ご家族のことを思うと胸が痛みます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And two workers died at a chemical plant in western Japan. They were found collapsed.",
+      "ja": "それから、西日本の化学工場で作業員2人が亡くなったそうよ。倒れているところを発見されたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's terrible. I can't imagine what happened. You hear about these kinds of things more often than you'd like.",
+      "ja": "それはひどいですね。何があったのか想像できないです。こういう話って、聞きたくないのに結構聞きますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a difficult situation.",
+      "ja": "つらい状況ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I hope they find out why. You know, sometimes I feel like I read this kind of news every year. It doesn't seem to stop.",
+      "ja": "ええ。原因が分かるといいですね。なんか、毎年こういうニュースを読んでいる気がします。なくならないですよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. Any loud noise, I'm just startled awake.",
+      "ja": "最近は何にでも飛び上がっちゃいます。絶対、赤ちゃんのせいですね。ちょっと大きな音でも、びっくりして目が覚めるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes a while to adjust.",
+      "ja": "慣れるまで時間がかかるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know. My wife says I'm practically sleeping with one eye open. Sometimes I feel like I'm succumbing to sleep in the middle of a meeting. Is that the right word?",
+      "ja": "そうなんです。妻には片目を開けて寝てるって言われます。時々、会議の途中で眠気に『succumbing』している気がします。これって正しい言葉ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it means you're giving in to something, like sleep or an illness.",
+      "ja": "ええ、眠気や病気など、何かに屈する、負けるという意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. So I'm giving in to sleep. It's getting pretty intense at home.",
+      "ja": "なるほど。つまり、眠気に負けてるってことですね。家では結構大変なことになってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "By the way, do you know what today is, August 26th?",
+      "ja": "ところで、今日の8月26日が何の日か知ってるかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, a national holiday? No, not really. What is it?",
+      "ja": "うーん、祝日ですか？いや、違いますよね。何の日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 「男はつらいよ」の日. Tora-san Day.",
+      "ja": "『男はつらいよ』の日よ。寅さんの日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh! Tora-san! I've heard of that. My dad used to watch it. What does that mean, \"Tora-san Day\"?",
+      "ja": "ああ！寅さん！聞いたことがあります。僕の父がよく見てました。その『寅さんの日』って、どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's the day the first \"Otoko wa Tsurai yo\" movie was released in 1969. It became a very long series.",
+      "ja": "1969年に『男はつらいよ』の第1作が公開された日なの。とても長いシリーズになったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1969. That's a long time ago. So it's like a celebration of the series?",
+      "ja": "わあ、1969年ですか。ずいぶん昔ですね。シリーズのお祝いみたいな感じなんですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You could say that. It's a classic.",
+      "ja": "そう言えるわね。名作よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should probably watch one. My dad would be happy.",
+      "ja": "一本くらい見てみるべきですね。父が喜びそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was raining when I went for my walk this morning. I usually like walking along the river.",
+      "ja": "今朝、散歩に行った時も雨が降っていたわ。普段は川沿いを歩くのが好きなの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You still go for walks even in this rain? That's, uh, pretty dedicated.",
+      "ja": "この雨の中でも散歩に行くんですか？それは、えーと、かなり熱心ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good to get out. My kids are still asleep when I leave.",
+      "ja": "外に出るのはいいことよ。私が出かける時は、子供たちはまだ寝ているから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. My little one wakes up pretty early. No quiet mornings for me. It feels like an arduous task sometimes, just getting out the door with everything.",
+      "ja": "ああ、そうですよね。うちの子はかなり早く起きるんです。僕には静かな朝なんてないですね。全部持って家を出るだけでも、時々『arduous』な仕事だと感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it's a lot of work. Arduous is a good way to describe something that requires a lot of effort and is difficult.",
+      "ja": "ええ、大変なことよ。Arduousは、たくさんの努力が必要で難しいことを表現するのに良い言葉ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. Trying to remember everything for the baby, and then my own stuff. It's a daily challenge.",
+      "ja": "まさに。赤ちゃんのものを全部覚えて、それから自分のものも。毎日が挑戦です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, I hope the rain lets up a bit later.",
+      "ja": "まあ、後で少しは雨が止むといいけれど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Me too. Maybe I can sneak in a quick nap later. Ha.",
+      "ja": "僕もです。後でちょっと昼寝できるといいな。はは。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Have a good one, Sarah.",
+      "ja": "良い一日を、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 30.5,
+      "temp_min": 23.6,
+      "rain_probability": 84
+    },
+    "news": [
+      {
+        "title": "Japanese university finds river bacteria that remove 'forever chemicals'",
+        "summary": "A research team has found that bacterial strains in river sediments contaminated with so-called forever chemicals can remove the harmful substances, according to a Japanese university that led…",
+        "link": "https://japantoday.com/category/national/japanese-university-finds-river-bacteria-that-remove-forever-chemicals"
+      },
+      {
+        "title": "13-year-old girl dies after being hit by train in Aichi",
+        "summary": "A 13-year-old girl died after being hit by a train on the Meitetsu Nagoya Main Line in Okazaki City, Aichi Prefecture, on Sunday.\nAccording to police, the incident…",
+        "link": "https://japantoday.com/category/national/13-year-old-girl-dies-after-being-hit-by-train-in-aichi"
+      },
+      {
+        "title": "2 workers die at chemical plant in western Japan",
+        "summary": "Two workers at a chemical product factory in western Japan died Sunday after being found collapsed there the previous day, police said.\nPolice believe the two may have…",
+        "link": "https://japantoday.com/category/national/2-workers-die-at-chemical-plant-in-western-japan-lack-of-oxygen-suspected"
+      }
+    ],
+    "wikipedia": {
+      "title": "「男はつらいよ」の日",
+      "description": "1969（昭和44）年、山田洋次監督、渥美清主演の映画「男はつらいよ」シリーズの第1作の公開日。以降、第48作（平成7年）、特別篇（平成9年）まで続いた。"
+    }
+  }
+}
