@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T02:25:20.415972+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 28th already.",
+      "ja": "おはようございます、サラさん。もう8月28日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It's a bit drizzly out today.",
+      "ja": "おはよう、アレックス。今日は少し小雨が降ってるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell me about it. I almost wiped out on my bike just coming in. Feels like 31 degrees too, even with the rain.",
+      "ja": "まったくだよ。自転車で来る途中で、もう少しで転びそうになったよ。雨が降ってても31度くらいある気がする。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's pretty humid. They're saying an 82% chance of rain for most of the day. Welcome to The Daily Tanu-chan Show.",
+      "ja": "うん、かなり蒸し暑いね。今日は一日中82%の降水確率だって。The Daily Tanu-chan Showへようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that explains it. I usually check the weather before I leave, but the baby was on a mission to destroy the kitchen this morning.",
+      "ja": "ああ、それでか。いつも出発前に天気を確認するんだけど、今朝はうちの赤ちゃんが台所を破壊するミッション中だったんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds familiar. Did you see that news story about the music venue in Tokyo?",
+      "ja": "よく聞く話だね。東京の音楽会場のニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no. What about it?",
+      "ja": "ああ、いや。どんなニュース？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're looking for a band to live on the premises and perform every day for a week.",
+      "ja": "バンドを募集してるんだって。施設に住み込んで、一週間毎日演奏するんだって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Live on the… premises? What does 'premises' mean?",
+      "ja": "住み込む…プレミス？『プレミス』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just means the building itself, or the land it's on. So, live at the venue.",
+      "ja": "建物自体、あるいはその敷地のことだよ。つまり、会場に住むってこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. That's kind of intense. Imagine living with your bandmates for a whole week, performing every single day.",
+      "ja": "なるほど。それはちょっと大変ですね。バンドメンバーと一週間ずっと一緒に住んで、毎日演奏するなんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It would definitely test their teamwork.",
+      "ja": "確かに、チームワークが試されるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I can barely handle a weekend trip with my friends sometimes. My coffee intake would probably go through the roof.",
+      "ja": "うん。友達との週末旅行ですら大変な時があるのに。コーヒーの摂取量がたぶん大変なことになるだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine.",
+      "ja": "想像できるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of crazy, did you hear about the leisure boat near Haneda?",
+      "ja": "大変なことといえば、羽田の近くのレジャーボートの話、聞きました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it hit a seawall. Nine people were injured.",
+      "ja": "ええ、防波堤に衝突した件ね。9人が負傷したそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A 'leisure boat'? Is that like a pleasure boat, or just for fun?",
+      "ja": "『レジャーボート』？それは遊覧船みたいなものですか、それともただの遊び用？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. For enjoyment, not for carrying cargo or working.",
+      "ja": "その通り。貨物を運んだり仕事のためじゃなくて、楽しむためのものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay. And it hit a 'seawall'? What's that exactly?",
+      "ja": "なるほど。それで『防波堤』に衝突したって？それって具体的に何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a barrier built along the coast to protect the land from the sea and waves. Like a big concrete wall by the water.",
+      "ja": "海岸線に沿って造られた、陸地を海や波から守るための障壁のことよ。水際にある大きなコンクリートの壁のようなものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. That makes sense. Still, pretty scary to crash into one of those.",
+      "ja": "ああ、なるほど。納得です。それでも、ああいうものに衝突するのはかなり怖いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Very. Hope everyone recovers quickly. Anyway, did you know today is 民放テレビスタートの日?",
+      "ja": "本当にね。みんな早く回復するといいわ。ところで、今日は『民放テレビスタートの日』だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? What's that about?",
+      "ja": "へえ、そうなんですか？どういう日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's the day in 1953 when Nippon TV started the first commercial television broadcast in Japan.",
+      "ja": "1953年に日本テレビが日本で初めて民間放送のテレビ放送を開始した日なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1953. That's way before my time. I can't even imagine a world without TV, let alone just one channel.",
+      "ja": "うわあ、1953年か。僕が生まれるずっと前ですね。テレビがない世界なんて想像できないのに、ましてやチャンネルが一つだけなんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was quite different. Families would gather around the one TV set, and there were only a few hours of programming each day.",
+      "ja": "かなり違ったわね。家族がたった一台のテレビの周りに集まって、一日の番組も数時間しかなかったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's wild. My kid already knows how to navigate YouTube Kids better than I do. It's a whole new world.",
+      "ja": "それはすごいですね。うちの子供は、僕よりYouTube Kidsを使いこなしてるからな。全く新しい世界ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They grow up fast. My son just started high school, and my daughter is already talking about what she'll do after university.",
+      "ja": "成長は早いわよ。うちの息子は高校に入ったばかりだし、娘はもう大学卒業後のことを話してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's both exciting and terrifying, I bet. I'm just trying to get through the baby's teething stage right now.",
+      "ja": "それは刺激的で、同時に恐ろしいでしょうね。僕は今、赤ちゃんの歯が生える時期を乗り切ろうとしてるだけですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It passes.",
+      "ja": "そのうち終わるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Easy for you to say. I'm on my third cup of coffee, and it's barely 8 AM. I think I might actually be part coffee at this point.",
+      "ja": "サラさんはそう言うけどさ。もうコーヒー3杯目ですよ、まだ午前8時なのに。もうこの体、半分コーヒーでできてるんじゃないかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'll stick to my tea.",
+      "ja": "私はお茶でいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Smart choice. Well, I guess we should probably get to work before we turn into coffee and tea statues.",
+      "ja": "賢明な選択ですね。さて、コーヒーと紅茶の銅像になる前に、仕事に取り掛かるべきでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. Have a good one, Alex.",
+      "ja": "いい考えね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Stay dry out there.",
+      "ja": "サラさんもね。濡れないようにしてください。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 31.1,
+      "temp_min": 22.7,
+      "rain_probability": 82
+    },
+    "news": [
+      {
+        "title": "2 workers die at chemical plant in western Japan",
+        "summary": "Two workers at a chemical product factory in western Japan died Sunday after being found collapsed there the previous day, police said.\nPolice believe the two may have…",
+        "link": "https://japantoday.com/category/national/2-workers-die-at-chemical-plant-in-western-japan-lack-of-oxygen-suspected"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "9 people hurt after leisure boat strikes seawall near Tokyo's Haneda airport",
+        "summary": "Nine people were injured, two seriously, after a leisure boat collided with a seawall near Haneda airport in Tokyo on Monday, according to the coast guard.\nAn emergency…",
+        "link": "https://japantoday.com/category/national/update1-9-people-hurt-after-boat-strikes-seawall-near-tokyo%27s-haneda-airport"
+      }
+    ],
+    "wikipedia": {
+      "title": "民放テレビスタートの日",
+      "description": "1953年、日本テレビが民間放送として初のテレビ放送を開始した。"
+    }
+  }
+}
