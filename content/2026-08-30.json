@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-29T21:30:17.087126+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 29th, 2026. Can't believe it's almost September already.",
+      "ja": "おはようございます、サラさん。2026年8月29日。もうすぐ9月なんて信じられないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, the year seems to be moving quickly, doesn't it?",
+      "ja": "おはよう、アレックス。ええ、あっという間に一年が過ぎていくわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Seriously. I'm already thinking about my morning coffee. Absolutely essential.",
+      "ja": "本当に。もう朝のコーヒーのこと考えてますよ。絶対必要。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea. Did you notice the light drizzle outside? It's a bit humid.",
+      "ja": "私はお茶ね。外、小雨が降ってるの気づいた？少し蒸し暑いわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't really notice. I was probably half-asleep on the train. I jump at everything these days, though. Pretty sure it's the baby.",
+      "ja": "あ、全然気づかなかった。電車の中で半分寝てたかも。最近はもう何にでも飛び跳ねる感じですけどね。多分、赤ちゃんのせい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They certainly keep you alert. Today's high is supposed to be 25.5 degrees, low 19.7. And a 39% chance of rain.",
+      "ja": "確かに、気を張らせるわよね。今日の最高気温は25.5度、最低が19.7度らしいわ。降水確率は39%。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds... okay, I guess. Not too hot for the end of August. Anyway, I saw an interesting news headline on NHK World. About a Japanese master craftsman building a tiny house on wheels.",
+      "ja": "それは…まあ、いいんじゃないですかね。8月の終わりにしては暑すぎない。ところで、NHKワールドで面白いニュースの見出しを見ましたよ。日本の職人さんが、車輪のついた小さな家を作ったっていう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I think I saw that. They featured it on a YouTube channel, 'Living Big in…' something.",
+      "ja": "あ、それ私も見た気がするわ。「Living Big in…」というYouTubeチャンネルで紹介されてたやつね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's it! It looked amazing. So compact, but everything you need. I was thinking, maybe for my kid's future, when they go to university, they could have one.",
+      "ja": "それです！すごかったですよね。すごくコンパクトなのに、必要なものが全部ある。うちの子が将来、大学に行くときに、これを持たせたらどうかなって思いました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's an interesting idea. Though I imagine it might be quite a change from living in a regular home.",
+      "ja": "それは面白い考えね。ただ、普通の家からだと結構な変化かもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, maybe. Speaking of changes, there's another news item about Japan surveying animal cafes due to hygiene and welfare concerns.",
+      "ja": "ええ、そうかもしれませんね。変化といえば、日本の動物カフェが衛生と福祉の懸念で調査されるっていうニュースもありますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good thing. I've always had some reservations about those places. Especially for the animals that aren't naturally suited to being constantly handled.",
+      "ja": "それは良いことだわ。私はああいう場所にはいつも少し懸念があったの。特に、常に人に触られることに本来向いていない動物たちにとってはね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can see that. Some of the pictures I've seen... it looks like it could be quite an irksome experience for them.",
+      "ja": "わかります。見た写真の中には…動物たちにとってかなり「厄介な」経験になりそうに見えるものもありました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Irksome? That's a good word. It means annoying or irritating.",
+      "ja": "「Irksome」ね？良い言葉ね。それは「迷惑な」とか「いらいらさせる」という意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, like when my baby keeps grabbing my glasses. That's pretty irksome sometimes. But cute, too.",
+      "ja": "ああ、なるほど。じゃあ、うちの赤ちゃんが僕のメガネをずっと掴んでる時みたいな。あれも時々かなりirksomeですね。でも可愛いからいいか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Another story was about Yuki Tsumugi, the unique silk manufacturing in Tochigi Prefecture.",
+      "ja": "その通りよ。別のニュースは、栃木県の独特な絹織物である結城紬についてだったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. Tochigi, huh? I just think of gyoza when I hear Tochigi.",
+      "ja": "へえ、それは知りませんでした。栃木ですか？栃木と聞くと餃子しか思い浮かばないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a very old and traditional craft. They use special techniques to create very soft, durable silk fabric. The process is quite involved.",
+      "ja": "とても古く、伝統的な工芸品よ。特殊な技術を使って、とても柔らかく丈夫な絹の生地を作るの。その工程はかなり複雑よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds like something you'd want to keep for a long time. You know, I just remembered, it's August 29th, but tomorrow, August 30th, is actually 'Happy Sunshine Day' in Japan.",
+      "ja": "長く大切にしたいものですね。そういえば、今8月29日ですけど、明日、8月30日は日本だと「ハッピーサンシャインデー」なんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. From the wordplay: 'Happy (8) Sunshine (30)'. It's meant to be a day to spend with a bright, sunny smile to feel happy.",
+      "ja": "ええ、そうね。「ハッピー（8）サンシャイン（30）」の語呂合わせからね。明るい太陽のような笑顔で過ごせば、ハッピーな気分になれる日とされているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's what I thought! I try to do that every day, especially with the baby. Sometimes, though, I have to forgo a lot of sleep to make sure they're happy.",
+      "ja": "そうなんですよ！僕も毎日そうしようとしてるんです、特に赤ちゃんがいるから。でも時々、赤ちゃんが幸せであるために、たくさんの睡眠を「諦め」ないといけないんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Forgo means to give up or do without something.",
+      "ja": "「Forgo」は、何かを諦める、または何かをせずに済ます、という意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, forgo sleep. Or my coffee sometimes, if I'm really rushing. It's totally worth it, of course.",
+      "ja": "そう、睡眠をforgoする。あるいは、本当に急いでる時はコーヒーも。もちろん、それだけの価値はありますけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a balance. My kids are teenagers now, so it's a different kind of balance. Less about sleep, more about convincing them to do their homework.",
+      "ja": "バランスね。うちの子たちはもうティーンエイジャーだから、また違う種類のバランスよ。睡眠より、宿題をさせる説得に費やす時間が多いわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, the next stage. I can already imagine. So, for Happy Sunshine Day, maybe I should just aim for one big smile from the baby. That's enough for me.",
+      "ja": "ああ、次の段階ですね。もう想像できます。じゃあハッピーサンシャインデーは、赤ちゃんの最高の笑顔を一つもらうことを目標にしようかな。それだけで十分です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds like a perfect goal. And maybe some sunshine will break through the drizzle later.",
+      "ja": "それは完璧な目標ね。そして、もしかしたらこの小雨の後に太陽が顔を出すかもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. I'm ready for the weekend. This is The Daily Tanu-chan Show. Thanks for listening!",
+      "ja": "そうだといいな。週末が待ち遠しいです。The Daily Tanu-chan Showでした。お聞きいただきありがとうございます！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a great day, everyone.",
+      "ja": "皆さん、良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 25.5,
+      "temp_min": 19.7,
+      "rain_probability": 39
+    },
+    "news": [
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Japan to survey animal cafes over hygiene, welfare concerns",
+        "summary": "Japan plans to probe popular animal cafes, where visitors can interact with anything from cats to capybaras, following concerns about hygiene and the creatures' welfare, authorities said Thursday.…",
+        "link": "https://japantoday.com/category/national/japan-to-survey-animal-cafes-over-hygiene-concerns"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      }
+    ],
+    "wikipedia": {
+      "title": "ハッピーサンシャインデー",
+      "description": "「ハッピー（8）サンシャイン（30）」の語呂合わせから、太陽のような明るい笑顔で過ごせば、ハッピーな気分になれる日。"
+    }
+  }
+}
