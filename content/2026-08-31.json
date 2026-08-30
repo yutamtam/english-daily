@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-30T21:50:01.027594+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 30th, 2026 already. Where does the time go?",
+      "ja": "おはようございます、サラさん。もう2026年8月30日ですね。時間の流れが早いです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It certainly does. Here's your coffee.",
+      "ja": "おはよう、アレックス。本当にね。コーヒーどうぞ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, thank you. This is non-negotiable for me these days. Especially with the baby waking up at five every morning.",
+      "ja": "ああ、ありがとうございます。最近はこれが欠かせません。特に赤ちゃんが毎朝5時に起きるので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Five is early.",
+      "ja": "5時は早いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "ええ。最近はちょっとした音でも飛び起きちゃいます。きっと赤ちゃんのせいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It’s still warm out, isn't it? Even at five AM.",
+      "ja": "まだ外は暑いでしょう？朝の5時でも。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. The forecast for Tokyo today is partly cloudy, high of 29.4 degrees, low of 22.3. Only a 12% chance of rain.",
+      "ja": "本当に暑いですね。今日の東京の天気予報は、一部曇りで最高気温は29.4度、最低は22.3度。降水確率はわずか12%だそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. Good for drying laundry, I suppose.",
+      "ja": "ふむ。洗濯物を干すにはいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things happening, I saw some news headlines. A Japan Self-Defense Forces destroyer just returned to port after testing Tomahawk missiles.",
+      "ja": "そういえば、ニュースを見ました。海上自衛隊の護衛艦がトマホークミサイルの発射試験を終えて帰港したそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. It's a significant upgrade.",
+      "ja": "ええ、見たわ。重要なアップグレードね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I mean, it doesn't really change anything for us in the office, but it's... big news.",
+      "ja": "ですよね？僕らのオフィスには関係ない話ですけど、これは…大きなニュースですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. And then there's the Sendai news.",
+      "ja": "そうね。あと、仙台のニュースがあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the Fukushima cleanup soil being reused in Sendai? That's... well, a step forward, maybe? I don't know.",
+      "ja": "ああ、福島原発の除染土壌が仙台で再利用されるっていうニュースですか？それは…まあ、前進、なのかな？どうなんでしょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a difficult topic. They're trying to find solutions for the huge volume of soil. But people still have questions.",
+      "ja": "難しい問題ね。膨大な量の土壌の解決策を見つけようとしているけれど、まだ疑問を持っている人もいるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. It makes me feel a bit of... what's the word? Disquiet? Like, a quiet unease about it all.",
+      "ja": "ええ、そうでしょうね。なんか、少し…なんて言うんでしょう？ディスクワイエット？すべてに対して静かな不安を感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Disquiet. Yes, a feeling of anxiety or worry. It’s a good word for that kind of uncertainty.",
+      "ja": "ディスクワイエットね。ええ、不安や心配の気持ちよ。そういう不確実な状況にはぴったりの言葉ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks. That makes sense. Anyway, here's a lighter one. 'Roppongi Kabuki Part II Zatoichi' is being called 'the most accessible Kabuki ever'.",
+      "ja": "ありがとうございます。なるほど。ところで、もっと軽いニュースです。「六本木歌舞伎II 座頭市」が「史上最も親しみやすい歌舞伎」と呼ばれているそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I heard about that. They're trying to attract new audiences, making it shorter and easier to understand.",
+      "ja": "ああ、それ聞いたわ。新しい客層を引きつけようと、短くして分かりやすくしているのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I mean, four hours of traditional Kabuki, I probably wouldn't last. But 'accessible Kabuki'... sounds almost, uh, audacious?",
+      "ja": "だって、伝統的な歌舞伎を4時間見るのは、僕には多分無理ですよ。「親しみやすい歌舞伎」って、なんだか、えーと、オーデイシャス？な感じがしますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Audacious. Yes, it means very bold or daring, sometimes a little bit cheeky. For Kabuki, it's quite a departure.",
+      "ja": "オーデイシャスね。ええ、それは非常に大胆な、または向こう見ずな、時には少し生意気な、という意味よ。歌舞伎にとってはかなり異例のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Bold. I guess they're trying something new. Maybe I should check it out.",
+      "ja": "なるほど。大胆。新しいことを試しているんですね。もしかしたら見に行くべきかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You might like it. My daughter went last year and enjoyed it.",
+      "ja": "気に入るかもしれないわね。うちの娘が去年行って、楽しかったと言っていたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things to try, I just remembered, it's August 30th today, so tomorrow is 'Yasai no Hi'. Vegetable Day!",
+      "ja": "試してみることと言えば、今思い出したんですけど、今日は8月30日だから、明日は「野菜の日」ですね。ベジタブルデー！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. Yasai no Hi. It's a goroawase, isn't it? 8 for 'ya', 3 for 'sa', 1 for 'i'.",
+      "ja": "ああ、そうね。野菜の日。語呂合わせよね？8が「や」、3が「さ」、1が「い」。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's it! I always forget the goroawase. It's to encourage people to eat more vegetables, right?",
+      "ja": "それです！語呂合わせはいつも忘れちゃうんですよ。野菜をもっと食べようって奨励するためでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. To reconsider the nutritional value and taste. I'm trying to grow more in my garden this year.",
+      "ja": "その通り。栄養価や美味しさを見直してもらうためね。今年は庭でもっとたくさん育てようと頑張っているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's right, you have a garden. What's growing well these days?",
+      "ja": "ああ、そうでしたね、サラさん庭があったんでした。最近は何がよく育っていますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Cherry tomatoes are still going strong. And cucumbers. Though the eggplants aren't doing great this season.",
+      "ja": "ミニトマトはまだ元気に育っているわ。キュウリもね。でもナスは今シーズン、あまり良くないの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's too bad about the eggplants. But tomatoes and cucumbers are good. I'm trying to get my little one to eat more vegetables now.",
+      "ja": "ナスは残念ですね。でもトマトとキュウリはいいですね。うちの子にももっと野菜を食べさせようと頑張っているところです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a battle, sometimes.",
+      "ja": "時々、戦いになるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. He mostly just smashes them. But we keep trying.",
+      "ja": "ええ。たいていはただ潰すだけなんですけどね。でも、挑戦し続けます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You will. My kids were picky eaters. Still are, sometimes.",
+      "ja": "そうするしかないわ。うちの子たちも好き嫌いが多かったの。今でもたまにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's the daily challenge, I guess. It's funny how quickly things change. Just a year and a bit ago, I had no idea what 'Yasai no Hi' meant.",
+      "ja": "まあ、それが日々の挑戦ってやつですかね。本当にあっという間に色々なことが変わりますね。たった1年ちょっと前までは、「野菜の日」が何を意味するのかさえ知らなかったのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Life brings new knowledge.",
+      "ja": "人生は新しい知識をもたらすものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does. And on that note, we're almost out of time for The Daily Tanu-chan Show today.",
+      "ja": "本当にそうですね。というわけで、今日の「The Daily Tanu-chan Show」もそろそろお時間です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thank you for joining us.",
+      "ja": "お聞きいただき、ありがとうございました。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Have a great day, everyone. And try to eat your vegetables!",
+      "ja": "皆さん、良い一日を。そして、野菜を食べてくださいね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you tomorrow.",
+      "ja": "また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 29.4,
+      "temp_min": 22.3,
+      "rain_probability": 12
+    },
+    "news": [
+      {
+        "title": "Japan destroyer returns to home port, equipped with Tomahawk missile capability",
+        "summary": "A Japanese Self-Defense Forces destroyer returned Sunday to its home port in Sasebo, Nagasaki Prefecture in southwestern Japan, after successfully conducting a live-fire test of a Tomahawk cruise…",
+        "link": "https://japantoday.com/category/national/japan-destroyer-returns-equipped-with-tomahawk-missile-capability"
+      },
+      {
+        "title": "Sendai reuses Fukushima cleanup soil",
+        "summary": "A national government branch office in Sendai, Miyagi Prefecture, on Saturday became the first site outside of Tokyo to reuse soil collected during decontamination work near the disaster-stricken…",
+        "link": "https://japantoday.com/category/national/sendai-reuses-fukushima-cleanup-soil-1st-time-outside-tokyo"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      }
+    ],
+    "wikipedia": {
+      "title": "野菜の日",
+      "description": "1983（昭和58）年、「や（8）さ（3）い（1）」の語呂合わせから、全国青果物商業協同組合連合会など9団体が制定。野菜の栄養価やおいしさを見直してもらうことが目的。"
+    }
+  }
+}
