@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-08-31T23:07:21.906346+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. August 31st already. This year is flying by.",
+      "ja": "おはようございます、サラさん。もう8月31日ですね。あっという間です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It really is. How was your morning, Alex?",
+      "ja": "本当にね。今朝はどうだった？アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The baby was up super early, so I'm already on my second coffee. Can't start the day without it, you know?",
+      "ja": "うちの子がすごく早く起きて、もう2杯目のコーヒー飲んでます。これがないと一日が始まらないんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. Mine are teenagers now, so it's a different kind of early start.",
+      "ja": "そういう時期もあったわね。うちの子たちはもうティーンエイジャーだから、また別の種類の早起きよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. So, what's the weather like today? I didn't even check.",
+      "ja": "ええ、想像できます。それで、今日の天気はどうですか？僕、まだ確認してなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Partly cloudy today in Tokyo. High of 29.9 degrees Celsius, low of 22.1. And a 42% chance of rain.",
+      "ja": "今日の東京は、ところどころ曇りね。最高気温は29.9度、最低は22.1度。降水確率は42%よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Almost 30 degrees again. It feels like summer just doesn't want to leave. My little one gets so sweaty.",
+      "ja": "また30度近いですね。夏がなかなか終わってくれない感じです。うちの子、すごく汗っかきなんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's still warm, but the evenings are a bit cooler. My son usually complains about the heat when he's trying to study.",
+      "ja": "まだ暑いけど、夕方は少し涼しくなったわね。うちの息子はいつも勉強するときに暑いって文句言ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things happening, I saw some news about traditional Japanese silk. Yuki Tsumugi, from Tochigi Prefecture.",
+      "ja": "そういえば、日本の伝統的な絹織物のニュースを見ました。栃木県の結城紬（ゆうきつむぎ）です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's beautiful fabric. Very unique weaving technique, passed down for generations.",
+      "ja": "ああ、あれは美しい織物ね。とても独特な織り方で、何世代も受け継がれているのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it sounds like it. I didn't know much about it, but it's cool how they keep those traditions alive.",
+      "ja": "ええ、そうみたいです。あまり知らなかったんですけど、そういう伝統が生き続けてるのってすごいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes a lot of skill and patience.",
+      "ja": "たくさんの技術と忍耐が必要なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I also saw that clothing company, Nutte, is making character costumes from mobile games. For cosplay, I guess.",
+      "ja": "あと、服の会社、Nutteが、モバイルゲームのキャラクター衣装を作ってるっていうのも見ました。コスプレ用だと思うんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That makes sense. Cosplay is very popular. My daughter sometimes talks about it with her friends.",
+      "ja": "それはありえるわね。コスプレはとても人気があるから。うちの娘も時々友達と話してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can see the appeal. Though I don't think I'd be very good at it.",
+      "ja": "魅力はわかります。でも、僕はあまり得意じゃないと思いますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not.",
+      "ja": "たぶんね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, and this one was a bit more serious. About Japan's emergency alert system being `vulnerable` to fake data. What does `vulnerable` mean, exactly?",
+      "ja": "ああ、それから、これはもう少し深刻なニュースでした。日本の緊急警報システムが偽データに『vulnerable』だって。この『vulnerable』って、具体的にどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Vulnerable` means it's easily attacked or harmed. So, the system could be tricked by false information.",
+      "ja": "『Vulnerable』は、簡単に攻撃されたり、傷つけられたりしやすい、という意味よ。つまり、システムが偽の情報に騙される可能性があるということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. That's a bit worrying. It also mentioned something about not being able to `encrypt` data. Is that related?",
+      "ja": "ああ、なるほど。それはちょっと心配ですね。データが『encrypt』できないってことも書いてあったんですが、それも関係ありますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it is. To `encrypt` means to scramble information so only authorized people can read it. If it's not encrypted, it's easier to mess with.",
+      "ja": "ええ、関係あるわ。データを『encrypt』するというのは、情報を暗号化して、許可された人だけが読めるようにすることよ。暗号化されていないと、改ざんされやすくなるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, basically, it's open to being tricked and nobody can really confirm if the message is real or not. That's not good at all. Especially with a baby at home now, I think about these things more.",
+      "ja": "じゃあ、つまり、騙されやすくて、メッセージが本物かどうかも確認できないってことですね。それは全然良くない。特に今、家に赤ちゃんがいるから、こういうこと、より考えるようになりました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an important issue to address. Especially for an alert system.",
+      "ja": "対処すべき重要な問題ね。特に警報システムとしては。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That actually reminds me, it's August 31st today. Isn't that Bousai no Hi?",
+      "ja": "それ聞いて思い出しましたけど、今日って8月31日ですよね。防災の日じゃありませんでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're right. 防災の日, Disaster Prevention Day. It's to remember the Great Kanto Earthquake in 1923 and to promote disaster preparedness.",
+      "ja": "そうよ。防災の日ね。1923年の関東大震災を教訓に、災害への備えと防災意識を高めるための日なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, right. They always have drills in schools and offices, don't they? I guess that's why.",
+      "ja": "そうですね。学校とか会社でよく訓練がありますよね。だからなんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, many places hold drills today. It's a good reminder for everyone to check their emergency kits and plans.",
+      "ja": "ええ、多くの場所で今日、訓練が行われるわ。みんなが非常用キットや計画を確認する良いきっかけになるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should probably check ours. We have a kit, but I haven't looked at it since before the baby was born. What kind of `debris` would we need to watch out for after an earthquake?",
+      "ja": "僕もそろそろ確認しないと。キットはありますけど、うちの子が生まれる前から見てないです。地震の後って、どんな『debris』に気をつけないといけないんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Debris` means scattered pieces of rubbish or wreckage. So, fallen objects, broken glass, things like that. You just need to be careful where you walk.",
+      "ja": "『Debris』は、散らばったゴミや瓦礫のことね。だから、落ちてきた物、割れたガラスなんかがそう。どこを歩くかに注意が必要よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, okay. So, just be aware of your surroundings. I hope we never have to use any of that.",
+      "ja": "なるほど。じゃあ、周囲に気を配るってことですね。そういうのが必要になるようなことが、起こらないといいんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's always better to be prepared. My garden is still doing well, despite the heat. The tomatoes are ripening nicely.",
+      "ja": "備えあれば憂いなし、よ。私の庭は、この暑さにもかかわらず、まだ元気よ。トマトが良い感じで熟してきてるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. I tried to grow some herbs once, but they didn't really take off. I think I forgot to water them.",
+      "ja": "それは良いですね。僕も一度ハーブを育ててみたんですけど、あまり育たなくて。たぶん、水をあげるのを忘れちゃったんだと思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They need consistent care. But it's very satisfying when you pick something you've grown yourself.",
+      "ja": "継続的な手入れが必要なのよ。でも、自分で育てたものを収穫するのは、とても満足感があるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Maybe when my kid is a bit older, we can try gardening together. Like, teach them about nature.",
+      "ja": "想像できます。たぶん、うちの子がもう少し大きくなったら、一緒にガーデニングをやってみようかな。自然について教える感じで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a nice idea.",
+      "ja": "それはいい考えね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Well, this has been The Daily Tanu-chan Show for August 31st. Thanks, Sarah.",
+      "ja": "ええ。さて、8月31日のザ・デイリー・たぬちゃん・ショーでした。ありがとうございました、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome, Alex. Have a good day.",
+      "ja": "どういたしまして、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 29.9,
+      "temp_min": 22.1,
+      "rain_probability": 42
+    },
+    "news": [
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      },
+      {
+        "title": "Fake data may activate Japan's emergency alert: expert",
+        "summary": "Japan's nationwide emergency alert system lacks the capability to encrypt data transmitted via satellites and verify the source, making it vulnerable to fake data that could activate the…",
+        "link": "https://japantoday.com/category/national/fake-data-may-activate-japan%27s-emergency-alert-expert"
+      }
+    ],
+    "wikipedia": {
+      "title": "防災の日",
+      "description": "1923（大正12）年の関東大震災を教訓に、災害に備え、防災意識を高めようと、1960（昭和35）年に制定。毎年、各地で防災訓練が行われる。"
+    }
+  }
+}
