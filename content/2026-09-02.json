@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-01T21:34:40.623840+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 1st, 2026. Already September!",
+      "ja": "おはようございます、サラさん。2026年9月1日。もう9月ですね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really is. Did you manage to get some coffee?",
+      "ja": "おはよう、アレックス。本当にね。コーヒーは飲めた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just finished my first cup. Need that caffeine to even start thinking. You're on tea, as always.",
+      "ja": "一杯目を飲み終えたところです。カフェインがないと何も考えられない。サラさんはいつものお茶ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Always. Helps me focus. It's going to be another warm one today, isn't it? Partly cloudy, 31 degrees.",
+      "ja": "いつもね。集中できるから。今日もまた暑くなるわね？ところどころ曇り、31度。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, still feels like summer. They say there's a 41% chance of rain later, too. Hope it cools things down a bit.",
+      "ja": "ええ、まだ夏みたいですね。後で雨の確率が41%もあるって。少しは涼しくなるといいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe. Did you see the news about the samurai sword discovery?",
+      "ja": "そうだといいわね。サムライの刀が見つかったっていうニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I did! Yoshida Shoin's sword, found in America. That's a really poignant story, actually.",
+      "ja": "見ました！吉田松陰の刀がアメリカで見つかったって。あれは本当に、切ないというか、心に響く話ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Poignant? What do you mean by that, Alex?",
+      "ja": "ポイグナント？アレックス、どういう意味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it's like... sad but also beautiful. It makes you feel a deep, mixed emotion. Like a historical connection from so long ago, showing up now.",
+      "ja": "ああ、なんていうか…悲しいけど美しい、みたいな。深く、複雑な感情を抱かせるんです。ずっと昔の歴史的なつながりが、今になって現れる、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I see. A sad kind of beautiful. Yes, I agree.",
+      "ja": "なるほどね。悲しいけれど美しい、と。ええ、そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It got me thinking about history. Anyway, also saw the news about the Machida Hiroko Interior Coordinator Academy. Digital art of national treasures.",
+      "ja": "歴史について考えさせられました。ところで、町田ひろ子インテリアコーディネーターアカデミーのニュースも見ました。国宝をデジタルアートにするってやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. It's a way to bring culture into more homes, I suppose. And maybe make these treasures more accessible.",
+      "ja": "ええ、見たわ。もっと多くの家に文化を取り入れる方法ね。それと、これらの宝物をより身近にする、という意味もあるのかもしれないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I think it's a good idea. Sometimes I feel like art is only for museums. This makes it feel more current. And the Kumamoto quake news...",
+      "ja": "いいアイデアだと思います。たまに、アートは美術館だけにあるものだと感じてしまうので。これはもっと今っぽく感じさせてくれますね。それから、熊本の地震のニュースなんですが…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Still so many people in shelters, a month later. Over 2,000. It's difficult.",
+      "ja": "まだ多くの人が避難所にいるのね、1ヶ月経っても。2000人以上。大変なことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. And with this heat, it must be even harder for them. My little one is sleeping fine, but I can't imagine trying to keep a baby cool in a shelter.",
+      "ja": "そうですね。この暑さだと、もっと大変でしょう。うちの子はよく寝ていますが、避難所で赤ちゃんを涼しく保つなんて想像できません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It would be very challenging. I remember when my kids were little, a hot night felt like an entire week.",
+      "ja": "それはとても大変でしょうね。私の子供たちが小さかった頃、暑い夜はまるで一週間のように感じたのを覚えているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! Every little cry feels amplified. I guess that's just parenting, huh?",
+      "ja": "ええ、まさに！ちょっとした泣き声もすごく大きく聞こえるんです。それが子育てってことなんですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. That's part of it. Oh, by the way, speaking of dates... did you know tomorrow, September 2nd, is Lottery Day?",
+      "ja": "そうよ。それも一部ね。あ、ところで、日付の話だけど…明日、9月2日は「宝くじの日」って知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Lottery Day? No, I didn't know that. What's that about?",
+      "ja": "宝くじの日？いや、知りませんでした。何の日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was set up in 1967. They chose 9 and 2 because 'ku-ji' sounds like 9 and 2 in Japanese. It's to remind people to claim their lottery winnings before they expire.",
+      "ja": "1967年に制定されたの。「くじ」が9と2の語呂合わせになるから。期限切れになる前に宝くじの当選金を引き換えるように促すためよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's actually pretty smart. I always forget to check my tickets. I'm usually dreaming about what I'd buy if I won big.",
+      "ja": "それって結構賢いですね。僕はいつもチケットを確認するのを忘れちゃうんです。いつも大金が当たったら何を買うか夢見てるんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "What would you buy?",
+      "ja": "何を買うの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, probably some top-tier camping gear. The allure of being out in nature, away from all the city noise... I've been looking at some new tents online, actually.",
+      "ja": "あー、多分最高級のキャンプ用品とかですね。自然の中にいて、都会の喧騒から離れる魅力…実は新しいテントをオンラインで見てるんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The allure? You mean the attraction?",
+      "ja": "アリュール？魅惑、という意味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. The pull. So appealing. My wife just rolls her eyes when I talk about it.",
+      "ja": "ええ、まさに。惹きつけられる感じ。すごく魅力的なんです。妻は僕がその話をすると、呆れた顔をしますけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My husband does the same. Just make sure you check the weather before you go. You don't want to be camping in a typhoon.",
+      "ja": "私の夫も同じよ。行く前に天気をちゃんと確認してね。台風の中でキャンプなんてしたくないでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, definitely. That's good advice. I'll make sure to do that. Anyway, this is The Daily Tanu-chan Show. We'll be right back after this short break.",
+      "ja": "はい、もちろんです。それは良いアドバイスですね。そうします。さて、ザ・デイリーたぬちゃんショー、この後すぐです。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 31.0,
+      "temp_min": 22.4,
+      "rain_probability": 41
+    },
+    "news": [
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      },
+      {
+        "title": "Over 2,000 remain in shelters 1 month after Kumamoto quake",
+        "summary": "More than 2,000 people remained in evacuation shelters Friday, a month after a powerful earthquake struck Kumamoto Prefecture, with extreme heat raising concern about disaster-related deaths and authorities…",
+        "link": "https://japantoday.com/category/national/over-2-000-remain-in-shelters-1-month-after-kumamoto-quake"
+      }
+    ],
+    "wikipedia": {
+      "title": "宝くじの日",
+      "description": "1967（昭和42）年、当選金の引換もれ防止を目的として、「く（9）じ（2）」の語呂合わせから、第一勧業銀行（現・みずほ銀行）が制定。"
+    }
+  }
+}
