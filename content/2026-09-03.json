@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-02T21:34:01.726714+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 2nd already. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。もう9月2日ですね。ザ・デイリー・タヌちゃんショーへようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, another Wednesday. It's a bit rainy out there, isn't it?",
+      "ja": "おはよう、アレックス。うん、また水曜日だね。ちょっと雨が降ってるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my phone says like 30 degrees high today, 24 low. And 59% chance of rain. So much humidity.",
+      "ja": "そうですね、僕のスマホだと最高気温が30度、最低が24度って出てます。降水確率59%。めちゃくちゃ蒸し暑い。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It definitely feels like it. My tea is good, though.",
+      "ja": "確かにそう感じるね。でも、私のお茶は美味しいよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really need this coffee today. The baby was up quite a bit last night.",
+      "ja": "今日はこのコーヒーが本当に必要です。昨夜、赤ちゃんが結構起きてました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mm. They do that.",
+      "ja": "うん。そういうものだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, did you see the news about the new giant Gundam robot statue coming to Tokyo this fall?",
+      "ja": "それで、秋に東京に新しい巨大なガンダムのロボット像ができるっていうニュース見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw a headline about it. The one in Odaiba, right? It's going to be huge.",
+      "ja": "見出しだけ見たよ。お台場のやつだよね？大きそうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it sounds even bigger than the old one. My little one will be too young to really get it, but... maybe someday.",
+      "ja": "ええ、前のやつよりもっと大きいらしいです。うちの子はまだ小さすぎて、あんまり分かんないだろうけど…いつかね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It'll be quite a landmark for sure.",
+      "ja": "きっと素晴らしいランドマークになるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "There's also this story about a Japanese hip-hop dancing granny. She's got a new 'Rice Dance' video out.",
+      "ja": "あと、日本のヒップホップを踊るおばあちゃんの話もありました。新しい「ライスダンス」の動画が出たそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I think I remember seeing something about her last year. Her moves were quite impressive.",
+      "ja": "ああ、去年彼女のことを見た気がする。彼女の動きはかなり素晴らしかったよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can barely do normal dancing. My kid just kinda bounces up and down.",
+      "ja": "僕は普通のダンスさえほとんどできません。うちの子はただぴょんぴょん跳ねてるだけですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine too, when they were small. It's cute.",
+      "ja": "うちの子たちも小さかった頃はそうだったよ。可愛いよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And there's this new program to help students with `solitude`. Like, seeing the benefits of being alone.",
+      "ja": "あと、生徒たちが「solitude」のメリットを見るのに役立つ新しいプログラムがあるそうです。一人でいることの良さ、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I read about that. It's for kids who might feel isolated or lonely.",
+      "ja": "ええ、それ読んだわ。孤立したり孤独を感じる子どもたちのためね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What exactly does `solitude` mean? It sounds a bit sad.",
+      "ja": "「solitude」って具体的にどういう意味ですか？ちょっと悲しい響きに聞こえますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just means being alone, but in a good way. Like, enjoying your own company. It's not about being lonely.",
+      "ja": "それはただ一人でいることだけど、良い意味でね。自分の時間を楽しむような。寂しいのとは違うのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's kind of important for my kid, I guess. I always want to be with him.",
+      "ja": "へえ、知りませんでした。うちの子にとっても、結構大事なことかもしれないですね。いつも一緒にいてあげたいって思っちゃうんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good to have quiet time too.",
+      "ja": "静かな時間も大切だよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, by the way, tomorrow is September 3rd. Did you know it's Gumi Day?",
+      "ja": "そうそう、明日は9月3日。グミの日って知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Gumi Day? Is that a real thing? Like the candy?",
+      "ja": "グミの日？それって本当にあるんですか？あのグミのお菓子？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'gu' for nine, 'mi' for three. So September 3rd. Apparently, they want people to know how good gumi is.",
+      "ja": "そう、「ぐ」で9、「み」で3。だから9月3日。グミの美味しさを多くの人に知ってもらおうとしているみたいよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My kid isn't really into candy yet, but my wife loves gumi. I should remind her.",
+      "ja": "うちの子はまだあまりお菓子に興味がないんですけど、妻はグミが大好きなんですよ。教えてあげないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine love it. It’s always a treat.",
+      "ja": "うちの子たちは大好きよ。いつもご褒美にしてるわ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of things I prepared, I did some meal prep this weekend. Tried a new chicken and vegetable stir-fry.",
+      "ja": "準備したもので言えば、週末にいくつか作り置きしたの。新しい鶏肉と野菜の炒め物を試してみたのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, nice. I always want to do that, but then I just end up ordering takeout.",
+      "ja": "おお、いいですね。僕もいつもそうしたいと思ってるんですけど、結局テイクアウトを頼んじゃいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It saves so much time during the week. Just chop everything up on Sunday.",
+      "ja": "平日の時間節約になるのよ。日曜日に全部刻んでおくだけでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that's what everyone says. My weekends are mostly just chasing the baby around. So much energy.",
+      "ja": "ええ、みんなそう言いますよね。僕の週末はほとんど赤ちゃんを追いかけ回してるだけですよ。すごいエネルギーです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do keep you busy.",
+      "ja": "彼らは君を忙しくさせるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I read about kids needing more quiet time, or more social time, every year. It feels like the advice just keeps changing.",
+      "ja": "子供たちはもっと静かな時間が必要だとか、もっと社交的な時間が必要だとか、毎年読んでる気がします。アドバイスがコロコロ変わるような。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Trends come and go.",
+      "ja": "流行は移り変わるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? It's hard to keep up. Anyway, this coffee is hitting the spot. Thanks for the chat, Sarah.",
+      "ja": "ですよね？ついていくのが大変です。まあ、このコーヒーで元気出ました。サラさん、お話しありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good one.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 30.2,
+      "temp_min": 24.1,
+      "rain_probability": 59
+    },
+    "news": [
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "New program developed to help students to see benefits of solitude",
+        "summary": "Japanese researchers are seeking to address the issues of loneliness and social isolation among children with a new educational program, hoping to help change perceptions of solitude.\nExperiencing…",
+        "link": "https://japantoday.com/category/national/new-program-developed-to-help-students-to-see-benefits-of-solitude"
+      }
+    ],
+    "wikipedia": {
+      "title": "グミの日",
+      "description": "「9（グ）3（ミ）」の語呂合わせから、UHA味覚糖が制定。世界中で親しまれているお菓子の「グミ」のおいしさ、素晴らしさを多くの人に知ってもらおうと、「グミを噛んで元気生活！」などのキャンペーンを行う。"
+    }
+  }
+}
