@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-03T21:33:57.091267+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 3rd, 2026.",
+      "ja": "おはようございます、サラさん。2026年9月3日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Another damp one, isn't it?",
+      "ja": "おはよう、アレックス。また雨模様だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, and chilly. I mean, 23 degrees is fine, but that drizzle just feels colder. My coffee is extra necessary today.",
+      "ja": "ええ、しかも肌寒い。23度って別に寒くないんですけど、この霧雨が余計に寒く感じさせますね。今日、コーヒーはいつも以上に必須です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine too, but for me, it's tea. High of 23.8, low of 21.7. Seventy-eight percent chance of rain all day.",
+      "ja": "私もよ、でも私にとっては紅茶ね。最高気温23.8度、最低21.7度。一日中、雨の予報が78パーセントだって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Cycling in this was… interesting. Water splashing everywhere. My little one actually slept through the whole night last night, so I'm feeling surprisingly okay despite the rain. Usually, I'm pretty sluggish if I don't get sleep.",
+      "ja": "この中を自転車で来たのは…面白かったです。水しぶきがすごくて。うちの子が昨夜は一晩中寝てくれたので、雨なのに意外と元気です。普段、寝不足だとかなりだるいんですよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Actually, Sarah, what does 'sluggish' mean? I just used it, but...",
+      "ja": "ところでサラさん、『sluggish』ってどういう意味ですか？今使ったんですけど…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means slow-moving and not very energetic. Like you're dragging yourself.",
+      "ja": "動きが鈍くて、あまり元気がないことよ。体がだるい、って感じかな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that's exactly it. Thanks. Did you see the news headlines?",
+      "ja": "あー、まさにそれです。ありがとうございます。ニュースの見出しは見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Briefly, yeah.",
+      "ja": "ええ、ざっとね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That one about anime high school being different from real high school. It said anime's influence is pretty pervasive sometimes.",
+      "ja": "アニメの高校が現実の高校と違うってやつ。アニメの影響ってかなり『pervasive』なんだなって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What does 'pervasive' mean, exactly? I see that word a lot.",
+      "ja": "『pervasive』って、正確にはどういう意味ですか？よく見るんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means something that spreads widely through an area or group of people. Like, it's everywhere.",
+      "ja": "ある地域や集団に広く行き渡っていることね。どこにでもある、みたいな感じ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, makes sense. My kid isn't old enough for anime yet, but I can see it happening with my nephews.",
+      "ja": "なるほど。うちの子はまだアニメを見る歳じゃないですけど、甥っ子たちを見てるとそうなりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My daughter watches a lot of slice-of-life stuff. Says it's nothing like her actual high school, obviously. Fewer dramatic confessions under cherry blossoms.",
+      "ja": "うちの娘も、日常系のアニメをたくさん見てるわ。もちろん、実際の高校とは全然違うって言ってる。桜の木の下でのドラマチックな告白とか、めったにないものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Less dramatic, maybe. But I bet the gossip levels are the same. Or worse.",
+      "ja": "ドラマチックさは少ないかもしれないですけどね。でも、ゴシップのレベルは同じか、もっとひどいんじゃないですか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably. Also, the news about Sendai reusing Fukushima cleanup soil. That's a big step, I guess.",
+      "ja": "そうかもね。あと、仙台が福島除染土を再利用するっていうニュース。大きな一歩だと思うけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that's… complex. I feel like I read about soil decontamination and reuse every year. I hope they're being super careful.",
+      "ja": "ええ、それは…複雑ですね。土壌除染と再利用の話は、毎年読んでる気がします。すごく慎重にやってほしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They say it's safe for non-residential areas. Like parks or roads.",
+      "ja": "居住地域以外なら安全だって言ってるわね。公園とか道路とか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't see this one! Japan resumed student exchange trips to Russia after a seven-year hiatus.",
+      "ja": "あ、これは見なかったです！日本がロシアへの学生交流を7年間の『hiatus』を経て再開したと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A 'hiatus'? What's that?",
+      "ja": "『hiatus』って？どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A hiatus is a pause or a break from something. Like a band going on hiatus.",
+      "ja": "活動休止とか、一時的な中断のことよ。バンドが活動休止する、みたいな感じ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. So they just stopped for seven years. I wonder why they're starting again now. Seems like a bit of an odd time.",
+      "ja": "なるほど。7年間止めてたってことか。今になってまた始めるのが不思議ですね。ちょっと変なタイミングに思えますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The Foreign Ministry said it's for short-term studies.",
+      "ja": "外務省は短期留学のためだと言ってるわ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of things I saw, do you know what tomorrow, September 4th, is in Japan?",
+      "ja": "私が何か見たといえば、明日、9月4日が日本では何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tomorrow? Let me guess... some kind of food day? Or maybe a day for socks?",
+      "ja": "明日ですか？えっと…何か食べ物の日とか？それか靴下の日とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's くしの日. Kushi no Hi. The day of the comb.",
+      "ja": "違うわ。くしの日よ。櫛の日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Comb Day? Seriously?",
+      "ja": "櫛の日？マジですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's a pun. Ku (9) and Shi (4). So, September 4th. Beauticians and others set it up to encourage people to take care of their combs and appreciate beauty.",
+      "ja": "そう。語呂合わせよ。く（9）し（4）。だから9月4日。美容関係者たちが、櫛を大切に扱い、美意識を高めてもらうために制定したそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. I just use whatever comb is handy. My wife has like five different kinds. I guess I should pay more attention. Maybe it's time to clean mine. Or buy a new one.",
+      "ja": "へえ。僕はいつも手近な櫛を使ってますね。妻は5種類くらい持ってますけど。もっと気を使わないとダメかな。そろそろ自分の櫛も掃除するか、新しいのを買うか…。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably a good idea. Mine are all tangled with my daughter's hair anyway.",
+      "ja": "多分、いい考えよ。私の櫛も、娘の髪の毛でいつも絡まってるもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's something to think about on The Daily Tanu-chan Show. Combs. And my very necessary coffee.",
+      "ja": "ええと、ザ・デイリーたぬちゃんショーで考えるべきことですね。櫛。そして僕にとって必要不可欠なコーヒー。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed. Another busy day ahead.",
+      "ja": "本当にね。また忙しい一日になりそう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You can say that again. My little one's almost walking now, so the chaos is just getting started.",
+      "ja": "まったくだ。うちの子、もうすぐ歩きそうなので、これからが本当の混沌ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just wait until they discover anime.",
+      "ja": "アニメを発見するまで待ってなさい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh no. I'm not ready for that.",
+      "ja": "ああ、やめてください。まだ心の準備ができてません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah.",
+      "ja": "サラさんも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate drizzle",
+      "temp_max": 23.8,
+      "temp_min": 21.7,
+      "rain_probability": 78
+    },
+    "news": [
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      },
+      {
+        "title": "Sendai reuses Fukushima cleanup soil",
+        "summary": "A national government branch office in Sendai, Miyagi Prefecture, on Saturday became the first site outside of Tokyo to reuse soil collected during decontamination work near the disaster-stricken…",
+        "link": "https://japantoday.com/category/national/sendai-reuses-fukushima-cleanup-soil-1st-time-outside-tokyo"
+      },
+      {
+        "title": "Japan resumes student exchange trips to Russia after 7-year hiatus",
+        "summary": "Japan has resumed a program for university students to engage in short-term studies in Russia for the first time in seven years, the Foreign Ministry said.\nA total…",
+        "link": "https://japantoday.com/category/national/update1-japan-resumes-student-exchange-trips-to-russia-after-7-year-hiatus"
+      }
+    ],
+    "wikipedia": {
+      "title": "くしの日",
+      "description": "1978年（昭和53年）、「く（9）し（4）」の語呂合わせから、美容関係者らが制定。くしを大切に扱い、美容に対する人々の認識を高めてもらうため。"
+    }
+  }
+}
