@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-04T21:13:37.085409+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 4th, 2026. Can you believe it's already September?",
+      "ja": "おはようございます、サラさん。2026年9月4日。もう9月って信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time flies, doesn't it? And it's really coming down out there.",
+      "ja": "おはよう、アレックス。あっという間だね。外はすごい雨だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 100% chance of rain today, they said. High of 25.8, low of 20.4. I'm glad I didn't cycle in today.",
+      "ja": "うん、今日は降水確率100%だって。最高25.8度、最低20.4度。今日は自転車で来なくてよかったよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good call. I saw a few people looking pretty soaked on the way in.",
+      "ja": "正解だね。通勤途中に何人かびしょ濡れの人を見たよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, my morning coffee. That's what I need. I couldn't even finish it at home, the baby was so energetic this morning.",
+      "ja": "あー、朝のコーヒー。これが必要なんだ。家で飲みきれなかったよ、今朝は赤ちゃんがすごく元気でさ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine's tea. It's calming.",
+      "ja": "私は紅茶。落ち着くからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Calming sounds good. Anyway, welcome back to The Daily Tanu-chan Show! Let's check the news. NHK World had something about Kabuki.",
+      "ja": "落ち着くのはいいね。さて、ザ・デイリー・たぬちゃん・ショーへようこそ！ニュースをチェックしましょう。NHKワールドで歌舞伎の話題があったね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'Roppongi Kabuki Part II Zatoichi.' They said it's the most accessible Kabuki ever. Shorter, easier to understand.",
+      "ja": "ええ、「六本木歌舞伎II ざとういち」。史上最も親しみやすい歌舞伎だそうよ。短くて、分かりやすいって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. I've always wanted to go, but four hours, not really knowing what's happening... that's a tough sell.",
+      "ja": "へえ、知らなかった。ずっと行ってみたかったんだけど、4時間も何が起こってるか分からないのは…ちょっと大変だよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It can be. My daughter actually saw it with some friends. She said it was interesting.",
+      "ja": "そうね。うちの娘が友達と観に行ったわ。面白かったって言ってた。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Interesting. Maybe I should look into it. With the baby, though, finding time for anything like that is... difficult.",
+      "ja": "面白いね。調べてみようかな。でも赤ちゃんがいると、そういう時間を見つけるのは…難しいんだよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets easier.",
+      "ja": "そのうち楽になるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. There was also some pretty grim news. An 87-year-old man died in Tottori, pinned by an agricultural transporter.",
+      "ja": "だといいんだけど。あと、ちょっと暗いニュースもあったね。鳥取で87歳の男性が農業用運搬機に挟まれて亡くなったって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. Very sad.",
+      "ja": "ええ、見たわ。とても悲しいことだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And an Indonesian trainee died in a mixer at a Hiroshima plant. It's just... awful to hear about work accidents like that.",
+      "ja": "それから、広島の工場でインドネシア人の研修生がミキサーに巻き込まれて亡くなったって。こういう労働災害を聞くのは…本当に辛いね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Safety should always be the priority.",
+      "ja": "そうだね。安全は常に最優先されるべきだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I mean, if I felt like my workplace wasn't safe, I'd feel pretty... what's the word... `disgruntled`? Is that right?",
+      "ja": "本当に。もし職場の安全が確保されていないと感じたら、かなり…なんて言うんだっけ…「disgruntled」？それで合ってる？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, `disgruntled` means feeling annoyed or unhappy, especially because something unfair happened.",
+      "ja": "ええ、disgruntledは、特に不公平なことが起こったせいで、不満を感じたり不機嫌になったりすることね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, not just generally annoyed, but specifically unhappy about something unfair. Got it. I think a lot of people might be feeling `disgruntled` about this rain, actually.",
+      "ja": "ああ、なるほど。ただイライラしてるんじゃなくて、不公平なことに対して不満を感じている、と。分かった。この雨で不満を感じてる人も多いかもしれないね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Possibly. Especially if it's affecting their commute.",
+      "ja": "そうね。特に通勤に影響が出ている場合はね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of today, did you know today is Clean Coal Day? Ku (9) Riin (4) Kooru (clean coal). September 4th.",
+      "ja": "ところで今日なんだけど、今日は「クリーン・コール・デー」なんだって知ってた？ク(9)リーン・コ(4)ール。9月4日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's to raise awareness about coal as an energy source, especially for its cleaner uses.",
+      "ja": "知ってたわ。エネルギー源としての石炭、特にクリーンな利用法について認識を高めるための日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, I feel like I read about this every year. It's still a big deal for energy, even with all the talk about renewables.",
+      "ja": "ああ、毎年これについて読んでる気がする。再生可能エネルギーの話が多い中でも、石炭はまだエネルギーとして重要なんだよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's a complex issue.",
+      "ja": "そうね。複雑な問題だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. You know, with this weather, I was thinking about my weekend ride. My bike's going to be `sorely` missed if this rain continues.",
+      "ja": "本当にそうだね。この天気だと、週末のサイクリングのことを考えちゃうよ。この雨が続くと、自転車が「sorely」寂しくなるな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Sorely` means intensely or very much. So, you'll miss it very much.",
+      "ja": "「Sorely」は、非常にとか、とてもという意味ね。だから、とても寂しくなる、ということよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! I'll miss it `sorely`. It's my only escape sometimes, especially now that the baby's crawling everywhere. It's a full-time job chasing after him.",
+      "ja": "そうそう！「sorely」寂しくなるよ。たまに唯一の息抜きなんだ、特に赤ちゃんがどこでもハイハイするようになってから。彼を追いかけるのはフルタイムの仕事だよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. My son was very fast.",
+      "ja": "そういう日々を覚えてるわ。うちの息子もとても速かった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I jump at everything these days. Pretty sure it's the baby. Like, any little noise, I'm just instantly alert. It's exhausting.",
+      "ja": "うん、最近は何にでも飛び起きちゃうよ。きっと赤ちゃんのせいだ。ちょっとした物音でも、すぐに警戒態勢に入るんだ。疲れるよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. That's part of it.",
+      "ja": "そうね。それも一部だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Well, I guess we should probably get to it. Another busy day.",
+      "ja": "だよね。さて、そろそろ仕事に取り掛からないとね。また忙しい一日だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And try to stay dry!",
+      "ja": "サラさんもね。そして、濡れないようにね！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 25.8,
+      "temp_min": 20.4,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "87-year-old man dies after being pinned against pear tree by agricultural transporter",
+        "summary": "An 87-year-old man died has died after he was pinned against a pear tree by an agricultural transporter at an orchard in Yurihama town, Tottori Prefecture.\nAccording to…",
+        "link": "https://japantoday.com/category/national/87-year-old-man-dies-after-being-pinned-against-pear-tree-by-agricultural-transporter-in-tottori-prefecture"
+      },
+      {
+        "title": "Indonesian trainee dies after being caught in mixer at Hiroshima plant",
+        "summary": "An Indonesian technical trainee died after being caught in a mixer while working at a plant in Hiroshima Prefecture on Wednesday night, local authorities said.\nAn emergency call…",
+        "link": "https://japantoday.com/category/national/indonesian-trainee-dies-after-being-caught-in-mixer-at-hiroshima-plant"
+      }
+    ],
+    "wikipedia": {
+      "title": "クリーン・コール・デー",
+      "description": "1992（平成4）年、「ク（9）リーン・コ（5）ール」の語呂合わせから、石炭関連団体で構成するクリーン・コール・デー実行委員会が制定。エネルギー源としての石炭を広く認識してもらうため。"
+    }
+  }
+}
