@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-05T20:56:02.989331+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 5th, 2026. Can you believe it's already September?",
+      "ja": "おはようございます、サラさん。2026年9月5日。もう9月って信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, time flies. Looks like it's going to be heavy rain all day today.",
+      "ja": "おはよう、アレックス。うん、早いね。今日は一日中、大雨みたいだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, tell me about it. My weather app says 96% chance. And it's only going to be 23.5 degrees high, 19.5 low. Perfect for ramen, but not so good for walking around with the baby.",
+      "ja": "ああ、本当に。僕の天気アプリだと96%だって。最高気温も23.5度、最低19.5度。ラーメンには最高だけど、赤ちゃん連れて歩くのには良くないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a bit cold for September, isn't it? My kids were complaining about the rain this morning too.",
+      "ja": "9月にしてはちょっと肌寒いよね。うちの子たちも今朝、雨に文句言ってたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My umbrella is definitely not enough. I jump at everything these days, especially with a baby who might wake up. Any sudden noise, I'm just… startled.",
+      "ja": "僕の傘じゃ全然足りない。最近は些細なことにもすぐびっくりしちゃうんだ。特に赤ちゃんが起きるかもしれないから。何か物音がすると、もう…ビクッとする。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it takes some getting used to. Anyway, I just saw some news headlines. The Kumamoto earthquake reports, remember?",
+      "ja": "うん、慣れるまで時間がかかるよ。ところで、ニュースの見出しをいくつか見たんだけど。熊本地震の報告、覚えてる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yes. The one from last month. I remember hearing about it. What's the update?",
+      "ja": "ああ、はい。先月のあれですね。聞いた記憶があります。何か新しい情報ありました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Animal shelters received 272 reports of missing pets, but less than half have been found. It's sad to hear.",
+      "ja": "動物保護施設に272件の迷子ペットの報告があったけど、半分以下しか見つかってないって。聞くと悲しくなるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's really tough for the owners. Imagine losing your pet in all that chaos. I can't even imagine.",
+      "ja": "飼い主さんたちにとっては本当に辛いだろうな。あの混乱の中でペットを失うなんて。想像できないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's always a difficult situation after a big disaster. There's another one about work. Japan will relax overtime regulations, starting Tuesday.",
+      "ja": "大きな災害の後って、いつも大変な状況になるね。もう一つ、仕事に関するニュースがある。火曜日から日本の残業規制が緩和されるって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. That sounds like a headline I read every year. 'Japan to relax overtime regulations.' I don't think that's going to change much at my office, to be honest.",
+      "ja": "へえ、すごい。毎年読んでるような見出しだな。「日本の残業規制を緩和」。正直、僕のオフィスではそんなに変わらないだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The article says it's meant to spur economic growth, but some critics say it's a relapse into the country's workaholic culture.",
+      "ja": "記事によると、経済成長を促すためらしいけど、一部の批評家は、国のワーカホリック文化への逆戻りだと指摘しているよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 'workaholic culture' is a good way to put it. These *regulatory* changes often sound good on paper, but in practice...",
+      "ja": "ええ、「ワーカホリック文化」って言い得て妙ですね。こういう*regulatory*な変更って、書類上は良く聞こえるけど、実際は…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Regulatory' means related to rules or official control, usually by the government. Like government regulations.",
+      "ja": "「レギュラトリー」は、政府などによる規則や公式な管理に関することを意味するよ。政府の規制、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. Thanks. And I'm not sure these *regulatory* changes are going for the *optimal* outcome for everyone involved, especially for people with families.",
+      "ja": "ああ、なるほど。ありがとうございます。それに、この*regulatory*な変更が、特にもう家族がいる人たちにとって、*optimal*な結果になるかは疑問ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Optimal' means the best or most favorable outcome possible. So, the best conditions.",
+      "ja": "「オプティマル」は、可能な限り最も良い、あるいは最も好ましい結果を意味するよ。つまり、最善の条件ってことだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, the best conditions. Not for parents, I think. I feel like my office already has so many unofficial *regulatory* measures, you know?",
+      "ja": "そう、最善の条件。親にとっては違うと思います。うちの会社には、すでに非公式な*regulatory*な措置がたくさんある気がするんですよ、ね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. It's a common problem. My son is always saying he wants to work less when he's older.",
+      "ja": "わかるよ。よくある問題だね。うちの息子も、大人になったら仕事は控えめにしたいっていつも言ってるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, your son is thinking about that already? He must be what, twelve now?",
+      "ja": "へえ、もう息子さんもそんなこと考えてるんですか？今いくつだっけ、12歳？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He'll be sixteen next year. And my daughter is turning thirteen. They're growing up fast.",
+      "ja": "来年で16歳。娘は13歳になるよ。あっという間に大きくなるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. That makes sense. I can't imagine my little one saying things like that. He's just trying to stand up by himself right now.",
+      "ja": "わあ。そうかあ。うちの小さいのがそんなこと言うなんて想像できないな。今は自分で立とうと頑張ってるところです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It happens faster than you think. And speaking of things changing, there's news about Hokkaido. Cockroach-free Hokkaido might be seeing more insects.",
+      "ja": "思ったより早くそうなるよ。そして、変化と言えば、北海道のニュースがある。ゴキブリフリーの北海道に、もっと虫が増えるかもしれないって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What? Hokkaido? Really? I thought Hokkaido was famous for not having cockroaches. Like, that was a selling point for some people.",
+      "ja": "え？北海道？本当ですか？北海道ってゴキブリがいないことで有名だと思ってました。あれって一部の人にとってはセールスポイントでしたよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was. But climate change, and other factors, are leading to a rise in them. So, maybe not 'cockroach-free' for much longer.",
+      "ja": "そうだったね。でも気候変動とか、他の要因で増えているらしいよ。だから、もうすぐ「ゴキブリフリー」じゃなくなるかもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. I mean, not good, but I didn't know that was even a thing. Just another sign of the times, I guess.",
+      "ja": "それって、ある意味すごいですね。もちろん良くはないけど、そんなことがあるなんて知りませんでした。これも時代の流れってことかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Anyway, have you checked what today's special day is? Kuro-mame no Hi?",
+      "ja": "そうね。ところで、今日の特別な日、何の日か確認した？黒豆の日？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, Kuro-mame no Hi! Right! Is it today? September 5th? I thought it was tomorrow, the 6th, because 'kuro' is nine and 'mame' is six, right?",
+      "ja": "ああ、黒豆の日！そうですね！今日ですか？9月5日？僕は明日、6日だと思ってました。「くろ」が9で「まめ」が6だから、ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're right, it's actually September 6th. The prompt here says it's on the 6th, for 'ku' (9) 'ro' (6) 'mame'. Kikuchi Foods established it.",
+      "ja": "そう、その通り、正確には9月6日だよ。ここにある情報だと、菊池食品工業が「く（9）ろ（6）まめ」の語呂合わせで制定したから6日って書いてあるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So close! It's because black beans have lots of polyphenols, so they're good for your health, right? I love black beans, especially in sweets.",
+      "ja": "ああ、なるほど。惜しかった！黒豆はポリフェノールがたくさん入ってて、体にいい健康食品だから、ですよね？黒豆、大好きです。特に甘いものに入ってるのが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are. Good for you. My daughter likes them in her yogurt sometimes.",
+      "ja": "そうだよ。体にいいよね。うちの娘もたまにヨーグルトに入れて食べてるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds good. You know, with all this rain, and thinking about healthy food, it really makes me crave a big bowl of ramen. Like a really rich tonkotsu.",
+      "ja": "それも美味しそうですね。あの、この雨だし、健康食品の話もしたけど、やっぱりすごく濃厚なとんこつラーメンが無性に食べたくなってきました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds good for a rainy day. Maybe for lunch?",
+      "ja": "雨の日にはいいね。お昼にでも？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Or dinner, after the baby is asleep. Anyway, that's all for today's The Daily Tanu-chan Show. Thanks for listening!",
+      "ja": "そうですね。それか夕食に、赤ちゃんが寝た後に。さて、それでは今日のザ・デイリーたぬちゃんショーはここまでです。お聴きいただきありがとうございました！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you next time.",
+      "ja": "また次回。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 23.5,
+      "temp_min": 19.5,
+      "rain_probability": 96
+    },
+    "news": [
+      {
+        "title": "272 lost pet reports filed after Kumamoto quake; less than half found",
+        "summary": "Animal shelters in the southwestern Japan prefecture of Kumamoto had received 272 reports of missing pets as of Aug 25, after the region was rocked by a magnitude-7.1…",
+        "link": "https://japantoday.com/category/national/272-lost-pet-reports-filed-after-m7.1-kumamoto-quake-less-than-half-found"
+      },
+      {
+        "title": "Work, work, work: Japan to relax overtime regulations under workaholic PM",
+        "summary": "Japan will ease overtime regulations starting Tuesday in a move meant to help spur economic growth but criticized as a relapse into the country's ingrained workaholic culture.\nThe…",
+        "link": "https://japantoday.com/category/national/Work-work-work-Japan-to-relax-overtime-regulations-under-workaholic-PM"
+      },
+      {
+        "title": "'Cockroach-free' Hokkaido faces rise in insects due to climate change",
+        "summary": "Japan's northernmost main island of Hokkaido, long known for its reputation as being largely cockroach free, may begin to see more of the insects as factors including warmer…",
+        "link": "https://japantoday.com/category/national/cockroach-free-hokkaido-faces-rise-in-insects-due-to-climate-change"
+      }
+    ],
+    "wikipedia": {
+      "title": "黒豆の日",
+      "description": "「く（9）ろ（6）まめ」の語呂合わせから、黒豆製品を扱う菊池食品工業が制定。黒豆は身体に良いポリフェノールを多く含む健康食品として注目されている。"
+    }
+  }
+}
