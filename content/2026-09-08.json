@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-07T21:54:39.083374+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, it's really coming down out there today.",
+      "ja": "おはようございます、サラさん。いやー、今日はすごい雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, it's quite heavy. This is September 07, 2026, by the way. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。ええ、結構降ってるわね。ちなみに今日は2026年9月7日。The Daily Tanu-chan Showへようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! Good call. Yeah, the rain. I almost got soaked just walking from the station, even with an umbrella. Getting the baby to daycare was a mission.",
+      "ja": "あ、そうでした！助かります。ええ、この雨。傘さしてても駅からの道のりでずぶ濡れになりそうでしたよ。保育園に送っていくのも一苦労で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. My morning walk was a bit wetter than usual.",
+      "ja": "想像できるわ。私の朝の散歩もいつもより濡れたわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you still do your walks even in this? That's commitment. I need my coffee before I can commit to anything.",
+      "ja": "え、この雨でも散歩するんですか？すごいコミットメントですね。僕は何かを始める前にコーヒーがないとダメです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just for a bit. It’s supposed to be 27 degrees today, even with the rain. I'm having tea.",
+      "ja": "少しだけね。雨でも今日は27度になるそうよ。私は紅茶を飲むわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's still pretty warm for September, isn't it? Feels like summer just won't quit. And a 94% chance of rain all day. Great.",
+      "ja": "9月にしてはまだ結構暑いですよね？夏が終わらない感じ。しかも一日中94%の雨予報。勘弁してほしい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It keeps things interesting. Did you see the news about the clothing company making real-life cosplay costumes?",
+      "ja": "それはそれで面白いわよ。アパレル会社がモバイルゲームのキャラクター衣装を実物化するっていうニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I did see that! From those mobile games, right? Nutte and Axel Mark. That's kind of amazing, actually. People really love their cosplay.",
+      "ja": "ああ、見ましたよ！あのモバイルゲームの、ですよね？NutteとAxel Mark。あれはちょっとすごいなと思いました。みんな本当にコスプレ好きですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. It's a big business now. I guess it's a way for companies to connect with fans.",
+      "ja": "そうね。今や大きなビジネスよ。企業がファンとつながる方法の一つなんでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. My kid is a bit young for that, but maybe someday. My wife is pretty into games. Uh, what else was in the news?",
+      "ja": "ええ、そうですね。うちの子にはまだ早いけど、いつか、かな。妻は結構ゲーム好きなんです。えーと、他に何かニュースありましたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was a China cultural festival in Tokyo, even with the 'frayed ties' between the countries.",
+      "ja": "東京で中国文化のフェスティバルがあったわ。国同士の「frayed ties」にもかかわらずね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, 'frayed ties'? What does 'frayed' mean there? Like, broken?",
+      "ja": "あ、「frayed ties」？「frayed」ってどういう意味ですか？なんか、壊れてるってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means relations are a bit worn out, or strained. Like a piece of cloth that's starting to come apart at the edges. Not completely broken, but not smooth either.",
+      "ja": "関係がちょっとすり減っていたり、緊張している状態ってこと。布の端がほつれ始めているような感じ。完全に壊れてはいないけど、スムーズでもないの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Like a sweater that's seen better days. Yeah, that makes sense. It's good that people can still enjoy culture, even if politics are a bit messy.",
+      "ja": "ああ、なるほど。着古したセーターみたいな感じですね。ええ、分かりました。政治が少しごたついていても、人々が文化を楽しめるのは良いことですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I agree. Culture can often bridge those gaps. And apparently, there was a big crowd, especially for the food and panda merchandise.",
+      "ja": "私もそう思うわ。文化はよくそういった溝を埋めることができる。それに、かなりの人出だったそうよ、特に食べ物やパンダグッズ目当てで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Panda merchandise, of course. Everybody loves pandas. I bet my kids would be all over that. My son is always asking for some new character toy.",
+      "ja": "パンダグッズ、そりゃそうですよね。みんなパンダ好きですから。うちの子供たちも絶対喜ぶだろうな。息子はいつも新しいキャラクターのおもちゃをねだってますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They probably would. There was also news about a steampunk event in Harajuku. It's called Steam Garden.",
+      "ja": "そうでしょうね。それから、原宿でスチームパンクのイベントがあったというニュースもあったわ。Steam Gardenというイベントよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Steampunk? Oh, that's like, old-fashioned machines and Victorian style, right? I've seen pictures. With all the gears and goggles.",
+      "ja": "スチームパンク？あー、あれって、昔の機械とかビクトリア朝のスタイルですよね？写真で見たことあります。歯車とかゴーグルとかの。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. But this event has a 'unique twist,' according to the news. Japan's own take on it.",
+      "ja": "その通り。でもこのイベントは、ニュースによると「unique twist」があるらしいわ。日本独自の解釈ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A unique twist. I wonder what that means. Like, what kind of twist? Is it an... aberration?",
+      "ja": "ユニークなツイスト。どういう意味なんだろう。どんなツイストなんだろう？それは… aberrationですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "An aberration? No, not really. An aberration is something unusual or not normal, often in a negative way. Like a strange mistake or a deviation from what's expected.",
+      "ja": "aberration？いいえ、ちょっと違うわね。aberrationというのは、普通ではない、異常なもの、たいていはネガティブな意味で使うわ。奇妙な間違いとか、期待されるものからの逸脱、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. So 'unique twist' is more positive. Like a creative interpretation. Not a weird mistake. Got it. I should probably go check it out. Get some ideas for my kid's Halloween costume next year.",
+      "ja": "ああ、なるほど。じゃあ「unique twist」はもっとポジティブな意味なんですね。クリエイティブな解釈、みたいな。変な間違いじゃなくて。分かりました。見に行ってみるべきですね。来年のうちの子のハロウィンコスチュームのアイデアでも探そうかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's a bit young for intricate gears, isn't he?",
+      "ja": "複雑な歯車にはちょっと幼いんじゃないかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, you never know! Maybe a tiny gear on his hat. He's really getting into books now, pointing at pictures. It's amazing how fast they pick things up.",
+      "ja": "まあ、分かりませんよ！帽子に小さい歯車とか。最近、本にすごく興味を示してて、絵を指さしたりするんです。子供って本当に早く色々覚えますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. Speaking of books, did you know today, September 7th, is International Literacy Day?",
+      "ja": "そうね。本といえば、今日、9月7日は国際識字デーって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't know that. Literacy Day. What exactly does 'literacy' mean?",
+      "ja": "あ、そうなんですか？知りませんでした。識字デー。正確には「literacy」ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the ability to read and write. It's about making sure everyone in the world has access to education and can understand text.",
+      "ja": "読み書きができる能力のことよ。世界中の誰もが教育を受けられて、文章を理解できるようにすることね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so `識字` in Japanese. That's a huge goal. I remember reading that it was started because an Iranian king suggested using military funds for education.",
+      "ja": "ああ、日本の「識字」ですね。それは壮大な目標ですね。イランの王様が軍事費の一部を教育に回すことを提案したのがきっかけで始まったって読んだ記憶があります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. UNESCO set it up in 1966. It's a reminder that not everyone has that basic ability.",
+      "ja": "その通り。1966年にユネスコが制定したのよ。誰もがその基本的な能力を持っているわけではないということを思い出させる日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, that's really important. It makes you think. We just take it for granted, don't we? Being able to read. My little one loves looking at books, even if he can't read yet.",
+      "ja": "へえ、それはすごく大切ですね。考えさせられます。僕たちは読み書きができることを当たり前だと思っちゃいますよね。うちの小さな子も、まだ読めないけど本を見るのが大好きですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a good start. My daughter still reads a lot, even with all the social media. My son... not so much. He's more into games, like your wife.",
+      "ja": "良いスタートね。うちの娘は、ソーシャルメディアばっかりでもまだ本をたくさん読むわ。息子は…あまり読まないわね。あなたの奥さんみたいにゲームの方が多いわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ha! Yeah. Well, anyway. Time to get this show on the road. It's going to be a wet one today, everyone. Stay safe out there.",
+      "ja": "ハハ！ですね。まあ、とにかく。そろそろ始めましょうか。今日は一日中雨になりそうですから、皆さん、お気をつけて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. See you later.",
+      "ja": "あなたもね、アレックス。また後で。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 27.0,
+      "temp_min": 22.4,
+      "rain_probability": 94
+    },
+    "news": [
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      },
+      {
+        "title": "China cultural festival in Tokyo bustles despite frayed ties",
+        "summary": "A festival introducing Chinese culture to Japan kicked off Saturday at a Tokyo park, drawing crowds to booths selling Chinese food and panda merchandise even as relations between…",
+        "link": "https://japantoday.com/category/national/china-cultural-festival-in-tokyo-bustles-despite-frayed-ties"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      }
+    ],
+    "wikipedia": {
+      "title": "国際識字デー",
+      "description": "1965（昭和40）年、イラン国王が軍事費の一部を識字教育に回すよう提案したことを記念して、翌年ユネスコが制定。識字とは、文字の読み書きができるという意味。"
+    }
+  }
+}
