@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-10T21:22:45.327052+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 10th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう9月10日ですね。早いですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time does fly, doesn't it?",
+      "ja": "おはよう、アレックス。本当に、時間はあっという間ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's pouring out there. My umbrella didn't even help much. What a day.",
+      "ja": "外は土砂降りですよ。傘もあまり役に立たなかったです。ひどい天気。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's moderate rain, but it’s constant. One hundred percent chance all day, I heard.",
+      "ja": "ええ、小雨だけど降りっぱなしね。一日中100パーセントの降水確率だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That explains it. Feels chilly too, around 18 degrees, maybe 20 if we're lucky later. I really need coffee today.",
+      "ja": "なるほど。肌寒いし、18度くらいかな、運が良ければ後で20度くらいか。今日は本当にコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea. Did you get any sleep last night?",
+      "ja": "私はお茶よ。昨夜は眠れたの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, not really. The baby decided midnight was playtime. You know, you forget how much energy they have even when they're tiny.",
+      "ja": "いや、あまり。赤ちゃんが真夜中に遊びの時間だって決めたみたいで。ほら、小さくてもどれだけ体力があるか忘れちゃうんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember. My son was like that. Then they become teenagers and sleep all day.",
+      "ja": "分かるわ。うちの息子もそうだった。それがティーンエイジャーになると一日中寝てるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can only dream of that. Speaking of dreams, did you see the news about the tiny house on wheels? A Japanese craftsman built it.",
+      "ja": "それが夢のようですね。夢といえば、車輪付きの小さな家のニュース見ました？日本の職人さんが作ったやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw that. It looked amazing. Very clever use of space.",
+      "ja": "見たわ。素敵だったわね。空間の使い方がとても巧妙で。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I was thinking, maybe if I had one of those, I could finally get some quiet time. Or maybe just a bigger apartment.",
+      "ja": "でしょう？あれがあれば、ようやく静かな時間が持てるかなって思いました。いや、ただ広いアパートがあればいいのか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A bigger apartment might be more practical for your family.",
+      "ja": "ご家族には、もっと広いアパートの方が実用的かもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, you're probably right. Then there was that news about the government looking into cash payments for low-income earners, starting in 2029.",
+      "ja": "ええ、多分そうですね。それから、政府が低所得者層向けの現金給付を2029年から検討してるっていうニュースもありましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that again. It feels like we hear about that every year, doesn't it?",
+      "ja": "ああ、またその話ね。毎年聞いているような気がするわね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it does. I mean, it's good that they're thinking about support, but I wonder if it actually helps people in the long run. My office probably won't change anything for us.",
+      "ja": "ええ、そうですね。支援を考えてくれるのは良いことだけど、長期的に見て本当に役立つのかどうか。うちの会社では、何も変わらないでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a complex issue. Sometimes these things are done in a rather piecemeal way.",
+      "ja": "複雑な問題だわね。時々、こういうことはかなり場当たり的に行われるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Piecemeal? What does that mean?",
+      "ja": "場当たり的？それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means done in stages, or bit by bit, instead of all at once. Like small parts, not a complete plan.",
+      "ja": "一度に全部ではなく、段階的に、少しずつ行われることよ。小さな部分に分けて、全体的な計画ではない感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, that makes sense. It feels like that sometimes. Anyway, the Fukushima story was really uplifting. Fish, tomatoes, hula-dancing girls. It's amazing how they're rebuilding.",
+      "ja": "ああ、なるほど。ええ、それがしっくりきますね。時々、そんな感じがします。ところで、福島のニュースは本当に感動しましたね。魚にトマトに、フラガール。復興の仕方がすごいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It shows a lot of resilience. People working together to create a new future.",
+      "ja": "それは、多くの回復力を示しているわ。人々が協力して新しい未来を創造しているのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally. Oh, hey, speaking of helping people, did you know today is 警察相談の日?",
+      "ja": "全くですね。ああ、そうだ、人を助ける話といえば、今日が「警察相談の日」って知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it's for the #9110 police consultation number. For non-emergency calls.",
+      "ja": "ええ、#9110の警察相談の番号にちなんでいるのよね。緊急ではない相談を受け付けているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, right. So, if you have something like... I don't know, a weird neighbor, or maybe a suspicious package, but it's not a 110 emergency. Just general stuff?",
+      "ja": "そうそう。だから、もし何か…なんだろう、変な隣人とか、怪しい荷物とか、でも110番する緊急事態じゃない時とかですか？ただの雑多なこと？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. For a variety of issues that need police advice but aren't urgent incidents.",
+      "ja": "その通りよ。警察のアドバイスが必要だけど、緊急の事件ではない、さまざまな問題のためね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know that. That's actually really useful to know. Like a general information line for miscellaneous police stuff?",
+      "ja": "知りませんでした。それ、実はすごく役立つ情報ですね。雑多な警察関連の情報のホットラインみたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'miscellaneous' is a good word for it. It means various kinds of things, often not easily categorized.",
+      "ja": "ええ、「miscellaneous」で合っているわ。さまざまな種類の、よく分類しにくいもののことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Miscellaneous. I'll remember that. So, Sarah, what's new in your garden these days? Still growing those amazing tomatoes?",
+      "ja": "分かりました。Miscellaneous。覚えておきます。それで、サラさん、最近庭では何か新しいことありますか？あの素晴らしいトマト、まだ育ててます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The tomatoes are finished for the season, unfortunately. But my basil did really well this year. I made a lot of pesto.",
+      "ja": "トマトは残念ながら今シーズンはもう終わりよ。でも、今年のバジルはすごくよく育ったわ。たくさんジェノベーゼソースを作ったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's great! I love pesto. My wife tried growing herbs on the balcony, but it didn't really take off.",
+      "ja": "ああ、それは素晴らしい！ジェノベーゼ大好きです。妻がベランダでハーブを育てようとしたんですけど、あまりうまくいきませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes time. And patience. Even my daughter helps out sometimes. It's satisfying to see things grow.",
+      "ja": "時間がかかるものよ。そして忍耐も。うちの娘でさえ、たまに手伝ってくれるわ。物が育つのを見るのは満足感があるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Maybe I should try with my kid when he's a bit older. Right now, he mostly just wants to eat the dirt.",
+      "ja": "そうですね。もう少し大きくなったら、うちの子と一緒にやってみようかな。今は、ほとんど土を食べたがりますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's normal.",
+      "ja": "それは普通よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. Well, I think that's all the news for The Daily Tanu-chan Show today. Thanks for joining me, Sarah.",
+      "ja": "ええ、そうでしょうね。さて、今日の『ザ・デイリーたぬちゃんショー』のニュースはここまでですね。サラさん、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome, Alex. Have a good day, everyone.",
+      "ja": "どういたしまして、アレックス。皆さん、良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "See you tomorrow!",
+      "ja": "また明日！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 20.4,
+      "temp_min": 18.7,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Gov't eyes spring 2029 for cash payments to low-income earners",
+        "summary": "The Japanese government is considering bringing forward to spring 2029 a system of payments to help lower- and middle-income earners, avoiding a gap in support after the end…",
+        "link": "https://japantoday.com/category/national/update2-japan-gov%27t-eyes-spring-2029-for-cash-payments-to-low-income-earners"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      }
+    ],
+    "wikipedia": {
+      "title": "警察相談の日",
+      "description": "1999（平成11）年、警察への電話相談番号「＃9110」にちなんで、警察庁が制定。緊急の事件・事故以外の相談を受け付けている。"
+    }
+  }
+}
