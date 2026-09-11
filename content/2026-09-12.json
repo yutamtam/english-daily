@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-11T21:33:18.644304+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 11th, 2026. How's it going?",
+      "ja": "おはようございます、サラさん。2026年9月11日です。調子どうですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. I'm good. Another rainy day, isn't it?",
+      "ja": "おはよう、アレックス。私は元気だよ。また雨の日だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell me about it. My weather app says moderate rain all morning, high of 24 degrees. And a 69% chance of rain. I think that means it's definitely going to rain.",
+      "ja": "本当にそうですよ。僕の天気アプリだと、午前中はずっと小雨で最高気温は24度って出てます。降水確率は69%。つまり、確実に降るってことですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's pretty steady out there. I actually saw a bit of it when I took my usual walk. The air felt heavy.",
+      "ja": "うん、結構しっかり降ってるね。いつもの散歩中にちょっと見たよ。空気が重かった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh. I just need my coffee. Can't start The Daily Tanu-chan Show without it.",
+      "ja": "うーん。僕はコーヒーがないとダメです。「ザ・デイリーたぬちゃんショー」はコーヒーなしじゃ始められないですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm on tea myself. Did you see the news about Mount Fuji?",
+      "ja": "私はお茶だけどね。富士山のニュース見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! The landslide. After all that heavy rain. That's... not good. I hope nobody was up there.",
+      "ja": "ああ、そうか！土砂崩れ。あの豪雨の後で。それは…良くないですね。誰も上にいなかったことを願います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "TBS reported it hit one of the main climbing points. They usually close the trails in September anyway, so hopefully, it wasn't too crowded.",
+      "ja": "TBSによると、主要な登山道の一つを直撃したらしいね。9月にはたいてい閉鎖されるから、あまり混んでなかったことを願うよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Man, it just feels like we're always dealing with landslides or floods these days. It must be so stressful for the people living near those areas.",
+      "ja": "ああ、最近はいつも土砂崩れとか洪水とか、そんなことばかりですよね。あの辺りに住んでる人は本当にストレスだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It affects a lot of communities. And it's not just the immediate danger; rebuilding takes so long.",
+      "ja": "そうだね。多くの地域に影響が出る。直接の危険だけじゃなくて、復興にも時間がかかるしね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Speaking of old things, I saw a headline about a samurai sword. Yoshida Shoin's, right?",
+      "ja": "ええ。古いものと言えば、侍の刀のニュースを見ましたよ。吉田松陰の、でしたよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's the one. Found in a house in America. Quite a journey for a sword.",
+      "ja": "そう、それ。アメリカの家で見つかったんだって。刀にしてはずいぶん旅をしたね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know he was one of Japan's last samurai. That's kind of... I don't know, a bit melancholy?",
+      "ja": "彼が日本の最後の侍の一人だったとは知りませんでした。なんか…なんていうか、ちょっと物悲しいですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He was. He had a big impact on the Meiji Restoration, even though he died young. Many people tried to *emulate* his ideas.",
+      "ja": "そうね。彼は若くして亡くなったけど、明治維新に大きな影響を与えたんだ。多くの人が彼の思想を『emulate』しようとした。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Emulate? What does that mean?",
+      "ja": "Emulate？どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to try to be like someone or something, often by imitating them. To follow their example or try to do as well as them.",
+      "ja": "誰かや何かを真似したり、見習ったりして、そのようになろうとすることだよ。彼らの例に倣ったり、彼らと同じくらい上手くやろうとしたりね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So people tried to be like him. That makes sense. My kid is starting to emulate everything I do these days. If I clap, she claps.",
+      "ja": "ああ、なるほど。彼を見習おうとしたってことですね。分かります。僕の子供も最近、僕がすることを何でも真似し始めてるんですよ。僕が手を叩けば、彼女も手を叩く。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a fun age. You'll be surprised what they pick up.",
+      "ja": "楽しい時期だね。何を覚えるかびっくりするよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Speaking of things people pick up, there was another story about Keisuke Unosawa's design career, making the ordinary extraordinary. That sounds nice. I feel like my energy gets *depleted* by trying to make my ordinary work extraordinary sometimes.",
+      "ja": "本当に。人が何かを覚える話で言うと、宇野澤啓介さんのデザインのキャリアについての別の記事がありましたね、普通を非凡に変えるって。なんか良いですね。僕はたまに、自分の普通の仕事を非凡にしようとすることでエネルギーが『depleted』する気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Depleted? That means you feel very tired, like all your energy is used up.",
+      "ja": "Depleted？それは、とても疲れていて、エネルギーが全て使い果たされたような状態のことだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! Like my battery is at 1% by the end of the day. Especially with the baby waking up three times a night.",
+      "ja": "ええ、まさに！一日が終わる頃にはバッテリーが1%みたいな感じです。特に夜中に赤ちゃんが3回起きるから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds like you need to find a way to recharge. Maybe take a short break.",
+      "ja": "それは充電する方法を見つける必要があるね。短い休憩を取るとか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm trying. Maybe I should look into how Unosawa-san does it. Make something simple, but... special. Like my coffee.",
+      "ja": "頑張ってます。もしかしたら宇野澤さんがどうやってるのか調べてみるべきですね。何かシンプルだけど…特別なものを作る。僕のコーヒーみたいに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There's an idea. And talking about special things, did you know today is Space Day?",
+      "ja": "それもいいね。特別なことといえば、今日って宇宙の日だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't know that. What's Space Day for?",
+      "ja": "ああ、そうなんですか？知りませんでした。宇宙の日って何のお祝いなんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It commemorates Mamoru Mohri's flight into space on the Space Shuttle back in 1992. JAXA often opens its facilities to the public for it.",
+      "ja": "1992年に毛利衛宇宙飛行士がスペースシャトルで宇宙へ飛び立ったのを記念して制定されたんだ。JAXAがこの日に合わせて施設を一般公開したりするんだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1992. That's a long time ago now. It must have been amazing to see that. My little one probably wouldn't understand space yet, but maybe one day.",
+      "ja": "わあ、1992年ですか。もうずいぶん昔のことですね。あれを見たときはきっとすごかったでしょうね。うちの子はまだ宇宙は理解できないでしょうけど、いつか見せてあげたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "She will. My son was obsessed with astronauts for a while when he was little. Wanted to build a rocket in the living room.",
+      "ja": "そのうちね。うちの息子も小さい頃、一時期宇宙飛行士に夢中になってたよ。リビングにロケットを作りたいって言ってた。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I can imagine. I jump at everything these days. Pretty sure it's the baby. If she ever gets really loud, I'll probably launch myself into space.",
+      "ja": "ああ、想像できます。僕は最近、何にでも飛び跳ねるんですよ。多分赤ちゃんが原因です。もし彼女が本当に大声を出したら、僕は多分宇宙に自分を打ち上げるでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's one way to deal with it, I suppose.",
+      "ja": "それも一つの対処法だね、きっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, maybe. Well, it's been good talking. We should probably get ready to actually start work.",
+      "ja": "ええ、多分。さて、話せて良かったです。そろそろ実際に仕事を始める準備をしないとですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Have a good one, Alex.",
+      "ja": "そうだね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah.",
+      "ja": "サラさんも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 24.4,
+      "temp_min": 19.6,
+      "rain_probability": 69
+    },
+    "news": [
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Landslide hits Mount Fuji after heavy rain",
+        "summary": "A landslide struck one of the main starting points for climbers on ‌Mount Fuji on Wednesday, local broadcaster TBS reported, after heavy rain inundated large parts of the…",
+        "link": "https://japantoday.com/category/national/landslide-hits-japan%27s-mount-fuji-after-heavy-rain"
+      }
+    ],
+    "wikipedia": {
+      "title": "宇宙の日",
+      "description": "1992（平成4）年、毛利衛宇宙飛行士がアメリカのスペースシャトルで宇宙へ飛び立ったのを記念して制定。宇宙航空研究開発機構（JAXA）などが施設の一般公開をしたりしている。"
+    }
+  }
+}
