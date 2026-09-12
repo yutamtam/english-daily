@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-12T21:10:53.937967+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 12th already. Can't believe it's Friday.",
+      "ja": "おはようございます、サラさん。もう9月12日ですね。もう金曜日なんて信じられないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yes, it is. You look like you need that coffee.",
+      "ja": "おはよう、アレックス。そうだね。そのコーヒー、必要な顔してるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Couldn't sleep well last night. The baby was up a lot.",
+      "ja": "もちろんです。昨夜はよく眠れませんでした。赤ちゃんが何度も起きて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough. My kids stopped doing that around... well, they still wake me up sometimes.",
+      "ja": "それは大変だね。うちの子たちはその時期を過ぎたけど…まあ、今でも時々起こされるかな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? So it never really ends, huh?",
+      "ja": "え、そうなんですか？じゃあ、本当に終わりがないんですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just different challenges.",
+      "ja": "課題が変わるだけだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Anyway, welcome back to The Daily Tanu-chan Show. We've got some interesting news today, Sarah.",
+      "ja": "ですよね。さて、今日も『The Daily Tanu-chan Show』へようこそ。サラさん、今日はいくつか面白いニュースがありますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Before we start, it's a bit overcast today, isn't it? I noticed it on my morning walk.",
+      "ja": "始める前に、今日は少し曇ってるね？朝の散歩で気づいたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. But not too hot, which is nice. I think it's about 26 degrees right now. And almost no rain today.",
+      "ja": "ええ、そうですね。でも、そんなに暑くないから良い感じです。今26度くらいだと思います。そして今日はほとんど雨もなさそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good for walking. I was out early.",
+      "ja": "散歩には良いね。私は早くから出てたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You always are. I wish I had that much energy in the morning.",
+      "ja": "いつもそうですよね。朝からそんなに元気だと良いんですけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Alright, first up, this article from NHK World. It says one simple kanji character in Japanese can have five different pronunciations. Five! That's kind of crazy.",
+      "ja": "さて、まずはこちら、NHKワールドからの記事です。日本語の漢字の一文字が5つもの異なる読み方を持つことがあるって。5つですよ！なんかすごいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It can be complicated. That's why many people find Japanese difficult.",
+      "ja": "複雑だよね。だから日本語を難しいと感じる人も多いんだろうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I mean, I'm Japanese, and I still get confused sometimes. My kid will never learn it.",
+      "ja": "ええ、だって僕、日本人なのに時々混乱しますもん。うちの子は絶対覚えないだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They'll learn eventually. Or just use hiragana.",
+      "ja": "そのうち覚えるよ。それかひらがなを使うか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, next. Hiroko Machida is doing something with Japan's national treasures. High-quality digital reproduction. What's... 'reproduction' exactly?",
+      "ja": "はい、次です。町田ひろこさんが日本の国宝で何かやってるみたいですね。高品質なデジタル『reproduction』。この『reproduction』って、具体的にどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means making a copy. Like a really good copy of artwork or something, using technology.",
+      "ja": "コピーを作るってこと。テクノロジーを使って、美術品とかのとても良い複製品を作るの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So like, you can get a print of a famous painting for your wall. That's actually pretty cool. A lot cheaper than the original, I guess.",
+      "ja": "ああ、なるほど。つまり、有名な絵の複製を壁に飾れるってことですね。それって結構良いですね。本物よりずっと安いでしょうし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Much cheaper, yes. And safer for the originals too.",
+      "ja": "ずっと安いね、そう。そして本物にとっても安全だし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Alright, and this last one from NHK World. Gucci's making a Japanese-style 'owl fan.' And it's really expensive. It says it's 'baffling expensive.' What does 'baffling' mean there?",
+      "ja": "はい、そして最後のニュースもNHKワールドからです。グッチが和風の『フクロウの扇子』を作ってるって。しかもすごく高価で、『baffling expensive』って書いてありますね。この『baffling』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means confusing, or hard to understand why. Like, 'why is it so expensive?' It's a mystery.",
+      "ja": "それはね、困惑する、とか、なぜそうなのか理解しにくい、という意味。つまり「なんでそんなに高いの？」って、謎だってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mystery! Yeah, exactly. I mean, it's just a fan, right? Who spends that much on a fan? My wife would kill me if I bought one.",
+      "ja": "謎！そう、まさにそれです。だってただの扇子ですよね？誰がそんなにお金使うんですか、扇子に？もし僕が買ったら妻に殺されますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Some people do. For status, maybe.",
+      "ja": "買う人もいるよ。ステータスのためとかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Or for an owl collection? Maybe. Anyway, I'll stick to my Uniqlo fans.",
+      "ja": "それかフクロウのコレクションのために？とかかな。まあ、僕はユニクロの扇子で十分です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you know what today is, by the way? September 12th.",
+      "ja": "ところで、今日が何の日か知ってる？9月12日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no. Is it someone's birthday?",
+      "ja": "え、知りません。誰かの誕生日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 'World Law Day.' It started in 1965 after a conference in Washington about world peace through law.",
+      "ja": "『世界の法の日』だよ。1965年にワシントンで開かれた『法による世界平和についての国際会議』の後で始まったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "World Law Day? That's kind of heavy for a morning. I mean, peace through law... that's a nice idea, but I don't think it's going to change anything at my office.",
+      "ja": "世界の法の日ですか？朝からちょっと重いですね。法による平和...素敵な考えですけど、うちの会社では何も変わらないような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not. But it's about the bigger picture.",
+      "ja": "まあ、そうだろうね。でも、もっと大きな視点での話だから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the bigger picture. I'm just trying to get my little one to sleep through the night. That would be my world peace right now.",
+      "ja": "ええ、大きな視点。僕はただ、うちの小さな子が夜通し寝てくれることを願ってるだけです。それが今の僕にとっての世界平和ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll get there. Mine eventually did. Just takes time.",
+      "ja": "大丈夫、そのうちできるようになるよ。うちの子も結局はそうだった。時間がかかるだけ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "How much time? A decade?",
+      "ja": "どれくらい時間かかりますか？10年くらい？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not quite. But it feels like it sometimes.",
+      "ja": "そこまでではないよ。でも、そう感じる時もあるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I just want to drink my coffee without thinking about how little sleep I got.",
+      "ja": "ですよね。僕はただ、どれだけ寝不足か考えずにコーヒーを飲みたいだけです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, time's about up for us today.",
+      "ja": "さて、今日はもう時間だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks for joining us, everyone. Hope you have a good Friday. Maybe I'll get some sleep tonight.",
+      "ja": "皆さん、ご視聴ありがとうございました。良い金曜日をお過ごしください。今夜は少しでも眠れるといいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hope so, Alex. See you next time.",
+      "ja": "だといいね、アレックス。また次回。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 26.4,
+      "temp_min": 20.9,
+      "rain_probability": 11
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      },
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      }
+    ],
+    "wikipedia": {
+      "title": "世界の法の日",
+      "description": "1965（昭和40）年、アメリカのワシントンで開かれた「法による世界平和についての国際会議」で、国際間に法の支配を徹底させることで世界平和を確立しようという宣言が採択されたことを記念したもの。"
+    }
+  }
+}
