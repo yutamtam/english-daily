@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-15T21:55:05.984333+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. It's September 15th, 2026. Can you believe it's already this late in the year?",
+      "ja": "おはようございます、サラさん。2026年9月15日です。もうこんな時期なんて信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. And it's really coming down out there, isn't it? Full-on moderate rain.",
+      "ja": "おはよう、アレックス。外、すごい降りだね。結構な雨だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, my shoes are already soaked. And it's so dark out. Feels like it should still be night.",
+      "ja": "ええ、もう靴がびしょ濡れです。それに外が真っ暗で。まだ夜みたいに感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 22 degrees right now, actually. Pretty warm for this much rain. But they're saying 100% chance all day.",
+      "ja": "今は22度だよ、実は。こんなに雨が降ってるのに結構暖かい。でも一日中100%の降水確率だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh, 100%? That's just... I'm already tired. Need my coffee.",
+      "ja": "うわ、100%ですか？もう…僕はもう疲れてます。コーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea ready.",
+      "ja": "私はお茶を用意してるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Well, welcome to another rainy morning on The Daily Tanu-chan Show, everyone.",
+      "ja": "そうですね。さて、皆さん、雨の「ザ・デイリー・タヌちゃん・ショー」へようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Let's see what the news has for us.",
+      "ja": "ニュースを見てみましょうか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, let's see what's happening. NHK World... oh. Body found near Tokyo, missing 10-year-old boy.",
+      "ja": "はい、何が起こってるか見てみましょう。NHKワールド…ああ。東京近郊で遺体発見、行方不明の10歳の男の子。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's awful.",
+      "ja": "それはひどい話ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Swept out to sea. It's... makes you worry, doesn't it? Especially with a little one at home. You just think, what if something happens, like, even inadvertently?",
+      "ja": "ええ。海に流されたと。それは…心配になりますよね？特に家に小さい子がいると。何か起こったらどうしようって、例えば、うっかりとかでも？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm.",
+      "ja": "うん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "What do you call it? When something just happens by accident, without you meaning to do it? Like, an 'inadvertent' mistake?",
+      "ja": "なんて言うんでしたっけ？何か偶然に、意図せず起こることを？例えば、「inadvertent（インアドバートゥント）」な間違いとか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means unintentional. Like, not on purpose. An accident.",
+      "ja": "それは「意図しない」という意味よ。わざとじゃないこと。事故ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. That's the word. Just a sudden, terrible accident.",
+      "ja": "そう、それです。突然の、ひどい事故。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There's also news about Fukushima rebuilding. Fish, tomatoes, hula-dancing girls.",
+      "ja": "それから、福島の復興についてのニュースもあるわね。魚、トマト、フラダンスの女の子たち。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hula-dancing girls? After all that happened?",
+      "ja": "フラダンスの女の子たち？あれだけ大変なことがあった後にですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're trying to attract people back, rebuild the economy. It's been a long time since 2011.",
+      "ja": "人々を呼び戻して、経済を再建しようとしているのよ。2011年からもうずいぶん経つものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's amazing how resilient people are. You know?",
+      "ja": "人間の回復力ってすごいですよね。本当に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And hey, this is great! Japan's hip-hop dancing granny. She's showing off her moves in a new 'Rice Dance' video.",
+      "ja": "そして、これいいですね！日本のヒップホップを踊るおばあちゃん。新しい「ライスダンス」のビデオで、その動きを披露してるって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw that last year, the grandmothers dancing to Bruno Mars.",
+      "ja": "去年、ブルーノ・マーズの曲で踊るおばあちゃんたちを見たわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right! My kid just started walking, so maybe in a few years, they'll be dancing. I wonder if they'll 'emulate' these grandmas. Is that the right word?",
+      "ja": "そうそう！うちの子も歩き始めたばかりだから、数年後には踊ってるかもしれませんね。このおばあちゃんたちを「emulate（エミュレート）」するかな。この言葉で合ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "To emulate means to copy or imitate someone you admire. Like, learning from them.",
+      "ja": "emulateというのは、尊敬する人を真似したり、模倣したりすることよ。例えば、彼らから学ぶようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah! That's it. I hope my kid has some cool moves like that someday.",
+      "ja": "ええ！それです。いつかうちの子も、あんなかっこいい動きができるようになったらいいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Actually, today is International Day for the Protection of the Ozone Layer.",
+      "ja": "ちなみに、今日は国際オゾン層保護デーなのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? What's that about again? I feel like I hear about the ozone layer sometimes, but I don't really know.",
+      "ja": "ああ、そうなんですか？あれって何でしたっけ？オゾン層のこと、たまに聞くけど、よく知らないんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's about protecting the ozone layer that shields Earth from harmful UV rays. The UN made it an international day back in '94.",
+      "ja": "地球を有害な紫外線から守っているオゾン層を保護することについてよ。国連が94年に国際デーにしたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, like, stopping the 'depletion' of it, right? Is 'depletion' the right word there?",
+      "ja": "つまり、その「depletion（ディプリーション）」を止めるってことですよね？depletionで合ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, depletion is a good word for it. It means to reduce or use up something, like a resource, over time.",
+      "ja": "ええ、depletionはそれにぴったりの言葉よ。時間とともに何かを減らしたり、使い果たしたりすることね、資源のように。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. So we don't want the ozone layer to be depleted. Makes sense.",
+      "ja": "分かりました。だからオゾン層が枯渇するのは困る、と。納得です。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "All this talk about Fukushima and rebuilding makes me think... I'm really craving some ramen right now.",
+      "ja": "福島の復興とかの話を聞いてたら、なんだか…今すぐラーメンが食べたくなってきました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh?",
+      "ja": "あら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, a rich tonkotsu broth sounds really good. There's this place near the office I've been thinking about. With extra chashu.",
+      "ja": "ええ、濃厚な豚骨スープがすごく美味しそうに思えて。会社近くにずっと気になってるお店があるんです。チャーシュー増しで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son always asks for extra chashu.",
+      "ja": "うちの息子もいつもチャーシュー増しを頼むわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's the best part, isn't it? Or maybe a lighter shio ramen... I don't know, it's hard to decide.",
+      "ja": "一番美味しい部分ですよね？それとも、もっとあっさりした塩ラーメンもいいかな…いや、迷いますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, another day, another morning. Hope everyone stays dry out there.",
+      "ja": "さて、また一日、また朝が来ましたね。皆さん、外で濡れないように気をつけてください。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "アレックスもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Time to face the rain. And get more coffee.",
+      "ja": "雨に立ち向かう時間です。そして、もう一杯コーヒーを。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 22.0,
+      "temp_min": 19.4,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Body found off coast near Tokyo identified as missing 10-year-old boy",
+        "summary": "The body of a 10-year-old boy who went missing after being swept out to sea a day earlier was found in the sea off the coast of eastern…",
+        "link": "https://japantoday.com/category/national/body-found-off-coast-near-tokyo-identified-as-missing-boy"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      }
+    ],
+    "wikipedia": {
+      "title": "国際オゾン層保護デー",
+      "description": "地球を太陽光線の有害な紫外線から守っているオゾン層の破壊をくい止め、オゾン層を保護するために国連が制定した国際デー。1994（平成6）年の国連総会で決議され採択された。"
+    }
+  }
+}
