@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-17T21:56:00.152959+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Happy September 17th, 2026.",
+      "ja": "おはようございます、サラさん。2026年9月17日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. You're looking a bit... sleepy today.",
+      "ja": "おはよう、アレックス。今日はちょっと…眠そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, thanks. Coffee's just kicking in. It's overcast out there, by the way. High of 22.9°C, low of 19°. And a 28% chance of rain.",
+      "ja": "あ、ありがとうございます。コーヒーがやっと効いてきました。ちなみに、外は曇ってますね。最高気温22.9度、最低19度。降水確率28%です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like a typical autumn day, then. Perfect for a warm cup of tea.",
+      "ja": "じゃあ、普通の秋の日って感じだね。温かいお茶にはぴったり。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. And speaking of typical, welcome to The Daily Tanu-chan Show. We've got some interesting news this morning. First, Chubu Electric Power execs are resigning over falsified quake safety data. That whole situation sounds like a real fiasco, actually.",
+      "ja": "そうですね。そして、いつものように『The Daily Tanu-chan Show』へようこそ。今朝も興味深いニュースがあります。まず、中部電力の幹部が地震の安全データ改ざんで辞任するそうです。あの状況全体、まさに大失敗って感じですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A fiasco? Yes, that's a good word for it. It means a complete failure, or a big, embarrassing mess. It's disappointing to hear, but not entirely surprising.",
+      "ja": "大失敗、ね？ うん、ぴったりの言葉だね。完全な失敗とか、ひどくて恥ずかしい大混乱って意味。聞くのはがっかりだけど、全然驚かないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. A mess. You'd think they'd learn from past incidents, wouldn't you?",
+      "ja": "そう。混乱。過去の事件から学んでほしいものですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It happens. Moving on to some brighter news, Fukushima is rebuilding its future with fish, tomatoes, and even hula-dancing girls.",
+      "ja": "よくあることよ。もっと明るいニュースだけど、福島は魚やトマト、それにフラダンスの女の子たちで未来を再建しているそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's actually really good to hear. My kid's just over a year old now, and he won't even remember the news from back then, but it's still heavy.",
+      "ja": "それは本当にいいニュースですね。うちの子は今1歳を過ぎたばかりで、当時のニュースなんて覚えてないでしょうけど、やっぱり重い話です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, they won't. But it's good to see communities coming back strong. It takes time, and a lot of effort.",
+      "ja": "そうね、覚えてないでしょうね。でも、コミュニティが力強く立ち直っていくのを見るのは良いことよ。時間も努力もかかるけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. And then there's Yuki Tsumugi, from Tochigi Prefecture. It's a unique take on silk manufacturing. Sounds beautiful.",
+      "ja": "間違いなく。それから、栃木県の結城紬ですね。ユニークな絹織物だそうで。とても美しい響きです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's a very traditional craft, and it takes a lot of skill and time. Many generations have passed down the techniques.",
+      "ja": "そうよ。とても伝統的な工芸品で、かなりの技術と時間がかかるの。何世代もかけて技法が受け継がれているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So I guess it's a pretty niche product, then?",
+      "ja": "じゃあ、かなりニッチな製品ってことですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. A niche product is something very specific, for a small group of people who really appreciate it. Not something mass-produced.",
+      "ja": "そう、その通り。ニッチな製品っていうのは、とても特定の、それを本当に評価する少数の人たちのためのもの。大量生産品ではないのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Not something you'd find everywhere. Like a special coffee bean, maybe.",
+      "ja": "なるほど。どこでも手に入るものじゃないんですね。特別なコーヒー豆みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Or a very specific kind of tea. Oh, speaking of specific things, did you know what tomorrow is?",
+      "ja": "その通り。あるいは、ごく特定の種類のお茶ね。あ、特定の物といえば、明日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tomorrow? September 18th? No, I didn't. What's special about it?",
+      "ja": "明日ですか？ 9月18日？ いや、知りませんでした。何が特別なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 'Kaiware Daikon Day'. You know, the little sprouts.",
+      "ja": "『かいわれ大根の日』よ。あの小さい芽のやつね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Kaiware Daikon? Really? How did that happen?",
+      "ja": "かいわれ大根ですか？ 本当に？ どうしてそんな日になったんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The Japan Kaiware Association made it up. They say if you turn an '8' sideways and put a '1' next to it, it looks like a kaiware daikon sprout.",
+      "ja": "日本かいわれ協会が決めたのよ。8の字を横にして、その隣に1を立てると、かいわれ大根の芽の姿に似ているから、って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, like the shape of the leaves and the stem. That's... creative. So we should all eat kaiware daikon tomorrow.",
+      "ja": "ああ、葉っぱと茎の形ですね。それは…クリエイティブですね。じゃあ、明日はみんなかいわれ大根を食べないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "...or just know about it.",
+      "ja": "…知っておくだけでもいいけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, right. You know, with all the news and just... everything, sometimes I just need a proper break. I went to the sento on Sunday, and then the sauna.",
+      "ja": "そうですね、そうですね。ところで、いろんなニュースとか、もう…全部ひっくるめて、たまにちゃんとした休憩が必要になるんですよね。日曜日に銭湯に行って、それからサウナに入りました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. That's a good way to relax.",
+      "ja": "ふーん。それはいいリラックス法だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, getting that 'totonou' feeling. It's the only time I really feel quiet these days. The baby wakes up so early now. Sometimes I just sit there and think 'I hope I don't fall asleep in here'.",
+      "ja": "ええ、あの『ととのう』感じ。最近、本当に静かだと感じるのはあの時だけです。うちの子がすごく早く起きるようになって。たまに座りながら、「ここで寝落ちしないように」って考えたりします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's hard when they start moving around more. My kids kept me busy too, even when they were older.",
+      "ja": "動き回るようになると大変よね。うちの子たちも、大きくなっても私を忙しくさせてたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "He's just started walking, so it's a whole new level of 'busy'. My wife's amazing, but sometimes I just need to zone out.",
+      "ja": "やっと歩き始めたばかりなので、忙しさのレベルが全然違います。妻は本当にすごいんですけど、たまには何も考えずにいたい時もあって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's why those quiet moments are important. Even a short one makes a difference.",
+      "ja": "だから、そういう静かな時間が大切なのよ。短い時間でも、全然違うから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, time flies. Thanks for catching up, Sarah.",
+      "ja": "さて、時間があっという間ですね。ありがとうございました、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 22.9,
+      "temp_min": 19.0,
+      "rain_probability": 28
+    },
+    "news": [
+      {
+        "title": "Chubu Electric Power execs resign over falsified quake safety data for 2 nuclear reactors",
+        "summary": "The president of Chubu Electric Power Co, Japan's third-largest utility, said Monday that he and the chairperson are resigning to take responsibility over the company's yearslong manipulation of…",
+        "link": "https://japantoday.com/category/national/japanese-utility-execs-resign-over-falsified-quake-safety-data-for-2-nuclear-reactors"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      }
+    ],
+    "wikipedia": {
+      "title": "かいわれ大根の日",
+      "description": "1986（昭和61）年、日本かいわれ協会がかいわれ大根をPRするために制定。9月は会合が開かれた月で、18日は8の字を横にして1を立てると、かいわれ大根の姿（竹とんぼ型）に似ていることから。"
+    }
+  }
+}
