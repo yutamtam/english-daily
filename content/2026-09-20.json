@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-19T21:16:45.071461+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, it's really coming down out there.",
+      "ja": "おはようございます、サラさん。いやー、すごい雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, it is. The forecast said 100% chance, so I guess they were right.",
+      "ja": "アレックス、おはよう。ええ、本当に。予報で100%って言ってたから、当たったね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 100%. I mean, it's practically a typhoon outside, but the temperature's still pretty mild. Like 22 degrees? So humid, though.",
+      "ja": "ええ、100%。もうほとんど台風みたいですけど、気温はまだかなり穏やかですよね。22度くらい？でも、すごく蒸し暑い。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 21.3 degrees right now, actually. And it'll only go up to about 22.8 today. Good tea weather.",
+      "ja": "今は21.3度ね、実際は。今日は22.8度くらいまでしか上がらないよ。お茶にはいい天気。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good tea weather, sure. I need my coffee, though. Really need it today. I swear my baby woke up every hour last night.",
+      "ja": "お茶にはいい天気、ですね。僕はコーヒーが必要ですけどね。今日は本当に。うちの赤ちゃん、昨晩は毎時間起きてた気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough.",
+      "ja": "それは大変だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. Anyway, this is The Daily Tanu-chan Show, and it's Friday, September 19th, 2026. Let's see what's happening in the news.",
+      "ja": "大変です。さて、ザ・デイリー・たぬちゃんショーです。今日は2026年9月19日、金曜日。ニュースを見てみましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. NHK World has a report about Kansai Electric shutting down an aging reactor at the Mihama nuclear plant. They found some water issues, it says.",
+      "ja": "ええ。NHKワールドのニュースで、関西電力が美浜原発の老朽化した原子炉を停止したという報道があるわね。水の問題が見つかったと書いてある。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? Manually shutting it down. That sounds... complicated. I hope everything's okay.",
+      "ja": "あ、そうなんですか？手動で停止。なんだか…複雑そうですね。大丈夫だといいんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They said it was completed successfully.",
+      "ja": "無事完了したって書いてあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, good. I feel like I read this kind of news every year, though. Not exactly a shock.",
+      "ja": "ああ、よかった。でも、毎年こういうニュースを読んでる気がしますね。特に驚きはないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is a recurring issue.",
+      "ja": "よくある問題ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. And then there's something about Yuki Tsumugi silk manufacturing in Tochigi. Sounds very traditional.",
+      "ja": "ええ。それから、栃木の結城紬の絹織物の話もありますね。すごく伝統的そうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's a very special, intricate process. They use specific silk threads and weaving techniques.",
+      "ja": "そうね。とても特別で、複雑な工程よ。特定の絹糸と織り方を使うの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Intricate... so, very detailed, right? I wonder if they can even *replicate* that anywhere else. It seems so tied to the region.",
+      "ja": "Intricate…つまり、すごく細かいってことですよね？他でこれを複製することってできるんでしょうか。その地域にすごく結びついてるみたいだし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. To *replicate* something means to make an exact copy or to reproduce it perfectly. And for Yuki Tsumugi, it's nearly impossible because of the local materials and generational skills.",
+      "ja": "その通り。Replicateというのは、まったく同じものを作る、つまり完璧に再現するっていう意味よ。結城紬の場合、地元の材料や何世代にもわたる技術があるから、ほぼ不可能ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I see. It's like trying to make the same ramen soup in a different country. You just can't get the water right. Speaking of ramen, I've been thinking about this rich tonkotsu place near my office...",
+      "ja": "なるほど。違う国で同じラーメンスープを作ろうとするようなものですね。水の味が違うから、どうにもならない。ラーメンといえば、職場の近くの濃厚な豚骨ラーメン屋さんのことばかり考えてて…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Don't go off-topic, Alex. We have one more news item. Taiwan gave over $9 million in donations for the Kumamoto earthquake.",
+      "ja": "話が逸れてるわよ、アレックス。もう一つニュースがある。台湾が熊本地震のために900万ドル以上の寄付をしたという話。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! Sorry. That's really generous. It's good to hear about that kind of international support.",
+      "ja": "ああ、そうでした！すみません。それは本当に寛大ですね。そういう国際的な支援の話を聞くのはいいことです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It shows strong ties.",
+      "ja": "そうね。強い繋がりを示しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. By the way, Sarah, do you know what '今日は何の日' is today?",
+      "ja": "ええ。ところで、サラさん、今日は「今日は何の日」かご存知ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I do. It's 'Sora no Hi' – the Day of the Sky. It commemorates a successful airship flight over Tokyo back in 1911.",
+      "ja": "ええ、知ってるわ。空の日よ。1911年に東京上空を飛行した飛行船の成功を記念しているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. An airship over Tokyo in 1911. That's pretty cool. I didn't know that. So, not a plane, but a big balloon kind of thing?",
+      "ja": "おお、すごい。1911年に東京上空を飛行船。それはかなりかっこいいですね。知りませんでした。じゃあ、飛行機じゃなくて、大きな気球みたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. It was called the Yamada-shiki Hikousen, developed by Yamada Isaburo. It flew for an hour. It became 'Aviation Day' in 1940 and then 'Day of the Sky' in '92.",
+      "ja": "ええ、その通り。山田猪三郎が開発した山田式飛行船というものよ。1時間飛んだの。1940年に『航空の日』になって、92年に『空の日』に改称されたのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "An hour! That must have been a huge deal back then. Imagine seeing that in the sky. My kid would love an airship. He's really into anything that flies now. Even just a plastic bag floating in the wind.",
+      "ja": "1時間！当時としては大ニュースだったでしょうね。空にそれが見えるなんて。うちの子、飛行船好きだろうな。今、空を飛ぶものなら何でも夢中なんですよ。風に舞うビニール袋でさえも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mm.",
+      "ja": "うん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I was thinking, maybe I should get him a kite or something. Something for him to chase around. My wife says I just want to play with it myself.",
+      "ja": "考えてたんですけど、凧とか買ってあげようかなって。彼が追いかけ回せるようなもの。妻には「あなたが自分で遊びたいだけでしょう」って言われましたけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably.",
+      "ja": "たぶんね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, Sarah, speaking of work, sometimes I feel like my morning routine, you know, checking emails, responding to easy stuff... it feels a bit... *perfunctory*. Like I'm just going through the motions.",
+      "ja": "ねえ、サラさん、仕事の話なんですけど、時々僕の朝のルーティン、ほら、メールチェックとか、簡単なものに返信するとか…なんだかちょっと…形だけ、っていう感じがするんですよね。ただこなしてるだけみたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, *perfunctory*. That means something you do quickly, without much thought or effort, just because you have to.",
+      "ja": "ああ、perfunctoryね。それは、やらなきゃいけないから、あまり考えたり努力したりせずに、手早く済ませる、っていう意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! That's the word. I guess it's necessary sometimes, but I'd rather get to the exciting stuff right away. But first, more coffee.",
+      "ja": "まさに！その言葉です。まあ、必要なことなんでしょうけど、もっと早く面白いことに取り掛かりたいんですよね。でも、その前に、もっとコーヒーを。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll get there. I'm going to refill my tea. Have a good rest of your day, Alex.",
+      "ja": "そのうちね。私はお茶を入れ直すわ。アレックス、この後も良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Have a good one.",
+      "ja": "サラさんも。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 22.8,
+      "temp_min": 21.3,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Kansai Electric shuts down Mihama reactor after trouble",
+        "summary": "Kansai Electric Power Co said Friday it has completed manually shutting down an aging reactor at the Mihama nuclear power plant in central Japan, after water was found…",
+        "link": "https://japantoday.com/category/national/urgent-kansai-electric-finishes-shutting-down-mihama-reactor-after-trouble"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Taiwan hands Japan $9.4 mil in public donations for Kumamoto quake",
+        "summary": "Taiwan's Foreign Ministry on Thursday presented more than NT$300 million ($9.4 million) in donations raised in Taiwan to help those affected by a magnitude 7.1 earthquake that struck…",
+        "link": "https://japantoday.com/category/national/taiwan-hands-japan-9.4-mil.-in-public-donations-for-kumamoto-quake"
+      }
+    ],
+    "wikipedia": {
+      "title": "空の日",
+      "description": "1911年、山田猪三郎が開発した山田式飛行船が、滞空時間1時間の東京上空一周飛行に成功したことから、1940年、「航空の日」として制定。1992年、「空の日」と改称。"
+    }
+  }
+}
