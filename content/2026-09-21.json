@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-20T21:09:30.046403+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Another Monday. It's September 20, 2026.",
+      "ja": "おはようございます、サラさん。また月曜日ですね。2026年9月20日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. You know, this rain is pretty heavy today. Looks like it's going to stick around.",
+      "ja": "おはよう、アレックス。今日の雨はかなり強いね。しばらく続きそうだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 100% chance, they said. And it's still warm, 26 degrees. Kind of humid. I'm already thinking about my coffee.",
+      "ja": "ええ、100%って言ってましたね。まだ暑いし、26度。ちょっとジメジメしてます。もうコーヒーのこと考えてますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea ready. But yeah, definitely humid. It's tough to get motivated on days like this.",
+      "ja": "私はお茶を用意したよ。でも、うん、確かに蒸し暑いね。こういう日はやる気を出すのが大変だよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally. Anyway, welcome to The Daily Tanu-chan Show. Hope everyone's staying dry. There's some news today. Kansai Electric shut down a reactor again.",
+      "ja": "全くですね。さて、ザ・デイリー・タヌちゃんショーへようこそ。皆さん、雨に濡れないでくださいね。今日のニュースなんですが、関西電力がまた原子炉を停止したそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, right. I saw a headline about that. Water trouble, I think.",
+      "ja": "ああ、そうだったね。見出しを見たよ。水漏れの問題だったかな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, something about water. I feel like I read this kind of news every year. It's... not really surprising anymore.",
+      "ja": "ええ、水関係の何かでした。毎年こういうニュースを読んでる気がします。もう…あんまり驚かないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a tricky situation. Moving on, though, I saw something about Kabuki. 'Roppongi Kabuki Part II Zatoichi.' They're saying it's the 'most accessible Kabuki ever.'",
+      "ja": "難しい状況だね。ところで、歌舞伎のニュースを見たよ。『六本木歌舞伎 第弐弾 座頭市』。史上「最もアクセシブルな歌舞伎」だって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Accessible? What does that mean for Kabuki? Like, easy to understand for beginners?",
+      "ja": "アクセシブルですか？歌舞伎にとってどういう意味ですか？初心者にも分かりやすい、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. They mean you don't have to sit for four hours without understanding anything. It's supposed to be more welcoming.",
+      "ja": "その通り。何も分からずに4時間座っていなくてもいい、ってこと。もっと入りやすいように、ってことみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. That's good. My parents tried to take me once, but... I was lost. Maybe I should try this one. My kid might even enjoy it in a few years.",
+      "ja": "なるほど。それはいいですね。両親に一度連れて行ってもらいましたけど…全然分かりませんでした。これなら試してみてもいいかも。うちの子も数年後には楽しめるかもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a good way to introduce traditional culture, I think. And speaking of unique events, there's a two-day steampunk event in Harajuku.",
+      "ja": "伝統文化を紹介するには良い方法だと思うよ。そして、ユニークなイベントといえば、原宿で2日間のスチームパンクイベントがあるそうだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Steampunk? Oh, that's the style with Victorian clothes and gears and stuff, right? Like old machines but fashion.",
+      "ja": "スチームパンクですか？ああ、ビクトリア朝の服とか歯車とか、そういうスタイルですよね？古い機械だけどファッションみたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's it. Japan's largest steampunk event, called Steam Garden, is showcasing its own unique twist on it.",
+      "ja": "そうだよ。日本最大のスチームパンクイベント「スチームガーデン」が、日本独自のひねりを加えて紹介しているんだって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds pretty cool, actually. I bet it's a completely different vibe than regular Harajuku fashion. My baby would just try to eat the gears, probably.",
+      "ja": "それは結構クールですね、実際。普通の原宿ファッションとは全然違う雰囲気でしょうね。うちの子はきっと歯車を食べようとするでしょうけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably. They have a stage for performances and a market, too.",
+      "ja": "そうだろうね。パフォーマンス用のステージやマーケットもあるみたいだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, interesting. You know, with all these unique events, it reminds me... I was really craving some good ramen this morning. Like a rich, tonkotsu style.",
+      "ja": "ふむ、面白いですね。こんなユニークなイベントがあると、ふと…今朝、すごく美味しいラーメンが食べたくなったんですよ。こってりした豚骨系みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I like tonkotsu too, but sometimes I prefer a lighter shio ramen. Something less heavy.",
+      "ja": "ああ、私も豚骨は好きだけど、たまにはあっさりした塩ラーメンの方がいいな。重くないやつ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, shio can be good. Not too... uh... what's the word? Not too strong, not too plain. Like it has flavor but isn't overpowering. Sometimes light ramen can be a bit... *bland*?",
+      "ja": "ええ、塩もいいですね。あんまり…えっと、なんて言うんでしょう？強すぎず、かといって味気なくもない。風味はあるけど、主張しすぎない。たまに軽いラーメンってちょっと…味が「ぼんやり」してません？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Bland means it lacks a strong, interesting flavor. So, yes, some lighter ramens can be a bit bland if they don't have enough depth.",
+      "ja": "「ぼんやり」は、強くて面白い味がない、という意味だね。だから、うん、物足りない深みがないと、軽いラーメンはちょっとぼんやりすることもあるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's the word! Bland. Thanks. Yeah, I need something with a kick today because of this rain. Speaking of days, it's actually Keiro no Hi today, isn't it? Respect for the Aged Day.",
+      "ja": "その言葉です！ぼんやり。ありがとうございます。ええ、この雨だから今日は何かパンチのあるものが食べたい気分です。そういえば、今日は敬老の日ですね？敬老の日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. September 20th. It's to show respect for our elders and celebrate their long lives. It used to be on September 15th, but it changed to the third Monday of September in 2003.",
+      "ja": "その通り。9月20日。お年寄りに敬意を表し、長寿を祝う日だよ。元々は9月15日だったけど、2003年に9月の第3月曜日に変わったんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that it used to be a fixed date. So it's a national holiday now, right? My parents will probably be out somewhere nice.",
+      "ja": "ああ、昔は固定日だったんですね。じゃあ今は祝日ですよね？うちの両親はきっとどこか良いところに出かけてるでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it is. It's important to remember to appreciate them. My kids are still at home, so it's a normal day for them, but I'll make sure we do something nice for my own parents.",
+      "ja": "ええ、そうだよ。感謝の気持ちを忘れないことが大切だね。うちの子たちはまだ家にいるから、彼らにとっては普通の日だけど、私の両親には何かしてあげようと思ってるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. My little one is still too young to understand holidays, but it's nice to think about. Maybe by the time I'm an elder, the ramen will still be good.",
+      "ja": "それはいいですね。うちの子はまだ小さすぎて祝日は理解できないですけど、考えるのはいいことですね。私が年寄りになる頃には、ラーメンもまだ美味しいといいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure it will be. And probably even more creative. Well, I think that's about all the time we have for today.",
+      "ja": "きっと美味しいままだよ。それに、もっとクリエイティブになっているかもね。さて、今日はこのくらいで時間かな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Already? Time flies. Thanks for joining us on The Daily Tanu-chan Show. Have a great day, everyone.",
+      "ja": "もうですか？時間は早いですね。ザ・デイリー・タヌちゃんショーにご参加いただきありがとうございます。皆さん、良い一日を。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks, Alex. You too. And stay dry out there.",
+      "ja": "ありがとう、アレックス。あなたもね。そして、濡れないようにね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 26.0,
+      "temp_min": 21.2,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Kansai Electric shuts down Mihama reactor after trouble",
+        "summary": "Kansai Electric Power Co said Friday it has completed manually shutting down an aging reactor at the Mihama nuclear power plant in central Japan, after water was found…",
+        "link": "https://japantoday.com/category/national/urgent-kansai-electric-finishes-shutting-down-mihama-reactor-after-trouble"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      }
+    ],
+    "wikipedia": {
+      "title": "敬老の日",
+      "description": "1966（昭和41）年、国民の祝日として制定。多年にわたり社会に尽くしてきた老人を敬愛し、長寿を祝う日。もとは9月15日だったが、祝日法改正で、2003（平成15）年から9月の第3月曜日となった。"
+    }
+  }
+}
