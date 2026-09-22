@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-22T21:45:54.730569+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 22nd, 2026. Can you believe it's already this late in the year?",
+      "ja": "おはようございます、サラさん。2026年9月22日です。もうこんな時期なんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time really does fly, doesn't it? It's pretty overcast out there today.",
+      "ja": "おはよう、アレックス。本当に時間はあっという間ね。今日はかなり曇ってるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels like it might rain. The forecast said a 61% chance. I definitely needed this coffee this morning.",
+      "ja": "ええ、雨が降りそうな感じですね。予報だと61%の確率って言ってました。今朝は本当にこのコーヒーが必要でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. My tea is helping me wake up.",
+      "ja": "わかるわ。私の紅茶が目を覚ましてくれるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, I saw some of the news headlines this morning. There was a story about a North Korean boat sinking off Japan's coast.",
+      "ja": "それで、今朝ニュースの見出しをいくつか見たんですが。北朝鮮の船が日本の沖合で沈んだという話がありましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. One person is missing. It's a difficult situation.",
+      "ja": "ええ、見たわ。一人行方不明なのよね。大変な状況だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, really sad. On a slightly brighter note, there was also a story about a Japanese master craftsman building a tiny house on wheels. That sounds kind of cool.",
+      "ja": "ええ、本当に悲しいです。少し明るい話だと、日本の名匠が車輪付きの小さな家を建てたという記事もありました。それはちょっと面白そうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A tiny house. I saw that on YouTube. It was quite impressive, very clever use of space.",
+      "ja": "タイニーハウスね。YouTubeで見たわ。かなり印象的だったわ、空間の使い方がとても巧妙だった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder if my little one would like living in a tiny house. Probably just means less space to chase me.",
+      "ja": "うちの子はタイニーハウスに住むの、好きかな？たぶん、僕を追いかけるスペースが減るだけか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They grow so fast. My kids would never fit. They take up so much room now.",
+      "ja": "あっという間に大きくなるわよ。うちの子たちは絶対無理。今じゃすごく場所を取るから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Also, Silver Week started. Airports and stations are totally crowded. I really need a *hiatus* from crowds sometimes.",
+      "ja": "ですね。あと、シルバーウィークが始まりましたね。空港も駅もすごく混んでる。たまに人混みから*ヒアタス*が必要なんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A hiatus just means a break or a pause. It sounds like you need one. My son is actually traveling to see his grandparents.",
+      "ja": "ヒアタスというのは、休憩とか中断という意味よ。あなたは本当に必要そうね。うちの息子は今、おじいちゃんおばあちゃんのところへ旅行中よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's nice. Yeah, a break sounds good. Anyway, today is September 22nd, which means it's Akibun no Hi, right?",
+      "ja": "ああ、それはいいですね。ええ、休みはいいな。ところで、今日は9月22日だから、秋分の日ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It's one of Japan's public holidays. It's traditionally a day to respect our ancestors and remember those who have passed away.",
+      "ja": "その通りよ。日本の祝日の一つね。伝統的には、祖先を敬い、亡くなった人々を偲ぶ日なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. And it's also when the day and night are pretty much the same length?",
+      "ja": "ああ、なるほど。そして、昼と夜の長さがほぼ同じになる日でもあるんですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It marks the start of autumn more formally.",
+      "ja": "その通り。より正式に秋の始まりを告げる日でもあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's good to remember. My kid is still a bit young for understanding ancestors, but I hope to teach them about it one day.",
+      "ja": "覚えておくのはいいことですね。うちの子はまだ先祖を理解するには少し幼いですけど、いつか教えてあげたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They'll get there. It's a nice tradition. Speaking of busy days, I made a big batch of curry on Sunday. It really helps during the week.",
+      "ja": "そのうちわかるわよ。いい伝統よね。忙しい日といえば、日曜日にカレーをたくさん作ったの。週の間、本当に助かるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a smart idea. My evenings are always a rush with the baby. At work, we're under some pretty strict *austerity* measures, too.",
+      "ja": "それは賢いアイデアですね。うちも夜はいつも赤ちゃんのお世話でバタバタです。会社では、かなり厳しい*オーステリティ*措置が取られていて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Austerity means cutting back on spending, usually by a government or a company, to save money. It's tough when that happens.",
+      "ja": "オーステリティというのは、通常政府や企業が費用を削減して節約することね。そういう時は大変よね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it means even less budget for coffee, which is a real problem for me. Anyway, that’s all we have time for today on The Daily Tanu-chan Show.",
+      "ja": "ええ、コーヒーの予算がさらに減るってことで、僕にとっては大問題です。まあ、今日は『ザ・デイリーたぬちゃんショー』、ここまでですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks for listening, everyone. Have a good day.",
+      "ja": "皆さん、聞いてくれてありがとう。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 22.9,
+      "temp_min": 20.3,
+      "rain_probability": 61
+    },
+    "news": [
+      {
+        "title": "Boat towed by North Korean cargo sinks off Japan's northwestern coast",
+        "summary": "A boat carrying four crew members sank Thursday while being towed by a North Korean cargo ship off Japan's northwestern coast, leaving one person missing after the Japan…",
+        "link": "https://japantoday.com/category/national/a-boat-towed-by-a-north-korean-cargo-sinks-off-japan%27s-northwestern-coast-1-missing"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Travelers crowd airports, stations at start of Japan's Silver Week holidays",
+        "summary": "Travelers crowded airports and major train stations in Japan on Saturday at the start of the Silver Week autumn holidays, with the five-day stretch the longest in 11…",
+        "link": "https://japantoday.com/category/national/travelers-crowd-airports-stations-at-start-of-japan%27s-silver-week-holidays"
+      }
+    ],
+    "wikipedia": {
+      "title": "秋分の日",
+      "description": "1948年（昭和23年）、「祖先をうやまい、なくなった人々をしのぶ」という趣旨で制定された国民の祝日の一つ。昼と夜の長さが等しくなる日。"
+    }
+  }
+}
