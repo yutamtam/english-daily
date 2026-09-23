@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-23T22:01:52.914809+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Today is September 23rd, 2026.",
+      "ja": "おはようございます、サラさん。今日は2026年9月23日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like a bit of a drizzle out there.",
+      "ja": "おはよう、アレックス。外は少し霧雨が降ってるみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. Light drizzle, they said. And it's still pretty warm, almost 29 degrees for the high.",
+      "ja": "ええ、そうですね。小雨って言ってました。最高気温は29度近くで、まだかなり暖かいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. It felt a bit muggy even this morning. They were talking about a 67% chance of rain, too.",
+      "ja": "ふむ。今朝も少し蒸し暑かったわね。降水確率も67%って言ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope it clears up. My kid loves to play outside, even if it's just the balcony.",
+      "ja": "晴れてくれるといいんですが。うちの子、バルコニーでも外で遊ぶのが大好きなんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They usually don't mind the rain at that age, do they?",
+      "ja": "そのくらいの年齢だと、雨もあまり気にしないものよね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. Anyway, I need my coffee. How about you? Tea already?",
+      "ja": "そうですね。とにかく、僕はコーヒーが要ります。サラさんは？もう紅茶ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Always. Got my mug right here.",
+      "ja": "いつもよ。ここにマグカップがあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Alright. Welcome back to The Daily Tanu-chan Show. We've got a few things to talk about this morning.",
+      "ja": "さて。ザ・デイリーたぬちゃんショーへようこそ。今朝もいくつか話したいことがあります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about the Hiroshima bus company? Hiring foreign drivers to help with the shortage.",
+      "ja": "広島のバス会社のニュース見た？運転手不足を補うために外国人ドライバーを雇用するって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah. From Indonesia. That's kind of... interesting. Is the driver shortage that bad?",
+      "ja": "ああ、見ました。インドネシアからでしたね。なんか…面白いですね。そんなに運転手不足が深刻なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It seems to be everywhere, honestly. My son was telling me about a friend's dad who quit being a bus driver recently. Said the hours were just too long.",
+      "ja": "正直、どこでもそうみたいよ。うちの息子が、友達のお父さんが最近バスの運転手を辞めたって言ってたわ。勤務時間が長すぎたって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. It's a tough job. I wonder how long their training stint is.",
+      "ja": "ええ、想像できます。大変な仕事ですよね。彼らの研修期間（stint）はどれくらいなんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A 'stint' is a period of time spent doing something. Like a 'work stint' or a 'training stint'.",
+      "ja": "「stint」っていうのは、何かをするのに費やされた期間のことよ。「work stint」とか「training stint」みたいに使うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Okay. Makes sense. So, a 'training period'. That's good to know. Well, I hope it works out for them.",
+      "ja": "ああ、なるほど。分かります。じゃあ、「研修期間」ですね。勉強になりました。うまくいってほしいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And speaking of Tokyo, they're getting a new giant Gundam statue this fall.",
+      "ja": "東京といえば、この秋に新しい巨大ガンダム像ができるそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? The one in Odaiba? I thought they took it down a while ago.",
+      "ja": "ああ、本当ですか？お台場のやつ？前に撤去されたと思ってたんですが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They did. This is a new one, replacing the old one. For fans, it's probably a big deal.",
+      "ja": "そうよ。古いものに代わる新しいものね。ファンにとっては、きっと大きなニュースでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My older brother is going to be so happy. He still talks about the old one.",
+      "ja": "うちの兄貴、すごく喜ぶだろうな。まだ古いガンダム像の話してますよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I saw another headline about Keisuke Unosawa. 'Making the ordinary extraordinary'. Sounds like a cool concept.",
+      "ja": "もう一つ、宇野澤啓介さんの見出しを見ました。「日常を非日常に変える」。かっこいいコンセプトですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's a product designer, I think. Focused on everyday things.",
+      "ja": "彼はプロダクトデザイナーだったと思うわ。日常品に焦点を当てているのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. It's like, he didn't go to a fancy school, but he's really good. I always feel like I need some kind of special background for anything I do.",
+      "ja": "そうですね。なんか、彼は有名な学校を出てないのにすごく優秀で。僕、いつも何をするにも特別な経歴が必要な気がしちゃうんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not always. Sometimes the best ideas come from just looking at things differently.",
+      "ja": "いつもそうとは限らないわ。時々、最高のアイデアは物事を違う角度から見ることから生まれるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. My kid definitely looks at things differently. Like, why is 3 AM the best time to practice walking? Her sleep schedule is so erratic right now.",
+      "ja": "ええ、そうでしょうね。うちの子も確かに物事を違う風に見てます。例えば、なんで午前3時が歩く練習に最適なのかとか。今、寝る時間がすごく不規則（erratic）なんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Erratic' means unpredictable, not consistent. Like a child's sleep, yes.",
+      "ja": "「Erratic」は予測不可能で、一貫性がないという意味よ。子供の睡眠みたいにね、ええ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's exactly it. Unpredictable. One night she sleeps through, the next she's up every hour. Just when you think you have a routine, it changes.",
+      "ja": "まさにそれです。予測不可能。ある夜はぐっすり眠るのに、次の日は毎時間起きるんです。やっとルーティンができたと思ったら、また変わるんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds familiar. My kids were the same. It passes, eventually.",
+      "ja": "よく聞く話ね。うちの子たちもそうだったわ。いつかは落ち着くものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Eventually, huh? That's what everyone says. I'm just hoping 'eventually' is before I turn gray.",
+      "ja": "いつかは、ですか？みんなそう言いますよね。僕、「いつか」が白髪になる前だといいんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, by the way, today is 'Dental Technician's Day' in Japan. 歯科技工士記念日.",
+      "ja": "あ、そういえば、今日は日本で「歯科技工士記念日」よ。歯科技工士記念日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Dental Technician's Day? Really? I've never heard of that. Is it like a national holiday?",
+      "ja": "歯科技工士記念日？本当に？聞いたことないです。祝日みたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, no. It's not a holiday. It's to commemorate the Japan Dental Technicians Association being formed on this day in 1955. They made it an official day in 2005 for their 50th anniversary.",
+      "ja": "いいえ、いいえ。祝日じゃないわ。1955年のこの日に日本歯科技工士会が設立されたことを記念するものよ。2005年に創立50周年を記念して、正式な日として制定されたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, so they make the crowns and dentures and stuff. I never really think about who makes those things.",
+      "ja": "へえ、じゃあ、歯の詰め物とか義歯とか、そういうのを作る人たちなんですね。誰が作ってるかなんて、あんまり考えたことなかったです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. The unsung heroes of our smiles.",
+      "ja": "その通りよ。私たちの笑顔の影の功労者ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I learn something new every day here. Even if it's about teeth.",
+      "ja": "ここでは毎日新しいことを学ぶ気がします。歯のことでもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of quiet moments, I managed to go to the sento last weekend. It was so good to just sit there, you know? 'ととのう' feeling.",
+      "ja": "静かな時間といえば、先週末、銭湯に行けたんですよ。ただ座ってるだけで、すごく良くて。あの「ととのう」感覚です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. I know that feeling. It's very relaxing.",
+      "ja": "ああ、ええ。その感覚はよく分かるわ。とてもリラックスできるものよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, total reset. For an hour, I'm not thinking about work, or baby food, or anything. Just the steam.",
+      "ja": "ええ、完全にリセットされます。1時間だけ、仕事のことも、離乳食のことも、何も考えない。ただ湯気の中にいるだけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good for you. It's important to find those moments.",
+      "ja": "それは良かったわ。そういう時間を見つけるのは大切よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Well, that's all the time we have for today. Thanks for joining us this morning.",
+      "ja": "本当にそうですね。さて、今日のお時間はここまでです。今朝もお付き合いいただき、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good day, everyone.",
+      "ja": "皆さん、良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "See you next time!",
+      "ja": "また次回！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 28.9,
+      "temp_min": 19.1,
+      "rain_probability": 67
+    },
+    "news": [
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      },
+      {
+        "title": "Foreign recruits get behind wheel as Hiroshima bus shortage bites",
+        "summary": "Faced with a worsening shortage of bus drivers, a Hiroshima transport company has turned to Indonesia for help, hiring two foreign nationals who hope to begin carrying passengers…",
+        "link": "https://japantoday.com/category/national/feature-foreign-recruits-get-behind-wheel-as-hiroshima-bus-shortage-bites"
+      },
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      }
+    ],
+    "wikipedia": {
+      "title": "歯科技工士記念日",
+      "description": "1955（昭和30）年のこの日、日本歯科技工士会が誕生。同会が創立50周年の2005（平成17）年に10月8日の入（1）れ（0）歯（8）の日と併せて制定した。"
+    }
+  }
+}
