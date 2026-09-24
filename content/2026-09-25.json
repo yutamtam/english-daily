@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-24T21:57:08.897905+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Happy Thursday. It's September 24th, 2026.",
+      "ja": "おはようございます、サラさん。木曜日ですね。2026年9月24日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's really coming down out there today.",
+      "ja": "おはよう、アレックス。今日は本当に土砂降りだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it is. The forecast said moderate rain all day, 92% chance. And it's still pretty warm, too, 26 degrees.",
+      "ja": "ええ、そうですね。予報だと一日中、中程度の雨で、確率92%って言ってました。まだ結構暑いし、26度もありますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It feels like summer isn't quite ready to leave us yet.",
+      "ja": "夏がまだ私たちから離れたくないみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know. I'm already on my second coffee, trying to wake up. This rain makes me want to just stay in bed.",
+      "ja": "ですね。僕はもう2杯目のコーヒー飲んでますよ、目覚まそうと。この雨のせいでベッドから出たくないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea. I saw a headline this morning about a bear near Mount Takao. Seems like they're active even in the rain.",
+      "ja": "私はお茶よ。今朝、高尾山の近くでクマが目撃されたっていうニュースを見たわ。雨でも活動してるみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't see that. That's a bit scary. People hike there all the time. My wife was just talking about going with the baby when it cools down.",
+      "ja": "ああ、そうなんですか？それは見なかったな。ちょっと怖いですね。みんないつもあそこでハイキングしてるのに。妻も、涼しくなったら赤ちゃん連れて行こうって話してたところなんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They say fall is the best time for hiking, but you need to be careful. My son went with his friends last year.",
+      "ja": "秋はハイキングに最適って言うけど、気をつけないとね。うちの息子も去年友達と行ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. Speaking of history, I also saw something about a samurai sword found in America. Yoshida Shoin, from the last generation of samurai.",
+      "ja": "ええ、確かに。歴史の話なんですけど、アメリカで侍の刀が見つかったっていうのも見ました。吉田松陰って、最後の侍の世代の人らしいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's interesting. He was a really important figure, but that era was full of conflict.",
+      "ja": "それは興味深いわね。彼は本当に重要な人物だったけど、あの時代は争いが多かったもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The article said something like, 'While that distinction carries with it a certain tragically romantic feel...' What does 'distinction' mean there?",
+      "ja": "記事に、『While that distinction carries with it a certain tragically romantic feel…』って書いてあったんですけど、「distinction」ってどういう意味ですか、ここでは？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a special quality or status that makes someone different or superior. Like being a samurai was a special status.",
+      "ja": "それは、誰かを他と違う、あるいは優れていると見せる特別な品質や地位のことよ。侍であること自体が特別な地位だったようにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. And 'tragically romantic'? Is that like, cool but sad at the same time?",
+      "ja": "なるほど。で、「tragically romantic」って？なんか、かっこいいけど同時に悲しい、みたいな感じですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. 'Tragic' means very sad, like a disaster. So 'tragically romantic' means it has a sad, perhaps doomed, but still appealing quality.",
+      "ja": "ええ、その通り。『Tragic』は、災害のようにとても悲しいという意味よ。だから、『tragically romantic』は、悲劇的で、もしかしたら運命づけられているけれど、それでも魅力的な性質を持っているということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. So, a cool sword, but a sad story. That makes sense. I hope they don't find my old baseball bat in 200 years and call it 'tragically romantic.'",
+      "ja": "分かりました。だから、かっこいい刀だけど、悲しい物語。なるほど。200年後に僕の古い野球のバットが見つかって、「悲劇的にロマンチック」って言われないといいですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I doubt it, Alex. Your baseball bat probably won't have the same historical weight.",
+      "ja": "それはどうかしら、アレックス。あなたの野球のバットには、そこまでの歴史的な重みはないでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, you're probably right. Another good news story I saw was about Japan's hip-hop dancing granny. She's got a new 'Rice Dance' video out.",
+      "ja": "ええ、多分そうですね。もう一つ、いいニュースを見たんですけど、日本のヒップホップダンシングおばあちゃんについてでした。新しい『お米ダンス』のビデオが出たらしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I saw that. They're amazing. So much energy.",
+      "ja": "ああ、それ見たわ。彼女たちすごいわね。あんなにエネルギーがあって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? My baby just started trying to bounce a little when music comes on. Maybe one day he'll be a hip-hop granny... I mean, grandpa.",
+      "ja": "ですよね？うちの赤ちゃんも、音楽がかかるとちょっと跳ねようとし始めたんですよ。いつかヒップホップおばあちゃん…いや、おじいちゃんになるかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You never know. It's The Daily Tanu-chan Show. And speaking of old things with new life, did you know that today is '10-yen Curry Day'?",
+      "ja": "どうかしらね。ここはザ・デイリー・たぬちゃん・ショーです。そして、古いものが新しい命を得る話といえば、今日が「10円カレーの日」だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ten-yen curry? Seriously? That's incredibly cheap. Where is that?",
+      "ja": "10円カレー？本気ですか？それ、信じられないくらい安いですね。どこでやってるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's at Matsumoto-ro restaurant in Hibiya Park. Their building burned down in 1971, then they rebuilt and reopened in 1973. To celebrate, they offer curry for 10 yen on this day.",
+      "ja": "日比谷公園にある松本楼レストランよ。1971年に建物が焼失して、1973年に再建・再オープンしたの。それを記念して、この日はカレーを10円で提供しているのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, what a history. And only 10 yen! I should tell my wife. We could go, if it stops raining.",
+      "ja": "わあ、すごい歴史ですね。しかもたった10円！妻に教えなきゃ。雨が止んだら行けるかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "All the money they make from the 10-yen curry is donated to charity.",
+      "ja": "10円カレーで得たお金は、すべてチャリティーに寄付されるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? So it's for a good cause. What exactly does 'charity' mean?",
+      "ja": "え、そうなんですか？じゃあ、いいことなんですね。「チャリティー」って具体的にはどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means providing help or money to people in need, usually through an organization.",
+      "ja": "それは、困っている人々に、通常は組織を通して、助けやお金を提供することよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's really cool. So it's a way to give back to the community after they rebuilt. I like that.",
+      "ja": "それは本当にいいですね。再建後に地域に還元する方法なんですね。気に入りました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it's a nice tradition.",
+      "ja": "ええ、素敵な伝統よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Well, the baby was up twice last night, so I'm a bit scattered today. But at least there's curry out there for 10 yen.",
+      "ja": "ええ、そうですね。まあ、昨夜は赤ちゃんが2回起きたので、今日はちょっとぼーっとしてますけど。でも、少なくとも10円のカレーがあるっていうのはいいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like you need more coffee. Maybe the rain will let up later.",
+      "ja": "もっとコーヒーが必要みたいね。雨も後でやむかもしれないし。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 26.8,
+      "temp_min": 20.2,
+      "rain_probability": 92
+    },
+    "news": [
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "Bear spotted near Tokyo’s most popular hiking mountain trail",
+        "summary": "Fall is, by far, the best time of year to go hiking in Japan. Free from worries about the snows of winter, the hay fever-triggering pollen of spring,…",
+        "link": "https://japantoday.com/category/national/bear-spotted-near-tokyo%E2%80%99s-most-popular-hiking-mountain-trail"
+      }
+    ],
+    "wikipedia": {
+      "title": "10円カレーの日",
+      "description": "東京・日比谷公園にあるレストラン「松本楼」が制定。1971（昭和46）年に焼失し、翌々年に再建、新装開店したのを記念して、この日はカレーを10円で提供。売上はすべてチャリティーとして寄付している。"
+    }
+  }
+}
