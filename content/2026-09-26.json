@@ -1,0 +1,282 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-25T21:58:24.640681+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 25th, 2026.",
+      "ja": "おはようございます、サラさん。2026年9月25日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like a wet one out there.",
+      "ja": "おはよう、アレックス。外は雨みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's really coming down. I saw the forecast for Tokyo, 100% chance of rain. And only about 21 degrees. Good coffee weather, at least.",
+      "ja": "ええ、本当に降ってますね。東京の天気予報を見たら、降水確率100%でした。そして21度くらい。少なくとも、コーヒー日和です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely tea weather too. My umbrella almost turned inside out on the way here.",
+      "ja": "お茶日和でもあるわね。ここに来る途中で、傘がひっくり返りそうになったもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I needed that coffee today. Didn't get much sleep. The baby decided 4 AM was playtime.",
+      "ja": "今日はこのコーヒーが必要でした。あまり眠れなくて。赤ちゃんが午前4時を遊び時間だと決めたみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that. Mine used to do that.",
+      "ja": "そうするものよ。うちの子も昔はそうだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. Any little noise.",
+      "ja": "最近は何もかもに飛び上がるんですよ。きっと赤ちゃんのせいだと思います。どんな小さな物音にも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hey, did you see that news about elderly dog owners? Lower risk of dementia.",
+      "ja": "ねえ、お年寄りの犬の飼い主に関するニュース見た？認知症のリスクが低いんだって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no, I missed that. That's kind of interesting.",
+      "ja": "ああ、それは見逃しました。へえ、ちょっと面白いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, a survey said dog owners had a nearly 50% lower chance of developing dementia needing care.",
+      "ja": "ええ、ある調査によると、犬の飼い主は介護が必要な認知症を発症する確率が50%近く低かったそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, that's a big number. So, get a dog, stay sharp? I wonder if just having a pet counts, or if it has to be a dog because of the walking.",
+      "ja": "うわあ、それはすごい数字ですね。じゃあ、犬を飼えば、頭が冴えるってことですか？ただペットがいればいいのか、散歩があるから犬じゃないとダメなのか、気になりますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It probably involves the activity. Walking, interacting. My neighbor has a cat, and she's very active, but she doesn't walk the cat.",
+      "ja": "たぶん、活動が関係しているんでしょうね。散歩したり、交流したり。私の隣人は猫を飼っていて、彼女自身はとても活動的だけど、猫を散歩させるわけじゃないもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My little one's still too young for a dog, but maybe in a few years. It sounds like good motivation.",
+      "ja": "うちの小さいのはまだ犬を飼うには早すぎますけど、数年後にはいいかもしれませんね。いい動機になりそうです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of active elderly people, I saw something about a hip-hop dancing granny?",
+      "ja": "活動的なお年寄りといえば、ヒップホップを踊るおばあちゃんの話を見ましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, the \"Rice Dance\" video! Yes, she was great. A trio of grandmothers, actually. They were pretty impressive last year too.",
+      "ja": "ああ、「ライスダンス」のビデオね！ええ、彼女たちは素晴らしかったわ。実際には3人組のおばあちゃんたちでね。去年もかなり印象的だったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I love that. It's so cool. Like, you don't expect it, right?",
+      "ja": "あれ、大好きです。すごくかっこいいですよね。まさか、って感じじゃないですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, but it's inspiring. Keeping active, trying new things. My kids just roll their eyes if I suggest dancing.",
+      "ja": "そうね、でも刺激になるわ。活動的に過ごして、新しいことに挑戦する。うちの子たちは、私がダンスを提案すると、ただ目を丸くするだけだもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mine will probably be embarrassed by everything I do when they're teenagers. It's like a guaranteed thing, isn't it? You can't avoid it.",
+      "ja": "うちの子も、ティーンエイジャーになったら僕がすること全部に恥ずかしがるでしょうね。それはもう、絶対のことですよね？避けられないというか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Pretty much.",
+      "ja": "まあ、そうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the Osaka news? They might name a district after Myaku-Myaku.",
+      "ja": "大阪のニュース見た？ミャクミャクにちなんで地区の名前をつけるかもしれないって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Myaku-Myaku? The Expo mascot? Really?",
+      "ja": "ミャクミャク？万博のマスコットですか？本当に？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. The ruling party there wants to change Osaka into a metropolis, and part of that involves naming districts.",
+      "ja": "ええ。そこの与党が大阪を大都市に変えたいと考えていて、その一部として地区の名前を付けることを考えているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. I mean, Myaku-Myaku is... distinctive. I don't know if I'd want to live in \"Myaku-Myaku-cho.\" It sounds a bit...",
+      "ja": "へえ。ミャクミャクは…個性的ですよね。でも、「ミャクミャク町」に住みたいかと言われると、どうでしょう。ちょっと…音が。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Abrasive?",
+      "ja": "Abrasive（耳障り）？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, abrasive! That's the word. What does \"abrasive\" really mean, anyway? I just feel like it sounds like that.",
+      "ja": "ええ、abrasive！それです。でも、「abrasive」って実際どういう意味なんですか？なんか、そんな感じがするなと思って。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means rough or harsh. Like sandpaper. Or a personality that grates on people.",
+      "ja": "粗いとか、きついという意味よ。サンドペーパーみたいにね。あるいは、人に不快感を与える性格とか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. Like something that's not smooth or pleasant. Yeah, \"Myaku-Myaku-cho\" just sounds a bit... rough. I don't know why.",
+      "ja": "ああ、なるほど。滑らかじゃなくて、あまり心地よくない感じ。ええ、「ミャクミャク町」って、なんだかちょっと…粗い感じがしますね。なんでか分からないけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anyway, speaking of words, today's \"なんの日\" (what day is it)?",
+      "ja": "ところで、言葉といえば、今日の「なんの日」は何かしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I almost forgot! Let me check. Ah, it's ワープロ記念日 (Word Processor Day).",
+      "ja": "あ、危ない、忘れてました！ちょっと待ってください。ああ、ワープロ記念日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right! 1978. Toshiba.",
+      "ja": "ああ、そうだったわね！1978年。東芝よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The first Japanese word processor was announced by Toshiba in 1978. Wow. Before I was born.",
+      "ja": "東芝が1978年に最初の日本語ワープロを発表したんですね。わあ。僕が生まれる前だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Me too. But I remember using them. Before personal computers were common. Typing on those things was... a different experience.",
+      "ja": "私もよ。でも使っていたわ。パソコンが普及する前ね。あれで文字を打つのは…今とは違う体験だったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can only imagine. My generation just went straight to computers and smartphones. I bet they were big and clunky.",
+      "ja": "想像するしかないですね。僕の世代は、いきなりコンピューターとスマートフォンでしたから。きっと大きくて扱いにくかったんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They were. And sometimes a bit fastidious with their settings. You had to be very careful.",
+      "ja": "そうだったわ。そして時々、設定に関しては少しfastidiousだったの。とても注意深くなければならなかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Fastidious? What does that mean?",
+      "ja": "Fastidious？どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means paying a lot of attention to detail, being very careful or particular. Like, if you're very neat, you might be called fastidious. Or if a machine needs very precise input.",
+      "ja": "細部にまで注意を払う、とても注意深いとか、こだわるという意味よ。例えば、あなたがとてもきちんとしているなら、fastidiousと言われるかもしれない。あるいは、機械が非常に正確な入力を必要とする場合とかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so like, they were picky about how you used them. I guess that makes sense for early technology.",
+      "ja": "ああ、なるほど。つまり、使い方にうるさいというか、こだわりが強かったんですね。初期の技術なら、それも納得です。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, this has been a pretty packed morning for The Daily Tanu-chan Show.",
+      "ja": "さて、今日の『たぬちゃん毎日ショー』は盛りだくさんの朝でしたね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You know, with all this rain, it actually makes me think of going to a sento or a sauna.",
+      "ja": "この雨だと、なんか銭湯とかサウナに行きたくなりますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh? Why's that?",
+      "ja": "あら？どうして？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I went last weekend, and it was just so quiet, even with other people there. It's that feeling of ととのう (totonou), you know? Like everything just aligns. And after a week of running around with the baby, it's a real reset.",
+      "ja": "先週末に行ったんですけど、他の人がいてもすごく静かで。あの「ととのう」って感じ、分かります？全てが整うというか。赤ちゃんとの一週間のバタバタの後だと、本当にリセットになるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. That feeling of calm. My husband likes to go to the public baths sometimes too.",
+      "ja": "分かるわ。あの落ち着く感じね。うちの夫も時々銭湯に行くのが好きなのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's just a different kind of quiet. Not silent, but peaceful. Like a nice, warm rain.",
+      "ja": "ええ、ただ、なんか違う種類の静けさなんですよね。無音じゃないけど、安らぐ。まるで心地よい温かい雨みたいに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer a good cup of tea at home, but I get the appeal.",
+      "ja": "私は家で美味しいお茶を飲む方が好きだけど、その気持ちは分かるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, it's almost time to wrap up. Still pouring out there.",
+      "ja": "さて、そろそろ終わりの時間ですね。まだ外は土砂降りです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Make sure you don't forget your umbrella, Alex.",
+      "ja": "そうね。傘を忘れないようにね、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, good call. I probably would have. Thanks, Sarah.",
+      "ja": "ああ、良いこと言いましたね。きっと忘れてたと思います。ありがとう、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome. Have a good one.",
+      "ja": "どういたしまして。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too.",
+      "ja": "あなたも。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 21.8,
+      "temp_min": 17.6,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Elderly dog owners have lower risk of dementia: survey",
+        "summary": "Elderly people with a dog had a roughly 48 percent lower chance of developing dementia that would require care than those who did not, according to a survey…",
+        "link": "https://japantoday.com/category/national/elderly-dog-owners-have-lower-risk-of-dementia-survey"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "Osaka may name a district after expo mascot Myaku-Myaku",
+        "summary": "For quite a while now, the ruling political party in Osaka Prefecture, the Japan Innovation Party (Ishin no Kai), has been wanting to change Osaka into a metropolis…",
+        "link": "https://japantoday.com/category/national/osaka-may-name-a-district-after-expo-mascot-myaku-myaku"
+      }
+    ],
+    "wikipedia": {
+      "title": "ワープロ記念日",
+      "description": "1978（昭和53）年、世界初の日本語ワープロが東芝から発表された。"
+    }
+  }
+}
