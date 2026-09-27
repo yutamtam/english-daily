@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-27T21:50:34.744889+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Happy September 27th, 2026. Can you believe it's already this far into autumn?",
+      "ja": "おはようございます、サラさん。2026年9月27日ですね。もうこんなに秋が深まってるなんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, time flies. It's really coming down out there today, isn't it? Moderate rain.",
+      "ja": "おはよう、アレックス。うん、本当に早いね。今日は外はかなり降ってるね。小雨だけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh, tell me about it. My umbrella is basically useless against this kind of downpour. And it's so humid, even at 22 degrees.",
+      "ja": "ああ、本当にそれです。こんな土砂降りじゃ傘も意味ないですよ。22度なのに蒸し暑いし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. The low is still 20 degrees, so it doesn't feel much like autumn yet, despite the date. At least the rain probability is 74%, so we were warned.",
+      "ja": "そうだね。最低気温はまだ20度だから、日付の割にはまだ秋って感じじゃないね。少なくとも降水確率が74%だったから、覚悟はできてたけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, well, I need my coffee to deal with it all. I can barely keep my eyes open these days. The baby was up a lot last night.",
+      "ja": "ええ、まあ、僕はこれに耐えるためにコーヒーが必要です。最近は目が開けてられないくらい。昨夜は赤ちゃんがずっと起きてて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough. My tea is helping a little. Did you see the news about Chubu Electric?",
+      "ja": "大変だね。私はお茶でなんとかしてるよ。中電のニュースは見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right, the Hamaoka nuclear reactors. They're withdrawing their applications to restart them. Again. Feels like I read this every year.",
+      "ja": "ああ、そうですね、浜岡の原発。再稼働の申請を取り下げたって。また。毎年読んでる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They've been debating it for a long time. It's probably for the best, given the safety concerns. Better safe than sorry.",
+      "ja": "ずっと議論されてるからね。安全性を考えれば、それが一番いいんじゃないかな。後悔するよりは安全な方がいい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. But then there's the other news, about NHK restarting door-to-door visits for TV fees. That's not going to change at my office, for sure.",
+      "ja": "ええ、まあ。でも、別のニュースで、NHKがテレビ料金の訪問徴収を再開するって。うちの会社では、これは絶対変わらないでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a bit of an old-fashioned method, isn't it? People mostly pay online now.",
+      "ja": "それはちょっと昔ながらの方法だね。今はほとんどの人がオンラインで支払ってるでしょ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! It feels like a step backward. They should be more lenient with how people pay, not send people to their doors. It's almost... like an inquisition.",
+      "ja": "そうですよ！なんか後退してる感じがします。支払い方法にもっと寛容になるべきなのに、家に人を送り込むなんて。まるで…なんだか尋問みたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "An inquisition? That's a strong word, Alex. It just means a thorough or harsh questioning. Like a really detailed investigation.",
+      "ja": "尋問？それは強い言葉だね、アレックス。それはただ、徹底的で厳しい質問をすることだよ。すごく詳細な調査みたいなもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. I thought it was more about like, forcing people to do things. Still, it feels like they're being too strict, don't you think? They should be more understanding.",
+      "ja": "ああ、そうなんですね。もっと強制的に何かをさせることだと思ってました。それでも、厳しすぎると思いませんか？もっと理解を示すべきですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a delicate balance for them, I suppose. They need to collect the fees, but public opinion is important.",
+      "ja": "彼らにとっては難しいバランスなんだと思うよ。料金を徴収する必要があるけど、世論も大切だからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. Speaking of things that are a bit much... did you see the Gucci owl fan? It's kind of cute, but the price tag is just baffling.",
+      "ja": "確かに。なんだかやりすぎな話といえば…グッチのフクロウの扇子見ました？ちょっと可愛いんですけど、値段がもう、わけわかんないですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's about 80,000 yen, right? For a fan.",
+      "ja": "見たよ。8万円くらいするんでしょ？扇子なのに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah! I mean, I love owls, they're so wise. But that's a lot of money. My wife wants some new camping gear, and that money could buy us a really nice tent.",
+      "ja": "ええ！フクロウは好きですよ、賢そうだし。でも、それは高すぎます。妻が新しいキャンプ用品を欲しがってるんですが、そのお金があればすごく良いテントが買えますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Camping sounds good. Less expensive than Gucci, for sure.",
+      "ja": "キャンプはいいね。グッチよりは確実にお金がかからないし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I'm always thinking about getting out more. My little one is getting so inquisitive about everything these days, always pointing and asking 'What's that?'",
+      "ja": "もちろんです。もっと外に出たいっていつも考えてます。最近、うちの子は何にでも興味津々で、いつも指差して「あれは何？」って聞いてくるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good age. They learn so much then. 'Inquisitive' means they're very curious, always wanting to know things.",
+      "ja": "いい時期だね。あの頃はたくさんのことを学ぶから。「inquisitive」っていうのは、すごく好奇心旺盛で、何でも知りたがるっていう意味だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that fits him perfectly. He's super inquisitive. He even tries to press all the buttons on my laptop. Speaking of laptops, did you know today is パソコンの日?",
+      "ja": "ああ、まさに彼にぴったりです。超好奇心旺盛ですよ。僕のノートパソコンのボタンも全部押そうとします。ノートパソコンといえば、今日はパソコンの日って知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, is it? I didn't know that. What's the reason?",
+      "ja": "ああ、そうなの？知らなかった。なんで？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's because NEC released the PC-8000 series back in 1979. It was one of the first personal computers in Japan. Pretty groundbreaking, I guess.",
+      "ja": "NECが1979年にPC-8000シリーズを発売した日だからだそうです。日本で最初のパーソナルコンピューターの一つだったとか。かなり画期的だったんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Wow, 1979. That was before my son was even born. I remember getting our first home computer, it was a huge event.",
+      "ja": "へえ、1979年。うちの息子が生まれる前だね。初めて家にパソコンが来た時を覚えてるよ、すごく大きな出来事だった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, now everyone has one. Or two. Or a tablet and a phone. My kid will probably grow up thinking they just appeared out of nowhere.",
+      "ja": "ええ、今はもうみんな持ってますもんね。一台か二台。あるいはタブレットとスマホ。うちの子は、パソコンがどこからともなく現れたとでも思って育つんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably. My daughter does her homework on a tablet now. It's all so different.",
+      "ja": "そうだろうね。うちの娘は今、タブレットで宿題をやってるよ。全てがこんなに違うなんて。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. Well, I should probably get some more coffee before I start trying to explain the history of the internet to a toddler.",
+      "ja": "本当にそうですね。さて、そろそろもう一杯コーヒーを淹れてこないと、幼児にインターネットの歴史を説明し始めることになりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good luck with that. Or just enjoy the quiet time with your coffee.",
+      "ja": "頑張って。それか、コーヒーで静かな時間を楽しんで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I'll aim for the quiet time. Thanks for listening, everyone, to The Daily Tanu-chan Show. We'll be back tomorrow.",
+      "ja": "ええ、静かな時間を狙います。皆さん、『The Daily Tanu-chan Show』にお付き合いいただきありがとうございました。また明日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you then.",
+      "ja": "またね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 22.0,
+      "temp_min": 20.1,
+      "rain_probability": 74
+    },
+    "news": [
+      {
+        "title": "Chubu Electric withdraws applications for Hamaoka nuclear reactors restart",
+        "summary": "Chubu Electric Power Co on Friday submitted necessary documents to withdraw its applications for regulatory screening to restart two of the reactors at the Hamaoka nuclear power plant…",
+        "link": "https://japantoday.com/category/national/update1-chubu-electric-withdraws-applications-for-hamaoka-nuclear-reactors-restart"
+      },
+      {
+        "title": "NHK restarts at-home collection agent visits for TV fees",
+        "summary": "Imagine you’re sitting at home, and all of a sudden there’s a knock at the door. You go to see who it is, and it turns out to…",
+        "link": "https://japantoday.com/category/national/nhk-restarts-at-home-collection-agent-visits-for-tv-fees"
+      },
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      }
+    ],
+    "wikipedia": {
+      "title": "パソコンの日",
+      "description": "1979（昭和54）年、日本電気（NEC）がパーソナルコンピューター「PC－8000」シリーズを発売した。"
+    }
+  }
+}
