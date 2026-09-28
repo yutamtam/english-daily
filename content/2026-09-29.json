@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-28T23:40:47.722068+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. September 28th already. Can't believe it's almost October.",
+      "ja": "おはようございます、サラ。もう9月28日か。あっという間に10月だな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It is. And quite the rain out there. Hope you had your coffee.",
+      "ja": "おはよう、アレックス。そうだね。それに、結構な雨降りだね。コーヒーは飲んできた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, always. Couldn't start without it. This mug is almost empty already. My umbrella almost turned inside out on the way here.",
+      "ja": "ああ、もちろん。飲まないと始まらないよ。このマグ、もうほとんど空だけどね。来る途中、傘がひっくり返りそうになったよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. It's really coming down. I opted for tea today, something warm.",
+      "ja": "わかる。本当に激しい雨だね。私は今日は温かいお茶にしたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The news said 100% chance. Over 21 degrees too, so it's a humid kind of rain.",
+      "ja": "ニュースでは降水確率100%って言ってた。気温も21度超えだから、ジメジメする雨だね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, at least it's not freezing cold. Still, probably best to stay indoors today.",
+      "ja": "まあ、少なくとも凍えるほどじゃないだけマシかな。でも、今日は家の中にいた方が良さそうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, welcome to The Daily Tanu-chan Show, everyone! Hope you're staying dry wherever you are.",
+      "ja": "さあ、皆さん、『ザ・デイリーたぬちゃんショー』へようこそ！どこにいても、濡れないように気をつけてくださいね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed.",
+      "ja": "そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, I saw some headlines... There's a story about a Japanese hip-hop dancing granny. For a 'Rice Dance' video.",
+      "ja": "それで、ニュースの見出しをいくつか見たんだけど…日本のヒップホップを踊るおばあちゃんの話があったよ。『ライスダンス』の動画でね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I think I saw a clip of that last year. The grandmothers dancing.",
+      "ja": "ああ、それ、去年のクリップを見た気がする。おばあちゃんたちが踊ってるやつ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it says they were blown away by a trio of grandmothers last year, dancing to Bruno Mars. Now they have a new one.",
+      "ja": "うん、記事によると、去年ブルーノ・マーズに合わせて踊る3人のおばあちゃんたちにみんな驚いたって。今度は新しい動画が出たらしいよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's quite impressive, isn't it? To keep that energy and move like that.",
+      "ja": "それはすごいね。あのエネルギーを保って、あんな風に動けるなんて。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can barely get out of bed some mornings. I don't know how they do it. My back hurts just thinking about it. My kid actually watches some dance videos now. She just bounces.",
+      "ja": "僕なんて、朝起き上がるのがやっとの日もあるのに。どうやってるんだろうね。考えただけで腰が痛いよ。うちの子も最近ダンス動画見てるよ。ただぴょんぴょん跳ねてるだけだけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They probably have good routines. And good motivation.",
+      "ja": "きっと良いルーティンがあるんだろうね。それに、良いモチベーションも。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things that have been around... not old, but long-running... Sailor Moon fan club is taking applications for 2017. With English sign-up support.",
+      "ja": "長く続いているものといえば…古いわけじゃないけど、セーラームーンのファンクラブが2017年の申し込みを受け付けてるって。英語での登録サポート付きでね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's been around for ages. My daughter used to watch it when she was little.",
+      "ja": "それはずいぶん昔からあるね。うちの娘が小さい頃によく見てたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Twenty-six years now, it says. That's... yeah, that's a long time. People really love it.",
+      "ja": "もう26年になるって書いてある。それは…うん、長いね。本当にみんな好きなんだな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Strong fanbase, obviously.",
+      "ja": "根強いファン層がいるんだろうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder what the *niche* is for something like that. I mean, after so long, who's still joining fan clubs?",
+      "ja": "あんなものの『ニッチ』って何なんだろうね。だって、こんなに長く続いてるのに、まだファンクラブに入る人っているのかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, a niche is like a very specific, small market or group. So, the \"niche\" for Sailor Moon is probably people who grew up with it and still enjoy it, or even new fans who discover it.",
+      "ja": "ええと、ニッチっていうのは、すごく特定された小さな市場とかグループのことよ。だからセーラームーンの『ニッチ』は、きっとそれで育った人で今も楽しんでいる人たちとか、新しく発見するファンとか、そういう人たちね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, a niche. Got it. So, a specific type of person. I didn't know that word. Makes sense. I guess that's why they offer English support.",
+      "ja": "ああ、ニッチね。わかった。特定のタイプの人ってことか。その言葉知らなかったよ。なるほどね。英語サポートがあるのもそのためか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this last one is interesting. Elderly dog owners have a lower risk of dementia, a survey says.",
+      "ja": "そして、この最後のニュースも面白いよ。高齢の犬の飼い主は、認知症のリスクが低いという調査結果だって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can believe that.",
+      "ja": "それは信じられるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Roughly 48 percent lower chance than those without a dog. That's a huge difference.",
+      "ja": "犬を飼っていない人より、約48パーセントも認知症になる確率が低いんだって。すごい違いだよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Having a pet keeps you active, both physically and mentally. You have to walk them, feed them, talk to them. Plus, the companionship is important.",
+      "ja": "ペットを飼うと、肉体的にも精神的にも活動的でいられるものよ。散歩させたり、ご飯をあげたり、話しかけたりするでしょう。それに、仲間がいるっていうのも大きいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My neighbor has a dog. He's always out walking it, even in the rain like today. Says it's good for him.",
+      "ja": "僕の隣の人が犬を飼ってるんだけど。今日みたいな雨の日でも、いつも散歩させてるよ。それが健康に良いって言ってた。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a commitment. But it sounds like a good one.",
+      "ja": "それは責任が伴うことだけど。でも、良い責任だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Maybe I should get a dog for my parents. They're getting older...",
+      "ja": "もしかしたら、両親に犬を飼ってあげた方がいいのかな。だんだん年を取ってきたし…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'd have to make sure they actually want one and can take care of it properly. It's a big responsibility.",
+      "ja": "彼らが本当に欲しがっているか、きちんと世話ができるかを確かめないといけないわね。大きな責任だから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, good point. It's not just a gift, is it? More like a family member.",
+      "ja": "うん、確かに。ただのプレゼントじゃないもんね？家族みたいなものか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, by the way, today is クリーニングの日. Cleaning Day.",
+      "ja": "そういえば、今日は『クリーニングの日』なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Cleaning Day? What's that for?",
+      "ja": "クリーニングの日？何それ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's September 29th, so \"ku-ri-ni-ngu\" (9-2-9). They established it in 1982 to make dry cleaning feel more familiar to people.",
+      "ja": "9月29日で、「ク（9）リー（2）ニング（9）」の語呂合わせ。ドライクリーニングをもっと身近に感じてもらおうと、1982年に制定された日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, goroawase. Of course. Cleaning day. You know, I just dropped off my suit yesterday. My kid spit up on it. Again.",
+      "ja": "ああ、語呂合わせね。なるほど。クリーニングの日か。そういえば、昨日スーツをクリーニングに出してきたばかりだよ。うちの子がまた吐いちゃってね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Happens a lot when they're little.",
+      "ja": "小さい頃はよくあることよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I'm constantly cleaning something these days. My house, my clothes, the baby's clothes... the baby itself. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "最近はいつも何かを掃除してる気がするよ。家とか、自分の服とか、赤ちゃんの服とか…赤ちゃん自身も。この頃は、どんな音にもビクッとするんだ。多分、赤ちゃんのせいだと思う。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a phase. My kids are teenagers now. I mostly just tell them to clean their own rooms. My son thinks his room is perfectly tidy.",
+      "ja": "一時的なものよ。うちの子たちはもうティーンエイジャーだから、大抵は自分の部屋を自分で片付けなさいって言うだけ。息子は自分の部屋が完璧にきれいだと思ってるみたいだけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can't wait for that. I mean, my little one is almost a year and a half now, so yeah, she's a toddler. Everything is a mess, and everything goes into her mouth.",
+      "ja": "そうなってほしいなあ。うちの子はもうすぐ1歳半だから、うん、もう幼児だね。何でも散らかすし、何でも口に入れちゃうから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They get better at it eventually. Mostly.",
+      "ja": "そのうち慣れるわよ。大体はね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You know, I was talking to a guy at work about something else, about parenting, and he used the word *stigma*. I wasn't really sure what he meant.",
+      "ja": "そういえば、職場の男性と育児のことについて話してて、彼が『スティグマ』って言葉を使ったんだけど、どういう意味かよくわからなかったんだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A stigma? That's like a mark of disgrace or shame. Something that makes people look down on you or a group.",
+      "ja": "スティグマ？それは、不名誉とか恥の烙印のようなものね。ある人やグループを人々が見下す原因になるようなことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh. Like a negative label. Right. He was talking about the *stigma* of being a stay-at-home dad, which I guess some people still feel.",
+      "ja": "ああ。ネガティブなレッテルみたいなものか。なるほどね。彼は、専業主夫であることの『スティグマ』について話してたんだ。まだそう感じる人もいるんだろうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Some people might feel that way, yes. But it's changing, I think.",
+      "ja": "そう感じる人もいるかもしれないわね。でも、変わってきていると思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I mean, I'm glad I don't feel that. I'm just tired all the time from work and then home. That's a different kind of issue.",
+      "ja": "うん。僕がそう感じないのは良かったよ。僕はただ、仕事と家事でいつも疲れてるだけだから。それはまた別の問題だね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It certainly is.",
+      "ja": "全くその通りね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 21.2,
+      "temp_min": 18.8,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      },
+      {
+        "title": "Elderly dog owners have lower risk of dementia: survey",
+        "summary": "Elderly people with a dog had a roughly 48 percent lower chance of developing dementia that would require care than those who did not, according to a survey…",
+        "link": "https://japantoday.com/category/national/elderly-dog-owners-have-lower-risk-of-dementia-survey"
+      }
+    ],
+    "wikipedia": {
+      "title": "クリーニングの日",
+      "description": "1982（昭和57）年、「ク（9）リーニ（2）ング（9）」の語呂合わせから、全国クリーニング生活衛生同業組合連合会などが制定。クリーニングをより身近なものに感じてもらおうと設けた日。"
+    }
+  }
+}
