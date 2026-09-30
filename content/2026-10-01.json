@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-09-30T22:48:43.168048+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, September 30th, 2026 already. Time flies, huh?",
+      "ja": "おはようございます、サラさん。もう2026年9月30日ですか。時間ってあっという間ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It really does. Feels like summer was just yesterday.",
+      "ja": "おはよう、アレックス。本当にそうだね。夏が昨日だったみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And now it’s... well, it’s a bit grey out there. My weather app says it's 'overcast'. What exactly does that mean?",
+      "ja": "そして今は…えっと、外は少しグレーですね。天気アプリが「overcast」って言ってますけど、それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the sky is completely covered with clouds. No blue sky, no sun showing.",
+      "ja": "空が完全に雲で覆われている状態だよ。青空も太陽も見えない状態。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So it’s just… grey. Makes sense. And a 55% chance of rain. I need my coffee before I face that.",
+      "ja": "なるほど。つまり…ただのグレーってことですね。納得です。そして降水確率55%。それに立ち向かう前にコーヒーが必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Always coffee for you, isn't it? I’ve got my tea ready.",
+      "ja": "いつもコーヒーだね、アレックスは。私はお茶の準備ができたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, especially when it’s going to be 29 degrees today. That’s still pretty warm for late September.",
+      "ja": "ええ、特に今日は29度になるので。9月末にしてはまだかなり暖かいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Feels like we skip autumn sometimes. Anyway, you know what day it is today? October 1st is right around the corner.",
+      "ja": "そうだね。秋をスキップしているみたい。ところで、今日は何の日か知ってる？もうすぐ10月1日だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! It’s コーヒーの日, Coffee Day. I just remembered! Because October is the start of the coffee year, right?",
+      "ja": "あ、そうか！コーヒーの日ですね。今思い出しました！10月がコーヒー年度の始まりだからでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's it. So, a good day for you.",
+      "ja": "その通り。だから、アレックスにとっては良い日だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Speaking of days, did you see the news about that ukiyoe painting? The 'chilly day for the ladies in Fukagawa' one?",
+      "ja": "間違いなく。日の話といえば、浮世絵の絵のニュース見ました？あの「深川の女性にとって寒い日」ってやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. A long-lost painting, rediscovered. It sounds beautiful.",
+      "ja": "見たよ。長らく行方不明だった絵が再発見されたんだね。美しい響きだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, and it talked about 26 'courtesans'. What’s that word, 'courtesans'?",
+      "ja": "ええ、それで26人の「courtesans」って書いてありましたけど、その「courtesans」ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "In that context, they were women who entertained wealthy men, often with music and dance, but they weren't ordinary prostitutes.",
+      "ja": "その文脈では、裕福な男性をもてなす女性たちで、よく音楽や踊りを披露していたけれど、普通の遊女とは少し違った地位にいたんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, interesting. So it's about the art of the time. I guess they're a bit like idols, but from way back then. I wonder if my baby will ever see these things and understand.",
+      "ja": "へえ、面白いですね。当時の芸術についてなんですね。昔のアイドルみたいな感じなのかな。僕の子供もいつかこういうものを見て理解するようになるのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They will. My kids found ukiyoe fascinating once we went to a museum.",
+      "ja": "なるよ。うちの子たちも博物館に行ったら浮世絵を面白いって思ったよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good to know. Also, the news about visa fees going up. 'Japan to hike residency visa issuance fees from Thursday' and it mentioned 'revisions'. Are those like big changes?",
+      "ja": "それは良かった。あと、ビザの手数料が上がるニュースも。「日本、木曜日から在留ビザ発給手数料を値上げへ」ってあって、「revisions」って書いてありましたけど、あれって大きな変更のことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Revisions are usually small changes or adjustments, not necessarily big overhauls. Just updates to existing rules.",
+      "ja": "revisionsは通常、小さな変更や調整のことで、必ずしも大きな全面的な見直しではないよ。既存のルールを更新するんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, not a complete new system, just... higher prices. That's not going to change at my office, though. Everyone's already here.",
+      "ja": "なるほど、わかりました。じゃあ、完全に新しいシステムじゃなくて、ただ…値上げってことですね。でも、うちの会社では関係ないかな。みんなもうここにいますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It mainly affects new applicants or renewals. It’s part of the Immigration Services Agency’s review.",
+      "ja": "主に新規申請者や更新者に影響するね。入管庁の見直しの一部だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Anyway, the last news story was much happier. The 'hip-hop dancing granny'. That was pretty cool.",
+      "ja": "ですね。ところで、最後のニュースはもっとハッピーでしたね。「ヒップホップを踊るおばあちゃん」。あれはかなりかっこよかったです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. She was amazing. And dancing to Bruno Mars, too.",
+      "ja": "ええ、見たよ。彼女は素晴らしかったね。ブルーノ・マーズの曲で踊ってたし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My kid just started trying to walk, but it’s more like a zombie shuffle. I can’t imagine her doing hip-hop anytime soon.",
+      "ja": "うちの子もやっと歩き始めましたけど、ゾンビがシャッフルしてるみたいな感じですよ。すぐにヒップホップを踊るなんて想像できないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Give it time. They get there eventually.",
+      "ja": "そのうちできるようになるよ。時間はかかるけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Sometimes I just want a moment of quiet, you know? Like on the weekend, I have this… 'ritual' of going to the sento. Is that the right word for it?",
+      "ja": "そうですね。時々、ただ静かな時間が欲しいんですよ。週末とか、銭湯に行くのが僕の「ritual」なんですけど。これ、正しい言葉ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, a ritual is a regular activity you do in a particular way, often for a special purpose. So, going to the sento every weekend can be a ritual.",
+      "ja": "うん、ritualは特別な目的のために、決まったやり方で定期的に行う活動のこと。だから、毎週週末に銭湯に行くのはritualだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. It’s my quiet time. ととのう, you know? Even if it’s just for an hour, it helps me feel ready for The Daily Tanu-chan Show and the week ahead.",
+      "ja": "ええ、まさにそれです。僕の静かな時間。ととのう、って感じですね。たとえ1時間だけでも、『The Daily Tanu-chan Show』やこれからの週に向けて準備ができる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. Everyone needs their own way to relax. Even if it's just a cup of tea.",
+      "ja": "わかるよ。誰にでもリラックスする方法は必要だね。たとえそれが一杯のお茶だとしても。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 29.4,
+      "temp_min": 18.3,
+      "rain_probability": 55
+    },
+    "news": [
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "Japan to hike residency visa issuance fees from Thursday",
+        "summary": "Japan will raise visa renewal and permanent residency issuance fees from Thursday.\nThe new fees by the Immigration Services Agency of Japan are part of the revisions to…",
+        "link": "https://japantoday.com/category/national/Japan-to-hike-residency-visa-application-fees-from-Thursday"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      }
+    ],
+    "wikipedia": {
+      "title": "コーヒーの日",
+      "description": "1983年、全日本コーヒー協会が制定。国際協定により10月がコーヒー年度のスタートにあたることから。"
+    }
+  }
+}
