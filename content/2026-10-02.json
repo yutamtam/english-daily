@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-01T22:59:09.248917+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 1st, 2026. Can you believe it's already October?",
+      "ja": "おはようございます、サラさん。2026年10月1日ですね。もう10月なんて信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, it comes around quickly every year. Looks like a bit of a drizzly start today.",
+      "ja": "おはよう、アレックス。ええ、毎年あっという間ね。今日は少し霧雨の始まりみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's really coming down. The app says 96% chance of rain, high 22 degrees. Perfect coffee weather, I guess.",
+      "ja": "ええ、結構降ってますね。アプリだと降水確率96%、最高気温22度。コーヒー日和、って感じですかね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "For you, maybe. I'm having my tea. Did your little one sleep well last night?",
+      "ja": "あなたにとっては、そうかもね。私はお茶を飲んでるけど。昨夜は坊や、よく眠れた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Not really. He was quite... *fussy*. You know, crying a lot, just not settling down. So I'm pretty tired.",
+      "ja": "あんまりですね。かなり…*fussy*でした。泣きっぱなしで、なかなか落ち着かなくて。だから僕は結構疲れてます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Fussy means difficult to please, easily upset. They do that sometimes.",
+      "ja": "Fussyというのは、機嫌が悪くて、なかなか満足しない、ってことね。赤ちゃんは時々そうなるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that word. But yes, that's exactly it. He just kept making this little *whine*.",
+      "ja": "へえ、その単語は知らなかったです。でも、まさにそれです。ずっと、かすかに*whine*っていう声を出してて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Whine is a long, high-pitched cry. My kids used to do that when they were babies too. And sometimes still do, honestly.",
+      "ja": "Whineは、長くて甲高い泣き声のこと。うちの子たちも赤ちゃんだった頃はそうだったわ。正直、今でも時々ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. Anyway, welcome back to The Daily Tanu-chan Show. We've got some interesting news today.",
+      "ja": "ええ、想像できます。さて、ザ・デイリー・タヌちゃんショーへようこそ。今日はいくつか興味深いニュースがありますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Alright. What's caught your eye?",
+      "ja": "そうね。何が気になった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, there's a story about kanji. Apparently, one simple kanji character can have five different pronunciations. Five! How is that even possible?",
+      "ja": "ええと、漢字についての記事がありました。どうやら、ある単純な漢字が5つもの異なる読み方を持つことがあるそうです。5つですよ！そんなことあり得るんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It can be confusing, that's true. Japanese is full of those kinds of complexities. Makes you appreciate English a bit more, sometimes.",
+      "ja": "確かに、それはややこしいわね。日本語はそういう複雑さに満ちているのよ。時々、英語を少しだけありがたく感じるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I mean, my baby's going to have to learn all that. Poor guy.",
+      "ja": "本当に。というか、うちの子が全部それを学ばなきゃいけないんですよね。かわいそうに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He'll be fine. They just pick it up. What else is in the news?",
+      "ja": "大丈夫よ。彼らはただ自然に覚えていくものよ。他にニュースは？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "There's a piece about a city in Ibaraki approving a survey for a nuclear waste site. That sounds like a big decision for a local community.",
+      "ja": "茨城県のある市が、核廃棄物施設の調査を承認したという記事があります。地元コミュニティにとっては大きな決断ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Accepting a preliminary survey doesn't mean they'll actually become a site, but it's the first step. It requires a lot of political *clout* to make such a choice.",
+      "ja": "そうね。予備調査を受け入れることは、実際にその場所が施設になるという意味ではないけど、最初の一歩だわ。そのような決定を下すには、かなりの政治的*clout*が必要なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Clout? What's that mean?",
+      "ja": "Clout？それはどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Influence, power. To have a lot of clout means you have a lot of influence.",
+      "ja": "影響力、力ね。A lot of cloutというのは、大きな影響力を持っている、ということよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I see. Yeah, I bet. I wonder if it'll actually change anything for them.",
+      "ja": "なるほど。ええ、きっとそうでしょうね。実際に彼らにとって何かが変わるのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "We'll have to see how it develops. What about lighter news?",
+      "ja": "どう展開するか見ていくしかないわね。もっと軽いニュースは？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, this one's a bit odd. It says the Sailor Moon fan club is taking applications for 2017. 2017?",
+      "ja": "はい、これはちょっと変なんですけど。セーラームーンのファンクラブが2017年の申し込みを受け付けている、とあります。2017年？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a very old article, Alex. Sailor Moon has a very *staunch* fanbase, though.",
+      "ja": "それはかなり古い記事よ、アレックス。セーラームーンにはとても*staunch*なファン層がいるけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. I didn't even notice the year. So, *staunch*?",
+      "ja": "あ、うわあ。年を見てなかったです。それで、*staunch*って？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means very loyal and committed. Dedicated. Even if the news is old, the fans are still there.",
+      "ja": "とても忠実で献身的な、という意味よ。熱心な。たとえニュースが古くても、ファンはまだそこにいるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That makes sense. I feel like I read about their fan club every year, even if it's old news. It's like the new 'old news'.",
+      "ja": "なるほど。毎年そのファンクラブについて読む気がしますよ、たとえそれが古いニュースでも。まるで新しい「古いニュース」みたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Well, speaking of things coming around every year, did you know that tomorrow is Tofu Day?",
+      "ja": "そうね。毎年やってくることといえば、明日が豆腐の日だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tomorrow? Oh, I thought it was today! Tofu Day, huh? Is that like... a national holiday?",
+      "ja": "明日ですか？ああ、今日だと思ってました！豆腐の日、ですか。それって、国民の祝日みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's not a holiday. The Japan Tofu Association established it in 1993. It's a play on words, 'to' for 10, and 'fu' for 2, for October 2nd.",
+      "ja": "いいえ、祝日ではないわ。日本豆腐協会が1993年に制定したのよ。「とう」（10）と「ふ」（2）の語呂合わせで、10月2日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I get it. To promote how healthy tofu is, right? My wife makes really good tofu dishes.",
+      "ja": "ああ、なるほど。豆腐がいかにヘルシーかをPRするため、ですね？うちの妻、すごく美味しい豆腐料理を作るんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's very nutritious. And versatile. I often pick up a block on my morning walk. There's a small shop near my route that has fresh ones.",
+      "ja": "とても栄養があるわね。それに用途が広い。私は朝の散歩のついでによく豆腐を買うの。私のルートの近くに新鮮な豆腐を売ってる小さなお店があるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds nice. I need to get back to the office, but it was good to catch up. Enjoy your tea, Sarah.",
+      "ja": "いいですね。そろそろオフィスに戻らないと。でも、話せてよかったです。サラさん、お茶を楽しんでください。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 22.4,
+      "temp_min": 18.9,
+      "rain_probability": 96
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "City in Ibaraki OKs survey for possible selection as nuclear waste site",
+        "summary": "The mayor of a city in Ibaraki Prefecture, near Tokyo, said Wednesday it will accept a preliminary survey that the industry ministry wants to conduct on its suitability…",
+        "link": "https://japantoday.com/category/national/update1-city-near-tokyo-oks-survey-for-possible-selection-as-nuclear-waste-site"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      }
+    ],
+    "wikipedia": {
+      "title": "豆腐の日",
+      "description": "1993（平成5）年、「とう（10）ふ（2）」の語呂合わせから、日本豆腐協会が制定。栄養豊富な豆腐をPRするのが目的。"
+    }
+  }
+}
