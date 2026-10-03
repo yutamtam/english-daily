@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-03T21:59:06.008406+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 3rd, 2026. Another Friday, right?",
+      "ja": "おはようございます、サラさん。2026年10月3日。また金曜日ですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yes, it is.",
+      "ja": "おはよう、アレックス。そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Welcome to The Daily Tanu-chan Show. It's a bit overcast today, isn't it? Feels cooler than yesterday.",
+      "ja": "ザ・デイリー・タヌちゃんショーへようこそ。今日は少し曇ってますね？昨日より涼しい気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, they said it'll be around 22 degrees high. Looks like rain later, too.",
+      "ja": "ええ、最高気温は22度くらいだって。後で雨も降りそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I definitely need this coffee. Couldn't sleep last night. My little one was up.",
+      "ja": "このコーヒー、絶対必要です。昨夜は眠れませんでした。うちの子が起きてて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's tough.",
+      "ja": "あら、大変ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see that news about kanji? How one character can have five different pronunciations?",
+      "ja": "漢字のニュース見ました？一つの文字に5つも読み方があるって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. That's always been the hardest part for learners, I think.",
+      "ja": "見たわ。学習者にとってはいつも一番難しいところだと思う。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I remember when I was a *fledgling* English speaker, I thought our writing system was so hard. But Japanese is next level sometimes.",
+      "ja": "ええ、僕がまだ英語学習の駆け出しだった頃、僕らの文字体系はすごく難しいって思ってました。でも日本語は時々次のレベルですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A *fledgling* speaker? You mean like, new or just starting out?",
+      "ja": "『フレッジリング』スピーカー？初心者とか、始めたばかりってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! Like a baby bird learning to fly. Is that what it means?",
+      "ja": "ええ、まさに！飛ぶことを学ぶひな鳥みたいな。そういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Pretty much. Someone new to something, still a bit shaky.",
+      "ja": "大体そうね。何かに不慣れで、まだ少し不安定な人って感じ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of history, they found a samurai sword in America. Yoshida Shoin's, apparently.",
+      "ja": "歴史の話だけど、アメリカで侍の刀が見つかったそうよ。吉田松陰のものらしいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, really? That's kind of amazing, actually. How does something like that even end up over there?",
+      "ja": "わあ、本当ですか？それ、ちょっとすごいですね。どうやってそんなものが向こうに渡ったんでしょう？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably during the Meiji Restoration, when many left Japan. Things got complicated back then.",
+      "ja": "おそらく明治維新の頃、多くの人が日本を離れた時期ね。あの頃は色々複雑だったから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My kid is crawling everywhere now. Can't take my eyes off them. Sometimes I just feel so *demoralized* by the lack of sleep.",
+      "ja": "うちの子、今あちこちハイハイしてます。もう目が離せない。時々、睡眠不足で本当に意気消沈しちゃいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Demoralized? You mean like really tired, or something else?",
+      "ja": "意気消沈？すごく疲れているってこと？それとも何か違う意味？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, yeah, tired, but also just feeling a bit defeated, you know? Like I'm losing the battle against exhaustion.",
+      "ja": "ええ、疲れてるのもそうですが、ちょっと打ち負かされた気分っていうか。疲労との戦いに負けてる感じ、分かります？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, defeated. Yes, that's what demoralized means. Losing confidence or hope.",
+      "ja": "ああ、打ち負かされた感じね。そうね、それが意気消沈するっていう意味よ。自信や希望を失うことね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're hiking visa fees for residency from Thursday, apparently.",
+      "ja": "どうやら木曜日から在留ビザの手数料が上がるそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's not going to change at my office, thankfully. Most of our clients are domestic.",
+      "ja": "ああ、知りませんでした。幸い、うちのオフィスでは影響なさそうです。ほとんどのお客さんは国内なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It'll affect some people for sure. My son's friend is applying for permanent residency next year.",
+      "ja": "何人かの人には確実に影響するわね。うちの息子の友達が来年、永住権を申請するのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, speaking of tomorrow, I just remembered, October 4th is イワシの日, Sardine Day.",
+      "ja": "ああ、明日といえば、今思い出しましたけど、10月4日はイワシの日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sardine Day? Oh, right. 'I-wa-shi'. The date sounds like it.",
+      "ja": "イワシの日？ああ、そうね。「イ（1）ワ（0）シ（4）」。日付が語呂合わせになってるのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, for promoting how good sardines are for you. I should probably eat more of them.",
+      "ja": "ええ、イワシがいかに体に良いかをアピールするためらしいです。もっと食べるべきですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I actually made some sardine pasta for meal prep this weekend. Wanted to try something new.",
+      "ja": "実は週末のミールプレップで、イワシのパスタを作ったのよ。何か新しいものを試してみたくて。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? Was it good? I always think about meal prep, but then the weekend comes and I just want to relax.",
+      "ja": "おお、本当ですか？美味しかったですか？僕もいつもミールプレップを考えるんですが、週末になるとただリラックスしたいって思っちゃって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was pretty good. And it saves so much time during the week, especially with the kids' after-school activities.",
+      "ja": "結構美味しかったわ。それに、週の間はすごく時間が節約できるのよ、特に子供たちの習い事があるとね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, I guess I should try to get some sardines then. Maybe a bit more sleep too.",
+      "ja": "まあ、じゃあイワシを手に入れようかな。もう少し睡眠もね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good luck with that. Have a good one, Alex.",
+      "ja": "頑張ってね。良い週末を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. See you Monday.",
+      "ja": "サラさんも。また月曜日に。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 22.2,
+      "temp_min": 15.5,
+      "rain_probability": 31
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Japan to hike residency visa issuance fees from Thursday",
+        "summary": "Japan will raise visa renewal and permanent residency issuance fees from Thursday.\nThe new fees by the Immigration Services Agency of Japan are part of the revisions to…",
+        "link": "https://japantoday.com/category/national/Japan-to-hike-residency-visa-application-fees-from-Thursday"
+      }
+    ],
+    "wikipedia": {
+      "title": "イワシの日",
+      "description": "1985年、「い（1）わ（0）し（4）」の語呂合わせから、大阪府多獲性魚有効利用検討会（大坂おさなか健康食品協議会）が制定。栄養豊富なイワシをPRするのが目的。"
+    }
+  }
+}
