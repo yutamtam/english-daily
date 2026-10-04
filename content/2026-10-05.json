@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-04T22:11:55.625549+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 4th already.",
+      "ja": "おはようございます、サラさん。もう10月4日ですか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。今日も『デイリーたぬちゃんショー』へようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's partly cloudy today, high 22.7, low 16.7 degrees Celsius. A 51% chance of rain.",
+      "ja": "今日は一部曇り、最高22.7度、最低16.7度よ。降水確率は51%。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, maybe a quick drizzle. I'm glad it's cooler now, though. Still need my coffee.",
+      "ja": "なので、もしかしたらちょっと小雨が降るかも。でも、涼しくなって嬉しいですね。僕は相変わらずコーヒーが必要ですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer tea when it's cooler.",
+      "ja": "私は涼しいと紅茶の方がいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see that news about a Tokyo music venue looking for a band to live there for a week?",
+      "ja": "東京の音楽会場が、バンドにそこに住み込みで一週間演奏してもらうバンドを探しているっていうニュース見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. Live on premises and perform daily. Sounds intense, perhaps even *vexing* after a while.",
+      "ja": "ええ。敷地内に住んで毎日パフォーマンスをするのね。大変そうだし、しばらくすると『vexing』になるかも。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, *vexing* like annoying or frustrating? Like my baby crying at 3 AM?",
+      "ja": "ああ、『vexing』って、イライラさせるとか、厄介な、って感じですか？午前3時に僕の赤ちゃんが泣く時みたいに？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. A persistent problem. I agree, a week would be too long.",
+      "ja": "その通り。しつこい問題ね。一週間は長すぎると思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Also, Yoshida Shoin's samurai sword was found in America. That's amazing.",
+      "ja": "あと、吉田松陰の侍の刀がアメリカで見つかったってニュースも。すごいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, a historically important figure. Many artifacts left Japan over the years.",
+      "ja": "ええ、歴史的に重要な人物ね。長年にわたって多くの遺物が日本を離れたから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And Kyoto's Nijo Castle will charge out-of-town visitors twice as much from 2027. What's the *rationale* for that?",
+      "ja": "それと、京都の二条城が2027年から市外からの観光客に2倍の入場料を請求するって。その『rationale』は何なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The *rationale* is the fundamental reason. They aim to ease overcrowding and get more revenue for maintenance.",
+      "ja": "『Rationale』とは根本的な理由のことよ。混雑を緩和し、維持管理のための収益を増やしたいのでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess that makes sense. Still, it feels a bit odd for non-residents.",
+      "ja": "なるほど、納得できます。それでも、市外の人にとっては少し奇妙な感じがしますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Alex, do you know what today, October 4th, is?",
+      "ja": "アレックス、今日10月4日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, I don't.",
+      "ja": "いいえ、知りません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 時刻表記念日, Timetable Memorial Day. Japan's first full timetable was published today in 1894.",
+      "ja": "時刻表記念日よ。日本初の本格的な時刻表が、1894年の今日、出版されたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. That's significant. Without timetables, everything would be a mess.",
+      "ja": "おお、すごい。それは重要ですね。時刻表がなかったら、全部めちゃくちゃになりますもんね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I was cycling to work yesterday, much faster than the train. But I arrived all sweaty.",
+      "ja": "昨日自転車で通勤したんですけど、電車よりずっと早かったんですよ。でも、汗だくでオフィスに着きました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good exercise. My son used to get very sweaty playing sports.",
+      "ja": "いい運動になるわね。うちの息子もスポーツでよく汗だくになっていたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My wife says I look a bit *haphazard* sometimes after my commute.",
+      "ja": "妻には、通勤後たまに僕がちょっと『haphazard』に見えるって言われます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "*Haphazard* means without a particular order or plan. Random. Like throwing your bag together.",
+      "ja": "『Haphazard』とは、特定の順序や計画なし、ということね。行き当たりばったり。バッグに物を放り込むみたいに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. My baby's stuff is usually more organized than mine these days. He's starting to get picky with food, too. It's a lot.",
+      "ja": "まさに。最近は、自分の物より赤ちゃんの物の方がたいてい整理整頓されてますよ。食べ物も好き嫌いが出てきましたし。大変です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But you get used to it.",
+      "ja": "そうね。でも慣れてくるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, this has been a good chat. I feel a bit more ready for the day now.",
+      "ja": "さて、いいおしゃべりでした。これで今日一日、ちょっと準備ができた気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good. It's always nice to start the day with conversation and, for me, tea.",
+      "ja": "それはよかった。会話と、私にとっては紅茶で一日を始めるのは、いつも良いものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And for me, coffee. Have a good one, Sarah.",
+      "ja": "そして僕にとっては、コーヒー。良い一日を、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 22.7,
+      "temp_min": 16.7,
+      "rain_probability": 51
+    },
+    "news": [
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "Sword of one of Japan’s last samurai discovered in house in America",
+        "summary": "Born in 1830, Yoshida Shoin was part of Japan’s last generation of samurai. While that distinction carries with it a certain tragically romantic feel, the truth is that…",
+        "link": "https://japantoday.com/category/features/sword-of-one-of-japans-last-samurai-discovered-in-house-in-america"
+      },
+      {
+        "title": "Kyoto's Nijo Castle to charge out-of-town visitors twice as much as city residents for admission",
+        "summary": "Kyoto plans to introduce dual pricing for admission fees to Nijo Castle, a UNESCO World Heritage site, as early as from fiscal 2027, charging out-of-town visitors twice as…",
+        "link": "https://japantoday.com/category/national/Kyoto%27s-Nijo-Castle-to-charge-out-of-town-visitors-twice-as-much-as-city-residents-for-admission"
+      }
+    ],
+    "wikipedia": {
+      "title": "時刻表記念日",
+      "description": "1894（明治27）年、日本初の本格的な時刻表「汽車汽船旅行案内」が庚寅新誌社から出版された。汽車の発車時刻や運賃だけでなく、沿線の案内や紀行文なども掲載されていた。"
+    }
+  }
+}
