@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T00:38:11.043146+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 6th, 2026. Can you believe it's already October?",
+      "ja": "おはようございます、サラさん。2026年10月6日です。もう10月なんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time flies, doesn't it? Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。本当にあっという間ね。ザ・デイリー・たぬちゃん・ショーへようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does. I actually saw the weather forecast. Looks like it's going to be partly cloudy today. High of almost 28 degrees.",
+      "ja": "ですね。そうそう、天気予報見ました。今日は晴れ時々曇りみたいですね。最高気温が28度近くまで上がるって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Still quite warm for October, isn't it? Good for a cup of tea, though.",
+      "ja": "10月にしてはまだ暖かいわね。まあ、お茶を飲むにはいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I'm already on my second coffee. My little one was up pretty early today. He's always so full of energy.",
+      "ja": "ええ、僕はもう2杯目のコーヒーです。うちの小さいのが今朝はかなり早く起きてしまって。いつも元気いっぱいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They often are at that age. Mine used to be the same.",
+      "ja": "その年頃の子はよくそうよ。うちの子たちも昔はそうだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, speaking of energy, I saw the news about the GSDF showing off some new missile equipment. Type-25.",
+      "ja": "それはそうと、元気の話からですが、自衛隊が新しいミサイル装備、25式を見せていたというニュースを見ました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. In southwestern Japan. For selected residents, right?",
+      "ja": "ああ、そうね。日本の南西部で。選ばれた住民向けだったかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It's interesting they're doing public displays. I'm not sure if that's going to change anything at my office, though. Still have to hit my sales targets.",
+      "ja": "ええ。公開展示をするのは興味深いですね。でも、それがうちの会社で何か変わるとは思えないですけどね。相変わらず営業目標は達成しないといけないし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not immediately, no.",
+      "ja": "すぐにではないでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And the other thing I saw was about Fukushima. About rebuilding with fish and tomatoes and hula-dancing girls.",
+      "ja": "それからもう一つ見たのが、福島のニュースです。魚やトマト、フラダンスで復興しているという話でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good news. They're working so hard there. It was a truly catastrophic event back in 2011.",
+      "ja": "それは良いニュースね。あそこでは本当に一生懸命頑張っているわ。2011年のあれは本当に壊滅的な出来事だったから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 'catastrophic'? What does that really mean? Like, super bad?",
+      "ja": "ええ、「カタストロフィック」？それって実際どういう意味なんですか？すごくひどい、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. It means something causing very great damage or suffering. A disaster on a huge scale.",
+      "ja": "ええ、その通り。甚大な損害や苦痛を引き起こすようなもの、という意味よ。大規模な災害のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. And TEPCO is also starting to use a robot arm to retrieve fuel debris from the No. 2 reactor.",
+      "ja": "ああ、なるほど。それから、東電が2号機から燃料デブリを取り出すためにロボットアームを使い始めているって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a very difficult job. It's taken them a long time to get to this stage.",
+      "ja": "それはとても大変な作業ね。この段階にたどり着くまでにずいぶん時間がかかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. What exactly is 'fuel debris'? Is it like, just broken pieces of the fuel rods?",
+      "ja": "ええ。この「燃料デブリ」って具体的に何なんですか？燃料棒のただの壊れた破片、みたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's the melted nuclear fuel mixed with other parts of the reactor core, like concrete and metal. It's highly radioactive.",
+      "ja": "それは溶けた核燃料と、コンクリートや金属のような炉心の他の部分が混ざり合ったものよ。非常に放射性が高いの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. And it's all inside a 'containment vessel', right? What's that?",
+      "ja": "うわあ。そしてそれが全部「格納容器」の中にあるんですよね？それって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's the strong, airtight structure that surrounds the nuclear reactor core. It's designed to prevent radioactive materials from escaping into the environment.",
+      "ja": "それは原子炉の炉心を囲む、丈夫で気密性の高い構造のことよ。放射性物質が環境に漏れ出すのを防ぐように設計されているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's a huge undertaking.",
+      "ja": "ああ、知らなかったです。それは大変な事業ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It will take many more years.",
+      "ja": "そうね。まだまだ何年もかかるでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Changing topics a bit, I just remembered, today is 国際協力の日. Do you know what that's about?",
+      "ja": "少し話は変わりますが、今思い出したんですけど、今日は「国際協力の日」だそうです。それって何のことか知ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. International Cooperation Day. It's because on this day in 1954, Japan joined the Colombo Plan. It was about providing technical assistance to developing countries.",
+      "ja": "ええ、そうね。国際協力の日ね。1954年のこの日に、日本がコロンボ計画に参加したからよ。開発途上国への技術協力を行うためのものだったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. So it's about Japan's first steps in helping other nations.",
+      "ja": "へえ、それは知りませんでした。日本が他国を助けるための最初の一歩だったんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. A good day to remember that.",
+      "ja": "その通りよ。それを思い出すのに良い日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it makes you think. My little one is almost one and a half now, and I'm already thinking about what kind of world he'll grow up in.",
+      "ja": "ええ、考えさせられますね。うちの子ももうすぐ1歳半になるので、彼がどんな世界で育つんだろうって、早くも考えてしまいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They grow up fast. My son is already talking about university. It feels like yesterday he was a baby.",
+      "ja": "あっという間に大きくなるわよ。うちの息子はもう大学の話をしているもの。昨日まで赤ん坊だったような気がするわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Seriously? I can't imagine that yet. Right now, it's mostly about making sure he doesn't try to drink my coffee.",
+      "ja": "マジですか？まだ想像できないです。今は、彼が僕のコーヒーを飲もうとしないか見張るのが主な仕事なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Some things never change.",
+      "ja": "変わらないこともあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, I should probably get going. This coffee isn't going to finish itself.",
+      "ja": "さて、もう行かないと。このコーヒーも自分で飲み終わるわけじゃないし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 27.7,
+      "temp_min": 19.2,
+      "rain_probability": 24
+    },
+    "news": [
+      {
+        "title": "GSDF displays long-range Type-25 missile equipment to public",
+        "summary": "The Japanese Ground Self-Defense Force on Saturday invited selected residents to see equipment for the recently deployed long-range Type-25 surface-to-ship guided missile in southwestern Japan in an apparent…",
+        "link": "https://japantoday.com/category/national/japan-gsdf-displays-long-range-type-25-missile-equipment-to-public"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "TEPCO begins inserting robot arm to retrieve Fukushima nuclear fuel debris",
+        "summary": "Tokyo Electric Power Co Holdings Inc began work Friday to insert a remote-controlled robotic arm into the containment vessel of the No. 2 reactor at the crippled Fukushima…",
+        "link": "https://japantoday.com/category/national/tepco-begins-inserting-robot-arm-to-retrieve-fukushima-nuke-fuel-debris"
+      }
+    ],
+    "wikipedia": {
+      "title": "国際協力の日",
+      "description": "1954（昭和29）年、国際協力の第一歩として、日本が途上国への技術協力のための地域協力機構「コロンボ計画」に加盟した日にちなんで、1987（昭和62）年に外務省と国際協力事業団（JICA）が制定。"
+    }
+  }
+}
