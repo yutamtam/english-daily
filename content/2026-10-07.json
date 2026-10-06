@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-06T22:52:55.359887+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 6th, 2026. The Daily Tanu-chan Show is on!",
+      "ja": "おはようございます、サラさん。2026年10月6日です。ザ・デイリー・たぬちゃんショー、始まりました！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yes, it's Tuesday.",
+      "ja": "おはよう、アレックス。ええ、火曜日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's a bit overcast today, isn't it? The weather app says it's 25 degrees already. No rain though, just 2%.",
+      "ja": "今日はちょっと曇りですね。もう25度って天気アプリが言ってます。雨は降らないみたい、2%だけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it feels a little warm for October. I was hoping for cooler air for my tea.",
+      "ja": "ええ、10月にしては少し暖かいわね。もっと涼しい空気で紅茶が飲みたかったんだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I need my coffee this morning. So much to do. My little one was up a lot last night. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "僕は今朝コーヒーが絶対必要です。やることがたくさんあって。うちの小さいのが昨夜はよく起きてて。最近は些細なことにもすぐびっくりしちゃいます。多分赤ちゃんのせいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds like you need some quiet time.",
+      "ja": "静かな時間が必要みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Totally. Anyway, I saw this news about a clothing company making costumes from popular mobile games. Nutte and Axel Mark, they got a license.",
+      "ja": "全くです。ところで、人気スマホゲームのキャラクター衣装を作るアパレル会社のニュースを見ました。NutteとAxel Mark、ライセンスを取ったそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, for cosplay. That's big business now.",
+      "ja": "ああ、コスプレね。今は大きなビジネスになっているわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I was thinking, maybe I could get a cute outfit for the baby next Halloween. Something like a little monster, or an animal.",
+      "ja": "ええ、僕は次のハロウィンに赤ちゃんに可愛い衣装を買ってあげようかな、って考えてました。小さいモンスターとか、動物とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good idea. They grow out of them so fast though.",
+      "ja": "それは良い考えね。でも、すぐに着られなくなるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know. It's like, you buy something, and two weeks later, it's too small. It's crazy.",
+      "ja": "そうなんですよね。何か買っても、2週間後にはもう小さくなってる。信じられないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Did you see the news about the ukiyoe painting?",
+      "ja": "そうね。浮世絵の絵画のニュースは見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the long-lost one? Yes. Something about 26 courtesans in Fukagawa, preparing for... something cold?",
+      "ja": "ああ、長らく行方不明だったやつですね？はい。深川の26人の遊女が、何か寒いものの準備をしているとか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'a chilly day for the ladies in Fukagawa'. It's been rediscovered. It sounds beautiful.",
+      "ja": "そう、「深川の女性たちにとって肌寒い日」。再発見されたのよ。美しい絵らしいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know ukiyoe was so popular internationally.",
+      "ja": "浮世絵がそんなに国際的に人気があるとは知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's always been appreciated, especially in Europe. Monet and Van Gogh were influenced by it.",
+      "ja": "昔から評価されてきたわよ、特にヨーロッパで。モネやゴッホも影響を受けているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's kind of amazing, actually.",
+      "ja": "ああ、それは知りませんでした。それはちょっとすごいですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Also, the transport ministry is introducing a new 4-stage flood risk system for underpasses.",
+      "ja": "あと、国土交通省がアンダーパスの新しい4段階浸水リスクシステムを導入するそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's sensible. There have been too many accidents.",
+      "ja": "それは賢明ね。事故が多すぎたもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I ride my bike through a few underpasses on my commute. It makes me think. Maybe they should alleviate the risk more directly.",
+      "ja": "ええ、通勤でいくつかのアンダーパスを通って自転車に乗るんです。考えさせられますね。もっと直接的にリスクをalleviateすべきかもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Alleviate means to make a problem or bad situation less severe, less painful. So, to reduce the risk.",
+      "ja": "Alleviateは、問題や悪い状況を「より軽くする」「痛みを和らげる」という意味よ。だから、リスクを減らす、ということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, got it. So, alleviate the risk, not just categorize it. I mean, it's good to know the risk, but...",
+      "ja": "ああ、なるほど。だから、リスクを分類するだけじゃなくて、リスクを軽減する、と。まあ、リスクを知るのは良いんですけどね...。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a start.",
+      "ja": "第一歩ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. Speaking of risks, today is 'Mystery Day' in Japan. Did you know that? It's the day Edgar Allan Poe died in 1849.",
+      "ja": "そうですね。リスクといえば、今日は「ミステリー記念日」だそうです、日本で。ご存知でした？エドガー・アラン・ポーが1849年に亡くなった日だそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right. He was quite young, only 40. His story, 'The Murders in the Rue Morgue', is considered the first detective story.",
+      "ja": "ああ、そうね。彼は若かったわね、40歳だった。彼の物語『モルグ街の殺人』は、世界初の推理小説とされているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 40 is young. I can't imagine. My wife says I'm already losing my hair. So, 'Mystery Day' is because of Poe.",
+      "ja": "ええ、40歳は若いですよね。想像できないです。妻にはもう髪が薄くなってきたって言われるし。だから「ミステリー記念日」はポーのせいなんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. He really shaped the genre.",
+      "ja": "ええ。彼は本当にそのジャンルを形作ったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should read some of his work. Maybe it'll help me understand my baby's mysteries. Like why he only sleeps when I'm just about to eat.",
+      "ja": "彼の作品をいくつか読んでみるべきですね。もしかしたら、うちの赤ちゃんの謎を理解するのに役立つかも。僕がまさに食べようとしている時にだけ眠りにつくとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that. My kids used to do that. It's a universal parenting thing.",
+      "ja": "そうするのよ。うちの子たちもそうだった。それは普遍的な子育てのあるあるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It feels like a conspiracy sometimes. Just when I pour my coffee...",
+      "ja": "時々、陰謀みたいに感じるんです。僕がコーヒーを淹れたとたんに...。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, enjoy your coffee, Alex. Before it gets cold.",
+      "ja": "じゃあ、コーヒー、楽しんでね、アレックス。冷めないうちに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks, Sarah. You too. Have a good one.",
+      "ja": "ありがとうございます、サラさん。サラさんも。良い一日を。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too.",
+      "ja": "あなたもね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 25.1,
+      "temp_min": 17.4,
+      "rain_probability": 2
+    },
+    "news": [
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      },
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "Japan introduces 4-stage flood-risk system for underpasses",
+        "summary": "Japan's transport ministry on Tuesday released a new policy categorizing the country's underpasses into four stages according to flood risk to help prevent accidents, following a series of…",
+        "link": "https://japantoday.com/category/national/japan-introduces-4-stage-flood-risk-system-for-underpasses"
+      }
+    ],
+    "wikipedia": {
+      "title": "ミステリー記念日",
+      "description": "1849年のこの日、ミステリー小説の先駆者、エドガー・アラン・ポーが死去した。40歳。1845年に発表された「モルグ街の殺人」が世界初の推理小説と言われている。"
+    }
+  }
+}
