@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-07T23:26:45.950886+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 7th, 2026. Can't believe it's already this late in the year.",
+      "ja": "おはようございます、サラさん。2026年10月7日。もうこんなに年末が近いなんて信じられないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time does fly, doesn't it? My tea is just right today.",
+      "ja": "おはよう、アレックス。本当に時間はあっという間ね。今日の紅茶はちょうどいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mine too. Well, my coffee, anyway. I really need it today.",
+      "ja": "僕もです。まあ、僕の場合はコーヒーですけど。今日は本当に必要ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Long night?",
+      "ja": "長い夜だった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just typical baby stuff. He's really getting into everything now. I guess that's what a one-year-old does.",
+      "ja": "いつもの赤ちゃんのことですよ。もう何でも触りたがる時期で。1歳児ってこんな感じなんですかね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, yes. They're busy at that age. Every day is a new adventure for them.",
+      "ja": "ええ、そうね。そのくらいの年齢は忙しいわよ。毎日が彼らにとって新しい冒険なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Speaking of new, it's actually a pretty clear day out there. The sun is nice.",
+      "ja": "確かに。新しいことと言えば、今日は外、かなり晴れてますね。太陽が気持ちいいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Feels much warmer than yesterday, even though it's still October.",
+      "ja": "そうね。まだ10月なのに、昨日よりずっと暖かく感じるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, high of 24 degrees today, low of 15. Only a 4% chance of rain. After all that rain we had...",
+      "ja": "ええ、今日は最高24度、最低15度。雨の確率はたった4%です。あれだけ雨が降った後だと...。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I heard central Tokyo's record 37-day rainfall streak finally ended. It was quite something.",
+      "ja": "そうね、都心の37日間連続降雨記録がようやく終わったと聞いたわ。本当にすごい記録だった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thirty-seven days! I felt like I was constantly drying laundry. My apartment never really felt dry.",
+      "ja": "37日間ですよ！洗濯物をずっと乾かしてる気がしました。僕の部屋、全然乾いた気がしなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I know the feeling. Anyway, good news from Chiba, too. The emergency repairs at the breached levees around Lake Imbanuma are complete.",
+      "ja": "その気持ち、わかるわ。そうそう、千葉からも良いニュースよ。印旛沼周辺で決壊した堤防の緊急修理が完了したって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's really good. So, everything's back to normal there? The houses and everything, are they... unscathed?",
+      "ja": "おお、それは本当に良かったですね。じゃあ、向こうはもう全部元通りなんですかね？家とか、そういうのは…unscathed？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good word, Alex. 'Unscathed' means completely unharmed, without any injuries or damage. So, probably not everything, but the immediate danger is gone.",
+      "ja": "いい言葉ね、アレックス。「unscathed」っていうのは、完全に無傷で、怪我や損傷がないって意味よ。だから、全てがそうとは限らないけど、差し迫った危険は去ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, maybe the levees are unscathed now, but the surrounding areas, probably not. That's a bit sad, but good that it's fixed.",
+      "ja": "なるほど、わかりました。じゃあ、堤防自体はunscathedになったかもしれないけど、周りの地域はそうじゃない、と。少し悲しいけど、直ったのは良かったですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. It's important infrastructure.",
+      "ja": "そうね。重要なインフラだもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. My office building's roof sprung a leak during that rain. Not quite a levee, but still a problem.",
+      "ja": "本当に。うちのオフィスの屋根も、あの雨で雨漏りしました。堤防とは違うけど、やっぱり問題ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh dear. Hope they fixed it properly.",
+      "ja": "あらあら。ちゃんと直ったといいけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They said they did. Anyway, I saw another interesting story. A music venue in Tokyo is looking for a band to live on the premises and perform every day for a week. That sounds intense.",
+      "ja": "直したとは言ってましたね。ところで、もう一つ面白いニュースを見ました。東京の音楽会場が、敷地内に住み込みで1週間毎日演奏するバンドを探しているそうです。それはかなりハードですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. They're looking for passionate musicians who live in the vicinity of Japan's capital.",
+      "ja": "ええ、それ見たわ。日本の首都の「vicinity」に住んでいる、情熱的なミュージシャンを探しているって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Vicinity? What does that mean exactly?",
+      "ja": "Vicinity？ それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the area around a particular place, like 'near' or 'in the neighborhood of'. So, living close to Tokyo.",
+      "ja": "特定の場所の周辺地域、つまり「近く」とか「近隣」という意味よ。だから、東京の近くに住んでいる人、ということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So, not like, living in Hokkaido. Got it. That's a pretty cool opportunity for a young band, though. I wish I had that chance when I was younger.",
+      "ja": "ああ、なるほど。じゃあ、北海道に住んでるとかはダメ、と。わかりました。でも、若いバンドにとってはかなりクールな機会ですね。僕も若い頃にそんなチャンスがあったらよかったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You were in a band, Alex?",
+      "ja": "バンドをやっていたの、アレックス？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, just for a bit in college. We were terrible. My baby is less 'fussy' than our lead singer was, actually.",
+      "ja": "あ、大学の頃にちょっとだけですよ。ひどいバンドでしたけど。僕の赤ちゃんの方が、うちのボーカルより「fussy」じゃないですね、実は。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He sounds like a very calm baby then.",
+      "ja": "じゃあ、とても落ち着いた赤ちゃんね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, not always. 'Fussy' meaning, like, difficult or hard to please, right? My baby is often a bit difficult at night, but our singer was difficult all the time.",
+      "ja": "まあ、いつもではないですけど。「Fussy」って、例えば、気難しいとか、なかなか喜ばない、って意味ですよね？ 僕の赤ちゃんは夜は結構気難しいことがあるんですけど、うちのボーカルはいつも気難しかったんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. Difficult to please, easily annoyed. So, your baby is just sometimes fussy, but your singer was a truly fussy person.",
+      "ja": "ええ、その通り。「喜ばせにくい、すぐにイライラする」という意味ね。だから、あなたの赤ちゃんはたまにfussyなだけで、あなたのボーカルは本当にfussyな人だったのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that's it. Maybe I should've stuck with my college band. At least I could've slept more then.",
+      "ja": "ええ、まさにそれです。もしかしたら、大学のバンドを続けておくべきだったかもしれません。少なくとも、あの頃はもっと眠れましたからね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Perhaps. Speaking of health and well-being, did you know that October 8th is 'Bone and Joint Day'?",
+      "ja": "そうかもしれないわね。健康と体の調子について言えば、10月8日が「骨と関節の日」だって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. What's the story behind it?",
+      "ja": "おお、それは知りませんでした。どういういきさつがあるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The Japanese Orthopaedic Association made it. The 'Ho' in 'Hone' for bone can be split into 'Ju' and 'Hachi', which means ten and eight. And it's also near Sports Day, so it's a reminder to take care of our bones and joints.",
+      "ja": "日本整形外科学会が制定したのよ。「骨（ほね）」の「ホ」の字を「十」と「八」に分けられるから、そして体育の日の近くでもあるから、骨と関節の健康に気をつけよう、と。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's clever, actually. My back has been feeling it lately, carrying the baby around all the time.",
+      "ja": "それはなかなか上手いですね。最近、いつも赤ちゃんを抱っこしてるせいで、腰にきてますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, you should definitely pay attention to that. Good posture is important. I find gardening helps my joints stay flexible.",
+      "ja": "ええ、それは本当に気をつけるべきよ。良い姿勢が大切。私はガーデニングが関節の柔軟性を保つのに役立ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you're still gardening? What are you growing this season?",
+      "ja": "おお、まだガーデニングされてるんですか？ 今の時期は何を育ててるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just an assortment of things. Some kale, a few different types of lettuce, and I'm trying out some winter radishes this year. The lettuce is doing really well.",
+      "ja": "ただの「assortment」よ。ケールとか、数種類のレタス、それに今年は冬大根を試してるの。レタスはすごくよく育ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "An assortment? So, like a mix of different kinds?",
+      "ja": "An assortment？ じゃあ、いろんな種類の混ぜ合わせ、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. A collection of various things. It's nice to have fresh greens right from the garden.",
+      "ja": "その通り。色々なものの集まりね。庭から採れたての新鮮な野菜があるのはいいものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds really satisfying. Maybe I should start a small herb garden. Though, with a baby, I don't know if I have the time.",
+      "ja": "それはすごく満足感がありそうですね。僕も小さなハーブガーデンでも始めようかな。まあ、赤ちゃんがいると時間があるか分かりませんけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It doesn't take much. Even a pot on the balcony. Anyway, Alex, it's about time for us to wrap up The Daily Tanu-chan Show for today.",
+      "ja": "そんなに時間はかからないわよ。ベランダの鉢植えでもね。さて、アレックス、今日の「The Daily Tanu-chan Show」もそろそろ終わりね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Already? Wow, time really flies when you're talking about leaky roofs and fussy babies. Thanks, Sarah.",
+      "ja": "もうですか？ わあ、雨漏りの話とか気難しい赤ちゃんの話をしてると、本当に時間が飛ぶように過ぎますね。サラさん、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome, Alex. Have a good day.",
+      "ja": "どういたしまして、アレックス。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too!",
+      "ja": "サラさんも！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 24.0,
+      "temp_min": 15.3,
+      "rain_probability": 4
+    },
+    "news": [
+      {
+        "title": "Emergency repairs complete at breached levees in Chiba",
+        "summary": "Emergency repairs to levees around Lake Imbanuma in Chiba Prefecture have been completed after heavy rain caused by a typhoon breached them last month.\nThe breaches in two…",
+        "link": "https://japantoday.com/category/national/emergency-repairs-complete-at-breached-levees-near-tokyo"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "Tokyo's record rainfall streak ends after 37 days",
+        "summary": "Central Tokyo's record-breaking streak of rainy days ended Saturday after 37 days of showers, according to the weather agency.\nIt did not rain in the capital on Saturday…",
+        "link": "https://japantoday.com/category/national/tokyo%27s-record-rainfall-streak-ends-after-37-days"
+      }
+    ],
+    "wikipedia": {
+      "title": "骨と関節の日",
+      "description": "「骨」の「ホ」の字が「十」と「八」に分けることができ、「体育の日」にも近いため、骨と関節の健康に気をつけようと日本整形外科学会が制定。"
+    }
+  }
+}
