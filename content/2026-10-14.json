@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-13T23:11:11.328492+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 13th, 2026. How are you doing today?",
+      "ja": "おはようございます、サラさん。2026年10月13日です。今日はどうですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Not bad, thanks. It's raining pretty hard out there, isn't it?",
+      "ja": "おはようございます、アレックス。元気だよ、ありがとう。外はかなり雨が降ってるわね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, moderate rain, I think. The weather app said a 56% chance. Feels a bit cooler than yesterday, too.",
+      "ja": "ええ、小雨だと思います。天気アプリでは56％の確率って言ってました。昨日よりも少し涼しい気もします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's about 17 degrees. Good tea weather. Welcome to The Daily Tanu-chan Show, everyone.",
+      "ja": "だいたい17度くらいね。お茶にはいい天気だわ。皆さん、『ザ・デイリーたぬちゃんショー』へようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good morning. Not good for my commute, though. Plus, I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "おはようございます。僕の通勤には良くないですけどね。それに、最近はちょっとした物音にも飛び跳ねるんですよ。多分、赤ちゃんのせいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's getting big now, isn't he? They certainly keep you alert.",
+      "ja": "もう大きくなったでしょう？本当に気が抜けないわよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Anyway, I saw some news about a data leak this morning. A company serving local governments had millions of records stolen.",
+      "ja": "まったくです。そういえば、今朝データ漏洩のニュースを見ました。地方自治体向けの会社で、何百万件もの記録が盗まれたそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, I heard about that. It's really concerning when that kind of information gets out.",
+      "ja": "ええ、聞いたわ。ああいう情報が流出するのは本当に心配ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can't imagine working there right now. Our office security is… well, I guess it's not going to change anything there.",
+      "ja": "今、そこで働いている人たちの気持ちを考えるとね。うちの会社のセキュリティは…まあ、何も変わらないでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, probably not.",
+      "ja": "ええ、多分ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Also, I saw something about beautiful ukiyo-e tarot cards. They're popular 'divination' tools. What does 'divination' mean?",
+      "ja": "あと、美しい浮世絵のタロットカードについての記事を見ました。人気の『divination』ツールだそうです。『divination』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Divination is when you try to find out about the future, or discover hidden things, using special methods like cards or crystal balls.",
+      "ja": "ディビネーションというのは、カードや水晶玉のような特別な方法を使って、未来を知ろうとしたり、隠された物事を発見しようとすることよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. So, it's like fortune-telling, but maybe a bit more formal?",
+      "ja": "ああ、知らなかったです。じゃあ、占いみたいなものだけど、もう少しフォーマルな感じですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. And speaking of popular things, the Sailor Moon fan club is taking applications again. With English sign-up support, they said.",
+      "ja": "その通りよ。それから、人気のあるものといえば、セーラームーンのファンクラブがまた募集してるって。英語での申し込みも対応してるそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? Sailor Moon is still going strong? It's been around for ages, hasn't it? Like 26 years since the manga debuted.",
+      "ja": "本当ですか？セーラームーンってまだ人気なんですね？ずいぶん前からありますよね？漫画がデビューしてからもう26年とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My daughter used to love it. It's a huge 'franchise', you know.",
+      "ja": "私の娘も大好きだったわ。あれは巨大な『フランチャイズ』なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Franchise? Like, a company, but bigger than just one store?",
+      "ja": "フランチャイズ？会社のことだけど、お店一つよりもっと大きいってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a whole series of products or services under one brand. So, the manga, anime, movies, toys, all of it together.",
+      "ja": "それは、一つのブランドの下で展開される、商品やサービス全体のシリーズのことよ。だから、漫画、アニメ、映画、おもちゃ、その全てを指すの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, got it. So, a whole empire of Sailor Moon. That makes sense.",
+      "ja": "ああ、なるほど。つまりセーラームーンの巨大な帝国ですね。納得です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Pretty much. And hey, tomorrow's October 14th. Do you know what tomorrow is in Japan?",
+      "ja": "だいたいね。ところで、明日は10月14日よ。日本で明日は何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it's 'Tetsudo no Hi', right? Railway Day!",
+      "ja": "ああ、『鉄道の日』ですよね？鉄道記念日！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It celebrates the opening of Japan's first railway, from Shinbashi to Yokohama, back in 1872.",
+      "ja": "その通り。1872年に新橋から横浜まで開通した、日本初の鉄道を記念する日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, I just knew the date. Not the actual history. So, it's not actually today, but tomorrow.",
+      "ja": "へえ、僕は日付だけ知ってました。実際の歴史は知らなかったです。じゃあ、実際は今日じゃなくて明日なんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. They made it a day to remember the original opening, which was actually in September, but they moved it to October 14th.",
+      "ja": "ええ。元々の開通日は9月だったんだけど、10月14日に移動して記念日になったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Makes sense. It's always interesting how those dates get decided.",
+      "ja": "なるほど。そういう日がどうやって決まるのかって、いつも面白いですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed. Speaking of dates, I need to check on my winter vegetables. The rain is good for them, but it's getting cooler.",
+      "ja": "そうね。日付といえば、冬野菜の様子を見に行かないと。雨はいいんだけど、だんだん寒くなってきたから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You still do the garden? I don't have time for anything like that these days. Just coffee and baby-watching.",
+      "ja": "まだ庭いじりしてるんですか？僕は最近、そんなことする時間は全然ないです。コーヒーと赤ちゃんを見ることだけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, it's satisfying. Just planted some daikon and spinach a few weeks ago.",
+      "ja": "ええ、満足感があるのよ。数週間前に大根とほうれん草を植えたばかりなの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. I need more coffee. This morning has been a lot already.",
+      "ja": "それはちょっとすごいですね、本当に。もっとコーヒーが必要です。今朝はもう大変だったんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like it. Have a good one, Alex.",
+      "ja": "そうみたいね。良い一日を、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 23.2,
+      "temp_min": 17.4,
+      "rain_probability": 56
+    },
+    "news": [
+      {
+        "title": "Japan's information service firm serving municipalities reports data leak",
+        "summary": "Japan's information distribution service company serving local governments across the country said Tuesday that up to 3.1 million records on its clients may have leaked due to unauthorized…",
+        "link": "https://japantoday.com/category/national/japan%27s-information-service-firm-serving-municipalities-reports-data-leak"
+      },
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      }
+    ],
+    "wikipedia": {
+      "title": "鉄道の日",
+      "description": "1872（明治5）年9月12日（新暦10月14日）、日本初の鉄道が新橋－横浜間で開業したことを記念して、鉄道省が「鉄道記念日」と制定。JR発足後の1994（平成6）年に「鉄道の日」と改称した。"
+    }
+  }
+}
