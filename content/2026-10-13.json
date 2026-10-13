@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T01:06:27.386000+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 13th, 2026. Tuesday already.",
+      "ja": "おはようございます、サラさん。2026年10月13日。もう火曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. And welcome back to The Daily Tanu-chan Show. Time really flies, doesn't it?",
+      "ja": "おはよう、アレックス。そして、『ザ・デイリー・タヌちゃん・ショー』へようこそ。本当に時間が経つのが早いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does. I'm already on my second cup of coffee. Couldn't wake up today.",
+      "ja": "ですね。僕はもうコーヒー2杯目ですよ。今日はなかなか目が覚めなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Rough night with the baby?",
+      "ja": "赤ちゃんとの夜は大変だった？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, he was up every couple of hours. My wife and I are taking turns being zombies.",
+      "ja": "ええ、2時間おきに起きてました。妻と僕で交代でゾンビになってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets easier, eventually. I'm just starting on my tea.",
+      "ja": "そのうち楽になるよ。私は今からお茶を飲み始めるところ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. It's going to be a nice day, though. Feels pretty clear out there.",
+      "ja": "だといいんですけど。でも、今日は良い日になりそうですね。外はかなり晴れてる感じがします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Mainly clear, they say. High of 23.1 degrees today. Low of 16.1.",
+      "ja": "そうだね。主に晴れって言ってた。最高気温は23.1度で、最低気温は16.1度。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Perfect autumn weather. Almost no chance of rain. Good for laundry, I guess.",
+      "ja": "最高の秋の天気ですね。雨の心配もほとんどない。洗濯物にはいいかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. So, did you see the news about the book wholesaler?",
+      "ja": "間違いないね。それで、本の卸売業者のニュースは見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, about Nippan Group Holdings selling books to Anthropic, the AI company? Yeah, that's kind of big.",
+      "ja": "ああ、日本出版販売がAI企業のアンソロピックに大量の本を売ったっていうやつ？ええ、あれは結構大きいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. For training AI models, apparently. I wonder what kind of books.",
+      "ja": "そうね。AIモデルの学習用らしいけど。どんな本なんだろうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I was thinking the same thing. Does it entail specific genres? Like, all the popular novels?",
+      "ja": "僕も同じこと考えてました。特定のジャンルを「エンテイル」するんですかね？例えば、人気の小説全部とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Entail? Oh, it means to involve something as a necessary part or consequence. So, 'does it involve specific genres'.",
+      "ja": "エンテイル？ああ、それは何かを必然的な一部や結果として含む、という意味だよ。だから、「特定のジャンルが含まれるのか」ってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Thanks. So, does it entail specific genres? I can't imagine them using every book ever published.",
+      "ja": "ああ、なるほど。ありがとうございます。それで、特定のジャンルが関係してくるんですかね？まさか、出版されたすべての本を使うわけじゃないでしょうし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not everything. But it shows how much AI is changing industries. It's a lot to keep up with.",
+      "ja": "全部ではないだろうね。でも、AIがいかに産業を変えているかを示すものだよね。ついていくのが大変だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "For sure. At my office, we're talking about how AI will change our workflow, but it still feels so far off. Like, we're just prodding it.",
+      "ja": "本当に。僕の会社でもAIがどう仕事の流れを変えるか話してますけど、まだ遠い先の話に感じます。なんか、ただ「プロディング」してるだけみたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Prodding? You mean like, gently pushing or encouraging it to happen?",
+      "ja": "プロディング？つまり、ゆっくりと押したり、起こるように促したりするってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Not really diving in.",
+      "ja": "ええ、まさに。まだ本格的に取り組んでないというか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I get that. Sometimes it's hard to know where to start.",
+      "ja": "わかるよ。どこから始めたらいいか分からない時もあるよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? Anyway, speaking of news, I saw the headlines about Okinawa again. The situation with the U.S. Marine.",
+      "ja": "ですよね。ところで、ニュースといえば、沖縄のヘッドラインをまた見ました。米海兵隊の件。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. It's just incredibly sad. And it's happened too many times. You can understand why Okinawans are so frustrated.",
+      "ja": "ええ。ただただ悲しいことだね。そして何度も繰り返されている。沖縄の人々がなぜこれほど不満を抱いているのか、理解できるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. I can't imagine living with that kind of worry. It's a really complex issue.",
+      "ja": "そうですね。そういう心配を抱えて暮らすなんて想像できないです。本当に複雑な問題です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. On a lighter note, did you see they're taking applications for the Sailor Moon fan club again?",
+      "ja": "そうだね。少し明るい話題だけど、セーラームーンのファンクラブがまた募集しているのを見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't know that. For 2017, it says?",
+      "ja": "え、本当ですか？それは知らなかったです。2017年のって書いてます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's for new members, but they mention '2017' because that's when they last opened it. They've updated it for 2026. They even have English sign-up support now.",
+      "ja": "新規会員向けだけど、最後に募集したのが2017年だからそう書いてあるんだね。今は2026年用に更新されているよ。英語での登録サポートまであるみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. That's a dedicated fan base. It's almost a niche market, isn't it?",
+      "ja": "すごいですね。熱心なファン層だ。ほとんど「ニッチ」な市場ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. A niche is a specific, specialized market or interest. Sailor Moon has a very strong one, even after all these years.",
+      "ja": "そうだね。ニッチというのは、特定の、専門化された市場や興味のこと。セーラームーンはこれだけ長くても、とても強いニッチを持っているんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess my little one might get into something like that someday. Maybe a robot anime, or something.",
+      "ja": "僕のちっちゃな子もいつかそんなのにハマるかもしれませんね。ロボットアニメとか、何か。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine are into completely different things now. My daughter is all about K-pop, and my son is just gaming.",
+      "ja": "うちの子たちはもう全然違うものに夢中だよ。娘はK-POPばかりだし、息子はゲームばかり。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "K-pop, huh? My wife watches a lot of Korean dramas. Maybe he'll get into that.",
+      "ja": "K-POPですか。うちの妻も韓国ドラマをよく見てます。彼もそれにハマるかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Possibly. Speaking of today, did you know what today's theme is?",
+      "ja": "そうかもしれないね。ところで、今日のことだけど、今日のテーマって知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, I didn't check. What is it?",
+      "ja": "いえ、チェックしてませんでした。何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Sweet Potato Day, or 'Satsuma-imo no Hi'.",
+      "ja": "今日はサツマイモの日だよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sweet Potato Day? That's kind of cute. Why today?",
+      "ja": "サツマイモの日？なんか可愛いですね。なんで今日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's because October is the best season for sweet potatoes. And there's an old saying, 'Jusan-ri yori juuni-ri umai juusan-ri'. It means 'thirteen ri' is tastier than 'nine ri'.",
+      "ja": "10月がサツマイモの旬だから。それと、「九里（くり）より四里（より）うまい十三里（じゅうさんり）」っていう昔の言葉があって、それは「九里より十三里の方が美味しい」って意味なんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Jusan-ri? That sounds like a distance. Like, from Edo to Kawagoe?",
+      "ja": "十三里？距離みたいですね。江戸から川越まで、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly! Kawagoe sweet potatoes were so famous, people would say the deliciousness of sweet potatoes could reach 13 'ri', which is the distance from Edo to Kawagoe. So 'Jusan-ri' became another name for sweet potatoes.",
+      "ja": "その通り！川越のサツマイモがとても有名で、サツマイモの美味しさが江戸から川越までの13里に届く、と人々が言ったんだ。それで「十三里」がサツマイモの別名になったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow, I didn't know that. That's clever. I love baked sweet potatoes in autumn.",
+      "ja": "へえ、それは知らなかったです。面白いですね。秋の焼き芋、大好きなんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Me too. Maybe I'll make some for my kids tonight. If I can get them away from their screens.",
+      "ja": "私も。今夜は子どもたちに作ってあげようかな。画面から離れさせることができれば、だけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good luck with that. I'm still just trying to get my little one to sleep through the night.",
+      "ja": "頑張ってください。僕はまだ、うちの子に夜通し寝てもらうことだけを頑張ってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll get there.",
+      "ja": "そのうちできるようになるよ。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 23.1,
+      "temp_min": 16.1,
+      "rain_probability": 6
+    },
+    "news": [
+      {
+        "title": "Japan book wholesaler admits selling books to Anthropic: industry source",
+        "summary": "A major Japanese book wholesaler has admitted selling a large number of books to U.S. artificial intelligence company Anthropic, according to a publishing industry source.\nNippan Group Holdings…",
+        "link": "https://japantoday.com/category/national/japan-book-wholesaler-admits-selling-books-to-anthropic-industry-source"
+      },
+      {
+        "title": "'Everyone is angry': Okinawans fearful and frustrated after killing",
+        "summary": "A week after a U.S. Marine was arrested on suspicion of murdering a Japanese woman in Okinawa, resident Takako Kakazu is clear what she wants: American soldiers to…",
+        "link": "https://japantoday.com/category/national/%27everyone-is-angry%27-okinawans-fearful-and-frustrated-after-killing"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      }
+    ],
+    "wikipedia": {
+      "title": "サツマイモの日",
+      "description": "埼玉県川越市のサツマイモ愛好家のグループ、川越いも友の会が制定。日付は10月がサツマイモの旬で、「九里より四里うまい十三里」のサツマイモの異名「十三里」から。"
+    }
+  }
+}
