@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-14T22:02:18.198085+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 14th already. Wow.",
+      "ja": "おはようございます、サラさん。もう10月14日ですね。早いなあ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, time flies.",
+      "ja": "おはよう、アレックス。本当に、あっという間ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Need this coffee. My baby was up three times last night.",
+      "ja": "ですね。このコーヒーが要ります。うちの子、昨夜3回も起きちゃって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough.",
+      "ja": "それは大変ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "The weather's nice, at least. Looks partly cloudy, high around 22 degrees. Good walking weather.",
+      "ja": "天気はいいから、まあ。一部曇り、最高気温は22度くらい。散歩にいい気候ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Very comfortable. Low rain probability too, just 6%.",
+      "ja": "そうね。とても過ごしやすいわ。降水確率も低いし、たった6%よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. Anyway, did you see the news? Kansai Electric restarted that reactor at Mihama.",
+      "ja": "それは良かった。ところで、ニュース見ました？関西電力が美浜の原子炉を再稼働したって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's not really surprising, is it? It feels like it's a `recurrent` topic.",
+      "ja": "見たわ。特に驚きはないわね。なんだか繰り返しの話題よね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Recurrent`? What does that mean exactly?",
+      "ja": "「リカーレント」？それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means something that happens again and again, or often. Like a recurring dream.",
+      "ja": "繰り返し起こること、または頻繁に起こることを指すわ。夢を繰り返し見る、とかね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, exactly. For me, it's a recurrent headline. I guess they just keep things going.",
+      "ja": "ああ、なるほど。そうですね、まさに繰り返し見る見出しです。まあ、それで物事が動いているんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And then there's this steampunk event in Harajuku. That sounds pretty cool.",
+      "ja": "あと、原宿でスチームパンクのイベントがあるらしいですね。なんだか面白そう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My daughter mentioned it. She likes that kind of aesthetic.",
+      "ja": "うちの娘が言ってたわ。ああいう美学が好きみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Steampunk. I wonder how they make it 'Japan-inspired.' Is it like... samurai in goggles?",
+      "ja": "スチームパンクか。どうやって「日本風」にするんでしょうね。こう、ゴーグルをつけた侍とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Something like that, probably. It's a blend of old technology and Victorian fashion, but with a Japanese twist.",
+      "ja": "そんな感じかしらね。古い技術とヴィクトリア朝のファッションを、日本風にひねりを加えて融合させたものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Interesting. I also saw an article about 'Roppongi Kabuki Part II Zatoichi.' It says it's 'the most `accessible` Kabuki ever.'",
+      "ja": "面白いですね。あと「六本木歌舞伎第二弾 座頭市」についての記事も見ました。「これまでで最もアクセスしやすい歌舞伎」だって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Accessible`? That's a good word.",
+      "ja": "「アクセスしやすい」？いい言葉ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, what does `accessible` mean in this context?",
+      "ja": "ええ、この文脈で「アクセスしやすい」ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means it's easy to understand or enjoy, even for people who aren't usually interested in Kabuki. Like it's not too difficult to get into.",
+      "ja": "歌舞伎に普段興味がない人でも、理解しやすかったり、楽しかったりするってことよ。とっつきにくいと感じない、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so you don't have to sit for four hours without knowing what's happening. That's actually great. Maybe I could even take my kid when he's older.",
+      "ja": "ああ、じゃあ、何が起こってるか分からないまま4時間座ってる必要はないんですね。それは本当にいいなあ。うちの子が大きくなったら、連れて行けるかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably a few more years for that. My son still just wants to play games.",
+      "ja": "それにはあと数年かかるでしょうね。うちの息子はまだゲームばかりしたがるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know the feeling. My little one just wants to throw everything. Oh, this reminds me. You know what tomorrow is? October 15th.",
+      "ja": "その気持ち、分かります。うちの子はとにかく何でも投げたがって。ああ、これで思い出したんですけど、明日って何の日か知ってます？10月15日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, きのこの日, right? Mushroom Day.",
+      "ja": "ああ、きのこの日ね。マッシュルームデー。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Mushroom Day? I didn't know that. What's that about?",
+      "ja": "きのこの日？知らなかったです。それって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The Japan Forest Mushroom Promotion Association set it up in 1995. October is when mushroom demand is highest, so they picked the middle of the month to promote them.",
+      "ja": "日本特用林産振興会が1995年に制定したのよ。10月はきのこ類の需要が高まる月だから、その月の真ん中を宣伝のために選んだの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. That's practical. I guess I should buy some mushrooms for dinner tonight then.",
+      "ja": "へえ。実用的ですね。じゃあ、今夜の夕食にきのこを買わないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. I'm making mushroom soup later.",
+      "ja": "いいわね。私は後でマッシュルームスープを作るつもりよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds good. I need to remember to do some grocery shopping. My wife's been asking me to get more milk for the baby.",
+      "ja": "いいですね。私も買い物に行かなきゃ。妻が、ベビー用に牛乳をもっと買ってきてって言ってたんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids always drink it all instantly. I feel like I'm always buying milk.",
+      "ja": "うちの子たちもいつもあっという間に全部飲んじゃうのよ。いつも牛乳を買ってる気がするわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's just never enough, is it? Anyway, this is The Daily Tanu-chan Show. We'll be back after a short break.",
+      "ja": "ええ、本当にいくらあっても足りないですよね。さて、こちらは「The Daily Tanu-chan Show」です。短いブレイクの後、またお会いしましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Stick around.",
+      "ja": "そのままお待ちください。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 21.8,
+      "temp_min": 16.3,
+      "rain_probability": 6
+    },
+    "news": [
+      {
+        "title": "Kansai Electric restarts reactor at Mihama nuclear plant in Fukui",
+        "summary": "Kansai Electric Power Co said Saturday that it has restarted the No. 3 reactor at the Mihama nuclear power plant in central Japan, after it was manually shut…",
+        "link": "https://japantoday.com/category/national/update1-kansai-electric-restarts-reactor-at-mihama-nuclear-plant-in-central-japan"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      }
+    ],
+    "wikipedia": {
+      "title": "きのこの日",
+      "description": "1995年、日本特用林産振興会が制定。10月はきのこ類の需要が高まる月で、その月の真ん中の15日を「きのこの日」とし、きのこ類の消費PRを行う。"
+    }
+  }
+}
