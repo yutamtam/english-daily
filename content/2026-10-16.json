@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-15T21:55:46.395453+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 15th already. Hard to believe.",
+      "ja": "おはようございます、サラさん。もう10月15日ですね。信じられないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time does fly, doesn't it? Did you manage to grab your coffee?",
+      "ja": "おはようございます、アレックス。時間はあっという間ですね。コーヒーは飲めましたか？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah. Absolutely crucial this morning. Welcome back to The Daily Tanu-chan Show, everyone. Let's see... weather first.",
+      "ja": "ええ、もちろんです。今朝は特に不可欠でした。皆さま、『The Daily Tanu-chan Show』へようこそ。まずは天気ですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tokyo is partly cloudy today. High of 25.9°C, low of 15.8°C. Rain probability is only 31%.",
+      "ja": "今日の東京は、ところどころ曇りです。最高気温は25.9度、最低気温は15.8度。降水確率は31%です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Comfortable then. Not too hot for walking, not too cold for tea on the balcony.",
+      "ja": "快適ですね。歩くには暑すぎず、バルコニーでお茶を飲むには寒すぎない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels like autumn is holding on a bit longer this year. Which is nice, I guess. I jump at everything these days, so I'm glad it's not thunder.",
+      "ja": "ええ、今年は秋が少し長く続いている感じですね。まあ、いいんですけど。この頃はちょっとした物音にも驚いてしまうので、雷じゃなくてよかったです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like you had another eventful night.",
+      "ja": "また賑やかな夜だったようですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Always. My little one is almost one and a half now, but still thinks sleep is optional. Anyway, news. Japan might include railways in defense spending.",
+      "ja": "いつもです。うちの子はもうすぐ1歳半なんですけど、まだ寝るのは任意だと思ってるみたいで。まあ、それはともかくニュースです。日本が鉄道を防衛費に含めることを検討しているとか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sources say it's part of revising security documents. Does that mean they're going to try and fortify the tracks, or something?",
+      "ja": "情報筋によると、安全保障関連文書の見直しの一環だそうです。線路を要塞化する、みたいなことなんでしょうか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not necessarily to fortify in a military sense, but 'fortify' can also mean to strengthen or improve something to make it more effective. So, for railways, it could be about making them more robust for emergency transport.",
+      "ja": "軍事的な意味で要塞化する、というよりは、『fortify』は何かを強化したり改善して、より効果的にするという意味もあります。だから、鉄道の場合は、緊急時の輸送のために頑丈にする、ということかもしれませんね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. So it's not like adding bunkers to Shinjuku Station. Just making sure everything works smoothly under pressure.",
+      "ja": "なるほど。じゃあ、新宿駅にバンカーを追加するとかじゃないんですね。単に、プレッシャーがかかる状況でもすべてがスムーズに機能するように、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Precisely. It's about readiness.",
+      "ja": "その通りです。準備体制の問題ですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Well, I don't think that's going to change anything at my office, thankfully. Next, there's a two-day Japan-inspired steampunk event coming to Harajuku.",
+      "ja": "ええ。まあ、幸いなことに私の会社では何も変わりそうにありません。次ですが、原宿で2日間の日本風スチームパンクイベントが開催されるそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, Steam Garden. I've heard of it. They combine Victorian aesthetics with Japanese elements.",
+      "ja": "ああ、スチームガーデンですね。聞いたことがあります。ビクトリア朝の美学と日本の要素を組み合わせていますね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It sounds like a really unique style. I saw pictures once, it's like a whole different world, with gears and goggles and kimonos. It's cool.",
+      "ja": "本当にユニークなスタイルですね。一度写真を見たんですが、歯車やゴーグル、着物なんかがあって、まるで別世界みたいです。かっこいいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. My daughter's friend is really into it. They're going this weekend.",
+      "ja": "そうですね。うちの娘の友達がすごく好きで。今週末行くそうです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's fun. Good for them. One more news item here. A 53-year-old man died after falling in the Togakushi mountain range in Nagano. That's really tragic.",
+      "ja": "ああ、それはいいですね。楽しんで。もう一つニュースがあります。長野県の戸隠連峰で、53歳の男性が転落して亡くなったそうです。本当に悲しいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Mountains are beautiful, but they demand respect.",
+      "ja": "そうですね。山は美しいですが、敬意を払う必要があります。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. You know, speaking of food earlier, did you know today is World Food Day? I just remembered.",
+      "ja": "ええ。そういえば、さっき食べ物の話が出ましたけど、今日が世界食料デーって知ってました？今思い出しました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It commemorates the founding of the UN Food and Agriculture Organization in 1945. It's about overcoming hunger and poverty globally.",
+      "ja": "知っていましたよ。1945年の国連食糧農業機関（FAO）設立を記念して制定されたものです。世界中の飢餓と貧困をなくすことを目指しています。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a huge undertaking. Makes you think about what you eat every day.",
+      "ja": "それは大変な取り組みですね。毎日食べているものについて考えさせられます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It certainly does. And it's a good reminder to be mindful of waste.",
+      "ja": "全くその通りです。そして、無駄を意識する良いきっかけにもなりますね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tell that to my kid. She throws half her food on the floor. Drives me crazy.",
+      "ja": "うちの子に言ってやってくださいよ。食べ物の半分を床に投げ捨てるんです。頭がおかしくなりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They all do that. It gets better, eventually. My small autumn garden is doing well, actually. Got some late tomatoes still.",
+      "ja": "みんなそうしますよ。そのうち良くなります。実は、私の小さな秋の庭は順調なんです。まだ遅咲きのトマトがいくつかできています。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you're still getting tomatoes? That's impressive. I'd probably just kill any plant I tried to grow.",
+      "ja": "え、まだトマトが採れるんですか？すごいですね。私が何か育てようとしたら、多分枯らしてしまうでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's satisfying to grow your own, even a little bit. It gives a different connotation to food, I think.",
+      "ja": "少しでも自分で育てると、満足感がありますよ。食べ物に対する別の『connotation（含意）』が生まれると思います。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A different 'connotation'? What does that mean, exactly?",
+      "ja": "別の『connotation（含意）』ですか？それって具体的にどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the feeling or idea a word suggests, beyond its direct meaning. So, growing your own food gives it a sense of effort and connection, not just 'something to eat'.",
+      "ja": "それは、言葉が直接的な意味を超えて示唆する感情や考えのことです。だから、自分で食べ物を育てることは、単に『食べるもの』以上の、努力や繋がりといった感覚を与えるんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I get it. So, 'fresh' isn't just about how recently it was picked, but also the story behind it. That makes sense.",
+      "ja": "ああ、分かりました。『新鮮』というのは、摘みたてかどうかだけでなく、その裏にある物語も含む、と。納得です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly.",
+      "ja": "その通りです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's all the time we have for today. Hope everyone has a good rest of your Thursday.",
+      "ja": "さて、本日はここまでです。皆さま、この木曜日の残りの時間を良いものにしてください。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a peaceful day.",
+      "ja": "穏やかな一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 25.9,
+      "temp_min": 15.8,
+      "rain_probability": 31
+    },
+    "news": [
+      {
+        "title": "Japan considers including railways in defense-related expenditure: sources",
+        "summary": "The Japanese government is considering including railways in defense-related expenditure as part of revisions to three key security documents by year-end, sources close to the matter said Sunday.…",
+        "link": "https://japantoday.com/category/national/update1-japan-mulls-including-railways-in-defense-related-expenditure-sources"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      },
+      {
+        "title": "53-year-old man dies after fall in Nagano's Togakushi mountain range",
+        "summary": "A 53-year-old man died after falling in the Togakushi mountain range in Nagano Prefecture on Sunday.\nAccording to police, shortly before 7:30 a.m., other hikers witnessed the man…",
+        "link": "https://japantoday.com/category/national/53-year-old-man-dies-after-fall-in-nagano%27s-togakushi-mountain-range"
+      }
+    ],
+    "wikipedia": {
+      "title": "世界食料デー",
+      "description": "1945（昭和20）年、国連食糧農業機関（FAO）が設立されたことを記念して、1981（昭和56）年に制定。飢餓、貧困の克服を目指して、世界各国でシンポジウム、集会、展示会などが開かれる。"
+    }
+  }
+}
