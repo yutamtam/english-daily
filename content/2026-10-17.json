@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-16T21:54:30.111092+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 16th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう10月16日ですよ。信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time goes fast. Just started 'The Daily Tanu-chan Show' right?",
+      "ja": "おはよう、アレックス。早いね。ちょうど『ザ・デイリー・タヌちゃん・ショー』が始まったところね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that's us. Need my coffee today. Definitely.",
+      "ja": "ええ、僕らです。今日は絶対にコーヒーが必要ですね。間違いなく。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I've got my tea. Ready for it.",
+      "ja": "私はお茶よ。準備万端よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Weather's looking partly cloudy in Tokyo. High of 23.3, low of 15.7. Only 4% chance of rain.",
+      "ja": "東京の天気は、一部曇りみたいですね。最高気温が23.3度、最低が15.7度。雨の確率はたった4%です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's nice. Feels good to have cooler mornings now.",
+      "ja": "いいわね。朝が涼しくなってきて気持ちいいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, after that summer. It was... something.",
+      "ja": "ええ、あの夏の後だからね。いやあ、すごかったですよ、あの夏は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, I saw this headline: 'Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive.' Baffling? What does that even mean?",
+      "ja": "ええと、こんな見出しを見ました。『グッチの和風「フクロウの扇子」は可愛いけど、 baffling に高い』。Baffling？それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means surprisingly confusing, or really hard to understand why. Like, 'why is it so expensive?'",
+      "ja": "驚くほど混乱する、とか、なぜそうなのか理解するのが本当に難しい、ってことね。たとえば、『なんでそんなに高いの？』って感じで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, bafflingly expensive. I can relate to that. My baby needs new shoes, and some of the prices are just...",
+      "ja": "ああ、なるほど。ええ、baffling に高い。それは僕も分かります。うちの子が新しい靴を必要としているんですが、値段がもうね…。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Gucci probably isn't the place for baby shoes, Alex.",
+      "ja": "アレックス、ベビーシューズは多分グッチじゃないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No, definitely not. I'm a Uniqlo guy. Always looking for a sale.",
+      "ja": "いや、絶対違いますね。僕はユニクロ派ですから。いつもセールを探してます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids wear whatever is on sale too. They don't care about brands.",
+      "ja": "うちの子たちも、セール品なら何でも着るわよ。ブランドなんて気にしないもの。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of Japanese things, there's this Kabuki news. 'Roppongi Kabuki Part II Zatoichi' is supposed to be 'the most accessible Kabuki ever'.",
+      "ja": "日本のものといえば、歌舞伎のニュースがあるわね。『六本木歌舞伎 第弐弾 座頭市』が『史上最もアクセスしやすい歌舞伎』になるらしいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Accessible? Like, shorter? I've always wanted to go, but four hours sounds like a lot. And understanding it, too.",
+      "ja": "アクセスしやすい？って、もっと短いとかですか？ずっと行きたいと思ってたんですけど、4時間は長いなと思って。それに理解するのもね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It says you don't have to sit for four hours without a clue. Maybe they're modernizing it a bit.",
+      "ja": "その通りよ。手がかりもなく4時間も座っている必要はないって書いてあるわ。少し現代的にしているのかもしれないね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. I think my dad would like that. He always talks about how he should go.",
+      "ja": "それはいいですね。うちの父が好きそうです。いつも行かなきゃって言ってるんですよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Here's another one: 'Tokyo music venue looking for a band to live on the premises and perform every day for a week.' That's quite an offer.",
+      "ja": "もう一つあります。『東京の音楽会場が、一週間住み込みで毎日演奏するバンドを募集している』。それはすごいオファーですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Perform every day for a week? That would be intense. Like a residency, I guess.",
+      "ja": "一週間毎日演奏？それは大変そうね。レジデンシーみたいなものかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like that. I wonder what kind of music they're looking for. A friend of mine plays drums, he's always looking for gigs.",
+      "ja": "そうですね、そんな感じです。どんな音楽を探してるんでしょうね。友達でドラムやってる奴がいるんですけど、いつもライブを探してるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son's band used to dream about something like that. Before reality set in.",
+      "ja": "うちの息子がやってたバンドも、そういうのを夢見てたわ。現実を知る前はね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Reality, huh? I know that feeling. With a kid, it's like my free time just vanished. Vanished... Hmm, is that an above-level word? Like 'ethereal' or something?",
+      "ja": "現実、ですか。その気持ち分かります。子供がいると、自由な時間がすっかり消え去ったみたいで。消え去った…うーん、それって難しい言葉ですか？『エセリアル』とかみたいに？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, 'vanished' is fine. It just means disappeared completely. 'Ethereal' is more like something very light and delicate, almost not real. Like a dream.",
+      "ja": "いいえ、『vanished』は大丈夫よ。完全に消え去った、って意味なだけだから。『ethereal』はもっと軽くて繊細で、ほとんど実体のない感じ。夢みたいにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, got it. So my free time isn't ethereal, it just vanished.",
+      "ja": "ああ、なるほど。じゃあ僕の自由な時間は『エセリアル』じゃなくて、ただ『消え去った』んですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly.",
+      "ja": "その通りよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hey, Alex, do you know what today is, October 16th?",
+      "ja": "ねえ、アレックス、今日10月16日って何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Um... no, not really. Is it... some kind of holiday?",
+      "ja": "えっと…いや、特に。何か祝日とかですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 貯蓄の日, Savings Day. It was made in 1952 to get people more interested in saving money.",
+      "ja": "貯蓄の日よ。1952年に、貯蓄への関心を高めるために作られたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Savings Day. Oh man. I feel like I read this every year. And every year, I think about how little I'm actually saving.",
+      "ja": "貯蓄の日。あーあ。毎年これ読んでいる気がします。そして毎年、実際に貯めている額の少なさを考えますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's tough these days. Especially with kids. The date is actually from Kanname-sai, when the Emperor offers new rice to Ise Shrine.",
+      "ja": "最近は大変よ。特に子供がいるとね。日付は、天皇陛下が伊勢神宮に新米を奉納する神嘗祭にちなんでいるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's interesting. I didn't know that connection. Yeah, saving... With my little one, it's just one expense after another. Diapers, clothes they grow out of in a month...",
+      "ja": "それは面白いですね。そのつながりは知りませんでした。ええ、貯蓄か…。うちの子がいると、もう次から次へと出費ばっかりで。おむつに、一ヶ月で着られなくなる服とか…。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It doesn't stop. They just get more expensive hobbies.",
+      "ja": "止まらないわよ。そのうちもっとお金のかかる趣味を持つようになるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Great. So I have that to look forward to.",
+      "ja": "素晴らしい。楽しみですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My wife actually found this really clever way to save on baby food. She started making bigger batches of purees and freezing them in ice cube trays. Saves so much time and money.",
+      "ja": "妻が、離乳食を節約するとっても賢い方法を見つけたんです。ピュレを一度にたくさん作って、製氷皿で凍らせるようにしたんです。時間もお金もすごく節約できます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's smart. I used to do something similar when my daughter was little. Not with ice cube trays, but big batches.",
+      "ja": "賢いわね。私も娘が小さかった頃、似たようなことしてたわよ。製氷皿じゃなかったけど、大量に作ってね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's been a game changer. Though sometimes I forget what's in which cube. We had a 'mystery meat' night last week.",
+      "ja": "ええ、もう画期的でしたね。たまにどのキューブに何が入ってるか忘れちゃうんですけどね。先週は『謎の肉』の夜でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Kids will eat anything when they're hungry enough.",
+      "ja": "お腹が空いていれば、子供は何でも食べるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's one way to 'save' a meal, I guess. Okay, I think that's about all the news and days we have time for today.",
+      "ja": "まあ、それはそれで食事を『節約』になる一つの方法ですかね。さて、今日のニュースと『今日は何の日』はこれくらいですかね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds about right. Time for another cup of tea.",
+      "ja": "そうね。もう一杯お茶にしようっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And another coffee for me. Have a good one, Sarah.",
+      "ja": "僕はもう一杯コーヒーを。良い一日を、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex.",
+      "ja": "あなたもね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 23.3,
+      "temp_min": 15.7,
+      "rain_probability": 4
+    },
+    "news": [
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      },
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      }
+    ],
+    "wikipedia": {
+      "title": "貯蓄の日",
+      "description": "1952（昭和27）年、貯蓄増強中央委員会が提唱し制定。貯蓄に対する関心を高め、貯蓄の増進を図ることを目的としている。日付は戦前、天皇がその年の新穀を伊勢神宮に奉納した神嘗祭の日にちなんだもの。"
+    }
+  }
+}
