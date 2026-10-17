@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-17T21:13:29.031522+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 17th already. Feels like I just got here. Time for The Daily Tanu-chan Show, huh?",
+      "ja": "おはようございます、サラさん。もう10月17日ですね。ここに着いたばかりな気がします。デイリータヌちゃんショーの時間ですかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, it is. You look tired.",
+      "ja": "おはよう、アレックス。ええ、そうよ。疲れてるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I definitely am. I'm already on my second coffee. My little one decided 3 AM was party time last night.",
+      "ja": "ええ、もう間違いなく。すでにコーヒー2杯目です。うちの子、昨夜は午前3時がパーティータイムだと思ったみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Still doing that, huh? I remember those days. My kids are teenagers now, but they still manage to keep me up sometimes. Just for different reasons.",
+      "ja": "まだそんな感じなのね。そういう時期あったわね。うちの子たちはもうティーンエイジャーだけど、今でも時々私を起こすことがあるわ。まあ、理由は違うけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. Any little noise, I'm wide awake. My brain is full of cotton wool.",
+      "ja": "最近は何にでも飛び起きちゃいます。きっと赤ちゃんが原因です。ちょっとした物音でも、目が覚めてしまって。頭の中が綿みたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, that happens. Anyway, looks like a good day for October 17th. Partly cloudy, but no rain at all. High of 22 degrees.",
+      "ja": "ええ、そういうものよ。それにしても、10月17日としては良い天気になりそうね。一部曇りだけど、雨は全く降らないわ。最高気温は22度よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's great. My commute was actually pretty clear this morning on the bike, for once. Usually, I'm dodging everything.",
+      "ja": "それはいいですね。今朝の自転車通勤は、珍しくかなりスムーズでした。いつもは色々避けながら走ってるんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a nice change.",
+      "ja": "それは良い気分転換ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see that news about the underpasses? Eighty of them underwater in the last ten years. That's a lot.",
+      "ja": "あのアンダーパスのニュース見ましたか？過去10年間で80箇所が水没したって。すごい数ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's concerning, especially with more extreme weather.",
+      "ja": "見たわ。特に異常気象が増えていることを考えると、心配ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels like the *outset* of a bigger problem, right? Like, this is just the beginning.",
+      "ja": "ええ、これって、もっと大きな問題の『アウトセット』って感じがしませんか？つまり、まだ序章にすぎない、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The 'outset' means the very beginning of something. So you're saying this is just the start of a bigger issue.",
+      "ja": "『アウトセット』とは、物事の最初、始まりのことよ。だから、これはもっと大きな問題の序章だ、と言いたいわけね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. I feel like I read this kind of news every year. It's not going to change at my office, though. Still need to get through the city.",
+      "ja": "その通りです。毎年この手のニュースを読む気がします。まあ、僕の会社では何も変わらないでしょうけどね。相変わらず都会を突っ切らなきゃならないし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "On a lighter note, did you see the Sailor Moon fan club news? They're taking applications again, with English support.",
+      "ja": "少し明るい話題だけど、セーラームーンのファンクラブのニュース見た？また入会受付を始めたらしいわよ、英語でのサポート付きで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. Sailor Moon. That's been around forever, hasn't it? I guess there's still a big fan base.",
+      "ja": "おお、すごい。セーラームーンですか。ずっと昔からありますよね？今でも根強いファンがいるんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. And speaking of popular characters, a clothing company is bringing mobile game character costumes to life.",
+      "ja": "ええ、もちろんだわ。人気キャラクターと言えば、あるアパレル会社がモバイルゲームのキャラクター衣装を実際に作るそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Seriously? I wonder which games. There are so many. I'm trying to *elicit* some interest from my baby in some of the classic anime, but he just stares blankly at the screen.",
+      "ja": "マジですか？どのゲームなんでしょう。たくさんありますよね。僕は今、うちの赤ちゃんにクラシックアニメに興味を『エリスィット』しようとしてるんですが、画面をぼーっと見てるだけなんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Elicit' means to get a response, especially information or a reaction. So you're trying to get a reaction from him.",
+      "ja": "『エリスィット』は、特に情報や反応を『引き出す』という意味よ。だから、彼から反応を引き出そうとしているわけね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. A laugh, a smile, anything! But no. Just the blank stare. Maybe it's too early.",
+      "ja": "ええ、その通りです。笑いでも、笑顔でも、何でもいいから！でも、ダメですね。ただぼーっと見つめてるだけ。まだ早いのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably. My son is asking about what kind of club he should join next year. Time flies.",
+      "ja": "たぶんね。うちの息子は来年どんな部活に入ろうか悩んでるわ。本当に時が経つのは早いものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, already? Feels like yesterday he was just a little kid.",
+      "ja": "もうそんな話ですか？昨日まで小さかった気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. Hey, speaking of dates, tomorrow, October 18th, is 統計の日, or Statistics Day.",
+      "ja": "そうね。ねえ、日付の話が出たけど、明日、10月18日は『統計の日』なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. Statistics Day. What's that about?",
+      "ja": "ああ、知りませんでした。統計の日。それはどういう日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's to help people understand the importance of statistics. It's based on an old proclamation from 1870 about products and prefectures.",
+      "ja": "統計の重要性を国民に理解してもらうための日よ。明治3年の府県物産表に関する太政官布告が基になっているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Interesting. I guess statistics are pretty important. I mostly just look at sales numbers these days. That's my statistics.",
+      "ja": "なるほど。統計ってかなり重要なんですね。僕は最近、ほとんど売上数字ばかり見ています。それが僕の統計ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They certainly are.",
+      "ja": "確かにそうね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 22.3,
+      "temp_min": 11.8,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "80 underpasses in Japan saw vehicles submerged over past decade: survey",
+        "summary": "At least 80 underpasses in prefectural capitals across Japan have seen vehicles submerged in floodwaters over the past decade, according to a Kyodo News survey.\nThe incidents, involving…",
+        "link": "https://japantoday.com/category/national/update1-80-underpasses-in-japan-saw-vehicles-submerged-over-past-decade-survey"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      },
+      {
+        "title": "Clothing company to bring popular Japanese mobile games’ character costumes to life",
+        "summary": "We can’t get enough of cosplay, so we welcome news that clothes company Nutte, in conjunction with mobile phone game makers Axel Mark, have obtained an official license…",
+        "link": "https://japantoday.com/category/features/clothing-company-to-bring-popular-japanese-mobile-games-character-costumes-to-life"
+      }
+    ],
+    "wikipedia": {
+      "title": "統計の日",
+      "description": "明治3年9月24日（新暦10月18日）、府県物産表に関する太政官布告が公布されたことにちなみ、1973年、国民に統計の重要性を理解してもらおうと、政府が制定。"
+    }
+  }
+}
