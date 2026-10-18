@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-18T21:13:53.268739+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah.",
+      "ja": "おはようございます、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. How are you today?",
+      "ja": "おはよう、アレックス。調子はどう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm okay. Need my coffee though. October 18th already, can you believe it?",
+      "ja": "まあまあです。でもコーヒーが必要ですね。もう10月18日、信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does fly by. Yeah. Here, I've got my tea.",
+      "ja": "本当にあっという間ですね。ええ。私はお茶ですが。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Welcome to The Daily Tanu-chan Show, everyone. Hope you're ready for another day.",
+      "ja": "皆さん、『The Daily Tanu-chan Show』へようこそ。今日も一日、頑張りましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Looks like a bit of rain today. Just slight rain, they say. 25 degrees high.",
+      "ja": "今日は少し雨模様みたいですね。小雨程度だそうです。最高気温は25度。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Pretty warm for October, isn't it? Only a 10% chance of rain, so maybe it'll clear up. My laundry never dries outside these days.",
+      "ja": "10月にしてはかなり暖かいですよね？雨の確率は10%だから、もしかしたら晴れるかも。最近、うちの洗濯物、外で全然乾かないんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm. First up on the news, a U.S. aircraft carrier arrived in Yokosuka for a joint exercise.",
+      "ja": "うん。まずニュースですが、アメリカの空母が共同演習のために横須賀に到着したそうですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? The Theodore Roosevelt. Must be huge. I wonder if they have like, a Starbucks on board.",
+      "ja": "ああ、そうなんですか？セオドア・ルーズベルト。すごく大きいんでしょうね。船の中にスターバックスとかあるのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not a public one.",
+      "ja": "多分、一般公開はされてないでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Of course. Next, there's a two-day event in Harajuku. It's called Steam Garden. They're showcasing something called 'steampunk style.' I don't really know what that is.",
+      "ja": "ですよね。もちろん。次は、原宿で2日間イベントがあるそうです。『スチームガーデン』という名前で、『スチームパンクスタイル』というものを紹介しているらしいです。僕、それが何なのかよく知らないんですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, steampunk. It's a style that mixes Victorian-era fashion, you know, like from the 1800s, with industrial machinery. So, like old gears and goggles, but fashionable.",
+      "ja": "ああ、スチームパンクですね。あれは、ヴィクトリア朝時代のファッション、ほら、1800年代頃の、と産業機械を組み合わせたスタイルなんです。だから、古い歯車とかゴーグルとか、そういうものがファッションになっている感じ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, so like, old machines, but make it cool? Like a retro-futuristic thing?",
+      "ja": "ああ、じゃあ、古い機械を、でも格好良くする感じ？レトロフューチャーみたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It's a unique aesthetic. Japan puts its own spin on it, too.",
+      "ja": "ええ、まさに。独特の美学ですね。日本はそれに独自のひねりを加えていますし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And good news for tourists, they're saying 'Roppongi Kabuki Part II Zatoichi' is the most accessible Kabuki ever. You don't have to sit for four hours without knowing what's going on.",
+      "ja": "それから、観光客には良いニュースです。『六本木歌舞伎II 羅生門』が史上最も分かりやすい歌舞伎だと言われています。4時間も何が起こっているか分からないまま座っている必要はない、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good idea. Kabuki can be tough for newcomers. My daughter tried to go once. She lasted about an hour.",
+      "ja": "それは良い考えですね。歌舞伎は初めての人には難しいかもしれません。うちの娘も一度行ってみたんですが、1時間くらいでギブアップしてましたね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Only an hour? My kid probably wouldn't last five minutes. His sleep schedule is so... it's really all over the place. What's the word for that again? When something is totally random?",
+      "ja": "たった1時間ですか？うちの子なんて多分5分ももたないですよ。彼の睡眠スケジュールが本当に…めちゃくちゃなんですよ。あの言葉、何でしたっけ？完全にランダムな状態の時に使う言葉。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Erratic? That means not regular or predictable.",
+      "ja": "『エラティック』？不規則で予測できない、という意味ですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Erratic! Yes, that's it. His sleep is definitely erratic. Wakes up at 3 AM for no reason sometimes.",
+      "ja": "エラティック！そう、それです。息子の睡眠は間違いなくエラティックですね。時々、理由もなく午前3時に起きたりします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that. My son was the same. It gets better, eventually.",
+      "ja": "そうなるものですよ。うちの息子もそうでした。そのうち良くなりますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of travel, did you know today is 'Overseas Travel Day'?",
+      "ja": "旅行といえば、今日は『海外旅行の日』って知ってました？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? Is that like a marketing thing for travel agencies?",
+      "ja": "ああ、そうなんですか？それって、旅行会社のマーケティング的なものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not exactly. It's a day to think about enjoying overseas travel. The date, October 19th, sounds like 'going far away' in Japanese. So today, the 18th, is a good time to start thinking about it.",
+      "ja": "正確には違います。海外旅行の楽しみ方について考える日ですね。日付の10月19日は、日本語で『遠くへ行く』と語呂合わせになっています。だから今日、18日は、それについて考え始めるのに良い日なんです。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. I haven't been anywhere abroad since before the baby. I used to love collecting points for flights. Trying to, you know, get a huge pile of them. What's the word for getting a big collection of something?",
+      "ja": "ああ、なるほど。子供が生まれてから海外にはどこにも行ってないですね。昔はフライトのポイントを貯めるのが大好きで。あの、たくさんのポイントを山のように集める、なんて言うんでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Amass? Like accumulating a large quantity of something.",
+      "ja": "『アマス』？大量のものを蓄積する、といった意味ですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Amass. Yeah, that's what I did. I need to start doing that again. Maybe I'll go somewhere warm next year. Maybe Okinawa.",
+      "ja": "アマス。ええ、まさにそれです。また始めないと。来年はどこか暖かいところに行きたいですね。沖縄とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Okinawa is lovely. I went to Kyushu last spring, to Beppu for the onsen. It was wonderful. The local food there is really good, too.",
+      "ja": "沖縄は素敵ですね。私は去年の春に九州へ行きましたよ、別府の温泉に。素晴らしかったです。地元の食べ物も本当に美味しいんですよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Beppu, huh? I haven't been there in ages. That sounds nice. Just me and my little one, maybe. Get away from the city.",
+      "ja": "別府、ですか？随分行ってないですね。いいなあ。僕と、もしかしたら僕の小さい子と、二人で。都会を離れて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That could be fun. Or maybe just you.",
+      "ja": "それは楽しいでしょうね。それか、あなた一人で、とか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Or just me. Good point. Well, that's our look at the news and what's happening. Thanks for joining us today.",
+      "ja": "ええ。僕一人で。確かに。さて、今日のニュースと出来事をお伝えしました。本日もご参加いただきありがとうございます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks, everyone. Have a good day.",
+      "ja": "皆さん、ありがとうございました。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, you too. Don't forget your umbrella.",
+      "ja": "ええ、あなたも。傘、忘れないでね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 25.3,
+      "temp_min": 16.3,
+      "rain_probability": 10
+    },
+    "news": [
+      {
+        "title": "U.S. aircraft carrier arrives in Japan ahead of joint exercise",
+        "summary": "The U.S. nuclear-powered aircraft carrier Theodore Roosevelt arrived in Yokosuka, near Tokyo, on Friday for routine maintenance and resupply ahead of a major joint drill with Japan, according…",
+        "link": "https://japantoday.com/category/national/u.s.-aircraft-carrier-arrives-in-japan-ahead-of-joint-exercise"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      },
+      {
+        "title": "‘Roppongi Kabuki Part II Zatoichi’ – the most accessible Kabuki ever",
+        "summary": "Great news! You don't have to sit down for four hours without having a clue as to what is going on watching Kabuki, one of Japan’s must-see traditional…",
+        "link": "https://japantoday.com/category/features/roppongi-kabuki-part-ii-zatoichi-the-most-accessible-kabuki-ever"
+      }
+    ],
+    "wikipedia": {
+      "title": "海外旅行の日",
+      "description": "「遠（10）くへ行く（19）」の語呂合わせから、海外旅行の楽しみ方などについて考える日。"
+    }
+  }
+}
