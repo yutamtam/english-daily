@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-19T22:48:15.241650+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 19th already. Feels like time is just flying by.",
+      "ja": "おはようございます、サラさん。もう10月19日ですね。時間が飛ぶように過ぎていきます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It does. And it's a bit dreary out there today, isn't it?",
+      "ja": "おはよう、アレックス。本当に。今日は外が少し憂鬱な天気ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, moderate drizzle. And twenty-five degrees, somehow. Still feels warm, even with the rain.",
+      "ja": "ええ、小雨が降っています。そしてなぜか25度。雨でもまだ暖かく感じます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. I've got my tea ready. Perfect for this kind of weather.",
+      "ja": "そうね。私はお茶を用意したわ。こういう天気にはぴったり。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, coffee for me. Essential. Can't start The Daily Tanu-chan Show without it.",
+      "ja": "ああ、僕はコーヒーです。必需品ですね。『ザ・デイリーたぬちゃんショー』はこれなしでは始められません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw some news about Fukushima. Rebuilding with fish, tomatoes, and even hula dancing girls. Sounds quite a mix.",
+      "ja": "福島に関するニュースを見たわ。魚やトマト、それにフラダンスの少女たちで再建しているって。ずいぶん色々なことをしているのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I saw that too. Good to see them focusing on new attractions. It's been a long time since 2011, but the memory is still... pretty strong for many people. It's a really, uh, *hefty* task, I guess.",
+      "ja": "僕もそれを見ました。新しいアトラクションに力を入れているのはいいですね。2011年からずいぶん経ちましたけど、多くの人にとって記憶はまだ鮮明で…、本当に、うーん、『大変な』仕事ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it is. 'Hefty' means very big or difficult, usually. Like a heavy weight, or a big problem. A hefty challenge.",
+      "ja": "そうね。『Hefty』は通常、とても大きいとか難しいという意味よ。重いものや大きな問題のようにね。大変な挑戦、ということ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So a 'hefty' workload, or a 'hefty' bill. Makes sense. I didn't know that.",
+      "ja": "ああ、なるほど。じゃあ『hefty』な仕事量とか、『hefty』な請求書。理解できました。知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the article about Japanese college students comparing anime high school to real high school?",
+      "ja": "日本の大学生がアニメの高校と現実の高校を比較している記事、見たかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that one. I scrolled past it. My little one isn't quite ready for high school anime yet, I think.",
+      "ja": "ああ、それですね。スクロールして飛ばしちゃいました。うちの子はまだ高校生のアニメを見る時期じゃないかな、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine are. My daughter says anime is mostly about the club activities. Real life has a lot more homework.",
+      "ja": "うちの子たちは見るわ。娘はアニメはほとんど部活動のことだって言ってる。現実のほうが宿題がずっと多いって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Makes sense. I guess real life is always less dramatic. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "確かにそうですね。現実はずっとドラマがないというか。最近は全てにびっくりします。多分赤ちゃんのせいだと思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It happens.",
+      "ja": "よくあることよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, the remote robotic surgery news. That's kind of amazing, actually. Using it for bowel cancer.",
+      "ja": "ところで、遠隔ロボット手術のニュース。あれはちょっとすごいですよね。大腸がんの治療に使われているなんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's good to see medical technology advancing so much.",
+      "ja": "そうね。医療技術がこんなに進歩しているのを見るのは良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It's like something from a sci-fi movie, but it's happening now. Pretty wild. Oh, speaking of news, did you know it's 'Newspaper Ad Day' today?",
+      "ja": "ええ。SF映画に出てきそうな話ですけど、もう現実になっているんですよね。すごいことです。あっ、ニュースといえば、今日は『新聞広告の日』だって知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. October 19th. It's to highlight the role of newspaper ads as a source of information. It falls within 'Newspaper Week' in Japan.",
+      "ja": "知っていたわ。10月19日ね。新聞広告が情報源として果たす役割をアピールするためなのよ。日本の『新聞週間』の中にある日なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. It feels like we see fewer newspaper ads these days, though. Everything's online, isn't it? But you know, all this talk about information and reading... I'm just thinking about ramen.",
+      "ja": "なるほど。でも最近は新聞広告ってあまり見ない気がしますよね。何でもオンラインになって。でも、こうやって情報とか読書の話をしていると…ラーメンのことばかり考えてしまいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're hungry.",
+      "ja": "お腹が空いたのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Always. There's this one place near my office, rich tonkotsu broth... I've been really wanting a bowl all week. My wife says I'm always thinking about food. The baby sometimes just *thrashes* around in the morning, making noises, and I'm already dreaming of ramen.",
+      "ja": "いつもです。会社の近くに、濃厚な豚骨スープの店があって…もう一週間ずっと食べたいと思ってるんです。妻にはいつも食べ物のことばかり考えてるって言われます。赤ちゃんが朝、音を立てて『暴れ回って』いる時でも、僕はもうラーメンを夢見てます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Thrash' means to move around violently or wildly. Yes, babies do that. Like a fish out of water, or someone having a bad dream. It's usually a strong, uncontrolled movement.",
+      "ja": "『Thrash』は激しく、または乱暴に動き回るという意味よ。ええ、赤ちゃんはそうするわ。水から上がった魚とか、悪い夢を見ている人のようにね。通常は強くて制御できない動きのこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Uncontrolled. That's him. He's a little, uh, thrasher.",
+      "ja": "なるほど。制御できない。まさに彼です。彼はちょっとした、うーん、暴れん坊ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm-hmm.",
+      "ja": "うん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's it for us this morning. Thanks for chatting, Sarah.",
+      "ja": "さて、今朝はここまでです。サラさん、お話ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate drizzle",
+      "temp_max": 25.6,
+      "temp_min": 16.7,
+      "rain_probability": 53
+    },
+    "news": [
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      },
+      {
+        "title": "Japanese university, surgeons' society perform remote robotic surgery",
+        "summary": "A Japanese university and the Japan Surgical Society said Wednesday that they have performed surgeries on five patients with bowel cancer using remote-controlled robots since August, aiming to…",
+        "link": "https://japantoday.com/category/national/japanese-university-surgeons%27-society-perform-remote-robotic-surgery"
+      }
+    ],
+    "wikipedia": {
+      "title": "新聞広告の日",
+      "description": "1958（昭和33）年、日本新聞協会が制定。新聞広告の生活情報源としての役割の大きさをアピールすることを目的にしている。10月15日からの新聞週間の中の区切りのよい日としてこの日になった。"
+    }
+  }
+}
