@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-20T22:04:05.527843+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 20th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう10月20日ですね。信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time moves quickly, doesn't it? Another Tuesday.",
+      "ja": "おはよう、アレックス。時間は早く過ぎるものよ。また火曜日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it really does. And it's still so warm. Overcast, but like 28 degrees today. What is this?",
+      "ja": "ええ、本当に。それにまだこんなに暖かいし。曇りだけど、今日は28度とか。これ何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It’s a bit unusual for late October. But no rain, that's good.",
+      "ja": "10月下旬にしては少し珍しいわね。でも雨じゃないのは良いことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "No rain is a win, definitely. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "雨じゃないのは勝利ですね、間違いなく。最近は何にでも飛び上がっちゃうんです。きっと赤ちゃんの影響ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. The news this morning was interesting. Did you see the driver's license story?",
+      "ja": "ふーん。今朝のニュースは面白かったわね。運転免許の話、見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, about the Vietnamese-language tests being suspended because of cheating? Yeah. That's not going to change at my office, though. People will always find a way.",
+      "ja": "ああ、ベトナム語の試験が不正行為で一時停止されたやつですか？ ええ。でもあれ、うちの会社では変わらないでしょうね。人は常に抜け道を見つけますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe. It's frustrating when people try to shortcut the rules. What's the point of testing then?",
+      "ja": "そうね。人々がルールをショートカットしようとするのは困るわ。それじゃ試験の意味がないでしょう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. Like, you can't just deflect responsibility once you're on the road. You need to know the actual rules. What does 'deflect' mean, actually?",
+      "ja": "そうなんですよ。例えば、道路に出たら責任を『そらす』ことはできないですよね。実際のルールを知らないと。ところで、『deflect』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to turn something aside, like an attack or criticism. Or in this case, responsibility. To avoid it.",
+      "ja": "それは、攻撃や批判、あるいはこの場合は責任のようなものを『そらす』ことよ。避けるってことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So you can't deflect responsibility. Got it. Thanks.",
+      "ja": "なるほど、分かります。責任を『そらす』ことはできない、と。分かりました。ありがとうございます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was also a story about the number of foreign residents in Japan hitting a new high.",
+      "ja": "それから、日本の外国人居住者の数が過去最高を記録したという話もあったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good, right? More diversity. I feel like I read this every year, though.",
+      "ja": "それは良いことですよね？多様性が増える。でもこれ、毎年読んでる気がしますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is good. It shows Japan is becoming more open. Though sometimes it feels like the infrastructure doesn't quite keep up with the changes.",
+      "ja": "良いことよ。日本がもっと開かれていることを示しているわ。ただ、インフラが変化に追いついていないと感じることもあるけれどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a fair point. We're listening to The Daily Tanu-chan Show this morning, by the way.",
+      "ja": "それはもっともな点ですね。ちなみに、今朝も『The Daily Tanu-chan Show』を聴いていますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, we are. Speaking of changes, I also saw that today is Kokusai Hansen Day, or International Anti-War Day.",
+      "ja": "ええ、そうね。変化と言えば、今日は『国際反戦デー』だと見たわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. What's the history there?",
+      "ja": "ああ、知りませんでした。その歴史ってどんなものなんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It started in 1966. The Japan General Council of Trade Unions, Sohyo, called for a strike against the U.S. involvement in the Vietnam War.",
+      "ja": "1966年に始まったの。日本の労働組合の総評が、アメリカのベトナム戦争介入に反対するストライキを呼びかけたのがきっかけよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1966. That's a long time ago. My dad was just a kid then. It’s hard to imagine that kind of movement happening now.",
+      "ja": "わあ、1966年ですか。ずいぶん昔ですね。うちの父はまだ子供だった頃だ。今、ああいう運動が起こるって想像しにくいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Times have changed. People express things differently now. My kids are more focused on what's happening on their phones.",
+      "ja": "時代は変わったものよ。人々は今、違う方法で物事を表現するから。うちの子たちは、スマホで何が起こっているかにもっと集中しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can relate. My little one just started pulling himself up on furniture. It's like a whole new level of keeping an eye on things.",
+      "ja": "分かります。うちのちっちゃい子も、家具につかまって立ち上がるようになったばかりなんです。もう、物事に気を配るレベルが全然違うんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's exciting. And a lot of work. You'll need extra coffee.",
+      "ja": "ああ、それはワクワクするわね。そして大変。コーヒーがもっと必要になるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I've already had two cups. And it's not even 7:30. But it's good, he's growing up so fast.",
+      "ja": "間違いなく。もう2杯飲んじゃいました。まだ7時半にもなってないのに。でもいいんです、あっという間に大きくなるから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. My son keeps growing out of his shoes every few months. I can't keep up.",
+      "ja": "そうよ。うちの息子も数ヶ月ごとに靴がサイズアウトするの。追いつけないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "At least you don't have to worry about tiny socks disappearing into the laundry machine.",
+      "ja": "少なくとも、洗濯機の中に小さな靴下が消えていく心配はしなくていいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, just the odd single sock from a pair. It's a mystery. Anyway, the garden is doing well with this warmth. My basil is still thriving.",
+      "ja": "ええ、片方だけになった靴下が行方不明になるくらいかしら。謎よね。まあ、庭はこの暖かさで元気よ。バジルがまだよく育っているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's nice. I wish I had a garden. All my plants inside usually just... give up on me.",
+      "ja": "ああ、それはいいですね。僕も庭があったらな。うちの観葉植物はたいてい、僕に見切りをつけてしまうんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe you just need the right plant. Something that doesn't need constant attention. Like a cactus. Or a very good snooze.",
+      "ja": "たぶん、あなたに合う植物が必要なのよ。常に世話が必要ないもの。サボテンとか。それか、すごく良い昼寝ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A snooze? What's that? Is it a kind of plant?",
+      "ja": "スヌーズ？何ですかそれ？植物の一種ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, a snooze is a short sleep. A nap.",
+      "ja": "違うわ、スヌーズは短い睡眠のことよ。昼寝のこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, a nap! Right. I could definitely use one of those. Or five.",
+      "ja": "ああ、昼寝！なるほど。それは間違いなく欲しいですね。いや、5回くらいかな。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 28.4,
+      "temp_min": 17.9,
+      "rain_probability": 2
+    },
+    "news": [
+      {
+        "title": "Vietnamese-language driver’s license tests suspended in Japan following alleged cheating",
+        "summary": "Driver’s license testing centers are pretty touchy about people taking photographs inside of them. Honestly, that seems like it should be common sense, but since common sense isn’t…",
+        "link": "https://japantoday.com/category/national/vietnamese-language-driver%E2%80%99s-license-tests-suspended-in-japan-following-alleged-cheating"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "Number of foreign residents in Japan hits new high at 3.4% of population",
+        "summary": "The number of foreign residents in Japan hit a record 4.28 million at the end of June, accounting for 3.4 percent of the total population, government data showed…",
+        "link": "https://japantoday.com/category/national/urgent-foreign-residents-of-japan-hit-record-high-4.28-million-as-of-june-gov%27t"
+      }
+    ],
+    "wikipedia": {
+      "title": "国際反戦デー",
+      "description": "1966（昭和41）年、日本労働組合総評議会（総評）がアメリカ軍のベトナム戦争介入反対のストライキを行い、全世界の労働団体・反戦団体に呼びかけ、この日が反戦の日になった。"
+    }
+  }
+}
