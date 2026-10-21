@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-21T22:05:54.259175+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Good to see you.",
+      "ja": "おはようございます、サラさん。お会いできて嬉しいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. You're looking a bit... sleepy.",
+      "ja": "おはよう、アレックス。ちょっと…眠そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, well, welcome to The Daily Tanu-chan Show! It is October 21st, 2026. And I'm running on fumes.",
+      "ja": "ええ、まあ、ザ・デイリー・タヌちゃんショーへようこそ！2026年10月21日です。僕はもう限界です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like it. I've got my tea ready.",
+      "ja": "そうみたいだね。私は紅茶を用意したよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Lucky you. My coffee is non-negotiable right now. I just need it to activate my brain.",
+      "ja": "羨ましいです。僕のコーヒーは今、交渉の余地なしです。脳を起動させるためにどうしても必要なんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. Did you manage to check the weather?",
+      "ja": "わかるよ。天気はチェックできた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I did. It's partly cloudy today in Tokyo. The high is around 21.7 degrees Celsius, and the low is 14.5. Only a 4% chance of rain.",
+      "ja": "しました。東京は今日、一部曇りです。最高気温は21.7度くらい、最低は14.5度。雨の確率はわずか4%です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a pretty standard autumn day, then. Good for getting laundry done.",
+      "ja": "じゃあ、かなり標準的な秋の日だね。洗濯日和だ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good for laundry... I wish. These days, I just do a load whenever I can, regardless of the weather. The baby is a master of creating dirty clothes.",
+      "ja": "洗濯日和…だといいんですけど。最近は、天気関係なくできる時に洗濯を回してます。うちの子は汚い服を作る天才なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are.",
+      "ja": "そうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "He was a bit `erratic` last night, actually. Woke up three times, just crying, then quiet, then crying again. What does 'erratic' mean, exactly?",
+      "ja": "昨夜、うちの子はちょっと『erratic』だったんです。3回起きて、泣いて、静かになって、また泣いて。この『erratic』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means unpredictable, or not following a regular pattern. Suddenly changing.",
+      "ja": "予測できない、とか、規則的なパターンに従わない、という意味よ。突然変わったりするのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, totally erratic. I was worried he wasn't feeling well, but he seems fine now. Just... energetic. It makes it really hard to focus on anything the next day, though.",
+      "ja": "なるほど。ええ、まさに予測不能でした。体調が悪いのかなと心配したんですが、今は元気そうです。ただ…エネルギッシュで。次の日は何にも集中できないんですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days.",
+      "ja": "そういう時期もあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, did you see the news about the weather yesterday? I mean, 30 degrees Celsius in central Tokyo?",
+      "ja": "ところで、昨日の天気に関するニュース見ましたか？東京の中心部で30度ですよ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, they classified it as a 'midsummer day.' The report said it was the latest midsummer day on record since 1875.",
+      "ja": "ええ、「真夏日」と分類されていたわね。報道によると、1875年以来最も遅い真夏日だったそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of wild. It's almost Halloween, but it felt like August. I feel like I read this same headline every year now, though. Global warming, I guess?",
+      "ja": "なんかすごいですね。もうすぐハロウィンなのに、8月みたいでした。でも、もう毎年この見出しを読んでいる気がします。地球温暖化なんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's definitely noticeable. My kids were complaining about it being too hot on the train going to school.",
+      "ja": "確かにそうね。うちの子たちは学校に行く電車の中で、暑すぎると文句を言っていたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. And the nuclear plant news... Onagawa, right? A small water leak, so they're halting the reactor.",
+      "ja": "想像できます。それから、原発のニュース…女川でしたっけ？小さな水漏れで、原子炉を停止するとのこと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The No. 2 reactor at the Onagawa plant. They said it was a small amount of water leaking from a valve, and it's scheduled to halt around Saturday.",
+      "ja": "そうよ。女川原発の2号機。バルブから少量の水が漏れたそうで、土曜日頃に停止する予定だと言っていたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A small amount, but still. You never want to hear 'nuclear reactor' and 'water leak' in the same sentence. It creates a sense of... I don't know, a `moratorium`? No, that's not quite right.",
+      "ja": "少量とはいえ、やはり気になりますね。「原子炉」と「水漏れ」が同じ文にあると、何というか…『moratorium』って感じ？いや、ちょっと違うな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A moratorium is a temporary stop, like a delay. Usually for an official reason. Like, a government might put a moratorium on fishing certain kinds of fish for a while.",
+      "ja": "モラトリアムというのは、一時的な停止、猶予のことね。たいていは公的な理由で。例えば、政府が特定の魚の漁獲を一時的に禁止するとか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. So it's not like that. More like a temporary shutdown for repair, then. That makes sense. It's good they found it quickly, I suppose.",
+      "ja": "ああ、なるほど。じゃあそれとは違いますね。修理のための、一時的な停止ということか。納得しました。早く見つかって良かったんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, that's the hope.",
+      "ja": "ええ、そう願いたいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And speaking of things you don't want to hear about, the data breaches. Police forces, too?",
+      "ja": "そして、聞きたくない話といえば、情報漏洩ですね。警察までですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, more data breaches reported by prefectural police forces. The personal information of officers and other employees at 22 prefectural police forces may have leaked following a recent data breach at a disaster information services firm.",
+      "ja": "ええ、都道府県警察によるさらなる情報漏洩が報告されたわ。災害情報サービス企業での最近の情報漏洩によって、22の都道府県警察の職員らの個人情報が漏洩した可能性があるそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Twenty-two prefectures? That's a huge `detriment`, isn't it? For security. What does 'detriment' mean, exactly?",
+      "ja": "22都道府県ですか？それはセキュリティにとって大きな『detriment』ですよね？『detriment』ってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means harm or damage. Something that causes loss or injury. So, a big detriment to their security means it caused a lot of damage or loss to their security.",
+      "ja": "害、または損害という意味よ。損失や被害を引き起こすもの。だから、セキュリティにとって大きなデトリメントというのは、セキュリティに多大な損害や損失を与えたということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. That's a serious problem then. You'd think police data would be super secure. Makes you wonder about your own information, too, with all the online services we use.",
+      "ja": "なるほど。それは深刻な問題ですね。警察のデータはすごく安全だとばかり思っていました。僕たちが使うオンラインサービスとか、自分の情報もどうなってるんだろうって心配になります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a constant concern.",
+      "ja": "常に懸念されることね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, switching gears for a moment. Hey, do you know what today is, October 21st?",
+      "ja": "ところで、ちょっと話題を変えて。ねえ、今日10月21日が何の日か知ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hm. I think I know what you're getting at.",
+      "ja": "ふむ。あなたが何を言いたいのか、わかる気がするわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's Heian Sento no Hi, 'The Day of the Relocation to Heian-kyo!' Emperor Kanmu moved the capital from Nagaoka-kyo to Heian-kyo in 794.",
+      "ja": "平安遷都の日ですよ！桓武天皇が794年に長岡京から平安京に都を移した日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You got it. And because of that, Heian Jingu Shrine holds its Jidai Matsuri every year today. It's quite a spectacle.",
+      "ja": "その通りよ。そしてそのおかげで、平安神宮では毎年今日、時代祭が開催されるの。見応えがあるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I knew it was around this time. I've always wanted to go. All the historical costumes, it must be amazing to see everyone in procession.",
+      "ja": "この時期なのは知ってました。ずっと行ってみたかったんです。あの歴史的な衣装で、みんなが練り歩くのを見るのは素晴らしいでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Very impressive. I was actually just thinking about it because I was checking on my garden this morning. My tomatoes are usually long gone by now, but with this warmer weather, I still have a few small ones trying to ripen.",
+      "ja": "そうよ。とても印象的。今朝庭の様子を見ていて、ちょうどそのことを考えていたの。うちのトマトは普通ならもうとっくに終わっているんだけど、この暖かい天気で、まだ小さいのがいくつか熟そうとしているのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh really? That's nice. Free tomatoes. Do you grow a lot of things?",
+      "ja": "へえ、そうなんですか？いいですね。無料のトマト。色々育ててるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just small things. Herbs, a few vegetables. But these late tomatoes are a bit `elusive`. You have to really search for them among the leaves.",
+      "ja": "少しだけよ。ハーブとか、野菜をいくつか。でも、この遅咲きのトマトはちょっと『elusive』なの。葉っぱの中に隠れていて、本当に探さないと見つからないのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Elusive? Like, hard to find?",
+      "ja": "『Elusive』？見つけにくい、ってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Hard to catch, or difficult to find. Like a shy animal.",
+      "ja": "その通り。捕まえにくい、あるいは見つけにくい、ということ。シャイな動物みたいなものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I get it. So you're like a tomato hunter. That's actually pretty cool. My neighbor tries to grow cucumbers, but they never really work out. I barely keep my houseplants alive, honestly.",
+      "ja": "ああ、わかりました。じゃあ、トマトハンターですね。それは結構面白いな。うちの隣の人はキュウリを育てようとしてるんですけど、なかなかうまくいかないみたいで。正直、僕は観葉植物を生かしておくのもやっとです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes patience.",
+      "ja": "忍耐が必要よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I bet. Well, that's a lot to think about this morning. Thanks for explaining all those words, Sarah. It really helps.",
+      "ja": "ええ、そうでしょうね。さて、今朝も色々と考えることがありました。サラさん、色々な単語を説明してくれてありがとうございます。本当に助かります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome.",
+      "ja": "どういたしまして。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And thanks for joining us on The Daily Tanu-chan Show. We'll be back tomorrow with more. Have a great day, everyone!",
+      "ja": "ザ・デイリー・タヌちゃんショーにお付き合いいただきありがとうございます。明日もまたお会いしましょう。皆さん、良い一日を！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good day.",
+      "ja": "良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really need another coffee.",
+      "ja": "もう一杯コーヒーが必要だ…"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 21.7,
+      "temp_min": 14.5,
+      "rain_probability": 4
+    },
+    "news": [
+      {
+        "title": "Nuclear reactor in northeastern Japan to halt over water leak",
+        "summary": "The No. 2 reactor at the Onagawa nuclear plant in northeastern Japan will be halted around Saturday due to a small amount of water leaking from a valve,…",
+        "link": "https://japantoday.com/category/national/urgent-nuclear-reactor-in-northeastern-japan-to-halt-over-water-leak"
+      },
+      {
+        "title": "Temperature reaches 30°C in central Tokyo – latest ‘midsummer day’ on record since 1875",
+        "summary": "Parts of the Japanese archipelago experienced an unseasonably hot day on Wednesday — technically classified as a &quot;midsummer day&quot; (where temperatures reach 30°C or higher). \nIn central Tokyo,…",
+        "link": "https://japantoday.com/category/national/temperature-reaches-30%C2%B0c-in-central-tokyo-%E2%80%93-latest-%E2%80%98midsummer-day%E2%80%99-on-record-since-1875"
+      },
+      {
+        "title": "More data breaches reported by prefectural police forces, companies",
+        "summary": "The personal information of officers and other employees at 22 prefectural police forces in Japan may have leaked following a recent data breach at disaster information services firm…",
+        "link": "https://japantoday.com/category/national/update2-more-data-breaches-reported-by-japan-prefectural-police-forces-companies"
+      }
+    ],
+    "wikipedia": {
+      "title": "平安遷都の日",
+      "description": "794年のこの日、桓武天皇が長岡京から山背国の葛野に平安京を遷都。桓武天皇を祀る平安神宮では毎年、この日に「時代祭」が行われている。"
+    }
+  }
+}
