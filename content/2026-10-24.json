@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-23T21:50:42.778096+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 23rd, 2026. Another Friday, huh?",
+      "ja": "おはようございます、サラさん。2026年10月23日。また金曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It is. You look like you're already on your second coffee.",
+      "ja": "おはよう、アレックス。そうね。もう2杯目のコーヒーって顔してる。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Third, maybe. I just needed to survive the morning commute. Plus, the baby was up early again. What a night.",
+      "ja": "3杯目かも。朝の通勤を乗り切るのに必要で。それに、また赤ちゃんが早く起きちゃって。大変な夜でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds rough. My tea is enough for me.",
+      "ja": "それは大変ね。私はお茶で十分だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Tea... yeah, maybe I'll get there someday. Did you see the weather forecast? Looks like slight rain all day.",
+      "ja": "お茶…ええ、いつか僕もそうなるのかな。天気予報見ました？一日中、小雨みたいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. About 16 degrees high, 14 low. Not too bad, but I'll definitely need my umbrella. Eighty percent chance of rain.",
+      "ja": "見たわ。最高気温は16度、最低14度ね。悪くないけど、傘は絶対必要だわ。降水確率80%だもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Eighty percent! That's almost a guarantee. My cycling plans are probably off for the weekend. I hate riding in the rain.",
+      "ja": "80%！それはほぼ確実ですね。週末のサイクリング計画はたぶん中止だ。雨の中を走るのは嫌いです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, you can always find something else to do indoors.",
+      "ja": "まあ、屋内でできる他のことを見つけることもできるでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. Anyway, let's get started with The Daily Tanu-chan Show. Some interesting news this morning from NHK World.",
+      "ja": "そうですね。とにかく、「ザ・デイリー・たぬちゃんショー」を始めましょうか。今朝はNHKワールドから面白いニュースがいくつかあります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh?",
+      "ja": "あら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "First, about kanji. Apparently, there's a simple kanji character that has five different pronunciations in one short Japanese sentence.",
+      "ja": "まず、漢字についてです。どうやら、簡単な漢字一文字が、短い日本語の文の中で5つの異なる発音を持つことがあるらしいんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds about right. Japanese is complex, even for us.",
+      "ja": "それはありそうだわね。日本語は私たちにとっても複雑よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I feel like I'm still learning new readings every week. My boss at work always corrects me.",
+      "ja": "でしょ？毎週新しい読み方を学んでる気がします。職場の部長がいつも僕を訂正してくるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a lifelong journey.",
+      "ja": "一生涯の旅よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. Next up, a giant dinosaur footprint fossil was found in Fukushima. One of Japan's largest, they say.",
+      "ja": "ええ、そうですね。次に、福島で巨大な恐竜の足跡の化石が見つかったそうです。日本最大級だとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's quite a discovery. I wonder if my son would be interested. He's really into ancient history right now.",
+      "ja": "それはすごい発見ね。うちの息子が興味持つかしら。彼は今、古代史にすごくハマってるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's cool. My little one just likes to bang pots and pans together. Maybe someday he'll get into dinosaurs.",
+      "ja": "へえ、それはいいですね。うちの子はまだ鍋とかフライパンを叩き合わせるのが好きです。いつか恐竜に興味を持つかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Give him time. The world will open up to him.",
+      "ja": "時間を与えてあげて。世界は彼に開かれるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Last news item: a Japanese master craftsman built a stunning tiny house on wheels. It's on YouTube.",
+      "ja": "そうだといいな。最後のニュースですが、日本の熟練の職人さんが、驚くほど美しい移動式の小さな家を建てたそうです。YouTubeに載ってるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I've seen those. They're very practical, aren't they?",
+      "ja": "ああ、それ見たことあるわ。とても実用的よね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, practical and so... `sedate`. You know, like, calm and peaceful. I could live in something like that, I think.",
+      "ja": "ええ、実用的で、それにとても…`sedate`。なんていうか、穏やかで平和な感じ。僕もあんな家に住めるんじゃないかなって思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sedate means quiet and calm. Often used for someone who is unusually calm, or a place that is very tranquil. Or even when you give someone medicine to make them calm.",
+      "ja": "`Sedate`は静かで穏やか、という意味よ。普通以上に落ち着いている人や、とても静かな場所に使われることが多いわね。あとは、誰かを落ち着かせる薬をあげる時にも使うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, tranquil. That's a good word for it. Imagine waking up in a different place every morning. So peaceful. No crying baby. Just nature.",
+      "ja": "ああ、トランキル。それがぴったりの言葉ですね。毎朝違う場所で目覚めるのを想像してみてください。すごく平和。泣いている赤ちゃんもいない。ただ自然だけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My daughter would never go for that. She needs her Wi-Fi and her friends.",
+      "ja": "うちの娘は絶対嫌がるわね。彼女にはWi-Fiと友達が必要だから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, maybe not forever. But I've been looking at some camping gear online. Just daydreaming. It's a bit of a `boyish` dream, I guess, to just pack up and go.",
+      "ja": "まあ、ずっとじゃなくても。でも最近、キャンプ用品をオンラインで見てるんです。ただ夢見てるだけですけど。荷物をまとめて出発するって、ちょっと`boyish`な夢なのかな、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Boyish means like a boy. So, things that boys or young men usually like, or behavior that's a bit childish for an adult. Like a young boy's dream.",
+      "ja": "Boyishは男の子っぽい、という意味ね。だから、男の子や若い男性が好むようなものとか、大人としては少し子供っぽい行動のことよ。若い男の子の夢、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. I want one of those super compact camping stoves. Or maybe a portable projector for outdoor movies. For the baby, of course.",
+      "ja": "ええ、まさにそれです。すごくコンパクトなキャンプストーブが欲しいんですよ。あるいは、屋外で映画を見るためのポータブルプロジェクターとか。もちろん、赤ちゃんのためにですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Of course. Your baby, who is just over a year old, will appreciate the movie projector.",
+      "ja": "もちろんね。生後1年ちょっとの赤ちゃんが、映画プロジェクターを喜ぶでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, he'll grow into it! Eventually. My wife would probably just laugh at me anyway. She's not a big camper.",
+      "ja": "まあ、そのうち大きくなりますから！いずれはね。妻はたぶん僕のこと笑うだけでしょうけど。彼女はあまりキャンプ好きじゃないんで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine either. They prefer hotels. Oh, speaking of today, it's United Nations Day.",
+      "ja": "うちもそうよ。ホテルの方が好きみたい。あ、今日といえば、国連デーね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. What is that, exactly?",
+      "ja": "あ、知りませんでした。それって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's the day the United Nations officially started in 1945, after World War II. Fifty-one countries joined to promote peace and friendship.",
+      "ja": "第二次世界大戦後の1945年に、国際連合が正式に発足した日よ。51カ国が平和と友好関係の促進のために参加したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a lot of countries working together. Japan joined in 1956, right?",
+      "ja": "たくさんの国が協力したんですね。日本は1956年に加盟したんでしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. Eleven years later.",
+      "ja": "その通りよ。11年後ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess things were complicated back then. Still are, in some ways. I feel like I read about international tensions every year.",
+      "ja": "当時は色々と複雑だったんでしょうね。今でも、ある意味ではそうですが。毎年、国際的な緊張について読んでいる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed. But it's good to remember the goals.",
+      "ja": "そうね。でも、目標を思い出すのは良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Well, it's almost time to wrap up. We should probably get ready for the actual workday.",
+      "ja": "ええ。さて、そろそろ終わりにしましょうか。そろそろ実際の仕事の準備をしないとですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Have a good one, Alex.",
+      "ja": "そうね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And try not to let the rain get you down.",
+      "ja": "サラさんもね。そして、雨で気分が沈まないようにしてくださいね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 16.3,
+      "temp_min": 14.2,
+      "rain_probability": 80
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Dinosaur footprint fossil found in Fukushima among Japan's largest",
+        "summary": "A Japanese research team said Thursday it has excavated one of the country's largest fossilized dinosaur footprints from a geological layer in northeastern Japan dating back to the…",
+        "link": "https://japantoday.com/category/national/dinosaur-footprint-fossil-found-in-fukushima-pref.-among-japan%27s-largest"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      }
+    ],
+    "wikipedia": {
+      "title": "国連デー",
+      "description": "1945（昭和20）年のこの日、第二次大戦後の平和と安全の維持、各国間の友好関係の促進を目的とした国際協力組織、国際連合が51カ国で正式に発足。日本は1956（昭和31）年に加盟が認められた。"
+    }
+  }
+}
