@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-24T21:24:26.619566+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 24th, 2026.",
+      "ja": "おはようございます、サラさん。2026年10月24日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Looks like it's raining today, huh?",
+      "ja": "おはよう、アレックス。今日は雨みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, moderate rain. My phone says a high of 26, low of 16. And an 88% chance of rain. Still feels so warm.",
+      "ja": "ええ、中程度の雨です。スマホだと最高26度、最低16度。降水確率88%。まだすごく暖かいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I know. It felt like summer yesterday.",
+      "ja": "そうね。昨日は夏みたいだった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really did. I saw a headline actually. Central Tokyo hit 30 degrees yesterday. The latest 'midsummer day' on record since 1875.",
+      "ja": "本当にそうでした。ニュースの見出しを見たんですが、昨日の都心は30度だったそうです。1875年以来、最も遅い『真夏日』の記録なんですって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw that. It's… a bit much for late October. My son was complaining about it on the way to school.",
+      "ja": "あれね。10月下旬にしては…ちょっと暑すぎるわね。うちの息子も学校に行く途中で文句言ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I was already sweating on my walk to the station. And my coffee was getting cold too fast, somehow.",
+      "ja": "でしょ？駅まで歩くともう汗だくで。なぜかコーヒーもすぐ冷めるし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, your coffee. Of course.",
+      "ja": "ああ、あなたのコーヒーね。もちろん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Always. So, another news item. Foreign visitors' spending in Japan hit a record 7 trillion yen in the first nine months of the year.",
+      "ja": "いつもです。それで、もう一つニュースですが。日本の外国人旅行者の消費額が、今年最初の9ヶ月で過去最高の7兆円に達したそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a lot. Good for the economy, I guess.",
+      "ja": "すごい金額ね。経済には良いことなんでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, but I feel like I read this every year. It's great, but it doesn't really change anything at my office. We're still just busy.",
+      "ja": "ええ、でも毎年これ読んでる気がします。素晴らしいことだけど、僕の会社では何も変わらないんですよ。相変わらず忙しいだけです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. My neighbor works in tourism. She says it's a constant push to keep up.",
+      "ja": "ふーん。私の隣人も観光業で働いているんだけど、いつも追いつくのに必死だと言っているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Oh, you know what today is? It's World Pasta Day.",
+      "ja": "想像できます。ああ、今日何の日か知ってますか？世界パスタデーですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, is it? I didn't know that.",
+      "ja": "あら、そうなの？知らなかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's because of the World Pasta Congress in Italy back in 1995. So pasta makers promote it. I just saw it on my calendar.",
+      "ja": "ええ、1995年にイタリアで世界パスタ会議が開催されたのがきっかけだそうです。それでパスタメーカーが販促してるみたいですね。ちょうどカレンダーで見たんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's nice. My daughter loves pasta. She makes a really good carbonara sometimes.",
+      "ja": "いいわね。うちの娘はパスタが大好きよ。時々、すごく美味しいカルボナーラを作るの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, wow. I mostly just boil spaghetti. I'm not that good a cook. Even boiling water with a baby around feels like a big task. I was up late last night with my little one, he's teething I think.",
+      "ja": "おお、すごい。僕はたいていスパゲッティ茹でるだけですよ。そんなに料理上手じゃないし。赤ちゃんがいると、お湯を沸かすだけでも大仕事に感じます。昨夜も夜遅くまでうちの子と起きてて、たぶん歯が生えてるんだと思います。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Teething is tough. My kids were the same. It passes eventually.",
+      "ja": "歯が生える時期は大変よね。うちの子たちもそうだった。そのうち終わるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I know. It just feels like forever when you're in it. Do you ever make your own pasta?",
+      "ja": "ええ、わかってます。でもその最中は永遠に感じるんですよね。サラさんは自家製パスタとか作ったりしますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, I haven't. But I try to grow some herbs for it. I just harvested some basil and oregano from my garden.",
+      "ja": "いえ、しないわね。でもパスタに使うハーブは育てているわ。ちょうど庭でバジルとオレガノを収穫したところよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's cool. I don't think I could keep anything alive. I'm not exactly... `vigilant` about watering things. Is that the right word?",
+      "ja": "おお、それはすごいですね。僕は何も生かせない気がします。僕は水やりとか、あんまり…『ヴィジラント』じゃないんですよね。この言葉で合ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Vigilant`? It means very careful and watchful. Like, staying alert. So, yeah, if you're not watchful about watering, they'd probably die.",
+      "ja": "『ヴィジラント』ね？それは、とても注意深くて用心深い、という意味よ。用心深いとか、警戒している状態ね。だから、水やりに気を配らないなら、たぶん枯れちゃうでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. See? My plants would be gone in a week. My wife keeps talking about starting a little herb garden, but I just imagine a bunch of dead plants.",
+      "ja": "その通りです。ほら？僕の植物は一週間で枯れちゃいますよ。妻は小さなハーブガーデンを始めようって言ってるんですけど、僕は枯れた植物の山しか想像できないんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes a bit of effort. But it's nice to see things grow. I had a small `mishap` with my tomatoes this year, though.",
+      "ja": "少し手間はかかるわね。でも植物が育つのを見るのは楽しいものよ。今年はトマトでちょっとした『ミシャップ』があったけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A `mishap`? What happened?",
+      "ja": "『ミシャップ』？どうしたんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just a minor problem. The strong winds we had last month broke one of the main stems. Still got some, but not as many as last year.",
+      "ja": "ただのちょっとした問題よ。先月の強風で、主な茎が一本折れてしまったの。それでも多少は収穫できたけど、去年ほどではなかったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that's a shame. It's amazing you grow anything at all, really. I guess it must be really satisfying.",
+      "ja": "ああ、それは残念でしたね。本当に、何もかも育てられるのがすごいですよ。きっとすごくやりがいがあるんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Especially when you use it in your cooking.",
+      "ja": "そうね。特に自分で育てたものを料理に使うとね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should try to be more `vigilant` about our plants then. Maybe. After my coffee.",
+      "ja": "じゃあ、僕も植物にもっと『ヴィジラント』になるようにしないと。多分。コーヒー飲んでから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe start with one small pot.",
+      "ja": "まずは小さな鉢植え一つから始めてみたら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good point. Well, that's about it for The Daily Tanu-chan Show today, October 24th, 2026. Stay dry, everyone!",
+      "ja": "良い点ですね。さて、そろそろ「The Daily Tanu-chan Show」今日の放送はここまでです、2026年10月24日。皆さん、濡れないようにね！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one.",
+      "ja": "良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 26.1,
+      "temp_min": 16.0,
+      "rain_probability": 88
+    },
+    "news": [
+      {
+        "title": "Foreign visitors' spending in Japan hits record ¥7 tril in Jan-Sept",
+        "summary": "Spending by foreign visitors to Japan hit a record 7.06 trillion yen in the nine months through September, the Japan Tourism Agency said Wednesday.\nThe spending, which includes…",
+        "link": "https://japantoday.com/category/national/update1-foreign-visitors%27-spending-in-japan-hits-record-7-tril.-yen-in-jan.-sept"
+      },
+      {
+        "title": "Japan, U.S. kick off joint drills around islands as regional tensions rise",
+        "summary": "Japanese and U.S. troops on Monday kicked off one of their largest joint exercises focusing on the defense of Japan's southwestern islands and showcasing advanced weapons systems in…",
+        "link": "https://japantoday.com/category/national/japan-and-the-us-kick-off-joint-drills-around-islands-as-regional-tensions-rise"
+      },
+      {
+        "title": "Temperature reaches 30°C in central Tokyo – latest ‘midsummer day’ on record since 1875",
+        "summary": "Parts of the Japanese archipelago experienced an unseasonably hot day on Wednesday — technically classified as a &quot;midsummer day&quot; (where temperatures reach 30°C or higher). \nIn central Tokyo,…",
+        "link": "https://japantoday.com/category/national/temperature-reaches-30%C2%B0c-in-central-tokyo-%E2%80%93-latest-%E2%80%98midsummer-day%E2%80%99-on-record-since-1875"
+      }
+    ],
+    "wikipedia": {
+      "title": "世界パスタデー",
+      "description": "1995（平成7）年、イタリアで世界パスタ会議が開催されたことを記念した日。パスタメーカーなどがパスタの販売促進キャンペーンを行っている。"
+    }
+  }
+}
