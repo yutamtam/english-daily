@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-26T23:01:21.652721+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning. October 26th, 2026. Another Monday, huh?",
+      "ja": "おはようございます。2026年10月26日。また月曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, it is. Feels a bit damp already.",
+      "ja": "おはよう、アレックス。そうだね。もうちょっと湿っぽい感じ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It does. I'm still waiting for my coffee to really kick in. And speaking of mornings, welcome to The Daily Tanu-chan Show!",
+      "ja": "そうですね。まだコーヒーが全然効いてこないです。そして、朝といえば、The Daily Tanu-chan Showへようこそ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks, Alex. Yeah, the weather report said light drizzle today. About a 63% chance. High of 21, low of 15.",
+      "ja": "ありがとう、アレックス。うん、天気予報だと今日は小雨だって。降水確率63%くらい。最高気温21度、最低15度。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, drizzle. So not a big storm, at least. I can handle drizzle. Probably.",
+      "ja": "ああ、小雨か。大雨じゃないならまだマシですね。小雨なら大丈夫。多分。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I prefer tea myself, especially on damp days.",
+      "ja": "私はやっぱりお茶がいいな、特に湿っぽい日は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You always do. My little one actually slept through the night for a few hours yesterday. That was amazing.",
+      "ja": "いつもそうですよね。うちの子、昨日数時間だけど夜通し寝てくれたんですよ。感動しました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's progress.",
+      "ja": "それは進歩だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, what's happening out there in the world today? Any interesting news?",
+      "ja": "それで、今日の世の中はどうなってますか？何か面白いニュースはありますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just glancing at the NHK World headlines here. There's one about a designer, Keisuke Unosawa. Making the ordinary extraordinary.",
+      "ja": "NHKワールドのヘッドラインをざっと見てるんだけど。デザイナーの宇野澤啓介さんの記事があるわね。普通を特別にする、って。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? How so? Is it like, making a normal pen look like a spaceship? I like those kinds of things.",
+      "ja": "へぇ、そうなんですか？どうやって？普通のペンが宇宙船みたいになるとか？そういうの好きです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It says he didn't go to a fancy design school or study abroad. Just developed skills making everyday things.",
+      "ja": "一流のデザイン学校に行ったわけでも、海外留学したわけでもないって書いてある。日用品を作る中でスキルを磨いたんだそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so self-taught? That's kind of amazing, actually. That's inspiring. I'm always looking for ways to make my reports at work look more... exciting.",
+      "ja": "ああ、独学なんですね？それ、なんかすごいですね、実際。インスピレーションになります。僕も仕事の報告書をもっと…面白く見せる方法をいつも探してるんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I imagine that's harder with sales figures.",
+      "ja": "営業数字だと難しいんじゃないかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, you're probably right. What else is there?",
+      "ja": "ええ、多分そうですね。他に何かありますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Another one is about Japanese scientists developing autonomous robo dogs for anti-bear patrols.",
+      "ja": "もう一つは、日本の科学者がクマ対策のために自律型のロボット犬を開発している、というものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Robo dogs? For bears? That sounds like something from a sci-fi movie. Is that because of all the bear sightings lately?",
+      "ja": "ロボット犬？クマのため？それってSF映画みたいですね。最近のクマの目撃情報が多いからですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It says there's some apprehension in the air because it's the time of year when bears are more active.",
+      "ja": "クマが活発になる時期だから、いくらか「apprehension」があるって書いてあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Apprehension? What does that mean, exactly? Like, worry?",
+      "ja": "Apprehension？それって、具体的にどういう意味ですか？心配、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, a feeling of anxiety or fear about something that might happen. So, people are worried about bears.",
+      "ja": "そうね、何か起こるかもしれないことに対する不安や恐れの感情のこと。だから、人々はクマを心配しているのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, I get that. I wouldn't want to meet a bear on my morning commute. Especially not with the baby. Maybe they should give those robo dogs little whistles.",
+      "ja": "ああ、なるほど。ええ、それは分かります。朝の通勤途中でクマに会いたくないですね。特に赤ちゃんを連れてる時は。あのロボット犬たちに、小さな笛を持たせたらどうでしょう？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Whistles?",
+      "ja": "笛？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like the ones train conductors use. To warn people. Or maybe they could bark really loud.",
+      "ja": "ええ、電車の車掌さんが使うみたいな。人々に警告するために。それか、すごく大きな声で吠えるとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anyway, the last one is about a Japanese master craftsman building a stunning tiny house on wheels.",
+      "ja": "ともかく、最後のニュースは、日本の職人が素晴らしいタイニーハウスを車輪の上に乗せて建てた、というものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, those tiny houses are always so cool. I've seen some videos. They manage to fit everything in such a small space.",
+      "ja": "ああ、あのタイニーハウスっていつもすごくかっこいいですよね。動画でいくつか見ました。あんな小さな空間に全部収めるなんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "This one was featured on a YouTube channel. Sounds like he was very meticulous with the details.",
+      "ja": "これはYouTubeチャンネルで紹介されたらしいわ。細部にとても「meticulous」だったみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Meticulous? Is that like... super careful?",
+      "ja": "Meticulous？それって…すごく注意深い、みたいなことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Very precise and paying extreme attention to every small detail. Like a perfectionist.",
+      "ja": "その通り。非常に正確で、どんな小さな細部にまで極端に注意を払うこと。完璧主義者みたいにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow. I can barely keep my desk tidy. I can't imagine building a whole house like that. My wife is pretty meticulous about organizing the baby's toys, though. I try, but sometimes I just stack them.",
+      "ja": "うわー。僕は自分の机を片付けるのでさえやっとですよ。あんな風に家全体を作るなんて想像できないです。でも、うちの妻は赤ちゃんのオモチャを整理するのにはかなり「meticulous」ですね。僕も頑張るんですけど、たまにただ積み重ねてしまうんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. My kids used to just empty the whole box again immediately.",
+      "ja": "そういう時代もあったわね。うちの子たちは、箱から全部すぐに出しちゃうのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, sounds about right.",
+      "ja": "ええ、そんな感じですね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, any other interesting tidbits for today? Like, \"Today is National ____ Day\"?",
+      "ja": "それで、今日の何か面白いトリビアはありますか？例えば、「今日は全国____の日」みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, actually, yes. Today, October 26th, is Teddy Bear's Day.",
+      "ja": "あら、そういえばそうね。今日、10月26日はテディベアズ・デーよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Teddy Bear's Day? Really? That's cute. Is there a story behind that?",
+      "ja": "テディベアズ・デー？本当ですか？可愛いですね。何か由来があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it's named after the 26th US President, Theodore Roosevelt. It's his birthday today.",
+      "ja": "ええ、アメリカの第26代大統領、セオドア・ルーズベルトにちなんだものよ。今日が彼の誕生日なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Theodore Roosevelt... The one with the mustache?",
+      "ja": "セオドア・ルーズベルト…あのヒゲの人ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's him. The story goes that during a bear hunt, he refused to shoot a bear cub.",
+      "ja": "彼よ。話によると、クマ狩りの最中に、彼は子グマに止めの一発を撃つのを拒否したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, so he didn't want to kill the little bear. That's nice. And then someone made a toy bear based on that?",
+      "ja": "ああ、それで彼は小さなクマを殺したくなかったんですね。優しい話だ。それで、その話をもとに誰かがオモチャのクマを作ったんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. A toy company released a stuffed bear inspired by the incident. And it became known as a \"Teddy Bear.\"",
+      "ja": "その通り。おもちゃ会社がその出来事にインスパイアされてぬいぐるみを出したの。そしてそれが「テディベア」として知られるようになったのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, I didn't know that. That's a wholesome story. My little one has a few stuffed animals already. Not a teddy bear yet, though. Maybe I should get him one.",
+      "ja": "へぇ、知りませんでした。心温まる話ですね。うちの子もぬいぐるみはいくつか持ってるんですけど、まだテディベアはないな。買ってあげようかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They last a long time. My daughter still has hers from when she was little.",
+      "ja": "長持ちするわよ。うちの娘も小さい頃のものをまだ持ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Really? That's impressive. Mine would probably be covered in mystery stains by then. I need to figure out a better cleaning routine.",
+      "ja": "本当ですか？それはすごいな。うちのは多分その頃には謎のシミだらけになってるでしょうね。もっと良い掃除のルーティンを見つけないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Anyway, it's been a good morning chat. Time to go face those sales figures. Hopefully, they don't look too... stagnant today.",
+      "ja": "とにかく、良い朝のチャットでした。さて、営業数字と向き合う時間です。願わくば、今日はあまり…「stagnant」に見えませんように。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll do fine.",
+      "ja": "大丈夫よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, stagnant? That's like, not moving, right? Staying the same?",
+      "ja": "ああ、stagnant？それって、動いてない、ってことですよね？現状維持の？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. Not progressing or changing.",
+      "ja": "そう、その通り。進歩も変化もしていない状態よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Okay, well, thanks for the chat, Sarah.",
+      "ja": "分かりました。よし、じゃあ、チャットありがとう、サラ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good one.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too!",
+      "ja": "あなたも！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Light drizzle",
+      "temp_max": 21.1,
+      "temp_min": 15.8,
+      "rain_probability": 63
+    },
+    "news": [
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      },
+      {
+        "title": "Japanese scientists developing autonomous robo dogs for anti-bear patrols",
+        "summary": "Along with a bit of chilly autumn crispiness, there’s also some apprehension in the air in Japan. That’s because we’re getting to the part of the year when…",
+        "link": "https://japantoday.com/category/national/japanese-scientists-developing-autonomous-robo-dogs-for-anti-bear-patrols"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      }
+    ],
+    "wikipedia": {
+      "title": "テディベアズ・デー",
+      "description": "テディベアの名前の由来となったアメリカ26代大統領セオドア・ルーズベルトの誕生日にちなんだもの。ルーズベルト大統領が熊狩りで小熊にとどめの一発を撃つのを拒絶。このエピソードからぬいぐるみが発売された。"
+    }
+  }
+}
