@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-27T22:50:29.177514+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 27th, 2026.",
+      "ja": "おはようございます、サラさん。2026年10月27日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Looks like it’s going to be a nice day out there.",
+      "ja": "おはよう、アレックス。今日はいい天気になりそうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely. Mostly clear sky. High around 18 degrees Celsius, low about 11. Much better than that weird heat we had.",
+      "ja": "ええ、本当に。ほとんど晴れで、最高気温は18度くらい、最低は11度くらいだそうです。あの変な暑さよりずっといいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw that. 30 degrees in central Tokyo. In October. My kids were definitely complaining about turning the AC back on.",
+      "ja": "見たよ、それ。東京の中心部で30度。10月なのにね。うちの子たちはまたエアコンをつけなきゃいけないって文句言ってたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? My little one was totally confused. He's not even two yet, so what's 'normal' weather for him, you know?",
+      "ja": "そうでしょう？うちの子は完全に戸惑ってましたよ。まだ2歳にもなってないから、彼にとっての「普通の」天気って何なんだろうって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was the latest midsummer day on record since 1875. So, not normal.",
+      "ja": "1875年以来の最も遅い真夏日だったからね。だから、普通じゃないよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1875. That’s a really long time. I guess things are changing, huh?",
+      "ja": "わあ、1875年ですか。すごく昔ですね。やっぱりいろいろ変わってきてるんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are.",
+      "ja": "そうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things that are difficult, I saw a headline about kanji today. Like, one character having five different pronunciations. That's just... a lot.",
+      "ja": "難しいことといえば、今日漢字の見出しを見ました。一つの漢字に5つも読み方があるって。それはちょっと…多すぎますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It can be really tough for people learning Japanese. You have to be pretty `receptive` to a lot of rules and exceptions.",
+      "ja": "日本語を学ぶ人にとっては本当に大変だね。たくさんのルールや例外に、かなり『receptive』じゃないといけないから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "`Receptive`? Oh, you mean like, open to understanding them? Or accepting it?",
+      "ja": "「Receptive」ですか？ああ、つまり、それらを理解しようとオープンである、とか、受け入れるってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. Open to learning it and accepting that it's just how it is.",
+      "ja": "その通り。それを学ぶことにオープンで、そういうものだと受け入れることだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I try to be, but sometimes my brain just kind of shuts down when I see complex kanji. It's a bit overwhelming.",
+      "ja": "ですね。そうしようとはしてるんですけど、複雑な漢字を見ると時々脳がシャットダウンしちゃうんです。ちょっと圧倒されます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand.",
+      "ja": "分かるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, and also, these chainsaw robots that help keep trains running. That sounds a little bit... intense, actually. Chainsaws, you know?",
+      "ja": "ああ、それと、電車が安全に運行するのを助けるチェーンソーロボットっていうのもありましたね。それはちょっと…すごいですよね、実際。チェーンソーですよ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They're for preventive maintenance, clearing branches and things from the tracks. Probably much safer than having people out there doing it.",
+      "ja": "あれは予防的なメンテナンス用で、線路から枝などを取り除くんだよ。人が出てやるよりも、たぶんずっと安全だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's true. I guess they're pretty `unobtrusive` too, then? Like, they just do their job in the background without causing a fuss?",
+      "ja": "そうですね。じゃあ、それらもかなり「unobtrusive」なんですかね？つまり、騒ぎを起こさずに裏方で黙々と仕事をする、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. They don't get in the way of the regular operations. Quietly working to keep things reliable.",
+      "ja": "うん、その通り。通常の運行の邪魔にならないようにね。静かに作業して、信頼性を保っているんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That makes sense. Keeping things reliable. Which is what we try to do here every morning on The Daily Tanu-chan Show, right?",
+      "ja": "なるほど。物事を信頼できるように保つ。それは僕たちがここ「The Daily Tanu-chan Show」で毎朝やろうとしていることでもありますよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, staying on schedule and sharing some news.",
+      "ja": "そうね、時間通りに進めて、ニュースを共有することだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, what's today's special day, October 27th?",
+      "ja": "それで、今日の特別な日、10月27日は何の日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Sokki Kinenbi. Shorthand Day.",
+      "ja": "速記記念日だよ。速記の日だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Shorthand? Like, writing super fast? For speeches or something?",
+      "ja": "速記ですか？つまり、すごく速く書くやつですか？スピーチとかのために？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. It marks the day in 1882 when the first shorthand class was held in Japan. To quickly record spoken words.",
+      "ja": "その通り。1882年に日本で最初の速記講習会が開催された日を記念してるんだ。話された言葉を素早く記録するためにね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. That's pretty specific. Imagine trying to learn that skill now. It must take a lot of focus.",
+      "ja": "へえ、それは知りませんでした。かなり専門的ですね。今、そのスキルを習得しようとするのを想像すると。かなりの集中力が必要でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes practice.",
+      "ja": "練習が必要だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Everything does, I guess. Like getting my baby to sleep through the night. It's much better now, but those first few months were just... constant. I was always tired.",
+      "ja": "何でもそうですよね、きっと。うちの子が夜通し寝てくれるようになるのもそうです。今はだいぶ良くなりましたけど、最初の数ヶ月は本当に…ずっとな状態でした。いつも疲れていましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets easier.",
+      "ja": "だんだん楽になるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. I still need my coffee every morning.",
+      "ja": "そうだといいんですけど。僕はまだ毎朝コーヒーが欠かせません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And I'll stick with my tea.",
+      "ja": "私はお茶でいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay. Well, that’s our time for today. We’ll be back tomorrow.",
+      "ja": "はい。では、今日の時間はここまでです。また明日お会いしましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "See you then.",
+      "ja": "またね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 18.6,
+      "temp_min": 11.1,
+      "rain_probability": 10
+    },
+    "news": [
+      {
+        "title": "One simple kanji character in super-simple Japanese sentence has 5 different pronunciations",
+        "summary": "Most people will tell you that the most difficult thing about learning Japanese is dealing with kanji, the written characters originally imported from China. Not only are there…",
+        "link": "https://japantoday.com/category/features/one-simple-kanji-character-in-super-simple-japanese-sentence-has-5-different-pronunciations"
+      },
+      {
+        "title": "Temperature reaches 30°C in central Tokyo – latest ‘midsummer day’ on record since 1875",
+        "summary": "Parts of the Japanese archipelago experienced an unseasonably hot day on Wednesday — technically classified as a &quot;midsummer day&quot; (where temperatures reach 30°C or higher). \nIn central Tokyo,…",
+        "link": "https://japantoday.com/category/national/temperature-reaches-30%C2%B0c-in-central-tokyo-%E2%80%93-latest-%E2%80%98midsummer-day%E2%80%99-on-record-since-1875"
+      },
+      {
+        "title": "Chainsaw robots helping keep trains running safely in east Japan",
+        "summary": "Japan’s rail network is famous for its sterling safety and reliability records, and neither of those would be achievable without a whole lot of preventive maintenance. East Japan…",
+        "link": "https://japantoday.com/category/national/chainsaw-robots-helping-keep-trains-running-safely-in-east-japan"
+      }
+    ],
+    "wikipedia": {
+      "title": "速記記念日",
+      "description": "1882（明治15）年、田鎖綱紀が東京で日本初の速記法の講習会を開催したことを記念して、日本速記協会が制定。"
+    }
+  }
+}
