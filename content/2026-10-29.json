@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-28T22:56:42.480406+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 28th already. Can’t believe it.",
+      "ja": "おはようございます、サラさん。もう10月28日か。早いな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time does fly. Another Wednesday.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。また水曜日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. And it’s The Daily Tanu-chan Show again. Need this coffee so badly.",
+      "ja": "そうですね。そしてまた「The Daily Tanu-chan Show」。このコーヒーがたまらないほど必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I’m just finishing my tea. The weather's looking pretty good today, actually. Partly cloudy.",
+      "ja": "私はちょうどお茶を飲み終えたところよ。今日の天気はなかなか良さそうね。ところどころ曇り。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. I saw that. High of 17.6 degrees Celsius, low of 9.8. Pretty decent for late October.",
+      "ja": "ああ、そうですね。見ました。最高気温は17.6度で、最低気温は9.8度。10月下旬にしてはかなり良いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. And a 39% chance of rain. So, probably dry enough for your commute.",
+      "ja": "そうね。そして降水確率は39%。だから、通勤にはたぶん十分乾いているでしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, should be. I've been cycling a lot recently. It clears my head before work.",
+      "ja": "ええ、そうですね。最近よく自転車に乗ってるんです。仕事前に頭がすっきりするんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good. Keeps you active.",
+      "ja": "それはいいわね。体を動かせて。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. So, did you catch any of the news this morning? I just skimmed it.",
+      "ja": "はい、本当に。それで、今朝のニュース何か見ましたか？僕は軽く目を通しただけです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A little bit. The one about Japan sending a diplomat to Russia for the detained journalist caught my eye.",
+      "ja": "少しだけね。日本が拘束されたジャーナリストのためにロシアに外交官を送ったという記事が目についたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's right. I read that. I just… I really *deplore* situations like that. It's just wrong.",
+      "ja": "ああ、それですね。読みました。僕、ああいう状況は本当に*嘆かわしい*と思います。ただ間違ってる。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You mean you strongly disapprove of it, or feel deeply sad about it. That's what 'deplore' means.",
+      "ja": "強く反対するか、深く悲しむという意味よ。「deplore」はね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Yeah, exactly. It makes me worry about the world, you know?",
+      "ja": "そう。ええ、まさに。世界が心配になりますよ、本当に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I understand. It is a serious matter. But on a more positive note, Fukushima's still making headlines for rebuilding.",
+      "ja": "わかるわ。深刻な問題ね。でも、もう少し前向きな話だと、福島が再建でまだニュースになってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah! Fish, tomatoes, hula dancing girls. That's kind of amazing after everything they went through.",
+      "ja": "ああ、そうですね！魚、トマト、フラダンスガール。あれだけのことを経験した後なのに、すごいことですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It shows incredible strength and determination. My kids actually learned about the recovery efforts in school.",
+      "ja": "信じられないほどの強さと決意を示しているわね。うちの子どもたちも、学校で復興の取り組みについて学んだのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. They should definitely know. And what about that tiny house on wheels? That master craftsman built it.",
+      "ja": "それは良いですね。絶対に知っておくべきです。それで、車輪の上のあの小さな家はどうですか？あの名人職人が作ったやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw the video. It was beautifully designed. Very clever use of space.",
+      "ja": "ビデオを見たわ。美しくデザインされていたわね。空間の使い方がとても賢かった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder how they deal with all their stuff, though. Like, with all the... the *clutter*? My place has so much stuff now.",
+      "ja": "でも、どうやって全部の荷物を処理してるんでしょうね。あの…*散らかったもの*は？うちの家は今、物がすごく多いんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Clutter' means things that are messy, or too many items lying around in a disorganized way.",
+      "ja": "「clutter」は、散らかっているもの、あるいは整理されてない状態でたくさん物が散らばっていることを意味するわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. Yeah, my living room is basically all baby *clutter* now. Toys everywhere. Maybe a tiny house is not for me.",
+      "ja": "ああ、なるほど。ええ、うちのリビングは今、基本的に赤ちゃんの*散らかった物*でいっぱいです。おもちゃがあちこちに。たぶん小さな家は僕には向いてないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably not for a family of three. My son's room alone could fill a tiny house.",
+      "ja": "三人家族には向かないでしょうね。うちの息子の部屋だけで小さな家がいっぱいになるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can totally imagine. Speaking of everyday things, you know it's Oshibori no Hi today, right?",
+      "ja": "それはもう想像できます。普段の話題ですが、今日はおしぼりの日だって知ってました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, is it? I always forget those special days.",
+      "ja": "あら、そうなの？そういう記念日はいつも忘れちゃうわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 10 for 'te' and 29 for 'fuku,' from 'te wo fuku.' For the moist towels.",
+      "ja": "はい、「手を拭く」の「手（10）」と「拭く（29）」から来てるんです。おしぼりの日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. For promoting the use of those warm, wet towels you get at restaurants. They’re so nice.",
+      "ja": "そうね。レストランで出てくるあの温かいおしぼりの普及のためね。あれ、とても気持ちいいのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They really are. Especially before a good meal. Or after handling the baby's food. I need a lot of them these days.",
+      "ja": "本当にそうです。特に美味しい食事の前は。あるいは赤ちゃんの食事の後も。最近はすごくたくさん必要です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. Little hands get messy quickly.",
+      "ja": "想像できるわ。小さい手はすぐに汚れるものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They do. And I jump at everything these days. Every little noise. Pretty sure it's the baby.",
+      "ja": "そうなんです。そして最近、何にでも飛び跳ねるんです。どんな小さな物音にも。きっと赤ちゃんのせいですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll adjust. It takes time.",
+      "ja": "慣れるわよ。時間がかかるけどね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Anyway, it's going to be a busy day. Better get going.",
+      "ja": "だといいんですけど。まあ、今日は忙しい一日になりそうです。そろそろ行かないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good one.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 17.6,
+      "temp_min": 9.8,
+      "rain_probability": 39
+    },
+    "news": [
+      {
+        "title": "Japan sends senior diplomat to Russia over detained journalist",
+        "summary": "Japan sent a senior diplomat to Moscow this week to discuss the release of a journalist detained by Russia on spying accusations, Tokyo said on Wednesday.\nRussian authorities…",
+        "link": "https://japantoday.com/category/national/japan-sends-senior-diplomat-to-russia-over-detained-journalist"
+      },
+      {
+        "title": "Fukushima rebuilds its future with fish, tomatoes and hula-dancing girls",
+        "summary": "Fukushima Prefecture made international headlines back in 2011 after the region was severely affected by the Great East Japan tsunami, earthquake and nuclear disaster. While the catastrophic events…",
+        "link": "https://japantoday.com/category/features/fukushima-rebuilds-its-future-with-fish-tomatoes-and-hula-dancing-girls"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      }
+    ],
+    "wikipedia": {
+      "title": "おしぼりの日",
+      "description": "「手（10）を拭く（29）」の語呂合わせから全国おしぼり協同組合連合会が中心に制定。おしぼりの普及のためのイベントが各地で開催されている。"
+    }
+  }
+}
