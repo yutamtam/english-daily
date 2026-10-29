@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-29T23:05:34.864700+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. October 29th, right? Wow, where did October go?",
+      "ja": "おはようございます、サラさん。10月29日ですよね？ああ、10月はどこへ行ったんだろう？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It's really flying by, isn't it? This is The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。本当にあっという間ね。ザ・デイリー・タヌちゃんショーよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It is. I need my coffee first thing. Anyway, how's it looking outside? I didn't even check.",
+      "ja": "そうですね。まずコーヒーを飲まないと。ところで、外の様子はどうですか？確認する暇もなかったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Overcast today. But it's mild. About 22 degrees high, and the low is around 12. Only a 33% chance of rain, so probably fine.",
+      "ja": "今日は曇り空よ。でも穏やかね。最高気温は22度くらいで、最低は12度くらい。雨の確率は33%だから、たぶん大丈夫でしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's nice. Not too cold, not too hot. Perfect walking weather, actually. I wish I had time for a walk.",
+      "ja": "ああ、いいですね。寒すぎず、暑すぎず。散歩には最高の天気ですね、実は。散歩する時間が欲しいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I took my usual route this morning. Saw some early autumn leaves starting to turn color.",
+      "ja": "そうね。今朝もいつものコースを歩いてきたわ。早くも紅葉が色づき始めているのを見たわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds relaxing. Mine was a bit more… intense. The baby woke up early. Again.",
+      "ja": "それはリラックスできそうですね。僕はもう少し…激しかったな。赤ちゃんが早く起きて。また。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that.",
+      "ja": "そういうものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. So, I saw a headline about parents helping their kids find love, jobs, and homes. Like, really involved.",
+      "ja": "ええ。それで、親が子供たちの恋人探しや仕事探し、家探しを手伝っているっていう見出しを見たんです。すごく関わってる、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. It's becoming more common, I think.",
+      "ja": "ええ、私も見たわ。だんだん一般的になってきていると思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's interesting. I mean, my parents were always supportive, but I can't imagine them trying to set me up on a date.",
+      "ja": "面白いですね。僕の両親はいつも協力的でしたけど、デートをセッティングしようとするなんて想像できないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Times change. Sometimes a gentle nudge from parents can be helpful, I suppose.",
+      "ja": "時代は変わるものよ。時には親からの優しい後押し、つまり「nudge」が役立つこともあるでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A nudge? What's a `nudge` exactly?",
+      "ja": "ナッジ？「nudge」って正確には何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's like a soft push, or a subtle suggestion, to encourage someone to do something. Not forcing, just guiding.",
+      "ja": "それは、誰かに何かをするように促すための、優しく押すことや、ほのかな提案のようなものよ。強制ではなく、ただ導くことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Like, 'Maybe you should try this app?' instead of 'You must marry this person!'",
+      "ja": "ああ、なるほど。「このアプリ試してみたら？」みたいな感じで、「この人と結婚しなさい！」ではない、と。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly.",
+      "ja": "その通りよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I wonder if I'll be like that with my kid when they're older. It's hard to imagine right now.",
+      "ja": "僕も自分の子が大きくなったらそうなるのかな。今はまだ想像できないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You'll figure it out. Speaking of news, did you see that Tetsuya Chiba, the manga artist, passed away?",
+      "ja": "大丈夫、わかるようになるわ。ニュースといえば、漫画家のちばてつやさんが亡くなったって見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, no, I didn't know that. `Ashita no Joe`, right? That's a classic.",
+      "ja": "え、知りませんでした。あしたのジョー、ですよね？あれは名作だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, `Ashita no Joe`. He was 87. A true legend.",
+      "ja": "ええ、『あしたのジョー』。87歳だったわ。まさに伝説ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's sad. His work influenced so many people. It's a bit like a part of my childhood is gone.",
+      "ja": "悲しいですね。彼の作品は本当に多くの人に影響を与えましたから。僕の子供時代の一部が失われたような気持ちです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He left a great legacy. His stories had a big impact on my generation, too.",
+      "ja": "素晴らしい遺産を残したわね。彼の物語は私の世代にも大きな影響を与えたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess today is also 'Hatsukoi no Hi' – First Love Day.",
+      "ja": "そういえば、今日は「初恋の日」でもあるんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's right. Because of Shimazaki Toson's poem, 'Kohigusa,' published on this day in 1896.",
+      "ja": "ああ、そうだったわね。1896年の今日、島崎藤村の詩「こひぐさ」が発表されたからだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I actually think about my first love sometimes. It's kind of... I don't know, a bit `prosaic` now. Just a memory.",
+      "ja": "ええ。僕、時々初恋のこと考えますよ。なんか…何て言うか、今はちょっと「prosaic」って感じ。ただの思い出ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Prosaic`? You mean ordinary, or unromantic, now that time has passed?",
+      "ja": "「Prosaic」？時間が経って、普通のこと、あるいはロマンチックではないってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Not dramatic or exciting anymore. Just a simple, everyday memory.",
+      "ja": "ええ、まさにそれです。もうドラマチックでもエキサイティングでもない。ただのシンプルで日常的な記憶、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That makes sense. Most first loves do become that, eventually.",
+      "ja": "なるほどね。ほとんどの初恋は、結局そうなるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. My wife always laughs when I mention it. Not because of jealousy, just because I sound so serious about it.",
+      "ja": "そうでしょうね。僕がその話をすると、妻はいつも笑います。嫉妬からじゃなくて、僕がすごく真剣に話すからって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a part of who you are.",
+      "ja": "それはあなたの一部だもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I suppose. Anyway, what a morning. Lots to think about.",
+      "ja": "そうですね。それにしても、朝からいろいろ考えさせられますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's true. Well, I hope you have a good one, Alex.",
+      "ja": "そうね。じゃあ、良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. And enjoy the mild weather.",
+      "ja": "サラさんもね。そして、穏やかな天気を楽しんでください。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 22.1,
+      "temp_min": 11.7,
+      "rain_probability": 33
+    },
+    "news": [
+      {
+        "title": "Parents step in to help children find love, jobs, homes",
+        "summary": "Parents in Japan are taking an increasingly active role in their children's lives, helping them find marriage partners, navigate job hunting and secure housing, as the line between…",
+        "link": "https://japantoday.com/category/national/japan-biz-parents-step-in-to-help-children-find-love-jobs-homes"
+      },
+      {
+        "title": "Two Japanese climbers die on Himalayan peak in Nepal",
+        "summary": "Rescuers recovered ‌the bodies of two Japanese climbers missing ‌since October ⁠15 on ⁠a ⁠Himalayan peak ‌in northwest Nepal, ⁠an official ⁠said on Friday.\nKumar Chhetri of the…",
+        "link": "https://japantoday.com/category/national/two-japanese-climbers-die-on-a-himalayan-peak-in-nepal"
+      },
+      {
+        "title": "Japanese manga artist Tetsuya Chiba, known for his boxing masterpiece 'Ashita no Joe,' dies at 87",
+        "summary": "Legendary Japanese manga artist Tetsuya Chiba, who caused a national sensation with his boxing series “Ashita no Joe&quot; or &quot;Fighting for Tomorrow,&quot; a story about an orphan becoming…",
+        "link": "https://japantoday.com/category/national/japanese-manga-artist-tetsuya-chiba-known-for-his-boxing-masterpiece-%27ashita-no-joe-%27-dies-at-87"
+      }
+    ],
+    "wikipedia": {
+      "title": "初恋の日",
+      "description": "1896年、島崎藤村が「文学界」に「こひぐさ」の一編として初恋の詩を発表したことから、長野県小諸市の中棚荘が制定。中棚荘は島崎藤村ゆかりの宿。"
+    }
+  }
+}
