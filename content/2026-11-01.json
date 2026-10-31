@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-10-31T22:10:20.819531+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah.",
+      "ja": "おはようございます、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Happy Friday. It's October 31st, 2026.",
+      "ja": "おはよう、アレックス。良い金曜日を。2026年10月31日です。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, Halloween. Forgot that. I just need coffee.",
+      "ja": "ああ、ハロウィンだ。忘れてた。とにかくコーヒーが要ります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You always need coffee.",
+      "ja": "あなたはいつもコーヒーが必要ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Anyway, did you see the weather? Overcast again.",
+      "ja": "ええ。ところで、天気見ました？また曇りです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. But no rain, which is good. High of almost 20, low of 11. Feels pretty standard for this time of year.",
+      "ja": "そうね。でも雨じゃないのは良いこと。最高気温は20度近く、最低は11度。この時期としてはごく普通な感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, but that jump from high to low is tough. My kid had a cough this morning.",
+      "ja": "ええ、でも最高気温から最低気温へのあの差はきついですよね。うちの子、今朝咳をしてました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's that transition time. Welcome back to The Daily Tanu-chan Show, everyone.",
+      "ja": "季節の変わり目ね。皆さん、「The Daily Tanu-chan Show」にようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of transitions, I saw something interesting in the news. About steampunk in Harajuku?",
+      "ja": "変わり目と言えば、ニュースで面白いものを見ました。原宿のスチームパンクのことですが？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, Steam Garden. I've seen pictures. It looks pretty amazing, actually. Very creative.",
+      "ja": "ああ、スチームガーデンね。写真を見たわ。実際にかなり素晴らしい見た目よ。とてもクリエイティブね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it sounds cool. Victorian style, industrial tech... and then a Japanese twist. I wonder what that 'twist' actually means. Kimono with gears?",
+      "ja": "ええ、かっこよさそうですね。ヴィクトリア調、工業技術…それに日本のひねり、と。その『ひねり』って実際何を意味するんでしょうね。歯車付きの着物とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably something like that. Or just the general aesthetic, you know, how Japanese designers interpret things.",
+      "ja": "多分そんな感じでしょうね。あるいは一般的な美学、つまり日本のデザイナーが物事をどう解釈するか、ってことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I guess it's not going to change my sales targets, but it's a nice thought.",
+      "ja": "なるほど。私の売上目標が変わるわけではないでしょうけど、良い考えですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the hip-hop dancing granny video? The 'Rice Dance' one?",
+      "ja": "ヒップホップを踊るおばあちゃんのビデオ見た？『ライスダンス』のやつ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I did! I love those. Didn't they have a group of grandmas doing Bruno Mars last year?",
+      "ja": "ああ、見ました！あれ大好きなんです。去年もブルーノ・マーズを踊るおばあちゃんたちのグループがいましたよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They did. This one is just one woman. She's got some moves. It's impressive.",
+      "ja": "いたわね。これは一人だけだけど。彼女、かなり動けるのよ。すごいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Makes me think maybe I should try dancing. But my knees hurt just thinking about it after chasing my little one around.",
+      "ja": "ええ。私もダンスを試してみようかなって思わせます。でも、うちの子を追いかけ回した後だと、考えるだけで膝が痛いんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was also something about a manga artist suing the government. About the imperial succession law?",
+      "ja": "漫画家が政府を訴えているという話もあったわね。皇室典範の件で？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. I mean, I know it's always been male, but I didn't realize someone was actually... suing about it. Is that a common thing?",
+      "ja": "あ、それは知りませんでした。ずっと男性だと知ってましたが、実際に誰かが…訴えているとは。よくあることなんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Not very. But it highlights a public discussion that's been going on for a while. The monarchy is changing, or people want it to.",
+      "ja": "あまりないわね。でも、これは以前から続いている国民的議論を浮き彫りにしているわ。皇室が変わろうとしている、あるいは人々がそれを望んでいる、ということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm. I guess it's an insidious thing, isn't it? Like, a slow change. What does 'insidious' actually mean?",
+      "ja": "うーん。それって『insidious』なことですよね？こう、ゆっくりと変化するような。その『insidious』ってどういう意味でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means something that develops slowly and secretly, usually in a harmful way. Like a problem that you don't notice until it's too late.",
+      "ja": "それは、ゆっくりと、そしてひそかに進行するもので、たいてい有害な形で、という意味よ。手遅れになるまで気づかない問題のようなものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Like when you don't clean your desk and suddenly it's a mountain. That's a good word. Insidious.",
+      "ja": "ああ、なるほど。机を片付けないでいたら、いつの間にか山になってた、みたいな。良い言葉ですね。Insidious。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of Japanese things, do you know what today is? October 31st?",
+      "ja": "日本のことと言えば、今日が何の日か知ってる？10月31日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Besides Halloween? Hmm... something food-related? I feel like I read this every year.",
+      "ja": "ハロウィンの他にですか？うーん…食べ物関係ですか？毎年読んでいるような気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's Sushi Day. 全国すし商生活衛生同業組合連合会 made it in 1961. It's because it's new rice season, and seafood is delicious now.",
+      "ja": "寿司の日よ。全国すし商生活衛生同業組合連合会が1961年に制定したの。新米の季節で、海の幸が美味しい時期だからって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sushi Day! Of course. That makes sense. My wife actually mentioned getting sushi tonight. Maybe it's because of that. I just thought she was hungry.",
+      "ja": "寿司の日！もちろんです。なるほど。妻が今夜寿司を食べたいって言ってたんですよ。たぶん、そのせいだったのかもしれない。ただお腹が空いてるだけかと思ってました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Could be both.",
+      "ja": "両方かもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Do you think places do anything special for it? Like discounts?",
+      "ja": "何か特別なことをするお店があると思いますか？割引とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Some might. They usually do PR activities around this day.",
+      "ja": "あるかもしれないわね。この日を中心にPR活動をするのが一般的よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I should check. My little one likes the tamago sushi. Not very adventurous yet.",
+      "ja": "調べてみよう。うちの子は卵寿司が好きなんです。まだあまり冒険しないんですよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You know, cycling to work this morning, I saw so many kids dressed up already. Even though it's still morning. It's kind of cute.",
+      "ja": "そういえば、今朝自転車で通勤中、もうたくさんの子供たちが仮装してるのを見ましたよ。まだ朝なのに。なんか、可愛いですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. My son was trying on his costume last night. He's going as some kind of fantasy knight.",
+      "ja": "そうね。うちの息子も昨夜、衣装を試着してたわ。ファンタジーの騎士みたいな格好で行くらしい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, nice. What about your daughter?",
+      "ja": "へえ、いいですね。娘さんはどうですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "She's going as a witch, a classic. I'm just hoping they don't stay out too late.",
+      "ja": "娘は魔女よ、定番ね。あんまり夜遅くまで出歩かないでほしいんだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. My kid will probably just wear a pumpkin outfit from last year. It might be a bit snug now, though.",
+      "ja": "ええ、分かります。うちの子は去年のカボチャの衣装をたぶんまた着るでしょうね。もうちょっときついかもしれないけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They grow fast.",
+      "ja": "あっという間に大きくなるものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, Sushi Day and Halloween. Sounds like a good Friday, I think.",
+      "ja": "ええと、寿司の日とハロウィン。良い金曜日になりそうですね、たぶん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. Have a good one, Alex.",
+      "ja": "そうね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Have a nice weekend.",
+      "ja": "サラさんも。良い週末を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 19.5,
+      "temp_min": 11.4,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      },
+      {
+        "title": "Manga artist takes Japan’s new imperial succession law to court over male-only heirs",
+        "summary": "A popular Japanese manga artist who has written books on history and monarchy has sued the government over a revised imperial succession law allowing royals to adopt male…",
+        "link": "https://japantoday.com/category/national/a-cartoonist-takes-japan%E2%80%99s-new-imperial-succession-law-to-court-over-male-only-heirs"
+      }
+    ],
+    "wikipedia": {
+      "title": "寿司の日",
+      "description": "1961（昭和36）年、全国すし商生活衛生同業組合連合会が制定。新米の季節であり、ネタになる海の幸がおいしい時期であることから。毎年この日を中心に全国ですしのPR活動を行っている。"
+    }
+  }
+}
