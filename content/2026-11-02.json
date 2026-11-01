@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-01T22:34:51.224946+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Happy November 1st, 2026. Can you believe it's already November?",
+      "ja": "おはようございます、サラさん。2026年11月1日ですね。もう11月なんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time goes fast. Especially with the kids getting older. I'm just about to brew my tea.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。特に子供たちが大きくなると。ちょうどお茶を淹れるところよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I know what you mean. My little one is almost a year and a half already. Feels like yesterday I was trying to figure out how to put on a diaper. I definitely need my coffee this morning.",
+      "ja": "ええ、わかります。うちの子はもう1歳半ですよ。昨日おむつの付け方で悩んでたみたいです。今朝は絶対コーヒーが必要ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's quite a rainy day today, isn't it? The forecast said moderate rain all morning. Highs around 20 degrees, lows around 11.",
+      "ja": "今日はかなり雨が降っているわね。予報では午前中ずっと中程度の雨だって。最高気温は20度くらい、最低は11度くらい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. I saw the clouds but didn't check. My bike commute was definitely wetter than usual. Good thing the baby doesn't have to go out much today. It's almost a 97% chance of rain, I bet.",
+      "ja": "ああ、そうでした。雲は見たけどチェックしてませんでした。自転車通勤はいつもよりずっと濡れましたね。今日は赤ちゃんがあまり外に出なくてよかった。きっと97％くらいの降水確率でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Anyway, I saw some news headlines earlier. There was a report about two workers who died at a construction site in Aichi yesterday. Buried by soil.",
+      "ja": "そうね。ところで、さっきニュースの見出しを見たの。昨日愛知の建設現場で作業員2人が土砂に埋もれて亡くなったって話があったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's terrible. Really sad. I mean, construction work is always dangerous, but still. What a tragedy for their families. It's just awful.",
+      "ja": "え、それはひどい。本当に悲しいですね。建設作業はいつも危険ですけど、それでも。ご家族にとっては本当に悲劇です。ただただひどい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. You hear about these kinds of accidents sometimes. It makes you think about safety regulations.",
+      "ja": "そうね。こういう事故はたまに聞くわね。安全規則について考えさせられるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I guess after something like that, there's always an investigation into the... what's the word... the 'aftermath'?",
+      "ja": "ええ。たぶん、ああいうことがあった後は、いつもその...なんて言うんでしょう...『アフターマス』を調査するんですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'aftermath' means the consequences or effects of a significant unpleasant event. Like the period right after it happens.",
+      "ja": "そう、『アフターマス』というのは、重大で不快な出来事の結果や影響のこと。その出来事の直後の期間、みたいな意味ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, I got it. So, changing the topic a bit, there was something about a Sailor Moon fan club? That surprised me.",
+      "ja": "はい、わかりました。それで、ちょっと話は変わるんですけど、セーラームーンのファンクラブの話がありましたよね？それは驚きました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, they're taking applications for 2017, even with English sign-up support. The manga debuted 26 years ago, apparently.",
+      "ja": "ええ、2017年の申し込みを受け付けていて、英語での登録サポートもあるそうよ。漫画は26年前にデビューしたらしいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 26 years? That's incredible. It's still so popular. I guess some things just have a really loyal following, you know? It's pretty cool.",
+      "ja": "うわー、26年ですか？すごいですね。まだこんなに人気があるなんて。やっぱり、一部のものは本当に熱心なファンがいるんですね。かなりかっこいいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. And then there was something about a bear.",
+      "ja": "そうね。それから、クマの話もあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh yeah, the bear! A video showed tranquilizer darts failing to stop a bear rampaging through a factory. That sounds like something out of a movie. Crazy.",
+      "ja": "ああ、そう、クマの話！麻酔銃が効かずにクマが工場を暴れ回る動画があったらしいですね。映画みたいに聞こえます。クレイジーですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It highlights the difficulty of subduing wild animals, especially large ones. It's a serious problem when they come into residential areas.",
+      "ja": "野生動物、特に大型のものを鎮静させることの難しさを際立たせているわね。住宅地に入ってくると深刻な問題だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I can't imagine seeing a bear at my office. I'd probably just freeze. Speaking of the office, I feel like this kind of news is 'pervasive' sometimes, you know? Like, it's always around.",
+      "ja": "間違いなく。職場でクマを見るなんて想像できないです。たぶん、固まっちゃいますね。職場といえば、こういうニュースって時々『パーヴェイシブ』な感じがしますよね？いつもどこかにある、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Pervasive' means spread throughout, or present everywhere. Like how the rain feels today. Yes, some news topics are always present.",
+      "ja": "『パーヴェイシブ』というのは、広く行き渡っている、あるいはどこにでも存在している、という意味ね。今日の雨がそう感じるように。そうね、一部のニュースの話題は常に存在しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! Anyway, what else is happening today? We should probably mention that this is The Daily Tanu-chan Show.",
+      "ja": "まさにそれです！ところで、今日は他に何かありますか？これが『The Daily Tanu-chan Show』だって言っておかないとですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Today, November 1st, is キッチン・バスの日, or Kitchen and Bath Day. It was established in 2005 by the Japan Kitchen and Bath Industrial Association.",
+      "ja": "そうね。今日、11月1日は『キッチン・バスの日』よ。2005年にキッチン・バス工業会が制定したの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. Kitchen and Bath Day. Is there a reason for November 1st?",
+      "ja": "へえ、それは知りませんでした。キッチン・バスの日。11月1日である理由があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'K' for Kitchen is the 11th letter of the alphabet, and 'B' for Bath is the 2nd. So they combined it to make 11 and 2. Oh wait, it's 11/01, not 11/02. My mistake.",
+      "ja": "ええ、キッチンの『K』はアルファベットの11番目、バスの『B』は2番目だから、合わせて11月2日になったのよ。あ、待って、11月1日だったわね。私の間違いだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, so maybe it's K for Kitchen and Ichiban for 1? So 11 and 1? That makes sense. My brain is still a bit foggy this morning. The baby woke up really early.",
+      "ja": "ああ、じゃあキッチンのKと、1番のイチバンで11と1ですか？それなら納得です。今朝はまだ頭が少しぼーっとしてて。赤ちゃんがすごく早く起きたんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Could be. That's usually how these things are decided. Well, I hope you get some good coffee into you. Have a good day, Alex.",
+      "ja": "そうかもしれないわね。そういうのが決まり方よね。まあ、しっかりコーヒーを飲んでね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Have a good one.",
+      "ja": "サラさんも。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 20.4,
+      "temp_min": 11.5,
+      "rain_probability": 97
+    },
+    "news": [
+      {
+        "title": "Two workers die after being buried by soil at construction site in Aichi",
+        "summary": "Two men died after being buried by earth and debris at a construction site in Anjo City, Aichi Prefecture, on Thursday.\nAccording to police, Hidehiko Okada, 51, and…",
+        "link": "https://japantoday.com/category/national/Two-workers-die-after-being-buried-by-soil-at-construction-site-in-Aichi"
+      },
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      },
+      {
+        "title": "Video shows tranquilizer failing to subdue bear in factory rampage",
+        "summary": "Footage released earlier this month by a northeastern Japanese city showing tranquilizer darts failing to stop a bear as it rampaged through a local factory has highlighted the…",
+        "link": "https://japantoday.com/category/national/video-shows-tranquilizer-failing-to-subdue-bear-in-japan-factory-rampage"
+      }
+    ],
+    "wikipedia": {
+      "title": "キッチン・バスの日",
+      "description": "2005年にキッチン・バス工業会が制定。キッチンの頭文字「K」はアルファベットの11番目、バスの「B」は2番目であることからこの日になった。"
+    }
+  }
+}
