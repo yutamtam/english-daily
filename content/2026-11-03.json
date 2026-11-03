@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T01:26:57.133474+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 3rd, 2026. Can you believe it's already November?",
+      "ja": "おはようございます、サラさん。2026年11月3日。もう11月って信じられますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time does fly. It's actually a national holiday today, Bunka no Hi.",
+      "ja": "おはよう、アレックス。時間はあっという間ね。今日は実は祝日よ、文化の日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, is it? I totally forgot. My office doesn't get it off, so it just slipped my mind. Well, at least it's not raining. Overcast, but not too bad. What's the high?",
+      "ja": "あ、そうなんですか？完全に忘れてました。うちの会社は休みじゃないから、うっかり。まあ、雨が降ってないだけでもいいか。曇りですけど、悪くない。最高気温は何度ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Looks like 19.4°C for the high and 11.6°C for the low. Rain probability is only 12%. Good tea weather.",
+      "ja": "最高気温は19.4度、最低気温は11.6度みたいね。降水確率は12%だけ。お茶を飲むには良い気候だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Good coffee weather, too. I really need this coffee today. The baby was up late last night.",
+      "ja": "コーヒーを飲むにもいい天気ですね。今日は本当にコーヒーが必要ですよ。昨日の夜、赤ちゃんがなかなか寝なくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's tough. They do get restless sometimes.",
+      "ja": "それは大変ね。時々、落ち着かないことがあるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I jump at everything these days. Pretty sure it's the baby. Anyway, welcome to The Daily Tanu-chan Show this morning. We're getting started a little slowly here.",
+      "ja": "ええ、最近は何にでも飛び上がっちゃいます。きっと赤ちゃんの影響ですね。さて、今朝もザ・デイリー・タヌちゃんショーへようこそ。ちょっとゆっくりめのスタートです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It happens. Did you see any of the news this morning?",
+      "ja": "よくあることよ。今朝のニュースは何か見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just briefly. I saw something about the Sailor Moon fan club taking applications for 2017. With English support, too.",
+      "ja": "ちらっとだけ。セーラームーンのファンクラブが2017年の申し込みを受け付けてるってやつを見ました。英語のサポートもあるとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's interesting. It's been around for a long time. They have a huge global fanbase.",
+      "ja": "あら、それは興味深い。ずいぶん長く続いているわね。世界中に巨大なファンベースがあるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 26 years since the manga debuted. That's kind of amazing, actually. I guess it's smart to offer English sign-up. What else was there?",
+      "ja": "ええ、漫画がデビューしてから26年ですよ。それは結構すごいですね。英語での登録を提供するのは賢いでしょうね。他に何かありましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "There was an update on the Japanese journalist detained in Russia. An embassy official finally met with him.",
+      "ja": "ロシアで拘束されている日本人ジャーナリストの続報があったわ。大使館の職員がようやく彼と面会できたそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. I remember hearing about that. That's a pretty uncomfortable situation for him, I imagine.",
+      "ja": "ああ、そうでした。その話、前に聞きました。彼にとってはかなり不快な状況でしょうね、想像するに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It certainly would cause a great deal of discomfiture.",
+      "ja": "それは間違いなく、かなりの不快感を引き起こすでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Discomfiture? What's that mean?",
+      "ja": "ディスカムフィチャー？それってどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's like a feeling of uneasiness, or embarrassment. Especially when a situation makes you feel that way.",
+      "ja": "それは不快感や恥ずかしさのような感情よ。特に状況がそう感じさせる時に使うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, uneasy is a good word for it. I can't imagine being in that position. It's a reminder of how things can change so fast.",
+      "ja": "ああ、なるほど。ええ、不安な気持ちってのはぴったりですね。自分がその立場になるなんて想像できないな。物事がこんなに早く変わるんだなっていうのを思い知らされますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They certainly can. Anyway, talking about today being a holiday, do you know what Bunka no Hi is for?",
+      "ja": "確かにそうね。ところで、今日が祝日だという話だけど、文化の日が何のための日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I think it's for, like, culture? But I don't really know the specifics.",
+      "ja": "文化のため、みたいな感じですか？でも、具体的なことはよく知らないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It commemorates the promulgation of the Japanese Constitution in 1946. It became a national holiday in 1948, with the aim to promote freedom and peace, and to advance culture.",
+      "ja": "1946年に日本国憲法が公布されたことを記念する日よ。1948年に祝日になって、自由と平和を愛し、文化をすすめることを趣旨としているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. I always thought it was just a general day for art or something. That's much more significant.",
+      "ja": "へえ、それは知らなかったです。てっきり、アートとかのための一般的な日だと思ってました。もっと重要な日なんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Many museums and galleries offer free admission today.",
+      "ja": "そうよ。多くの美術館やギャラリーが今日、入場無料になっているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's cool. I wish I had time to go, but with the baby, it's hard to plan anything minutely these days.",
+      "ja": "いいですね。行けたらいいんですけど、赤ちゃんがいると、最近は細かいことまで計画するのが難しいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're looking at things minutely, then?",
+      "ja": "細かいところまで見てるってことね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Minutely? What's that?",
+      "ja": "ミニュートリー？それって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means paying attention to the very smallest details. Extremely detailed.",
+      "ja": "それは、ごく小さな詳細にまで気を配る、ということよ。非常に細かくね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, got it. Yeah, extremely detailed is right. Every outing takes so much preparation. Sometimes I just want to relax.",
+      "ja": "ああ、なるほど。ええ、非常に細かいってのはその通りです。外出するにもたくさん準備が必要ですし。たまにはただリラックスしたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I know the feeling. That's why I do a lot of meal prep on the weekends. This past weekend, I made a big batch of chicken adobo. Helps save time during the week.",
+      "ja": "その気持ちはよく分かるわ。だから私は週末にたくさんミールプレップをするのよ。この前の週末は、チキンアドボをたくさん作ったわ。週の間に時間を節約できるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Chicken adobo? Sounds good. My wife tried something similar, but it didn't really work out. Maybe we should try adobo next time.",
+      "ja": "チキンアドボですか？いいですね。うちの妻も似たようなことを試したんですけど、あまりうまくいかなくて。次はアドボを試してみるべきかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's pretty forgiving. Hard to mess up. Just a thought.",
+      "ja": "かなり失敗しにくい料理よ。間違いようがないわね。参考までに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'll keep that in mind. Thanks, Sarah. Always good to hear your insights. Well, that's all the time we have for today.",
+      "ja": "心に留めておきます。ありがとうございます、サラさん。いつも洞察に富んだお話、助かります。さて、今日はここまでですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 19.4,
+      "temp_min": 11.6,
+      "rain_probability": 12
+    },
+    "news": [
+      {
+        "title": "Sailor Moon fan club taking applications for 2017, with English sign-up support",
+        "summary": "The Sailor Moon manga debuted 26 years ago, and during the decades since, the franchise has built one of the most passionate fanbases around. So it’s surprising to…",
+        "link": "https://japantoday.com/category/features/sailor-moon-fan-club-taking-applications-for-2017-with-english-sign-up-support"
+      },
+      {
+        "title": "Japan embassy official meets reporter nearly 2 weeks after Russia detention",
+        "summary": "A Japanese Embassy official in Russia conducted a consular visit Monday with a Japanese journalist detained in the country nearly two weeks ago, according to the Japanese Foreign…",
+        "link": "https://japantoday.com/category/national/update2-japan-embassy-official-meets-reporter-nearly-2-weeks-after-russia-detention"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      }
+    ],
+    "wikipedia": {
+      "title": "文化の日",
+      "description": "1946（昭和21）年、日本国憲法が公布されたことを記念して、1948（昭和23）年に制定された国民の祝日。「自由と平和を愛し、文化をすすめる」ことを趣旨としている。"
+    }
+  }
+}
