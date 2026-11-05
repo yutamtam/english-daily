@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T00:07:47.265122+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 5th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう11月5日ですよ。信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Yeah, it is. Looks like rain today.",
+      "ja": "おはよう、アレックス。うん、そうね。今日は雨みたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, it's definitely raining. I just ran in. My coffee almost got soaked.",
+      "ja": "ああ、間違いなく雨ですよ。走って入ってきたばかりで。コーヒーが危うく濡れるところでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Forecast says moderate rain all day. High of 16.5, low 10.9. Hundred percent chance.",
+      "ja": "予報では一日中、並の雨みたいよ。最高気温16.5度、最低10.9度。降水確率100パーセント。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A hundred percent? Wow. My shoes are already drenched. Need more coffee to forget about it.",
+      "ja": "100パーセントですか？わあ。もう靴がびしょ濡れです。忘れるためにコーヒーをもう一杯飲まないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw something in the news about private high school fees. Said they almost doubled.",
+      "ja": "ニュースで私立高校の施設費について見たわ。ほぼ倍になったって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? That's... a lot. I wonder how families manage that.",
+      "ja": "ああ、そうなんですか？それは…大変ですね。家族はどうやってやりくりするんだろう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's expensive. My son's getting close to high school age, actually. Feels like everything keeps going up.",
+      "ja": "高いわよね。うちの息子もそろそろ高校生になる年齢なのよ。何もかも値上がりしている気がするわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's like these costs are just... I don't know, *entrenched* now. Like, they're just part of the system forever.",
+      "ja": "ええ、こういう費用って、もう…なんて言うか、*entrenched*（根付いてる）って感じですよね。もうずっとシステムの一部になってる、みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "\"Entrenched\" means something is firmly established and hard to change.",
+      "ja": "「Entrenched」は、しっかりと確立されていて、変えるのが難しい、ってことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. Hard to change. That's not going to change at my office, either. Always the same budget talk.",
+      "ja": "まさにそれです。変えられない。うちの会社でも、それは変わりませんね。いつも同じ予算の話ばかり。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My sleep has been a bit *tenuous* lately. The baby's cutting a new tooth, I think.",
+      "ja": "最近、僕の睡眠はちょっと*tenuous*（不安定）なんですよ。赤ちゃんが新しい歯が生えてきてるみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah. That's a rough time.",
+      "ja": "あら。それは大変な時期ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it is. Every little sound, I'm up. It makes you jump at everything these days.",
+      "ja": "ええ、そうなんです。ちょっとした物音でも起きちゃって。最近は何にでもびっくりしちゃいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "NHK World also had a piece about Yuki Tsumugi. From Tochigi Prefecture. That unique silk manufacturing.",
+      "ja": "NHKワールドで、結城紬についても記事が出てたわね。栃木県の。あの独特の絹織物よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. Is that like, a famous traditional craft?",
+      "ja": "へえ、それは知りませんでした。有名な伝統工芸品みたいなものですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Very delicate, and takes a long time to make.",
+      "ja": "そうよ。とても繊細で、作るのに時間がかかるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I always imagine those things have a lot of... like, *pomp* around them. Very formal.",
+      "ja": "そういうものって、いつもたくさんの…なんて言うか、*pomp*（華美さ）があるって想像しちゃいます。すごくフォーマルな感じで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "\"Pomp\" is more about showiness or grand ceremonies. For Yuki Tsumugi, it's more about tradition and skill. No big parades for it, usually.",
+      "ja": "「Pomp」は、もっと派手な見せ物とか、盛大な式典のことよ。結城紬の場合は、伝統と技術が大事で。派手なパレードがあるわけじゃないわね、普通は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, okay. Like a... quiet elegance, then? Not like a rock concert.",
+      "ja": "ああ、なるほど。じゃあ…静かな気品、みたいな感じですか？ロックコンサートとは違う。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly.",
+      "ja": "その通りよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see that Gucci owl fan? The one that's super expensive?",
+      "ja": "あのグッチのフクロウの扇子、見ました？めちゃくちゃ高いやつ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It was... an owl.",
+      "ja": "見たわ。あれは…フクロウだったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's kind of cute! But then I saw the price. Who buys a fan for that much money? I'm still buying my shirts on sale.",
+      "ja": "ちょっと可愛いんですよ！でも値段見て。誰があんな高い扇子買うんですか？僕はいまだにセールでシャツ買ってますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, some people do.",
+      "ja": "まあ、買う人もいるんでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My wife would probably just laugh if I showed her that. Maybe for a birthday, I don't know. No, definitely not.",
+      "ja": "妻に見せたら、たぶん笑われるだけでしょうね。誕生日とかに、どうかな。いや、絶対なしだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anyway, today is いいりんごの日.",
+      "ja": "ところで、今日は「いいりんごの日」よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? いいりんご? Is that \"good apple day\"?",
+      "ja": "ああ、そうなんですか？いいりんご？「良いりんごの日」ってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. November 5th. It's because \"ii\" sounds like 1-1, and \"ringo\" for 5. As in 11/5.",
+      "ja": "そうよ。11月5日。「いい」が11で、「りんご」が5。11月5日、ってわけね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's clever. I like apples. My kid just started mashing them up and eating them. It's a mess. But progress!",
+      "ja": "それは面白いですね。僕はりんご好きですよ。うちの子も、最近りんごを潰して食べ始めたんです。めちゃくちゃになるけど。でも進歩だ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like it. My daughter loves apples too. Always has.",
+      "ja": "そうみたいね。うちの娘もりんご大好きよ。昔からずっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's what's happening today on The Daily Tanu-chan Show. Or at least what Alex and Sarah are talking about.",
+      "ja": "さて、今日は「ザ・デイリー・タヌちゃんショー」で、こんな話をしていましたね。というか、アレックスとサラが話していた内容です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah.",
+      "ja": "うん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really do need more coffee. Maybe a rain jacket next time.",
+      "ja": "本当にコーヒーもう一杯必要です。次はレインジャケット着てこようかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You probably do. I'm going to refill my tea.",
+      "ja": "そうした方がいいかもね。私はお茶を入れ直してくるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sounds good. We'll be back tomorrow.",
+      "ja": "いいですね。また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 16.5,
+      "temp_min": 10.9,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Private high school facility fees nearly double in Japan: survey",
+        "summary": "The average facility fees paid by families of students entering private high schools in Japan in April nearly doubled from the previous academic year, according to a survey…",
+        "link": "https://japantoday.com/category/national/private-high-school-facility-fees-nearly-double-in-japan-survey"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      }
+    ],
+    "wikipedia": {
+      "title": "いいりんごの日",
+      "description": "2001年、「いい（11）りんご（5）」の語呂合わせから、青森県が制定。"
+    }
+  }
+}
