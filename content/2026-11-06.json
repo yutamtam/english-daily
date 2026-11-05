@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-05T23:56:26.985508+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 5th, 2026. Can you believe it's already November? Welcome to The Daily Tanu-chan Show.",
+      "ja": "おはようございます、サラさん。2026年11月5日です。もう11月って信じられますか？ザ・デイリー・たぬちゃんショーへようこそ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time really flies, doesn't it?",
+      "ja": "アレックス、おはよう。本当に時間が経つのが早いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's a bit overcast today in Tokyo, isn't it? Not too cold, though. Looks like around 23 degrees high.",
+      "ja": "今日の東京は少し曇り空ですね。でも、そんなに寒くない。最高気温は23度くらいみたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, pretty mild for November. Good for walking around.",
+      "ja": "ええ、11月にしてはかなり穏やかだね。散歩にはいいよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'll take it. As long as it's not raining. My morning coffee is already working its magic.",
+      "ja": "雨じゃなければいいです。朝のコーヒーがもう効いてきました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Did you see the news about Halloween? All the crowds in Tokyo, and police managing everything.",
+      "ja": "ハロウィンのニュース見た？東京のあの人混みと、警察が全部管理してたって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, yeah. I saw some pictures. So many people. I wonder what it's like to be on crowd control duty for something like that. Must be a nightmare.",
+      "ja": "ああ、見ましたよ。写真で。すごい人でしたね。ああいうので群衆整理の仕事ってどんな感じなんでしょう。悪夢みたいだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I think they just want to avoid any accidents. Too many people in one place can be tricky.",
+      "ja": "事故を防ぎたいだけだと思うよ。一か所に人が多すぎると厄介だからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. My kid's still too small for that, but maybe in a few years, we'll try to go to a small local event. Though I don't know if I'm ready for that level of chaos.",
+      "ja": "まあそうですよね。うちの子はまだ小さすぎて無理だけど、数年したら小さい地元のイベントくらいは行ってみるかな。でも、あのレベルの混沌に自分が耐えられるかは分からないです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets easier. You just need a good plan.",
+      "ja": "慣れるよ。いい計画が必要なだけ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Something else I saw in the news: ukiyo-e tarot cards. That's kind of a mix, isn't it? East meets West.",
+      "ja": "他にニュースで見たんですけど、浮世絵タロットカード。なんか面白い組み合わせですよね？東洋と西洋の融合。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that. Tarot cards became popular here after the war, they said. It's interesting how old art forms get new life.",
+      "ja": "ええ、見たよ。タロットカードは戦後に日本で人気になったって書いてあったね。古い芸術形式が新しい命を得るのって面白いことだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know that about tarot cards, actually. My wife's friend is really into them. I don't really get it.",
+      "ja": "タロットカードのこと、実は知らなかったです。妻の友達がすごくハマってるんですけど、僕にはよく分からなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's just for fun for many people, I think. A different way to look at things.",
+      "ja": "多くの人にとっては、ただの遊びだと思うよ。物事を見る別の方法だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And the interior design academy, Machida Hiroko, is launching art prints of national treasures. High-quality digital reproductions.",
+      "ja": "あと、インテリアデザインのアカデミー、町田ひろ子さんが国宝の美術品をプリントにして出すらしいですね。高品質なデジタル複製だとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's interesting. Good for educational purposes too, I imagine. My daughter is studying art history this year, so she might like that.",
+      "ja": "ああ、それは面白いね。教育目的にも良さそう。うちの娘は今年、美術史を勉強しているから、気に入るかもしれない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. You know, sometimes I look at those old artworks and I just can't connect with them. But maybe if it's really high quality, I'd appreciate it more. My sense of art is probably a bit slovenly.",
+      "ja": "そうですね。あの、時々ああいう古い美術品を見ても、なかなかピンとこないんですよね。でも、本当に高品質なら、もっと鑑賞できるのかな。僕の美術に対する感覚は、ちょっとslovelnyかもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Slovenly? You mean, like, careless or untidy?",
+      "ja": "Slovenly？だらしがないとか、乱雑な、ってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Like, I don't put much effort into it. So maybe a good print would help me.",
+      "ja": "ええ、まさに。あんまり力を入れてないっていうか。だから、いいプリントなら僕も興味を持つかも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just means you have different tastes, Alex. Nothing wrong with that.",
+      "ja": "それはただ好みが違うだけだよ、アレックス。悪いことじゃない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, speaking of old things, do you know what today is? November 5th?",
+      "ja": "ああ、古い物といえば、今日が何の日か知ってます？11月5日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Is it a holiday?",
+      "ja": "何か祝日？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Not really, but it's Apartment Day, apparently. On this day in 1910, Japan's first wooden apartment building, the Ueno Club, was finished in Ueno. Five stories, seventy rooms.",
+      "ja": "いや、そうじゃなくて、今日は「アパート記念日」らしいです。1910年のこの日、日本初の木造アパート「上野倶楽部」が上野に完成したんですって。5階建てで70部屋。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Wow, 1910. That's a long time ago. A wooden five-story building sounds a bit... precarious now.",
+      "ja": "へえ、1910年か。ずいぶん昔だね。木造の5階建てって、今だとちょっと…危なそうに聞こえるね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I was thinking that. And a poet, Saijo Yaso, wrote a famous children's song there. A canary song.",
+      "ja": "ええ、僕もそう思いました。そして、詩人の西條八十さんがそこで有名な童謡を書いたらしいですよ。カナリヤの歌。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's nice. Imagine living in one of the first apartments.",
+      "ja": "それは素敵だね。日本で最初のアパートに住むって想像してみてよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can't imagine how small the rooms must have been. I already feel like my current place is shrinking with all the baby stuff. My wife says sometimes she wants to just demolish all the toys.",
+      "ja": "部屋がどれだけ小さかったか想像できないです。うちも今の家が赤ちゃんの物でどんどん狭くなってる気がします。妻はたまに、おもちゃを全部demolishしたいって言ってますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember that feeling. Demolish means to destroy or pull down completely. It can feel like that with kid's toys, yes.",
+      "ja": "その気持ちはよく分かる。Demolishは完全に破壊するとか、取り壊すって意味だね。子どものおもちゃにはそう感じることがあるよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. I just want to, like, clear everything out. Sometimes the mess is a bit uncanny.",
+      "ja": "ええ、まさに。全部片付けたい、って。時々、散らかり方がちょっとuncannyなんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Uncanny? You mean strange or mysterious, in a way that's a bit unsettling?",
+      "ja": "Uncanny？奇妙とか、神秘的で、ちょっと不気味な感じ、ってこと？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, how does it all appear out of nowhere? It's unsettling how much stuff accumulates.",
+      "ja": "ええ、そう。どうしてこんなに物がどこからともなく現れるんだろうって。物がこんなに溜まるのが不気味なんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It just happens. My kids are teenagers now, and they still manage to fill the house with their things.",
+      "ja": "そういうものだよ。うちの子たちはもうティーンエイジャーだけど、それでも家を自分たちの物でいっぱいにするからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess it never ends. All this talk about old buildings and living spaces, it's making me hungry for some reason. I've been craving ramen all week. A really rich, tonkotsu style.",
+      "ja": "終わらないものなんですね。古い建物や住まいの話をしてたら、なんかお腹が空いてきました。今週ずっとラーメンが食べたくて。濃厚な豚骨ラーメン。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, ramen. That's a good craving to have.",
+      "ja": "ああ、ラーメン。それは良い食べたいものだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, but I'm trying to decide if I should go for the super rich, heavy kind, or something lighter. My body isn't as young as it used to be. My kid keeps me up at night, so I need energy.",
+      "ja": "ええ、でも、超濃厚で重いやつにするか、それとももっと軽いのにするか迷ってるんです。体も昔ほど若くないし。子どもが夜中に起こすから、エネルギーも必要で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sometimes a light shio ramen is surprisingly satisfying.",
+      "ja": "たまにはあっさりした塩ラーメンも、驚くほど満足感があるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. Maybe a shio ramen, then. My stomach will probably thank me later. Or maybe my coffee is just wearing off.",
+      "ja": "確かに。じゃあ、塩ラーメンかな。後で胃が感謝してくれるでしょう。それか、単にコーヒーが切れてきただけか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Probably both. I'm going to have another cup of tea.",
+      "ja": "多分両方だよ。私はもう一杯お茶にしようっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, another morning done. Thanks, Sarah.",
+      "ja": "さて、また朝が終わりました。ありがとうございました、サラさん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good one.",
+      "ja": "あなたもね、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 23.8,
+      "temp_min": 13.6,
+      "rain_probability": 12
+    },
+    "news": [
+      {
+        "title": "Tokyo embraces Halloween crowds under tight security by police",
+        "summary": "People took to the streets and participated in events to celebrate Halloween on Saturday in Tokyo, while police officers and local government officials called on the public to…",
+        "link": "https://japantoday.com/category/national/tokyo-embraces-halloween-crowds-under-tight-security-by-police"
+      },
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      }
+    ],
+    "wikipedia": {
+      "title": "アパート記念日",
+      "description": "1910年、東京・上野に日本初の木造アパート「上野倶楽部」が完成した。5階建ての部屋数は70で、詩人の西条八十はここで童謡「かなりあ」を作詞したという。"
+    }
+  }
+}
