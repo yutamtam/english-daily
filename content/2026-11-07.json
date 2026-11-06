@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-06T23:38:15.127197+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 6th, 2026. Another Friday already. Wow.",
+      "ja": "おはようございます、サラさん。2026年11月6日。もう金曜日ですね。早いなぁ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, the weeks fly by, don't they?",
+      "ja": "おはよう、アレックス。うん、本当にあっという間に一週間が過ぎるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They really do. I need this coffee. It's non-negotiable at this point.",
+      "ja": "そうですね。このコーヒーがないとやっていけません。もう必須です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. I've got my tea ready.",
+      "ja": "想像できるわ。私はお茶を用意したよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's pretty chilly outside today. I saw the forecast for Tokyo. Partly cloudy, maybe some rain later?",
+      "ja": "今日は外、かなり肌寒いですね。東京の予報を見たら、一部曇りで、後で雨が降るかもって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, a 29% chance of rain. High of 19.4°C and a low of 9.9°C. So, a bit cool.",
+      "ja": "そうね、降水確率は29%。最高気温が19.4度で最低が9.9度。少し涼しいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Gotta layer up for the little one then. It's always a puzzle to figure out what they need.",
+      "ja": "ですね。うちの子には重ね着させないと。いつも何を着せるか悩むんですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's true. It gets harder when they start moving around more too.",
+      "ja": "それはそうね。もっと動き回るようになると、また大変よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I'm already there. He's into everything. Anyway, did you see that news about the bear?",
+      "ja": "あ、もうその段階ですね。何にでも興味津々で。ところで、あのクマのニュース見ましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The one where the darts didn't work in the factory?",
+      "ja": "工場で麻酔銃が効かなかったっていうやつ？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly! They shot it with those calming darts, I guess, but it just kept going.",
+      "ja": "ええ、まさにそれです！鎮静させるようなダーツを撃ったらしいのに、全然効かなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Those are called tranquilizer darts. They use them to make animals calm or fall asleep for relocation.",
+      "ja": "それはトランキライザー・ダーツって言うのよ。動物を落ち着かせたり、移動のために眠らせたりする薬なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, tranquilizer. I didn't know that. But it still caused a huge mess inside, a real... what's the word? Like, it went wild?",
+      "ja": "あ、トランキライザー。知りませんでした。でも、中で大変なことになったんですよね、まるで…何て言うんでしょう？暴れ回ったって感じ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A rampage. Yes, it was definitely on a rampage. That's when something goes wild and causes a lot of damage.",
+      "ja": "ランページね。そう、まさにランページだったわね。それは、何かが暴れ回って、たくさんの損害を与える状態を言うの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A rampage. That's a good word for it. I hope they figured it out in the end. I mean, it's not like you can just tell a bear to 'take a break.'",
+      "ja": "ランページ。ぴったりの言葉ですね。最終的には解決したといいんですけど。クマに「ちょっと休んで」って言っても聞かないでしょうし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, you can't. Bears are getting closer to populated areas more often now.",
+      "ja": "ええ、無理ね。最近はクマが人里近くに出ることが増えているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I feel like I read this every year. It's not going to change at my office, though. No bears, just deadlines.",
+      "ja": "毎年このニュースを読んでいる気がします。でも、うちの会社では変わらないでしょうね。クマはいないけど、締め切りはありますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's true for most of us.",
+      "ja": "ほとんどの人にとってそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of school, I saw a headline about anime high school versus real high school. That sounded fun.",
+      "ja": "学校といえば、アニメの高校と実際の高校の違いについての見出しを見ました。面白そうでしたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it listed four main differences. Things like the uniforms and clubs, but also how much free time students actually have.",
+      "ja": "ええ、主な違いが4つ挙げられていたわね。制服や部活のこととか、あと生徒が実際にどれくらい自由な時間があるか、とか。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. My kids watch a lot of anime, so they probably think high school is all dramatic entrances and cherry blossoms.",
+      "ja": "ですね。うちの子たちもアニメをたくさん見るから、高校生活ってドラマチックな登場シーンと桜ばっかりだと思ってるかもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine too. They'll find out soon enough.",
+      "ja": "うちもよ。すぐにわかるでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My son, he just started middle school, and he's already complaining about homework. The cherry blossoms are still far away, I told him.",
+      "ja": "うちの息子、中学に入ったばかりなんですけど、もう宿題に文句言ってますよ。桜はまだ遠いぞって言っときました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's how it goes.",
+      "ja": "そんなものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And the last news item I saw was about former Vietnamese Prime Minister Pham Minh Chinh. He was... like, recognized in Japan?",
+      "ja": "あと、最後に見たニュースは、ベトナムの元首相ファム・ミン・チンさんについてでした。日本で、何というか、表彰されたんでしょうか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'decorated' is the word they used. It means he received an honor or an award for his contributions to Japan.",
+      "ja": "ええ、「デコレイテッド」という言葉が使われていたわね。日本への貢献に対して、栄誉や賞を授与されたという意味よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Decorated. Got it. Like how my boss gets a framed certificate every year for 'outstanding leadership.'",
+      "ja": "デコレイテッド。なるほど。うちの部長が毎年「優れたリーダーシップ」で額入りの賞状をもらうのと同じ感じですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Something like that. A bit different context, though.",
+      "ja": "そんな感じね。でも、少し文脈は違うけれど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. Of course. Well, that's it for the news on The Daily Tanu-chan Show this morning.",
+      "ja": "あ、そうですね。もちろん。さて、今朝の『ザ・デイリー・タヌちゃんショー』のニュースはここまでです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Actually, Alex, November 6th is also 'Nabe no Hi,' or Nabe Day, in Japan.",
+      "ja": "アレックス、実は11月6日は日本で「鍋の日」でもあるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Nabe Day? Oh, I love nabe! That's perfect for this weather. Is there a reason it's today?",
+      "ja": "鍋の日ですか？おお、鍋大好きです！この天気にはぴったりですね。今日がその日なのには理由があるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was established by a food company that makes nabe broth. It often falls on Risshu, which is the start of winter according to the old calendar.",
+      "ja": "鍋つゆを作っている食品メーカーが制定したの。旧暦で立冬、つまり冬の始まりにあたることが多い日だからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, makes sense. So, it's about promoting delicious nabe and family time, then?",
+      "ja": "なるほど、納得です。じゃあ、美味しい鍋料理と家族団らんをアピールするため、ってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. They want families to enjoy gathering around a pot of nabe.",
+      "ja": "その通りよ。家族で鍋を囲んで楽しんでもらいたいという願いが込められているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My wife and I try to do that every week. It's sometimes the only time we all sit down together without someone needing something. Even if it's just the three of us.",
+      "ja": "妻と僕は毎週そうしようと心がけています。3人だけでも、誰かが何かを要求することなく、みんなで座れる唯一の時間だったりするんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's nice to have that time. My kids aren't always so keen on sharing the same pot anymore, but we still make it work.",
+      "ja": "そういう時間って大切よね。うちの子たちはもう同じ鍋を囲むことにそこまで熱心ではないけど、それでも何とかやっているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess that's the difference between a one-year-old and a teenager. I'm looking forward to making nabe tonight.",
+      "ja": "1歳児とティーンエイジャーの違いですね。今夜、鍋を作るのが楽しみです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Me too. I might even use some of the daikon I grew in my garden. It's been a good season for root vegetables.",
+      "ja": "私もよ。庭で育てた大根を使ってみようかしら。根菜類には良い季節だったからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You grow daikon? That's amazing. I can barely keep a houseplant alive.",
+      "ja": "大根を育てているんですか？すごいですね。僕は観葉植物を枯らさないようにするだけで精一杯なのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's satisfying to grow your own food. And it's very peaceful.",
+      "ja": "自分で食べ物を育てるのは、やりがいがあるのよ。それに、とても心が落ち着くわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Maybe when my kid is a bit older, we can try something simple. Like cherry tomatoes.",
+      "ja": "想像できます。うちの子がもう少し大きくなったら、何か簡単なものを試してみようかな。ミニトマトとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good start. Well, that's all for today. Have a great weekend, Alex.",
+      "ja": "良いスタートね。さて、今日はここまで。良い週末を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. Enjoy your nabe and your homegrown daikon!",
+      "ja": "サラさんも。鍋と自家製大根を楽しんでくださいね！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 19.4,
+      "temp_min": 9.9,
+      "rain_probability": 29
+    },
+    "news": [
+      {
+        "title": "Video shows tranquilizer failing to subdue bear in factory rampage",
+        "summary": "Footage released earlier this month by a northeastern Japanese city showing tranquilizer darts failing to stop a bear as it rampaged through a local factory has highlighted the…",
+        "link": "https://japantoday.com/category/national/video-shows-tranquilizer-failing-to-subdue-bear-in-japan-factory-rampage"
+      },
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      },
+      {
+        "title": "Ex-Vietnam PM among 99 foreigners decorated in Japan",
+        "summary": "Former Vietnamese Prime Minister Pham Minh Chinh is among the 99 foreign nationals recognized in this year's fall decorations for their contributions to Japan, the government said Tuesday.…",
+        "link": "https://japantoday.com/category/national/chinh-ex-vietnam-prime-minister-among-foreigners-decorated-in-japan"
+      }
+    ],
+    "wikipedia": {
+      "title": "鍋の日",
+      "description": "鍋料理に欠かせないつゆなどを作っている食品メーカーが、立冬であることの多いこの日に制定。鍋物がよりおいしくなる季節をアピールするのと、家族で鍋を囲んで団らんを楽しんでもらおうとの願いを込めたもの。"
+    }
+  }
+}
