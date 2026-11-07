@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-07T22:28:53.316017+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 7th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう11月7日ですよ。信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time goes fast. Here's your tea.",
+      "ja": "おはよう、アレックス。時間は早いね。お茶どうぞ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, thank you. I really need this coffee. I mean, tea. Mine is coffee, of course.",
+      "ja": "あ、ありがとうございます。このコーヒー、本当に必要です。いや、お茶ですね。僕のはもちろんコーヒーです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Of course. It's a nice day out, though. Partly cloudy, but the high is almost 17 degrees.",
+      "ja": "もちろんだよ。でも、外は良い天気だね。曇り時々晴れだけど、最高気温は17度近くあるよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's pretty warm for November. No rain either, which is good. I don't like getting the baby's stroller wet.",
+      "ja": "11月にしては結構暖かいですね。雨も降らないし、それはいいな。ベビーカーが濡れるのは嫌なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's perfect for a walk. Anyway, welcome back to The Daily Tanu-chan Show.",
+      "ja": "そうだね、散歩には最高だ。さて、ザ・デイリー・たぬちゃんショーへようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. So, the news this morning... I saw a report about Halloween in Shibuya. Still lots of people, huh?",
+      "ja": "そうですね。今朝のニュースですが…渋谷のハロウィンの記事を見ました。まだ人がたくさんいたんですね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, there were huge crowds. The police had a lot of security out. It seems like it gets bigger every year.",
+      "ja": "ええ、ものすごい人出だったよ。警察も厳重な警備をしていたね。毎年規模が大きくなっているように感じるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess people really like dressing up. Did you see the Nara deer antler cutting ceremony, too?",
+      "ja": "みんな仮装するのが本当に好きなんでしょうね。奈良の鹿の角切りセレモニーも見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's a tradition that's over 370 years old. They do it to prevent deer from injuring people or damaging trees.",
+      "ja": "見たよ。370年以上続く伝統行事だね。鹿が人や木を傷つけないようにするために行われるんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. It always looks a bit intense, but I guess it's for a good reason.",
+      "ja": "へえ、それは知りませんでした。いつもちょっと激しいように見えますけど、ちゃんと理由があるんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it is. And then there was the news about Chubu Electric Power. They manipulated seismic data.",
+      "ja": "ええ、そうだよ。それから、中部電力のニュースもあったね。地震データを改ざんしていたらしい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I heard about that. Data manipulation, really? Who's the *culprit* there? That's not good for trust.",
+      "ja": "ええ、それ聞きました。データ改ざんって、本当ですか？その*犯人*は誰なんですか？信頼を損ねますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's about the company's system, not one person, though they'll investigate. 'Culprit' means the person or thing responsible for a bad situation.",
+      "ja": "一人の人間というよりは、会社のシステムの問題だね、もちろん調査はされるけど。「犯人」というのは、悪い状況の原因となっている人や物事のことだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. It just feels like a story I read every year, some company doing something like this. It's frustrating.",
+      "ja": "ああ、なるほど。毎年こういう会社のニュースを読む気がします。うんざりしますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes. The industry ministry has ordered them to improve their operations.",
+      "ja": "そうだね。経済産業省は彼らに業務改善命令を出したよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, I hope they do. All this stuff just makes my head spin. I was thinking about the sento this weekend, you know? Just to clear my head.",
+      "ja": "ええ、そう願います。こういうニュースばかりだと、頭が混乱しますね。週末は銭湯に行こうかと思ってたんです、ほら、頭をすっきりさせるために。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good idea. A quiet sento is very relaxing. My son sometimes goes with his friends.",
+      "ja": "それはいい考えだね。静かな銭湯はとてもリラックスできるよ。うちの息子も友達と行くことがあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the feeling of 'totonou' in the sauna, then a cold bath... It just resets everything. It's so quiet.",
+      "ja": "ええ、サウナでの「ととのう」感覚、それから水風呂…全部リセットされるんです。すごく静かだし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds nice. Speaking of things that are good for you, did you know today is 'Good Teeth Day'?",
+      "ja": "いいわね。体に良いことといえば、今日は「いい歯の日」って知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! November 8th, 'ii ha' no hi. I completely forgot. My kid just got another tooth, so it's a constant battle to keep them good.",
+      "ja": "あ、そうか！11月8日で「いい歯」の日。完全に忘れてました。うちの子もまた歯が生えてきて、綺麗に保つのが大変で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's the one. The Japan Dental Association made it. They have an award ceremony called 'Best Smile of the Year'.",
+      "ja": "そう、それ。日本歯科医師会が制定したんだ。「ベストスマイル・オブ・ザ・イヤー」という授賞式があるんだよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Best Smile of the Year, huh? I drink so much coffee, I probably *vex* my dentist. I should probably brush more.",
+      "ja": "ベストスマイル・オブ・ザ・イヤー、ですか。僕、コーヒーをたくさん飲むから、歯医者さんを*悩ませて*いるかもしれませんね。もっと歯磨きしないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Vex' means to annoy or bother someone a lot. Yes, your teeth might vex your dentist if you don't take care of them.",
+      "ja": "「Vex」は、誰かをひどくイライラさせたり、困らせたりするという意味だよ。そうね、歯のケアをしないと歯医者さんを悩ませることになるかもね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I'll remember that. I need to make sure my little one has a great smile too.",
+      "ja": "そうですね。覚えておきます。うちの子にも素敵な笑顔を持たせてあげないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, good dental habits start young. My daughter always used to complain about brushing her teeth.",
+      "ja": "ええ、良い歯の習慣は幼い頃からが大切だね。うちの娘もよく歯磨きを嫌がってたよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Well, that's it for today, I guess. Time to go get some actual work done.",
+      "ja": "想像できます。まあ、今日はこれで終わりですかね。そろそろ実際の仕事に取り掛からないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds good. Have a good one, Alex.",
+      "ja": "そうだね。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. See you tomorrow.",
+      "ja": "サラさんも。また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Partly cloudy",
+      "temp_max": 16.8,
+      "temp_min": 8.8,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Traditional deer antler-cutting ceremony held in Nara Park",
+        "summary": "A traditional event of cutting the antlers of deer, a custom passed down for over 370 years since the Edo period, was held Saturday in Nara Park.\nIn…",
+        "link": "https://japantoday.com/category/national/traditional-deer-antler-cutting-ceremony-held-in-nara-park"
+      },
+      {
+        "title": "Tokyo embraces Halloween crowds under tight security by police",
+        "summary": "People took to the streets and participated in events to celebrate Halloween on Saturday in Tokyo, while police officers and local government officials called on the public to…",
+        "link": "https://japantoday.com/category/national/tokyo-embraces-halloween-crowds-under-tight-security-by-police"
+      },
+      {
+        "title": "Chubu Electric ordered to improve operations after nuclear plant data fraud",
+        "summary": "Japan's industry ministry on Friday ordered Chubu Electric Power Co to improve operations following its manipulation of seismic data during screening for the restart of reactors at the…",
+        "link": "https://japantoday.com/category/national/update1-chubu-electric-ordered-to-improve-operations-after-nuclear-plant-data-fraud"
+      }
+    ],
+    "wikipedia": {
+      "title": "いい歯の日",
+      "description": "「いい（11）は（8）」の語呂合わせから、日本歯科医師会が制定。「『いい歯で、いい笑顔』を日本中に。」をキャッチフレーズにした「ベストスマイル・オブ・ザ・イヤー」の授賞式が行われる。"
+    }
+  }
+}
