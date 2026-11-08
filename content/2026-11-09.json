@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T22:39:14.040728+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. What a day, huh? November 8th already.",
+      "ja": "おはようございます、サラさん。すごい一日ですね。もう11月8日か。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It really is. Looks like rain today.",
+      "ja": "おはよう、アレックス。そうだね。今日は雨が降りそうだね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the forecast said almost 100% chance. And cold. My little one is going to need extra layers.",
+      "ja": "うん、予報だとほぼ100%だって。しかも寒い。うちの子は重ね着が必要になりそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. It's supposed to be about 10 degrees high. My kids will probably just wear T-shirts anyway.",
+      "ja": "そうだね。最高気温は10度くらいみたいだし。うちの子たちはどうせTシャツだろうけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ugh, I'm going to need a lot of coffee today. Couldn't sleep well. The baby was up a few times.",
+      "ja": "うー、今日はコーヒーがたくさん必要になりそうです。よく眠れなかったんです。赤ちゃんが何回か起きて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just tea for me. I was out in the garden this morning, checking on the winter vegetables. My daikon is finally getting big.",
+      "ja": "私は紅茶でいいわ。今朝は庭に出て、冬野菜の様子を見てたの。大根がやっと大きくなってきたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's nice. I don't really have a green thumb. I guess it's satisfying to grow your own food, though.",
+      "ja": "ああ、それはいいですね。僕、園芸は苦手なんです。でも、自分で育てたものを食べるのは満足感がありそうですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Did you see that news about the Japan space probe? Taking Mercury images next spring.",
+      "ja": "ええ、そうよ。日本の宇宙探査機に関するニュース、見た？来春に水星の画像を撮影するって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I did! That sounds amazing. What exactly is a 'probe' in this context? Like, a really advanced camera?",
+      "ja": "見ました！それはすごいですね。「探査機（probe）」って、この文脈だと具体的に何ですか？すごく高性能なカメラみたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a kind of unmanned spacecraft or device that's sent into space to explore and gather information.",
+      "ja": "無人の宇宙船や装置の一種で、宇宙を探査したり情報を収集したりするために送られるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. So it's not just a camera, it's a whole package. That's pretty cool.",
+      "ja": "へえ、知らなかったです。カメラだけじゃなくて、全部入りのパッケージなんですね。かなりクールです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And the traditional deer antler-cutting ceremony in Nara. Over 370 years it's been happening.",
+      "ja": "それから、奈良の伝統的な鹿の角切り行事。370年以上も続いているそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, that's a long time. Must be a real spectacle. Do they just, like, tackle the deer and do it?",
+      "ja": "すごい、そんなに長い間。見応えがありそうですね。鹿を捕まえて、こう、タックルしてやるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do it carefully, for safety, and also to protect the trees in the park from damage.",
+      "ja": "安全のために慎重に行うのよ。あと、公園の木々を傷つけないためでもあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, right. I was just imagining them wrestling a deer. Probably not like that. Anyway, you know, this is The Daily Tanu-chan Show.",
+      "ja": "ですよね、ですよね。鹿と格闘してるのを想像しちゃいました。たぶん、そんな感じじゃないですよね。ところで、ここが『The Daily Tanu-chan Show』です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Indeed. And there was also something about a designer, Keisuke Unosawa, making the 'ordinary extraordinary.'",
+      "ja": "ええ、そうね。あと、デザイナーの宇野澤啓介さんが「OrdinaryをExtraordinaryにする」という記事もあったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds interesting. I wish I could make my sales reports 'extraordinary.' Maybe I need a new *repertoire* of skills. What does 'repertoire' mean, exactly?",
+      "ja": "それは面白そうですね。僕も営業報告書を「並外れたもの」にしたいです。もしかしたら、新しいスキル『レパートリー』が必要なのかも。この『レパートリー』って、正確にはどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A repertoire is a collection of skills, pieces, or actions that a person or group can perform.",
+      "ja": "レパートリーというのは、個人やグループが実行できるスキルや演目、行動の集まりのことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like a set of things you know how to do. Got it. Yeah, I need a bigger repertoire for sure. And more coffee.",
+      "ja": "ああ、できることのセットみたいな感じですね。分かりました。うん、確かに僕にはもっとレパートリーが必要です。それと、もっとコーヒーも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of important things, today is '119-ban no hi.' The fire department's day.",
+      "ja": "大事なことといえば、今日は「119番の日」なのよ。消防庁が定めた日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, is that because 119 is the emergency number for fires and ambulances here in Japan?",
+      "ja": "ああ、それは日本で火事や救急車の緊急電話番号が119番だからですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. It's a day to raise awareness about fire prevention and disaster preparedness.",
+      "ja": "その通りよ。火災予防と防災意識を高めるための日なの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a good idea. My wife's always telling me to check the smoke detectors. I guess I should actually do it.",
+      "ja": "それはいいですね。妻がいつも煙探知機をチェックしろって言ってるんです。ちゃんとやらないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's always good to be prepared.",
+      "ja": "備えあれば憂いなし、よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. My little one is just getting into everything these days, you know? Climbing, opening drawers. It's a full-time job keeping up.",
+      "ja": "ええ。うちの子、最近は何にでも興味津々で。登ったり、引き出しを開けたり。目を離せないんです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They keep you busy at that age.",
+      "ja": "その年頃は本当に手がかかるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Well, another rainy day ahead. Better get that coffee.",
+      "ja": "全くです。さて、また雨の日が続きそうです。コーヒー飲まないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good one, Alex.",
+      "ja": "良い一日を、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 10.6,
+      "temp_min": 7.8,
+      "rain_probability": 96
+    },
+    "news": [
+      {
+        "title": "Japan space probe aims to capture its 1st Mercury images next spring",
+        "summary": "Japan's Mercury probe Mio, part of the Japan-Europe joint Mercury exploration mission BepiColombo, is on course to attempt to take its first images of Mercury next spring after…",
+        "link": "https://japantoday.com/category/national/japan-space-probe-aims-to-capture-its-1st-mercury-images-next-spring"
+      },
+      {
+        "title": "Traditional deer antler-cutting ceremony held in Nara Park",
+        "summary": "A traditional event of cutting the antlers of deer, a custom passed down for over 370 years since the Edo period, was held Saturday in Nara Park.\nIn…",
+        "link": "https://japantoday.com/category/national/traditional-deer-antler-cutting-ceremony-held-in-nara-park"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      }
+    ],
+    "wikipedia": {
+      "title": "119番の日",
+      "description": "1987（昭和62）年、自治省消防庁が消防発足40年を記念して、一般の人に防火・防災の意識を高めてもらうことを目的に制定。日付は、火災通報の電話番号「119番」にちなんだもの。"
+    }
+  }
+}
