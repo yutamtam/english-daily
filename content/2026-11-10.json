@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T01:52:13.541997+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 10th, 2026. Can't start without coffee.",
+      "ja": "おはようございます、サラさん。2026年11月10日。コーヒーがないと始まらないね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. My tea is ready.",
+      "ja": "おはよう、アレックス。私の紅茶はもう準備できてるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's really coming down out there today. Like a proper Tokyo rain.",
+      "ja": "今日はすごい雨だね。まさに東京の雨って感じ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, the forecast said 100% chance. And it's pretty cold, too. Just 11 degrees.",
+      "ja": "ええ、予報でも降水確率100%って言ってたし。それに、かなり寒いしね。たった11度だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I almost regret leaving the apartment. Getting the baby ready was a whole operation in this weather.",
+      "ja": "でしょ？アパート出るの、後悔しそうになったよ。この天気だと、赤ちゃんを準備させるのが大変でさ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of Tokyo, I saw a headline about new crematoriums. Apparently, there's surging demand.",
+      "ja": "東京の話だけど、新しい火葬場の記事を見かけたわ。どうやら需要が急増してるらしいの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right. The aging population. I feel like I read about that every year. It's... not going to change at my office, I guess.",
+      "ja": "ああ、高齢化社会ね。毎年読んでる気がするよ、この手のニュース。うちの会社では…変わらないだろうな、たぶん。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a practical problem, though. Not just a demographic trend.",
+      "ja": "でも、単なる人口動態のトレンドじゃなくて、現実的な問題なのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I suppose so. It just sounds a bit... stark, for a Tuesday morning.",
+      "ja": "うん、まあ、そうなんだろうね。なんかちょっと…火曜の朝には生々しいっていうか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, here's something a bit different. They rediscovered a long-lost ukiyoe painting. It's getting a lot of international attention.",
+      "ja": "まあ、じゃあ、ちょっと違う話題を。行方不明だった浮世絵が再発見されたらしいわよ。国際的にかなり注目されてるって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? That's kind of amazing, actually. Which one?",
+      "ja": "へえ、そうなの？それ、結構すごいね、実は。どの絵？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's called 'Ladies in Fukagawa Preparing for...' something. Shows 26 courtesans.",
+      "ja": "『深川の娘たち準備中』だったかしら。26人の遊女が描かれているそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 26. I wonder what kind of details they found. I only ever do a pretty quick, you know, *cursory* search when I look up art online. Just a quick glance.",
+      "ja": "うわ、26人か。どんな詳細がわかったんだろう。僕がオンラインでアートを調べるときは、いつもかなりざっと、ね、*cursory*な検索しかしないんだ。パッと見るだけ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A cursory look just means a quick, not very thorough one. You skim the surface.",
+      "ja": "『cursory』は、手早く、あまり徹底的ではない、って意味よ。表面をざっと見る感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, right. That's exactly it. I never dig deep. My brain just jumps to the next thing.",
+      "ja": "ああ、そうか。まさにそれだ。深く掘り下げないんだよな。すぐ次のことに気が移っちゃうんだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, speaking of things I just glance at... I saw it's 'Elevator Day' today. November 10th.",
+      "ja": "そういえば、僕がざっと見るものと言えば…今日、『エレベーターの日』らしいよ。11月10日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Elevator Day? Oh, I didn't know that. What's the reason?",
+      "ja": "エレベーターの日？あら、それは知らなかったわ。なんで？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Apparently, the first electric elevator in Japan was shown today in 1890. In Asakusa's Ryounkaku building.",
+      "ja": "どうやら、1890年の今日、浅草の凌雲閣で日本初の電動エレベーターが公開されたのを記念して、だって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's quite a long time ago. Asakusa, of course. Always first with new things.",
+      "ja": "随分昔の話ね。浅草、もちろんね。いつも新しいものを取り入れるのが早いわよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I guess it makes sense. I actually had a bit of a *predicament* with our elevator yesterday.",
+      "ja": "うん。確かに。実は昨日、うちのエレベーターでちょっとした*predicament*があってさ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A predicament?",
+      "ja": "predicament？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. The baby's stroller wouldn't fit. I mean, it fits, but it's so tight. And then my bag. It felt like a real sticky situation.",
+      "ja": "うん。赤ちゃんのベビーカーが入らなくて。いや、入るんだけど、すごくきつくて。で、僕のバッグもあってさ。本当に厄介な状況って感じだった。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A predicament is just a difficult or unpleasant situation. Like a tight spot.",
+      "ja": "『predicament』は、ただ困難な、あるいは不快な状況のことよ。窮地、みたいな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! A tight spot. I was trying to hold the door, push the stroller, and my coffee almost spilled. It was a whole thing.",
+      "ja": "まさに！窮地だよ。ドアを押さえながら、ベビーカーを押して、コーヒーもこぼれそうになって。もう大変だったんだよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sounds like a typical morning with a little one. My kids are teenagers now, but I still remember those days.",
+      "ja": "小さい子がいたらよくある朝の出来事ね。うちの子たちはもうティーンエイジャーだけど、あの頃はまだ覚えてるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you remember? I feel like I'm always in some kind of mini-crisis. Is it always like that?",
+      "ja": "あ、覚えてる？僕、いつも何かしらのミニ危機に陥ってる気がするよ。いつもこんな感じなのかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It gets different. Not necessarily easier.",
+      "ja": "変わっていくわよ。必ずしも楽になるわけじゃないけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "...Right. Good to know.",
+      "ja": "…なるほど。参考になるな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Anyway, another news item – did you see the one about Yuki Tsumugi silk from Tochigi? It's a traditional craft.",
+      "ja": "ところで、別のニュースなんだけど、栃木の結城紬の話題見た？伝統工芸品なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. Tochigi, huh? I just picture mountains and farms there.",
+      "ja": "へえ、知らなかった。栃木かあ。山と農場しか思い浮かばないんだよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. It's a unique way of making silk, very intricate. It's nice to see these traditions getting attention.",
+      "ja": "ええ、そうなのよ。とても繊細で、独特な絹の作り方なの。こういう伝統が注目されるのは良いことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds interesting. I should read up on it. Maybe when I get a moment to myself. Which isn't often these days.",
+      "ja": "それは面白そうだね。ちょっと調べてみようかな。自分だけの時間ができたら、だけど。最近はあまりないけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, I hope your elevator situation improves, Alex.",
+      "ja": "まあ、アレックスのエレベーターの状況が良くなることを願うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Me too. At least I have this coffee. Thanks, Sarah. This is The Daily Tanu-chan Show for November 10th, 2026.",
+      "ja": "僕も。せめてこのコーヒーがあるからね。ありがとう、サラさん。以上、2026年11月10日、ザ・デイリー・タヌちゃんショーでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a good day, everyone.",
+      "ja": "皆さん、良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Slight rain",
+      "temp_max": 11.6,
+      "temp_min": 7.9,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Tokyo to build new crematoriums to meet surging demand",
+        "summary": "There has been a lot of talk about the aging population in Japan and how it’s affecting society and the economy. But a more immediate concern is how…",
+        "link": "https://japantoday.com/category/national/tokyo-to-build-new-crematoriums-to-meet-surging-demand"
+      },
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      }
+    ],
+    "wikipedia": {
+      "title": "エレベーターの日",
+      "description": "1890（明治23）年のこの日、東京・浅草の12階建ての凌雲閣で、日本初の電動エレベーターが公開されたことを記念して、日本エレベーター協会が制定。"
+    }
+  }
+}
