@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-12T23:57:33.148667+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, another Thursday. Feels like the week just started.",
+      "ja": "おはようございます、サラさん。もう木曜日ですね。今週始まったばかりな気がするのに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, it does. You look like you need that coffee.",
+      "ja": "おはよう、アレックス。そうね。そのコーヒーが必要な顔してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. The baby decided 4 AM was playtime last night. My internal clock is completely off.",
+      "ja": "もちろんです。昨夜はうちの子が朝4時を遊びの時間だと決めたみたいで。体内時計が完全に狂ってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Sleep is always a challenge with little ones. It gets better, I promise.",
+      "ja": "小さい子がいると睡眠はいつも大変ね。でも良くなるわ、約束する。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Anyway, it's November 12th, 2026. Did you see the weather forecast for Tokyo today?",
+      "ja": "だといいな。ところで、今日は2026年11月12日です。今日の東京の天気予報見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Mostly clear, a high of almost 20 degrees. Nice for a change.",
+      "ja": "見たわ。ほぼ快晴で、最高気温は20度近く。たまにはいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, no rain, 0% chance. I'm glad it's not freezing yet. I hate getting up when it's really cold.",
+      "ja": "ええ、雨も降らないし、降水確率0%。まだ凍えるほど寒くなくてよかった。すごく寒い日の朝は起きるのが嫌で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The temperature swings are getting more extreme each year, though. My kids complain about what to wear every morning.",
+      "ja": "でも、毎年寒暖差が激しくなってるわね。うちの子たちは毎朝、何を着るかで文句を言ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Speaking of complaints, did you see the news about job hunting? Students are checking companies' sexual harassment measures.",
+      "ja": "想像できます。文句といえば、就職活動のニュース見ました？学生が企業のセクハラ対策をチェックしているとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I did. Nearly 75 percent. It's a positive development, I think.",
+      "ja": "ええ、見ました。約75％ね。良い進展だと思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I mean, when I was looking for a job, that wasn't really a conversation we had. Or maybe it was, and I just wasn't paying attention?",
+      "ja": "僕が就職活動してた頃は、そういう話はあまりしなかったですよ。というか、してたのかもしれないけど、僕が注意してなかっただけかな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It wasn't as openly discussed. Sometimes people were afraid that asking about it would actually `curtail` their chances of being hired.",
+      "ja": "そこまでオープンに話されてなかったわね。質問すると、採用される可能性を『curtail』してしまうんじゃないかって、恐れている人もいたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, `curtail`? What does that mean, exactly?",
+      "ja": "あ、『curtail』？それはどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to reduce or limit something. So, they thought it would limit their opportunities.",
+      "ja": "何かを減らす、または制限するという意味よ。だから、自分の機会を制限してしまうと思っていたのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I see. So, it's good that students feel more comfortable asking now. That's a real change.",
+      "ja": "なるほど。じゃあ、今学生たちがもっと気軽に聞けるようになったのは良いことですね。大きな変化だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. It shows companies need to take these issues seriously.",
+      "ja": "ええ、間違いなく。企業がこれらの問題を真剣に受け止める必要があることを示しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Another bit of news, NTT Docomo's 5G service is mostly restored across Japan. I didn't even know it was down.",
+      "ja": "もう一つニュースで、NTTドコモの5Gサービスが日本中でほぼ復旧したそうです。僕、止まってたことすら知らなかったな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine was fine, but my son was in an `uproar` about it yesterday. He couldn't stream his video game properly.",
+      "ja": "私のは大丈夫だったけど、うちの息子は昨日、それについて『uproar』だったわ。ちゃんとゲームのストリーミングができなかったみたいで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "An `uproar`? Like, really loud and angry?",
+      "ja": "『uproar』？すごく騒がしくて怒ってたってことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, exactly. A big noise or strong reaction, often from many people, but in this case, just one frustrated teenager.",
+      "ja": "そう、まさに。大きな騒ぎや強い反応のことね。たいていは多くの人からだけど、この場合は、イライラした一人のティーンエイジャーからだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Haha, I know the feeling. My little one makes an uproar if his toy rolls just out of reach. Same energy.",
+      "ja": "はは、分かります。うちの子も、おもちゃがちょっと手の届かないところに転がっていっただけで大騒ぎします。同じエネルギーだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Pretty much.",
+      "ja": "大体ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Alright, welcome back to The Daily Tanu-chan Show. One last headline: Japan is giving coastal radar and drones to the Philippines under a $27 million security deal.",
+      "ja": "さて、The Daily Tanu-chan Showへようこそ。最後のヘッドラインです：日本が2700万ドルの安全保障協定の下、フィリピンに沿岸監視レーダーとドローンを提供するそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an important region. Security partnerships are becoming more common.",
+      "ja": "重要な地域だからね。安全保障上の提携はますます一般的になってきているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. Oh, you know, today is Urushi Day.",
+      "ja": "ええ、そうですね。あ、そういえば、今日は『うるしの日』だそうですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. To celebrate traditional Japanese lacquerware.",
+      "ja": "そうね。日本の伝統的な漆器を祝う日よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I didn't know there was a specific day. Why November 12th?",
+      "ja": "特定の日があるとは知りませんでした。なぜ11月12日なんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Apparently, it's the day Prince Korechika taught lacquer-making methods in Arashiyama, way back in the Heian period.",
+      "ja": "どうやら、平安時代に文徳天皇の第一皇子、惟喬親王が嵐山で漆の製法を伝授した日とされているのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, that's really old history. I should probably try to appreciate real lacquerware more. It's so beautiful.",
+      "ja": "わあ、それは本当に古い歴史ですね。本物の漆器をもっと鑑賞するようにしないと。本当に美しいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It takes incredible skill. I always admire the patience.",
+      "ja": "信じられないほどの技術が必要なのよ。私はいつもその忍耐力に感心するわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Patience is something I don't have much of these days. I'm always trying to find ways to save time, especially with dinner. I reheated instant curry for myself last night.",
+      "ja": "忍耐力は最近あまり持ち合わせてないですね。いつも時間を節約する方法を探しています、特に夕食で。昨夜は自分用にインスタントカレーを温めました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I made a big pot of vegetable stew over the weekend. It's so helpful to have something ready when you get home late.",
+      "ja": "私は週末に野菜シチューを大きな鍋いっぱいに作ったわ。遅く帰宅したときに、すぐに食べられるものがあるのは本当に助かるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's smart. I should try doing that. My wife usually cooks, but when she's busy, it's just me and my instant curry.",
+      "ja": "それは賢いですね。僕もそれ試してみようかな。妻がいつも料理してくれるんですが、彼女が忙しいときは、僕とインスタントカレーだけなので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is efficient.",
+      "ja": "効率的よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Well, I should probably go check my schedule before I forget everything.",
+      "ja": "ええ。さて、全部忘れる前に、そろそろ自分のスケジュールを確認しないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good idea. I have a meeting in five minutes.",
+      "ja": "良い考えね。私も5分後に会議があるわ。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 19.9,
+      "temp_min": 8.0,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "75% of students assess firms' sexual harassment measures during job hunting",
+        "summary": "Nearly 75 percent of university and graduate students consider the adequacy of a company's sexual harassment measures when choosing an employer, a recent survey by a cram school…",
+        "link": "https://japantoday.com/category/national/75-of-students-assess-firms%27-sexual-harassment-measures-during-job-hunting"
+      },
+      {
+        "title": "NTT Docomo says 5G SA service mostly restored across Japan",
+        "summary": "NTT Docomo Inc said Wednesday it had restored most of its 5G standalone mobile service following disruptions across Japan, although some customers were still experiencing problems.\nThe major…",
+        "link": "https://japantoday.com/category/national/update1-ntt-docomo-says-mobile-service-disrupted-across-japan"
+      },
+      {
+        "title": "Japan to provide coastal radar and drones to Philippines under $27 mil deal",
+        "summary": "Japan said it will provide a coastal surveillance radar system and unmanned aircraft to the Philippines under a security deal signed Monday, as the two defense partners face…",
+        "link": "https://japantoday.com/category/national/japan-to-provide-coastal-radar-and-drones-to-the-philippines-under-27m-deal"
+      }
+    ],
+    "wikipedia": {
+      "title": "うるしの日",
+      "description": "日本の伝統工芸である「漆（うるし）」の美しさを知ってもらおうと、日本漆工芸協会などが制定。日付は、平安時代、文徳天皇の第一皇子・惟喬親王が京都・嵐山で漆の製法を伝授した日とされている。"
+    }
+  }
+}
