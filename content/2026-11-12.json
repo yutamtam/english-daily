@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T01:17:20.131925+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Another Thursday, huh? November 12th already.",
+      "ja": "おはようございます、サラさん。また木曜日ですね。もう11月12日か。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. It is. How's your coffee today?",
+      "ja": "おはよう、アレックス。そうね。今日のコーヒーはどう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Necessary. Always necessary. Especially after... well, a night. My little one is really into a new 'standing in the crib and yelling' phase.",
+      "ja": "必要不可欠です。いつだってね。特に…まあ、夜を過ごした後だから。うちの子が最近、「ベビーベッドに立って叫ぶ」という新しいフェーズに入りまして。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those. My son did that around that age too. It passes.",
+      "ja": "それ、覚えてるわ。うちの息子もそのくらいの歳でそうだったわね。そのうち終わるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Anyway, it looks like a pretty clear day out there. I didn't even check the weather.",
+      "ja": "だといいんですけどね。ところで、外はすごく晴れてるみたいですね。天気、全然見てなかったです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. Mainly clear. High of 17.8 degrees, low of 7.7. And no rain, zero percent chance.",
+      "ja": "そうね。ほぼ快晴よ。最高気温は17.8度、最低は7.7度。雨の心配もないわ、降水確率ゼロパーセント。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. My kid loves being outside, but if it's wet, it's a whole thing getting him bundled up and then dried off.",
+      "ja": "それは良かった。うちの子は外で遊ぶのが大好きなんですけど、濡れてると、着込ませて、また乾かすのが大変で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah. It's nice to just be able to go out without thinking about it.",
+      "ja": "ええ。何も考えずに出かけられるのはいいわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see that news about the Ground Self-Defense Force? The intelligence unit secretly profiling citizens. That's... kind of intense.",
+      "ja": "陸上自衛隊のニュース見ました？情報部隊が市民を秘密裏にプロファイリングしてたって。あれは…ちょっと過激ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It's concerning when personal information is collected without consent. Especially things like beliefs or sexual preference.",
+      "ja": "見たわ。個人の情報が同意なく収集されるのは気になるわね。特に信条とか性的嗜好なんて。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I mean, who knows what they do with that data. It makes you feel a bit exposed, doesn't it? Like, are we all being watched?",
+      "ja": "そうですよね？一体そのデータをどうしてるのか。なんか、ちょっと晒されてる気分になりますよね？僕たち、みんな監視されてるのかなって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I imagine it's always been something that happens to some extent. Just not openly discussed.",
+      "ja": "ある程度は常に起こっていたことだと思うわ。ただ、公には話されていなかっただけで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm. I guess so. And then the government hiring a comedy agency to explain defense spending. That's, uh, something. I don't think that's going to change how my boss talks about budget cuts, though.",
+      "ja": "うーん、そうかもしれませんね。あと、政府が防衛費の説明にコメディ事務所を雇うって。それは、ええと、なんというか。でも、それじゃうちの上司が予算削減について話す内容が変わるとは思えないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an interesting approach. Trying to make a complex issue more accessible to the public, I suppose.",
+      "ja": "面白いアプローチね。複雑な問題を一般の人にもっと分かりやすくしようとしているんでしょうけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, but I bet there are some really disgruntled ex-members spilling these secrets. Like, 'We're going to tell everyone!'",
+      "ja": "ええ、でも、きっと不満を持った元隊員たちが、こういう秘密を漏らしてるんでしょうね。「みんなにバラしてやる！」みたいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Disgruntled means they're unhappy and annoyed about something, usually because they feel unfairly treated.",
+      "ja": "「不満を持った」というのは、何かについて不満やイライラを感じている状態のことよ。たいてい、不公平に扱われていると感じているからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, makes sense. They're probably really unhappy with how things work. But it's hard to prove those kinds of stories, isn't it? Just ex-members talking.",
+      "ja": "ああ、なるほど。彼らはきっと、現状のやり方にすごく不満があるんでしょうね。でも、ああいう話って、証明するのが難しいですよね？元隊員たちが話してるだけだと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's hard to corroborate those stories, yes. You'd need more evidence.",
+      "ja": "そういう話を裏付けるのは難しいわね。もっと証拠が必要でしょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Corroborate? What does that mean?",
+      "ja": "「裏付ける」？どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to confirm or support a statement or theory with evidence. To prove it's true.",
+      "ja": "発言や説を証拠で確認したり支持したりすることよ。それが本当だと証明する、ということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. So like, prove it's actually happening. That makes sense.",
+      "ja": "ああ、なるほど。実際にそれが起こっていると証明する、ってことですね。腑に落ちました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "On a lighter note, did you see the hip-hop dancing granny? The 'Rice Dance' video.",
+      "ja": "明るい話題だけど、ヒップホップを踊るおばあちゃんのニュース見た？「ライスダンス」の動画。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I did! That was great. My kid just learned to sort of clap along to music. Not quite hip-hop yet, but we're working on it.",
+      "ja": "ああ、見ましたよ！あれ、最高でしたね。うちの子も、やっと音楽に合わせて手拍子できるようになって。まだヒップホップとはいかないけど、練習中です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good start. My daughter loves watching dance videos online. She keeps trying to teach me moves.",
+      "ja": "良いスタートね。うちの娘もオンラインでダンス動画を見るのが好きなのよ。私に振り付けを教えてくれようとするんだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds fun. I can only imagine. Hey, speaking of things I just remembered, today is 皮膚の日, right? Good Skin Day?",
+      "ja": "楽しそうですね。想像できます。ねえ、今思い出したんですけど、今日って皮膚の日ですよね？「いい皮膚の日」？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. November 12th. 'I-I Hi-Fu' in Japanese. The Japan Clinical Dermatology Association made it back in 1989. They often have free skin checks and lectures around this time of year.",
+      "ja": "そうよ。11月12日。「いい（11）ひふ（12）」の語呂合わせね。1989年に日本臨床皮膚科医会が制定したの。毎年この時期に、無料の皮膚検診や講演会をよく開催しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Huh. I didn't know that. Maybe I should go. My hands get so dry from washing them all the time with the baby.",
+      "ja": "へえ。知らなかったです。行ってみようかな。うちの子がいるから、いつも手を洗ってるせいで、手がすごく乾燥するんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do get dry. Mine too, sometimes. Tea helps.",
+      "ja": "乾燥するわよね。私も時々。お茶を飲むといいわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess I'll have to stick with my coffee. Maybe I'll add some extra moisturizer. We're already running a bit behind on lotion for the baby.",
+      "ja": "僕はコーヒーで乗り切るしかないですね。多分、保湿剤を多めに塗ろうかな。うちの子のローションも、もうちょっとでなくなりそうなんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Always something to keep track of with little ones.",
+      "ja": "小さい子がいると、いつも何かを気にかけてないといけないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Always. Alright, well, another day begins on The Daily Tanu-chan Show. Hope everyone has good skin today.",
+      "ja": "常にですね。さて、それでは『The Daily Tanu-chan Show』、今日一日も始まりました。皆さん、今日一日、良いお肌でありますように。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And a good day. Enjoy the clear weather.",
+      "ja": "そして良い一日を。晴天を楽しんでね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. See you later.",
+      "ja": "サラさんもね。また後で。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 17.8,
+      "temp_min": 7.7,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Japan Ground Self-Defense Force intelligence unit secretly profiled citizens: ex-members",
+        "summary": "he Japanese Ground Self-Defense Force's intelligence unit secretly profiled citizens using a wide-ranging checklist that included beliefs, ideologies and sexual preference, raising possible violations of the personal information…",
+        "link": "https://japantoday.com/category/national/update1-japan-ground-defense-force%27s-intelligence-unit-secretly-profiled-citizens"
+      },
+      {
+        "title": "Japanese gov't hires leading comedy agency to explain national defense spending",
+        "summary": "One thing Prime Minister Sanae Takaichi has been hard at work at is amending the constitution of Japan to give the military more freedom to take action in…",
+        "link": "https://japantoday.com/category/national/japanese-government-hires-leading-comedy-agency-to-explain-national-defense-spending"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      }
+    ],
+    "wikipedia": {
+      "title": "皮膚の日",
+      "description": "1989（平成元）年、「いい（11）ひふ（12）」の語呂合わせから、日本臨床皮膚科医会が制定。毎年「皮膚の日」の前後の時期に全国で、無料の講演会や皮膚検診、相談会を多数開催している。"
+    }
+  }
+}
