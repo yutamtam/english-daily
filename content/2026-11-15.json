@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-14T22:51:35.322302+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 14th. Another Friday, already.",
+      "ja": "おはようございます、サラさん。11月14日。もう金曜日ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Feels like it was Monday just yesterday, doesn't it? What's in your mug today?",
+      "ja": "おはよう、アレックス。昨日が月曜日だった気がするわね。今日のマグカップの中身は？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Just my usual coffee. Can't start the day without it. I swear I'm half-asleep until I get the first sip.",
+      "ja": "いつものコーヒーです。これなしでは一日が始まりません。最初のひと口を飲むまで、半分寝てる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. My tea is doing its job. It's a bit chilly out there, but the sky is quite clear.",
+      "ja": "わかるわ。私の紅茶はちゃんと仕事してるけど。外は少し肌寒いけど、空はかなり澄んでるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it's nice. Good for a walk, if you have time. Which I don't. Anyway, welcome to The Daily Tanu-chan Show! Let's see what's new today.",
+      "ja": "ええ、いい天気ですね。散歩にはいいけど、時間がないです。とにかく、ザ・デイリー・タヌちゃんショーへようこそ！今日のニュースを見ていきましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "First up, NHK World has a piece on ukiyo-e tarot cards. It says they’re popular divination tools.",
+      "ja": "まず、NHKワールドが浮世絵のタロットカードについての記事を載せているわね。人気のある「divination」ツールだそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ukiyo-e tarot cards? That sounds really cool. 'Divination'… what does that word mean?",
+      "ja": "浮世絵のタロットカード？それはすごく面白そうですね。「Divination」…その言葉、どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means trying to find out about the future or unknown things, often through special spiritual methods. Like fortune-telling.",
+      "ja": "未来や未知の事柄を知ろうとすること、よく特別な精神的な方法を通してね。占いみたいなものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, like fortune-telling. Got it. So, people use these cards to predict things? I wonder if they predict my baby will sleep through the night.",
+      "ja": "ああ、占いみたいな。なるほど。それで、みんなこのカードを使って何かを予測するんですね？僕の赤ちゃんが夜通し寝てくれるか、予測してくれるかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That would be a popular card. The article mentions tarot became well-known in Japan after World War II.",
+      "ja": "それは人気のカードになるでしょうね。記事には、タロットが日本で第二次世界大戦後に知られるようになったと書いてあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. I always thought it was something much older here, too.",
+      "ja": "ああ、それは知りませんでした。日本でもずっと昔からあるものだと思ってましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And next, there's a Tokyo music venue looking for a band to live on the premises and perform every day for a week.",
+      "ja": "次に、東京の音楽会場が、会場に住み込みで一週間毎日演奏してくれるバンドを探しているそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Live on the… 'premises'? What's that?",
+      "ja": "「premises」に住み込みで？それは何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The building and land that a business or institution uses. So, live at the venue itself.",
+      "ja": "ビジネスや機関が使う建物と敷地のことよ。つまり、会場そのものに住むってこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, live at the concert hall? That's intense. My kid makes enough noise as it is. Imagine a whole band.",
+      "ja": "うわあ、コンサートホールに住むんですか？それはすごい。うちの子でも十分うるさいのに。バンド全体なんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds like a challenge. For passionate musicians, I suppose.",
+      "ja": "大変そうね。情熱的なミュージシャンには、でしょうけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely a challenge. If I were still in college, maybe. Now, I just want a quiet camping trip with new gear. Like a really good sleeping bag.",
+      "ja": "間違いなく挑戦ですね。もし僕がまだ大学生だったら、もしかしたら。今は、新しいキャンプ道具を持って静かなキャンプ旅行に行きたいです。すごくいい寝袋とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a different kind of challenge. What else is in the news?",
+      "ja": "それはまた違う種類の挑戦ね。他に何かニュースは？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, the traditional deer antler-cutting ceremony was held in Nara Park. They've been doing it for over 370 years.",
+      "ja": "あ、奈良公園で伝統的な鹿の角切り行事が行われたそうです。370年以上も続いているんですって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, it’s a very old custom. It helps prevent deer from hurting each other or people, especially during mating season.",
+      "ja": "ええ、とても古い習慣ね。特に発情期に、鹿同士や人が怪我をするのを防ぐのに役立つのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess that makes sense. Do they get a new set of antlers every year?",
+      "ja": "なるほど、理にかなってますね。毎年新しい角が生えてくるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do. They shed them and grow new ones each year.",
+      "ja": "そうよ。毎年角を落として新しいのを生やすの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. It's like they're getting a new haircut every year. My little one is almost 1.5 years old now, and he's just running everywhere. No antlers for him, thankfully.",
+      "ja": "それって、実はちょっとすごいですね。毎年新しいヘアカットしてるみたい。うちの子はもうすぐ1歳半で、どこでも走り回ってます。ありがたいことに、彼には角はないですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, just a lot of energy. Speaking of children, tomorrow, November 15th, is Shichi-Go-San.",
+      "ja": "ええ、ただの有り余るエネルギーね。子供たちの話が出たところで、明日、11月15日は七五三よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! I always forget the exact date, but I see the kids in their kimono around this time. It's for 3, 5, and 7-year-olds, isn't it?",
+      "ja": "ああ、そうか！いつも正確な日付は忘れちゃうんですけど、この時期になると着物を着た子供たちを見かけますよね。3歳、5歳、7歳の子のための行事でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. Boys at 3 and 5, girls at 3 and 7. They visit shrines to celebrate their growth. My son had his when he was 5, and my daughter when she was 7.",
+      "ja": "そうよ。男の子は3歳と5歳、女の子は3歳と7歳ね。成長を祝って神社にお参りするの。うちの息子は5歳の時、娘は7歳の時にやったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's a really nice tradition. I'm already thinking about my kid's first Shichi-Go-San. He'll be 3 in 2028.",
+      "ja": "本当にいい伝統ですよね。もううちの子の初めての七五三のこと考えてます。2028年に3歳になるから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You have a little while yet. But it comes around fast.",
+      "ja": "まだ少し先ね。でもあっという間よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know. Time really flies when you have a baby. Well, that's all for today. Thanks for tuning in to The Daily Tanu-chan Show. We'll be back on Monday.",
+      "ja": "そうですね。赤ちゃんがいると時間は本当にあっという間です。さて、今日はここまで。ザ・デイリー・タヌちゃんショーをお聴きいただきありがとうございます。月曜日にまたお会いしましょう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Have a great weekend, everyone.",
+      "ja": "皆さん、良い週末を。"
+    }
+  ],
+  "sources": {
+    "news": [
+      {
+        "title": "Beautiful ukiyo-e tarot cards are East-meets-West in more ways than one",
+        "summary": "Although the history of tarot cards stretches back to at least the 15th century, the popular divination tools didn’t become well-known in Japan until after World War II.…",
+        "link": "https://japantoday.com/category/features/beautiful-ukiyo-e-tarot-cards-are-east-meets-west-in-more-ways-than-one"
+      },
+      {
+        "title": "Tokyo music venue looking for a band to live on the premises and perform every day for a week",
+        "summary": "If you and your crew are passionate about music, live near Japan’s capital, and are looking for an exciting new challenge, then let it be known that a…",
+        "link": "https://japantoday.com/category/features/tokyo-music-venue-looking-for-a-band-to-live-on-the-premises-and-perform-every-day-for-a-week"
+      },
+      {
+        "title": "Traditional deer antler-cutting ceremony held in Nara Park",
+        "summary": "A traditional event of cutting the antlers of deer, a custom passed down for over 370 years since the Edo period, was held Saturday in Nara Park.\nIn…",
+        "link": "https://japantoday.com/category/national/traditional-deer-antler-cutting-ceremony-held-in-nara-park"
+      }
+    ],
+    "wikipedia": {
+      "title": "七五三",
+      "description": "男の子は3歳と5歳、女の子は3歳と7歳の年の11月15日に、成長を祝って神社に参詣する年中行事。本来は数え年だが、現在は満年齢で行われることもある。"
+    }
+  }
+}
