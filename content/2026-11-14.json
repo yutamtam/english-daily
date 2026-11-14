@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T00:08:42.926565+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Today is November 14th, 2026. Can't believe it's already mid-November. Need more coffee.",
+      "ja": "サラさん、おはようございます。今日は2026年11月14日ですね。もう11月の半ばなんて信じられないです。もっとコーヒーが必要だ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, the days are flying by. I'm on my second cup of tea already.",
+      "ja": "アレックス、おはよう。ええ、あっという間に日が過ぎるわね。私はもう紅茶を2杯目よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Two cups? Wow. I jump at everything these days. Pretty sure it's the baby. And lack of sleep.",
+      "ja": "2杯ですか？すごいな。最近はなんでも飛び起きちゃうんです。きっと赤ちゃんのせいだ。それに寝不足も。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It sounds about right. Anyway, did you see the weather forecast? It's overcast today, but no rain.",
+      "ja": "そうでしょうね。ところで、天気予報見た？今日は曇りだけど、雨は降らないみたいよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, good. I didn't check. High of 18 degrees, right? It's getting pretty chilly in the evenings.",
+      "ja": "ああ、よかった。見てなかったんです。最高気温18度くらいでしたっけ？夜はかなり肌寒くなってきましたよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, around 18.2 degrees for the high, and 10.8 for the low. Rain probability is only 4 percent.",
+      "ja": "ええ、最高が18.2度くらいで、最低が10.8度。雨の確率はたった4パーセントよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. I hate carrying an umbrella if I don't have to. Did you catch any of the news this morning?",
+      "ja": "それはいいですね。必要ないなら傘を持ち歩くのは嫌いです。今朝、何かニュース見ましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A little. There was that M5.7 earthquake in central Japan early Sunday. Over 20 injured in Aichi and Shizuoka.",
+      "ja": "少しだけ。日曜の早朝に、中部地方でM5.7の地震があったでしょう。愛知と静岡で20人以上が負傷したって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I heard about that. That's terrible. I feel like I read about a decent-sized earthquake every year around this time.",
+      "ja": "ああ、それ聞きました。大変でしたね。毎年この時期にそこそこの地震のニュースを読んでいる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's certainly a worry, isn't it? Especially with older buildings.",
+      "ja": "確かに心配事よね。特に古い建物なんかは。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. My wife gets really worried. We should probably review our emergency kit again. It's been a while.",
+      "ja": "ええ。妻がすごく心配するんです。非常用キットをもう一度見直すべきかもしれませんね。しばらく手をつけてないから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's probably a good idea. My kids actually helped update ours recently. It's good to involve them.",
+      "ja": "それは良い考えだと思うわ。うちの子たちは最近、うちのを更新するのを手伝ってくれたのよ。巻き込むのは良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's smart. I didn't think of that. They're probably more aware of what's needed than I am.",
+      "ja": "ああ、それは賢いですね。思いつきませんでした。僕より必要なものをよく知っているかもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe. And they mentioned Tokyo's Akihabara neighborhood is adding new 'smart trash cans'.",
+      "ja": "そうね。それから、秋葉原に新しい『スマートゴミ箱』が設置されるって言ってたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Smart trash cans? What does that even mean? Do they talk to you? Like, 'Please dispose of your rubbish thoughtfully'?",
+      "ja": "スマートゴミ箱？それってどういう意味ですか？話しかけてくるんですか？「ゴミは思慮深く捨ててください」とか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, I think they just compact the trash and notify when they're full. So fewer pickups are needed.",
+      "ja": "いいえ、ゴミを圧縮して、満杯になったら通知するだけだと思うわ。だから回収の回数が減るのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's actually... practical. Akihabara can get pretty crowded, especially with tourists.",
+      "ja": "ああ、それは実際に…実用的ですね。秋葉原は、特に観光客でかなり混雑しますから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, and the current bins are sometimes a bit sparse. This might help.",
+      "ja": "ええ、それに今のゴミ箱は時々少し疎らなのよね。これは役立つかもしれないわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Sparse? What does 'sparse' mean? Like, not many of them?",
+      "ja": "疎ら？「sparse」ってどういう意味ですか？あんまりない、みたいな？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exactly. 'Sparse' means there aren't many of something, or they're spread out thinly. Like 'few and far between'.",
+      "ja": "その通りよ。「sparse」は、何かの数が少ないか、まばらに広がっている状態を指すの。「数も少なく、間隔も広い」といった感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. So, the trash cans are sparse now. Got it. And they're getting a new giant Gundam, too, right?",
+      "ja": "ああ、なるほど。じゃあ、今はゴミ箱が疎らだと。分かりました。それと、新しい巨大なガンダムもできるんですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, that was in the news too. A new life-size statue. After the one in December was removed.",
+      "ja": "ええ、それもニュースに出てたわね。新しい等身大の像よ。12月に撤去された後のね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's cool. I want to see that. Maybe I can take the baby when he's a bit older. For... contemplation.",
+      "ja": "それはかっこいいですね。見に行きたいな。もう少し大きくなったら、赤ちゃんを連れて行けるかもしれません。こう…瞑想のために。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Contemplation? For a giant robot?",
+      "ja": "瞑想？巨大ロボットに？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, you just look at it and... think about things. Big things. What does 'contemplation' actually mean, Sarah?",
+      "ja": "ええ、こう、ただそれを見て…物事を考えるんです。大きなことを。サラさん、「contemplation」って実際どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Contemplation' means deep, thoughtful consideration or meditation. So, thinking deeply about something.",
+      "ja": "「Contemplation」は、深く、思慮深く考えること、または瞑想を意味するわ。だから、何かについて深く考えることね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So, deep thinking about Gundam. Got it. I'm always doing that.",
+      "ja": "ああ、なるほど。じゃあ、ガンダムについて深く考える、と。分かりました。僕はいつもそうしてるんですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure you are. Anyway, speaking of thinking, did you know today is World Diabetes Day?",
+      "ja": "そうでしょうね。ところで、考えることといえば、今日が世界糖尿病デーだって知ってた？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "World Diabetes Day? Oh, I didn't know that. What's that about?",
+      "ja": "世界糖尿病デー？ああ、知りませんでした。それって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was established by the UN in 2006. It's to promote awareness for the prevention, treatment, and management of diabetes.",
+      "ja": "2006年に国連が制定したのよ。糖尿病の予防、治療、療養に対する意識を高めるためのものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Because it's a pretty serious disease, right? I know a guy at work who has it.",
+      "ja": "ああ、なるほど。かなり深刻な病気ですもんね？職場で糖尿病の人がいます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. The blue circle is its symbol. It's meant to raise awareness that diabetes takes a life every 10 seconds worldwide.",
+      "ja": "そうよ。青い丸がそのシンボルなの。糖尿病が世界中で10秒に1人の命を奪っているという意識を高めるためのものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, every 10 seconds? That's really high. We should probably all try to eat a bit healthier.",
+      "ja": "うわ、10秒に1人ですか？それは本当に高いですね。みんなもう少し健康的に食べるように努力すべきかもしれません。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. My son's been on a sugar-free kick lately. Trying to avoid all the sweets.",
+      "ja": "間違いなくそうね。うちの息子は最近、シュガーフリーにはまっててね。お菓子を全部避けてるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's good. My little one just wants to eat everything. Especially anything I'm eating. It's a battle.",
+      "ja": "それはいいですね。うちの小さいのは何でも食べたがります。特に僕が食べてるもの。戦いですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I remember those days. It gets a little easier.",
+      "ja": "そういう時期もあったわね。もう少し楽になるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I hope so. Anyway, thanks for the info, Sarah. Always good to learn something new on The Daily Tanu-chan Show.",
+      "ja": "だといいんですけどね。とにかく、情報ありがとうございます、サラさん。『The Daily Tanu-chan Show』で新しいことを学ぶのはいつもいいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome, Alex. Have a good day.",
+      "ja": "どういたしまして、アレックス。良い一日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too. And I'm definitely getting another coffee.",
+      "ja": "サラさんも。そして僕は絶対にもう一杯コーヒーを飲みます。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 18.2,
+      "temp_min": 10.8,
+      "rain_probability": 4
+    },
+    "news": [
+      {
+        "title": "M5.7 quake strikes central Japan; over 20 injured",
+        "summary": "An earthquake with a preliminary magnitude of 5.7 hit central Japan early Sunday, leaving over 20 people injured in Aichi and Shizuoka prefectures, authorities said.\nThe 1:04 a.m.…",
+        "link": "https://japantoday.com/category/national/m5.7-quake-strikes-central-japan-over-20-injured"
+      },
+      {
+        "title": "Tokyo neighborhood adds new 'smart trash cans'",
+        "summary": "Tokyo’s Akihabara neighborhood is already one of the most popular tourism destinations for travelers in Japan, by nature of being the country’s center of anime and video game…",
+        "link": "https://japantoday.com/category/national/tokyo-neighborhood-adds-new-%27smart-trash-cans%27-to-deal-with-increasing-amounts-of-tourist-litter"
+      },
+      {
+        "title": "Tokyo getting new giant Gundam robot statue this fall",
+        "summary": "Fans of Japanese animation, robots, and awesome sightseeing attraction in general were saddened in December by the sudden news that the life-size statue of anime mecha Gundam would…",
+        "link": "https://japantoday.com/category/features/tokyo-getting-new-giant-gundam-robot-statue-this-fall"
+      }
+    ],
+    "wikipedia": {
+      "title": "世界糖尿病デー",
+      "description": "2006（平成18）年に国連が制定。全世界で10秒に1人の命を奪うという糖尿病の予防、治療、療養を喚起する啓発運動を推進している。シンボルマークは「ブルーサークル」。"
+    }
+  }
+}
