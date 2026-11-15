@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-15T23:18:40.561145+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 15th, 2026. Another week beginning, huh?",
+      "ja": "おはようございます、サラさん。2026年11月15日ですね。また一週間が始まりましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Feels like it was just Friday. You look a bit tired.",
+      "ja": "アレックス、おはよう。まだ金曜日だった気がするわ。少し疲れてるみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the baby decided 3 AM was party time. But hey, coffee's working its magic now. Welcome to The Daily Tanu-chan Show, everyone!",
+      "ja": "ええ、うちの子が午前3時をパーティータイムに決めたみたいで。でも、コーヒーが効いてきました。皆さん、『今日のタヌちゃんショー』へようこそ！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's overcast out there today, isn't it? I saw a few drops earlier.",
+      "ja": "今日は曇り空ね。さっき少し雨が降ったみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't even notice. The forecast said a 47% chance of rain. High of 18 degrees, low of 11. Not too bad for mid-November.",
+      "ja": "あ、そうなんですか？全然気づきませんでした。天気予報では降水確率47%って言ってましたね。最高18度、最低11度。11月半ばにしては悪くないですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, it's pretty mild. I'm glad it's not freezing yet. My kids are still debating if they need coats.",
+      "ja": "そうね、かなり穏やかだわ。まだ凍えるほどじゃなくてよかった。うちの子たちはまだコートが必要か悩んでるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I jump at everything these days. Pretty sure it's the baby. Anyway, did you see the news about the abductions?",
+      "ja": "最近、何でもかんでも飛び上がっちゃうんですよ。きっと子供のせいですね。そういえば、拉致問題のニュース見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Megumi Yokota's mother renewed her call for a solution. It's been 49 years.",
+      "ja": "ええ、見ました。横田めぐみさんのお母様が、解決を改めて訴えていたわね。もう49年になるのね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's just heartbreaking. I mean, to still be fighting for that after so long. It must be so difficult.",
+      "ja": "本当に胸が痛みますね。そんなに長い間、ずっと戦い続けるなんて。とても大変でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It truly is. It's one of those ongoing issues that you wish could finally be resolved.",
+      "ja": "ええ、本当に。いつか解決してほしいと願う、終わりのない問題の一つね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. And then, there was another story about home monitoring cameras gaining ground as a security tool here in Japan.",
+      "ja": "そうですね。それから、日本で防犯カメラが防犯ツールとして普及しているという別のニュースもありましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I read about that. A man was caught prowling a vacant house. It's good for security, but I sometimes wonder about privacy too.",
+      "ja": "ええ、読んだわ。空き家をうろつく男がカメラに映っていたらしいわね。防犯には良いけれど、プライバシーも気になる時があるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? I mean, at my office, I feel like we're always trying to figure out how to make things more secure without making everyone feel like they're being watched constantly. It's a tricky balance.",
+      "ja": "ですよね？僕の会社でも、常に監視されてる感じを与えずに、どうやってセキュリティを強化するか考えてる気がします。難しいバランスですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. The more technology we have, the more those issues tend to get more complicated, sometimes even exacerbated.",
+      "ja": "そうね。技術が進むほど、そういう問題は複雑になりがちで、時には悪化することもあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exacerbated? What does that mean?",
+      "ja": "「Exacerbated」？どういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means to make something bad even worse. Like a problem or a situation getting more severe.",
+      "ja": "それは、何か悪いことをさらに悪くする、という意味よ。問題や状況がより深刻になる、といった感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. Yeah, that makes sense. Like how a small scratch can get really bad if you don't take care of it. That’s a good word. Thank you.",
+      "ja": "ああ、なるほど。ええ、納得です。小さな傷も手入れしないとひどくなる、みたいな。いい言葉ですね。ありがとうございます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're welcome. And on a lighter note, did you see the story about Hiroko Machida's academy launching digital reproductions of national treasures?",
+      "ja": "どういたしまして。それから、少し明るい話題だけど、町田ひろ子さんのアカデミーが国宝のデジタル複製を発表したというニュースは見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I did! Interior art. That sounds pretty cool. Imagine having famous ancient Japanese art on your wall, but in high quality and not costing a fortune.",
+      "ja": "見ましたよ！インテリアアートですか。かなりかっこいいですよね。有名な日本の古美術が壁にあって、しかも高品質で、ものすごいお金がかかるわけじゃないなんて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a nice way to bring culture into everyday life. I think it'll be popular.",
+      "ja": "文化を日常生活に取り入れる良い方法ね。人気が出ると思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My office probably won't be putting up digital reproductions of ancient scrolls any time soon, though. Not really our vibe.",
+      "ja": "僕のオフィスは、当分、古文書のデジタル複製を飾ることはないでしょうね。うちの雰囲気とはちょっと違うんで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Perhaps not. Hey, speaking of Japanese culture, do you know what day it is today, November 15th?",
+      "ja": "そうね。ところで、日本の文化といえば、今日11月15日が何の日か知ってる？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm, today? I'm not sure. Is it something specific?",
+      "ja": "うーん、今日ですか？よく分かりません。何か特別な日ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's traditionally Shichi-Go-San, 七五三. The festival for children turning three, five, and seven.",
+      "ja": "伝統的に七五三の日よ。3歳、5歳、7歳になる子供たちのお祝いね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, right! I totally forgot about that. My little one is about a year and a half now, so we're a ways off, but I'll have to remember that.",
+      "ja": "ああ、そうか！完全に忘れてました。うちの子は今1歳半くらいなので、まだ先ですけど、覚えておかないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You've got some time. My son went when he was five. It's a nice tradition.",
+      "ja": "まだ時間はあるわね。うちの息子は5歳の時に行ったわ。良い伝統よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can already picture it. The traditional clothes, the shrine visit... I'm looking forward to it, actually. And maybe after that, some really good ramen.",
+      "ja": "もう想像できますね。伝統的な服を着て、神社にお参りして…。実はそれが楽しみなんですよ。その後は、すごく美味しいラーメンとか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You're always thinking about ramen.",
+      "ja": "いつもラーメンのこと考えてるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I know, I know. But there's this one place, a tonkotsu ramen, it's so rich and creamy. I've been dreaming about it. Or sometimes a lighter shio ramen is perfect. It just depends on the day, right?",
+      "ja": "分かってます、分かってますよ。でも、あるんですよ、このお店の豚骨ラーメンが、すごく濃厚でクリーミーで。夢に出てくるくらい。それか、時にはあっさりした塩ラーメンが完璧だったり。その日の気分次第ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. Well, I think that's all for today, Alex. I've got a meeting soon.",
+      "ja": "そうね。じゃあ、今日はこれで終わりかしら、アレックス。私、もうすぐ会議があるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Okay, Sarah. Thanks as always. I'll see you tomorrow.",
+      "ja": "分かりました、サラさん。いつもありがとうございます。また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 18.4,
+      "temp_min": 11.0,
+      "rain_probability": 47
+    },
+    "news": [
+      {
+        "title": "Mother of daughter abducted by N Korea urges resolution 49 years on",
+        "summary": "The mother of Megumi Yokota, one of the Japanese nationals abducted by North Korea in the 1970s and 1980s, has renewed her call for a solution to the…",
+        "link": "https://japantoday.com/category/national/mother-of-japanese-abducted-by-n.-korea-urges-resolution-49-years-on"
+      },
+      {
+        "title": "Home monitoring cameras gain ground as security tool in Japan",
+        "summary": "A man prowling through a vacant house in Japan was caught on camera as he searched the darkened rooms by the light of his smartphone. Even after spotting…",
+        "link": "https://japantoday.com/category/national/feature-home-monitoring-cameras-gain-ground-as-security-tool-in-japan"
+      },
+      {
+        "title": "Hiroko Machida brings Japan’s national treasures in focus with high-quality digital reproduction",
+        "summary": "The Machida Hiroko Interior Coordinator Academy, a leading interior design college and architecture practise, is launching a range of interior art featuring Japan’s most treasured artworks. The academy…",
+        "link": "https://japantoday.com/category/features/hiroko-machida-brings-japans-national-treasures-in-focus-with-high-quality-digital-reproduction"
+      }
+    ],
+    "wikipedia": {
+      "title": "いいいろ塗装の日",
+      "description": "1998年、「いい（11）いろ（16）」の語呂合わせから、日本塗装工業会が制定。"
+    }
+  }
+}
