@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T02:17:11.957738+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Good morning, Sarah. November 17th already. What a downpour today.",
+      "ja": "おはようございます、サラさん。もう11月17日ですね。今日はすごい土砂降りだ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, heavy rain all day, apparently. And it's only about 12 degrees Celsius at most.",
+      "ja": "おはよう、アレックス。ええ、一日中大雨みたいね。最高気温も12度くらいしかないし。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My shoes are already soaked. I really need that first coffee. Can't start without it.",
+      "ja": "もう靴がびしょ濡れですよ。最初のコーヒーが本当に必要です。これなしじゃ始まらない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm just happy I brought my umbrella. Mine's a green tea today.",
+      "ja": "私は傘を持ってきてよかったわ。私は今日は緑茶ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see the news about the master craftsman and the tiny house on wheels? It's amazing.",
+      "ja": "例の、熟練の職人が作った車輪付きの小さな家のニュース、見ました？すごいですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw a picture. Very intricate design.",
+      "ja": "写真を見たわ。すごく凝ったデザインね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I mean, a tiny house on wheels? My kid's toys take up half our apartment. I can't imagine living in something like that, especially with a family.",
+      "ja": "というか、車輪付きの小さな家って。うちの子のおもちゃだけでアパートの半分を占めてるのに。あんな小さな家で暮らすなんて想像できないですよ、特に家族と一緒だと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's more of a niche thing, I think. For some people, it's a dream.",
+      "ja": "ニッチなものだと思うわ。でも、一部の人にとっては夢なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess. It looked really... `poised`? Like it was just waiting to move. What does `poised` mean exactly?",
+      "ja": "ええ、まあ。なんかすごく…『ポイズド』って感じでした？今にも動き出しそうって。この『ポイズド』ってどういう意味でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means ready for something, or balanced and prepared. Like a dancer might be poised before a jump. So the house is ready to go.",
+      "ja": "何かをする準備ができている、とか、バランスが取れていて用意ができている、という意味ね。ダンサーがジャンプの前に構える感じ。だから、その家はすぐに出発できる状態、ということ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Ready. Yeah, it looked ready to roll.",
+      "ja": "ああ、なるほど。準備ができている。ええ、すぐにでも動き出しそうでしたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Speaking of city life, Akihabara is getting new smart trash cans.",
+      "ja": "都会の暮らしと言えば、秋葉原に新しいスマートごみ箱が設置されるそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, like those ones that compress trash? I feel like I read about these every year. That's not going to change at my office.",
+      "ja": "ああ、ゴミを圧縮するタイプのですか？これ、毎年読んでいる気がします。うちの会社では変わらないだろうな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "These ones send data when they're full. So they only get emptied when needed.",
+      "ja": "これは満杯になるとデータを送るタイプね。だから、必要な時だけ回収されるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's smart, I guess. But... it's still Akihabara, you know? I'm not sure if smart cans can handle that much anime merch packaging.",
+      "ja": "それは賢いですね、まあ。でも…やっぱり秋葉原ですよ？スマートごみ箱があんなにたくさんのアニメグッズのパッケージを処理できるのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a step. Maybe less overflowing bins, at least.",
+      "ja": "一歩前進ね。少なくとも、ゴミ箱からあふれることは減るかもしれない。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this last bit of news really caught my eye. Postpartum care services in hotels.",
+      "ja": "そして最後のニュースがすごく目に留まりました。ホテルでの産後ケアサービス。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, with midwives. It sounds like a good idea.",
+      "ja": "ええ、助産師さんと一緒のね。良い考えだと思うわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, man. I wish that was more common when my wife had the baby. The first few weeks were... a blur. So much stress.",
+      "ja": "ああ、もう。妻が出産した時にもっと一般的だったらよかったのに。最初の数週間は…もうぼんやりしてます。かなりのストレスでしたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a lot for new parents. Having support can make a big difference.",
+      "ja": "新しい親にとっては大変なことだからね。サポートがあるのは大きな違いになるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. I mean, my wife did amazing, but... we were just trying to survive. I think this is a `salient` point for new parents. `Salient`... what's that one?",
+      "ja": "本当にそう思います。妻は素晴らしかったけど…僕らはただ生き残ろうとしてました。これは新しい親にとって『サリアント』な点だと思います。『サリアント』って…あれ、何でしたっけ？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the most noticeable or important part. Like the key feature.",
+      "ja": "最も目立つ、あるいは重要な部分、という意味ね。主要な特徴、という感じ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, the most important. Yeah, definitely important. It's like, you have the baby, and then suddenly you're supposed to know everything.",
+      "ja": "ああ、最も重要な。ええ、間違いなく重要です。赤ちゃんが生まれて、突然何もかも知っているはず、みたいになりますからね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, by the way, today is Shogi Day. November 17th.",
+      "ja": "そういえば、今日は将棋の日よ。11月17日。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Shogi Day? I didn't know that. Is that because of some famous match?",
+      "ja": "将棋の日？知りませんでした。何か有名な対局があったからですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's to promote shogi and connect with fans. It commemorates when Tokugawa Yoshimune established \"Gozen Shogi Day\" for annual matches.",
+      "ja": "将棋の普及とファンとの交流が目的でね。徳川吉宗が年に一度の御前対局を「御城将棋の日」と定めたことを記念しているそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, so it's a historical thing. Like a tradition. That's pretty cool. Do your kids play shogi?",
+      "ja": "ああ、じゃあ歴史的なことなんですね。伝統みたいな。それは結構すごいな。サラさんのところのお子さんたちは将棋やりますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My son tried it for a bit. He preferred video games, though.",
+      "ja": "息子は少しだけやってみたわ。でも、結局ビデオゲームの方が好きみたいで。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, that makes sense. I can barely get my little one to sit still for 30 seconds. Maybe when he's a teenager.",
+      "ja": "ええ、そうですよね。うちの小さい子なんて30秒もじっと座ってられないですよ。ティーンエイジャーになったら、かな。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "All this talk about traditions and things... I've been thinking about ramen lately.",
+      "ja": "伝統とか色々な話をしてたら…最近、妙にラーメンが食べたくなってきました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ramen?",
+      "ja": "ラーメン？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Like, a really rich tonkotsu broth. The kind that sticks to your lips. Or maybe a light shio ramen. I can't decide. I had this amazing bowl last month... I'm getting hungry.",
+      "ja": "ええ。とろとろの濃厚な豚骨スープ。唇にまとわりつくようなやつ。それとも、あっさりした塩ラーメンかな。決められない。先月食べたあの美味しい一杯が忘れられなくて…お腹空いてきたな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's good to have something to look forward to for lunch.",
+      "ja": "お昼に楽しみがあるのはいいことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really is. Especially on a rainy day like this. A hot bowl of ramen just hits different.",
+      "ja": "本当にそうです。特にこんな雨の日には。温かいラーメンは格別ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, that's it for today, I think.",
+      "ja": "さて、今日はこのくらいかしら。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Another rainy day. Hopefully it clears up soon. This is Alex...",
+      "ja": "ええ。また雨の日ですね。早く晴れてほしいです。アレックスと…"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And Sarah. You're listening to The Daily Tanu-chan Show. We'll be back tomorrow.",
+      "ja": "サラでした。お聞きいただいたのは『ザ・デイリーたぬちゃんショー』。また明日お会いしましょう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "See you then.",
+      "ja": "また明日。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 12.4,
+      "temp_min": 8.8,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      },
+      {
+        "title": "Tokyo neighborhood adds new 'smart trash cans'",
+        "summary": "Tokyo’s Akihabara neighborhood is already one of the most popular tourism destinations for travelers in Japan, by nature of being the country’s center of anime and video game…",
+        "link": "https://japantoday.com/category/national/tokyo-neighborhood-adds-new-%27smart-trash-cans%27-to-deal-with-increasing-amounts-of-tourist-litter"
+      },
+      {
+        "title": "Postpartum care services in hotels with midwives catching on",
+        "summary": "Postpartum care services in hotels are gaining momentum in Japan, with mothers receiving support from midwives and childcare workers for physical and mental recovery while they stay with…",
+        "link": "https://japantoday.com/category/national/japan-biz-postpartum-care-services-in-hotels-with-midwives-catching-on"
+      }
+    ],
+    "wikipedia": {
+      "title": "将棋の日",
+      "description": "1975（昭和50）年、日本将棋連盟が将棋の普及とファンとの交流を目的に制定。江戸幕府8代将軍・徳川吉宗が、この日を「御城将棋の日」と定め、年に1回の御前対局を制度化したことを記念したことに由来。"
+    }
+  }
+}
