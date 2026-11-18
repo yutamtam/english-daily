@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T01:29:24.861440+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, it's really coming down today, isn't it?",
+      "ja": "おはようございます、サラさん。いやー、今日はすごい雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yes, heavy rain all day, they said. November 18th already.",
+      "ja": "おはよう、アレックス。うん、今日は一日中大雨だって。もう11月18日か。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? Feels like winter is just around the corner. Though it's actually not that cold, 19 degrees high. Just feels cold with all this water.",
+      "ja": "ですよね？もうすぐ冬って感じ。でも、最高気温19度って、実はそこまで寒くないんですよね。この雨のせいで寒く感じるだけか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. I've got my hot tea ready.",
+      "ja": "そうね。私は温かいお茶を用意してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely need my coffee. My little one was up at 4 AM today. Four. AM. I'm running on empty.",
+      "ja": "僕は絶対にコーヒーが必要です。うちの子が今日、朝4時に起きて。午前4時ですよ。もうヘトヘトです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They do that sometimes.",
+      "ja": "そういう時もあるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, but it's like, he's crawling everywhere now. You turn your back for a second and he's already halfway across the room. My wife says I'm always *preoccupied* when I'm looking at my phone.",
+      "ja": "ええ、でも今はもうハイハイでどこでも行っちゃうんです。一瞬目を離したら、もう部屋の半分まで進んでる。妻にはスマホ見てるといつも『気が散ってる』って言われます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Preoccupied means your mind is busy with other thoughts, so you're not paying full attention to what's happening around you.",
+      "ja": "Preoccupiedっていうのは、他のことで頭がいっぱいで、周りの出来事に注意を払えていない状態のことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, that makes sense. Like when I'm thinking about work and almost forget to feed him. Anyway, did you see the news about Kyoto's new bus fare idea?",
+      "ja": "ああ、なるほど。仕事のこと考えてて、彼にご飯あげるの忘れそうになる時とか。ところで、京都の新しいバス料金のアイデアのニュース見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, dual pricing for non-residents. Charging tourists more than residents.",
+      "ja": "ええ、非居住者向けの二重料金ね。観光客に住民よりも多く請求するっていう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. I mean, I get the idea to help residents, but won't that just annoy tourists? And how would they even check? It seems like a lot of trouble for the bus drivers.",
+      "ja": "ですよね。住民を助けるっていうのはわかるんですけど、観光客は嫌がらないんですかね？それに、どうやってチェックするんでしょう？バスの運転手さんにとっては大変な手間になりそうですけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It might be difficult to implement smoothly. But some cities are facing a large *influx* of visitors, and local infrastructure can struggle.",
+      "ja": "スムーズに実行するのは難しいかもしれないわね。でも、一部の都市は観光客の大量流入に直面していて、地元のインフラが逼迫することもあるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Influx? What's an influx?",
+      "ja": "Influx？インフラックスって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a sudden arrival of a large number of people or things. Like a big group coming in all at once.",
+      "ja": "大量の人や物が突然到着することよ。一度にたくさんのグループがやってくるような感じね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Got it. Like when everyone rushes to the train station after a big event. Yeah, I can see how that's a problem for Kyoto. It's so crowded there sometimes.",
+      "ja": "なるほど。大きなイベントの後、みんなが一斉に駅に押し寄せる時みたいな。うん、京都にとっては問題ですよね。時々すごく混んでるし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm.",
+      "ja": "うん。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Also, with the year-end parties coming up, the news reminded drivers to watch out for drunk people passed out on the road. I feel like I read this every year.",
+      "ja": "あと、忘年会シーズンが近づいてるから、ニュースでドライバーに道路で酔っぱらって倒れてる人に気を付けるようにって言ってたんですよね。これ毎年読んでる気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a common problem during this season.",
+      "ja": "この時期によくある問題ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, and then there was that other news item, about only 55% of foreign residents paying into the national pension. That's a pretty big gap compared to the overall rate, 85%.",
+      "ja": "そうですね。それと、もう一つのニュースで、在留外国人の55%しか国民年金に加入していないっていう話がありました。全体の85%と比べると、かなり大きな差ですよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. There are often reasons like short-term stays, or perhaps not fully understanding the system. It can be complex.",
+      "ja": "そうね。短期滞在だったり、制度を完全に理解していなかったり、いろいろな理由があるでしょう。複雑なこともあるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess it's hard to keep track of everything, especially if you're new here. Speaking of things I just remembered, today is Civil Engineering Day. Doboku no Hi.",
+      "ja": "ええ、特にここに新しく来た人にとっては、全部を把握するのは難しいでしょうね。そういえば、思い出したんですけど、今日は『土木の日』らしいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I didn't know that. What's the reason?",
+      "ja": "へえ、それは知らなかったわ。どうしてなの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Apparently, the Japan Society of Civil Engineers' predecessor was established on this day back in 1879. And the kanji for 'do' in Doboku can be broken down to 10 and 1, and 'boku' to 10 and 8. So November 18th.",
+      "ja": "どうやら、1879年の今日、土木学会の前身が設立されたからだそうです。それに、『土木』の『土』は10と1に、『木』は10と8に分解できるから、11月18日なんだって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's quite clever. To remind people about the importance of civil engineering.",
+      "ja": "それはなかなか粋な計らいね。土木技術の重要性を人々に思い出させるために。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right? All those bridges and roads we use every day, we just kind of take them for granted. Anyway, this is The Daily Tanu-chan Show, and it's November 18th, 2026. Still raining out there.",
+      "ja": "ですよね？毎日使ってる橋とか道路とか、僕たち当たり前だと思っちゃってますけど。まあ、それはともかく、『ザ・デイリー・タヌちゃんショー』です。2026年11月18日。外はまだ雨ですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I actually did some meal prep this weekend to prepare for busy weekdays. Made a big batch of chicken chili.",
+      "ja": "そうね。実は私、忙しい平日対策でこの週末に作り置きをしたの。チキンチリを大量に作ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, nice! That sounds good. Always helps to have something ready when you're tired, doesn't it? My wife usually cooks, but when she's really busy with the baby, I sometimes try to make something. Usually just instant noodles, though.",
+      "ja": "おお、いいですね！それ美味しそう。疲れてる時に何かすぐに食べられるものがあると助かりますよね。妻がいつも料理してくれるんですけど、彼女が赤ちゃんのお世話で本当に忙しい時は、僕もたまに何か作ろうとします。大体インスタントラーメンですけどね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. It definitely saves time. And my kids like chili.",
+      "ja": "そうね。確実に時間の節約になるわ。うちの子たちもチリが好きだから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Smart. I should learn to do that. Maybe I'll start with something simple. Like... boiling an egg.",
+      "ja": "賢いですね。僕もそれ、学ぶべきだなあ。まずは簡単なものから始めようかな。卵を茹でる、とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a start.",
+      "ja": "それが第一歩ね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Heavy rain",
+      "temp_max": 19.4,
+      "temp_min": 9.0,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Kyoto unveils draft ordinance for dual pricing on city buses",
+        "summary": "Kyoto's municipal government unveiled a draft ordinance Tuesday to introduce dual pricing for city bus fares, charging nonresidents more than residents in what it says would be Japan's…",
+        "link": "https://japantoday.com/category/national/kyoto-unveils-draft-ordinance-for-dual-pricing-on-buses"
+      },
+      {
+        "title": "Drivers reminded to look out for drunk people passed out on the road this holiday season",
+        "summary": "As the year gradually draws to a close, it’s the time for many organizations to hold their year-end parties. Although many younger people have been increasingly distancing themselves…",
+        "link": "https://japantoday.com/category/national/drivers-reminded-to-look-out-for-drunk-people-passed-out-on-the-road-this-holiday-season"
+      },
+      {
+        "title": "Only 55% of foreign residents in Japan paid into national pension in FY2023",
+        "summary": "Only 55.0 percent of foreign residents in Japan paid into the country's national pension in fiscal 2023, lagging behind the overall rate of 85.6 percent, according to recent…",
+        "link": "https://japantoday.com/category/national/update1-55-of-foreign-residents-in-japan-paid-into-national-pension-in-fy-2023"
+      }
+    ],
+    "wikipedia": {
+      "title": "土木の日",
+      "description": "1879（明治12）年のこの日、土木学会の前身・工学会が設立されたことと、土は十と一に、木は十と八に分解できることから、土木学会が制定。土木技術の大切さを知ってもらうことが目的。"
+    }
+  }
+}
