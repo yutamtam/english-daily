@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T01:00:43.089414+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 20th already. Can you believe it?",
+      "ja": "おはようございます、サラさん。もう11月20日ですね。早いなあ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time moves fast, doesn't it?",
+      "ja": "おはよう、アレックス。時間ってあっという間よね？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It really does. I definitely need this coffee to get through the day. Ah, the Daily Tanu-chan Show is on!",
+      "ja": "本当にそう思います。今日一日乗り切るには、このコーヒーが絶対に必要ですね。あ、ザ・デイリー・タヌちゃんショーが始まった！"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And I've got my tea. It's a clear sky today, very crisp.",
+      "ja": "私はお茶ね。今日は空が澄んでいて、とても気持ちいいわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, it feels quite cold though. I was surprised when I stepped outside. My hands were freezing.",
+      "ja": "ええ、でもかなり寒いですよね。外に出たときびっくりしました。手が凍えましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. The high is only around 14 degrees Celsius, and it'll drop to about six tonight. At least there's no rain.",
+      "ja": "そうね。最高気温は14度くらいで、夜には6度くらいまで下がるみたい。雨が降らないだけいいけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Six degrees? Wow. That's cold. I need to make sure my kid is bundled up when we go out later.",
+      "ja": "6度ですか？すごい。それは寒いですね。後で出かけるとき、うちの子をしっかり着込ませないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He'll be fine. So, I saw some interesting news this morning. They found a long-lost ukiyoe painting.",
+      "ja": "大丈夫よ。それで、今朝面白いニュースを見たの。行方不明だった浮世絵の絵画が発見されたって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? Like Hokusai or something? I always think of those really famous ones.",
+      "ja": "へえ、そうなんですか？葛飾北斎とか、そういうやつですかね？いつもすごく有名なものしか思いつかなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a painting of 26 courtesans in Fukagawa. It's putting ukiyoe in the international spotlight again.",
+      "ja": "深川の遊女26人を描いた絵画よ。また浮世絵が国際的に注目されているみたいね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's kind of amazing, actually. I mean, after all this time. You'd think everything's already been found, right?",
+      "ja": "それはちょっとすごいですね。だって、こんなに時間が経って。もう全部見つかってると思ってましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You never know. And speaking of international, police bands from Japan, Vietnam, Singapore, and Australia marched through Ginza on Sunday.",
+      "ja": "分からないものよ。国際的な話題といえば、日曜日には日本、ベトナム、シンガポール、オーストラリアの警察音楽隊が銀座を行進したそうよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I saw a little bit about that. Brass music and drums... sounds like a lot for a Sunday morning in Ginza.",
+      "ja": "ああ、それちょっと見ました。ブラスバンドとドラムか…。日曜の朝の銀座にしては、賑やかすぎませんかね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It was quite a parade, I imagine.",
+      "ja": "かなりのパレードだったでしょうね、きっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I bet. My favorite news this morning was about the hip-hop dancing granny. Did you see that one?",
+      "ja": "でしょうね。今朝の僕のお気に入りのニュースは、ヒップホップを踊るおばあちゃんの話でした。見ましたか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. She's showing off her moves in a new 'Rice Dance' video. It sounds like fun.",
+      "ja": "見たわ。新しい『ライスの踊り』のビデオで、彼女のダンスを見せているのよ。楽しそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Last year, it was three grandmothers dancing to Bruno Mars. Now this. I think it's so cool. I'm going to show that to my little one when he's old enough.",
+      "ja": "去年はブルーノ・マーズに合わせて3人のおばあちゃんが踊ってましたよね。今度はこれ。すごくかっこいいと思います。うちの子が大きくなったら見せてあげよう。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He's still a bit young for hip-hop, I think. But he'll get there.",
+      "ja": "まだヒップホップにはちょっと早いと思うけど。でも、いつか見せる時が来るわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, probably. Actually, speaking of children, I just remembered that today is World Children's Day.",
+      "ja": "ええ、そうですね。ところで、子供といえば、今日が世界子どもの日だって思い出したんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. The UN established it in 1954. It's also the day they adopted the Declaration of the Rights of the Child.",
+      "ja": "そうね。国連が1954年に制定したのよ。子どもの権利宣言が採択された日でもあるの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, okay. So it's about children's rights. Raising a child feels pretty... what's the word? `Daunting` sometimes.",
+      "ja": "ああ、なるほど。子供の権利についてなんですね。子供を育てるって、かなり…何て言うんだろう？時々『圧倒される』感じがします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Daunting`? It means something feels really difficult or even scary because it's such a big challenge.",
+      "ja": "『Daunting』？それは、すごく大きな挑戦だから、とても難しいとか、ちょっと怖いと感じることを意味するわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Like a huge, sometimes scary task. So many responsibilities. And my kid just started throwing food on the floor. That's a whole new challenge.",
+      "ja": "ええ、まさにそれです。まるで巨大で、時々怖い課題のように。責任もたくさんありますし。うちの子、ちょうど床に食べ物を投げ始めまして。それがまた新たな挑戦です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They all do that. It doesn't last forever. My kids definitely did.",
+      "ja": "みんなそうするわよ。ずっと続くわけじゃない。うちの子たちも間違いなくやったもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess. But sometimes the rules we have to follow are getting more `stringent`, even at home. For the baby, I mean.",
+      "ja": "そうですよね。でも時々、私たちが従わなきゃいけないルールが、家でさえもっと『厳しく』なってきてる気がします。赤ちゃんのために、ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "`Stringent` means very strict. So, more and more strict rules.",
+      "ja": "『Stringent』は、とても厳しいという意味よ。だから、どんどん厳しくなるルールということね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, exactly. More strict. Like, no throwing food, even though he doesn't understand yet. It's a lot of work.",
+      "ja": "そう、まさにそれです。もっと厳しく。例えば、まだ理解できないけど、食べ物を投げないとか。大変な仕事ですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. I remember going for my morning walk today, and thinking about how peaceful it was. Just the quiet. That's something you don't always get with little ones.",
+      "ja": "そうね。今朝、朝の散歩に行って、どれだけ静かで平和だったか考えてたの。ただ静かなだけ。小さな子供がいると、いつもそうはいかないものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I can only dream of that kind of quiet right now. My house is... lively.",
+      "ja": "ああ、今はそんな静けさを夢見るばかりですよ。我が家は…賑やかですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It won't be like that forever. They grow up quickly.",
+      "ja": "ずっとそんな状態じゃないわ。子供はすぐに大きくなるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Well, it's already time for us to wrap up. Thanks, Sarah.",
+      "ja": "そうですね。さて、もうそろそろ終わりにしないと。サラさん、ありがとうございました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks, Alex. Have a good day.",
+      "ja": "ありがとう、アレックス。良い一日を。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Clear sky",
+      "temp_max": 13.9,
+      "temp_min": 6.3,
+      "rain_probability": 8
+    },
+    "news": [
+      {
+        "title": "Long-lost painting’s rediscovery puts ukiyoe in international spotlight",
+        "summary": "It’s a chilly day for the ladies in Fukagawa, but none of them seems to mind the cold. The 26 courtesans in the painting are preparing for a…",
+        "link": "https://japantoday.com/category/features/long-lost-paintings-miraculous-rediscovery-puts-ukiyoe-in-international-spotlight"
+      },
+      {
+        "title": "Japan, foreign police bands march through Tokyo streets",
+        "summary": "Police bands from Japan as well as Vietnam, Singapore and Australia marched through the streets of Tokyo's Ginza shopping district Sunday, with brass music and drum performances.\nOf…",
+        "link": "https://japantoday.com/category/national/japan-foreign-police-bands-march-through-tokyo-streets"
+      },
+      {
+        "title": "Japan’s hip-hop dancing granny shows off her moves in new 'Rice Dance' video",
+        "summary": "Last year, we were blown away by a trio of grandmothers who showed off some impressive hip-hop moves as they danced to the title track from Bruno Mars’…",
+        "link": "https://japantoday.com/category/features/japans-hip-hop-dancing-granny-shows-off-her-moves-in-new-rice-dance-video"
+      }
+    ],
+    "wikipedia": {
+      "title": "世界子どもの日",
+      "description": "1954（昭和29）年、国連が制定した国際デー。この日は1959年（昭和34）に「子どもの権利宣言」、1989（平成1）年に「子どもの権利条約」を総会が採択した日でもある。"
+    }
+  }
+}
