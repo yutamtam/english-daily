@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T00:34:17.901012+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah! Welcome everyone to The Daily Tanu-chan Show. It's Friday, November 21st, 2026. Can you believe it's almost the end of the year already?",
+      "ja": "おはようございます、サラさん！皆さん、『ザ・デイリーたぬちゃんショー』へようこそ。今日は2026年11月21日、金曜日です。もうすぐ年末なんて信じられます？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Time does fly, doesn't it? Especially this time of year.",
+      "ja": "おはようございます、アレックス。時間はあっという間だね。特にこの時期は。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. But at least the weather's nice today. I mean, look at that sky. It's completely clear. Not a cloud in sight.",
+      "ja": "ええ。でも少なくとも今日は天気がいいですね。ほら、あの空を見てください。完全に晴れてて、雲ひとつない。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It's going to be a mild day for November, too. High of almost 14 degrees. Low of around five. No rain at all.",
+      "ja": "そうね。11月にしては穏やかな日になりそうね。最高気温は14度近く、最低は5度くらい。雨も全く降らないみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's good. I always feel better when the weather's nice. Helps with the morning coffee, too.",
+      "ja": "おお、それはいいですね。天気がいいと気分がいいです。朝のコーヒーも美味しくなりますし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm sure it does. I'm having my usual tea.",
+      "ja": "そうでしょうね。私はいつものお茶を飲んでるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. So, I saw some interesting news this morning. About the Nara deer.",
+      "ja": "はい。それで、今朝面白いニュースを見たんです。奈良の鹿についての。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, yes. They've sent a record number of people to the hospital. Over 70% were foreigners.",
+      "ja": "ああ、そうね。過去最高の人数が病院に運ばれたって。70％以上が外国人だったって。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I saw that. I guess people don't realize they're still wild animals, even though they bow for crackers.",
+      "ja": "ええ、見ました。みんな、せんべいのために頭を下げるからって、彼らがまだ野生動物だって気づかないんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They are. You have to be careful.",
+      "ja": "そうよ。気をつけないとね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My little one would probably try to ride one. He's at that age where he climbs everything.",
+      "ja": "うちの子はたぶん乗ろうとするでしょうね。なんでもよじ登る年頃なので。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Kids will be kids. They don't have that sense of danger yet.",
+      "ja": "子供はそうよ。まだ危険な感覚がないのよね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "True. And another thing I saw was about tourism. Apparently, Chinese visitor numbers are falling after the Prime Minister's remarks last year.",
+      "ja": "そうですね。あと見たのは観光についてのニュースでした。首相の昨年の発言のせいで、中国からの観光客数が減っているみたいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, about Taiwan. It's impacting our tourism boom.",
+      "ja": "ええ、台湾についてのね。それが観光ブームに影響してるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's a shame. We really need those visitors. My company's sales targets... they really depend on a good economy.",
+      "ja": "それは残念ですね。観光客は本当に必要です。うちの会社の売上目標も…景気が良くないと厳しいですから。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a complex issue. International relations often have economic effects.",
+      "ja": "複雑な問題ね。国際関係はよく経済に影響するのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I was wondering, could something like this lead to, like, a `tariff` or something? On goods?",
+      "ja": "ええ。こんなことって、なんだろう、例えば『関税』とかにつながるんですか？商品に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A tariff is a tax that governments put on imported goods. It makes them more expensive for consumers in the country that imports them.",
+      "ja": "関税というのは、政府が輸入商品にかける税金のこと。輸入する国の消費者にとって、その商品をより高価にするものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I see. So it could make things tricky for trade. I hope it doesn't `demoralize` our travel industry too much.",
+      "ja": "なるほど。貿易にとって厄介なことになりそうですね。旅行業界がこれ以上『士気をくじかれる』ことがなければいいのですが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "To demoralize means to make someone lose confidence or hope. Yes, it can certainly have that effect.",
+      "ja": "士気をくじくというのは、誰かに自信や希望を失わせることね。ええ、確かにそのような影響を与えることがあるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. We need to keep people positive. Maybe we should focus more on domestic travel instead.",
+      "ja": "そうですね。みんなを前向きにしないと。代わりに国内旅行にもっと焦点を当てるべきかもしれませんね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's a good point. There are so many beautiful places to see in Japan. I'm thinking of going to Beppu again soon, for the onsen.",
+      "ja": "いい点ね。日本には美しい場所がたくさんあるもの。また近いうちに別府に行こうかなと思ってるの、温泉入りに。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Beppu is great. Oh, and one more piece of news. NASA wants to see US and Japanese astronauts on the moon together. That's pretty cool, right?",
+      "ja": "別府はいいですね。ああ、もう一つニュース。NASAがアメリカと日本の宇宙飛行士に月で一緒に立ってほしいと言ってるそうです。それはかなりクールですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. They've been planning for a joint mission for a while now.",
+      "ja": "そうね。しばらく前から共同ミッションを計画しているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. It sounds like something out of a science fiction movie. But it's real.",
+      "ja": "ああ、それは知らなかったです。SF映画に出てきそうな話ですが、現実なんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Space exploration has come a long way.",
+      "ja": "宇宙探査はずいぶん進んだものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. Speaking of screens, do you know what today is? November 21st?",
+      "ja": "確かに。スクリーンといえば、今日が何の日か知ってますか？11月21日。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm. I'm not sure.",
+      "ja": "うーん。なんだろう。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It's World Television Day! The UN established it back in 1996 to encourage cultural exchange and peace through TV programs.",
+      "ja": "世界テレビ・デーです！国連が1996年に、テレビ番組を通じて文化交流と平和を促すために制定したそうですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's interesting. I didn't know that was a thing.",
+      "ja": "ああ、それは面白いわね。そんな日があるなんて知らなかった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It's about focusing on positive messages. Though with my kid, he just wants to watch cartoons all day. We're already trying to limit his screen time.",
+      "ja": "ええ。ポジティブなメッセージに焦点を当てる日ですね。でもうちの子は一日中アニメを見たがるんですよ。すでにスクリーンタイムを制限しようと頑張ってます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a challenge for all parents these days. My kids were the same when they were little. Actually, they still are sometimes.",
+      "ja": "今の時代の親にとってはみんな課題ね。うちの子たちも小さい頃はそうだったわ。実際、今でも時々そうだけど。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. My baby just tries to grab the remote and chew on it. Anyway, that's all the news we have time for today.",
+      "ja": "想像できます。うちの子はリモコンを掴んでかじろうとするだけです。まあ、今日はここまでですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thanks for joining us, everyone. Have a great weekend.",
+      "ja": "皆さん、ご視聴ありがとうございました。良い週末を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, have a good one!",
+      "ja": "ええ、良い一日を！"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Clear sky",
+      "temp_max": 13.6,
+      "temp_min": 5.3,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "Nara deer send record number of people to hospital; over 70% are foreigners",
+        "summary": "For anyone with the city of Nara on their Japan travel itinerary, Nara Park, with its herds of deer that roam freely across its grounds, is a must-visit.…",
+        "link": "https://japantoday.com/category/national/nara-deer-send-record-number-of-people-to-hospital-over-70-are-foreigners"
+      },
+      {
+        "title": "Japan looks to rural areas to sustain tourism boom as Chinese arrivals fall",
+        "summary": "Japan's tourism boom may be losing steam as Chinese visitor numbers fall after Prime Minister Sanae Takaichi's November 2025 remarks on a potential Taiwan crisis angered Beijing, threatening…",
+        "link": "https://japantoday.com/category/national/japan-looks-to-rural-areas-to-sustain-tourism-boom-as-chinese-arrivals-fall"
+      },
+      {
+        "title": "NASA chief hopes to see U.S., Japan astronauts together on moon",
+        "summary": "Jared Isaacman, administrator of the National Aeronautics and Space Administration, said Thursday he looks forward to seeing U.S. and Japanese astronauts stand side by side on the lunar…",
+        "link": "https://japantoday.com/category/national/nasa-chief-hopes-to-see-u.s.-japan-astronauts-together-on-moon"
+      }
+    ],
+    "wikipedia": {
+      "title": "世界テレビ・デー",
+      "description": "1996（平成8）年、国連で「第1回世界テレビ・フォーラム」が開催されたことから、国連が制定した国際デー。平和・安全・経済・社会開発・文化交流の拡充などの問題に焦点を当てたテレビ番組の交流を促す。"
+    }
+  }
+}
