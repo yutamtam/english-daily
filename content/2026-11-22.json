@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T23:42:01.815783+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. It's Friday, November 21st, 2026.",
+      "ja": "おはようございます、サラさん。11月21日、金曜日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good morning, Alex. Yeah, Friday already.",
+      "ja": "おはよう、アレックス。うん、もう金曜日ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I really need this coffee today. Like, really need it.",
+      "ja": "ああ、今日は本当にこのコーヒーが必要ですよ。本当に。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I can imagine. I'm sticking to tea.",
+      "ja": "想像できるわ。私は紅茶で。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Did you see the weather forecast? It's going to be pretty nice. Mainly clear.",
+      "ja": "天気予報見ました？結構いい天気になりそうですね。主に晴れ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. It was nice for my walk this morning. Quite crisp.",
+      "ja": "見たわ。今朝の散歩には良かったわよ。かなりキリッとした空気だった。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you went for your walk. I saw the low is 4.3 degrees, high is 12.8. So it's getting properly cold.",
+      "ja": "ああ、散歩に行ったんですね。最低気温が4.3度、最高が12.8度って見ました。本格的に寒くなってきましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yeah, definitely time for a warmer coat. No rain, though, which is always good.",
+      "ja": "ええ、確実に暖かいコートの時期ね。でも雨がないのはいつも良いことだわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, I was just looking at some of the news headlines. NASA's chief is talking about U.S. and Japanese astronauts on the moon together.",
+      "ja": "それで、ニュースの見出しをいくつか見てたんですけど。NASAの長官が、アメリカと日本の宇宙飛行士が一緒に月に行くことについて話してますね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Hmm, I saw that. It'd be quite a sight, wouldn't it?",
+      "ja": "ええ、見たわ。壮観でしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. It feels like a big jump from just talking about it to actually doing it, though. Do you think they have enough *foresight* to plan all that out?",
+      "ja": "ええ。でも、話すだけから実際にやるまで、大きな飛躍のように感じますね。彼らはそれを全て計画するのに十分な*洞察力*を持っていると思いますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Foresight means the ability to predict what will happen or to plan for the future. So, yes, NASA probably does.",
+      "ja": "Foresightは、何が起こるかを予測したり、将来のために計画する能力のことよ。だから、ええ、NASAは多分持っているでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, foresight. Okay. I guess they do. I just wonder how many meetings that takes.",
+      "ja": "ああ、foresight。なるほど。そうでしょうね。どれだけの会議が必要なんだろうって思いますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "And then there was something about a Gucci owl fan. That caught my eye.",
+      "ja": "それから、グッチのフクロウの扇子の話があったわね。それが目に留まったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh! The Japanese-style one? I saw that! It's so expensive for... a fan.",
+      "ja": "ああ！日本のスタイルのやつですか？見ました！扇子にしては高すぎますよね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, very expensive. But it does look kind of cute.",
+      "ja": "ええ、とても高いわね。でも、ちょっと可愛らしく見えるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "For the price, it should fly you to the moon with the astronauts, right? My budget is more Uniqlo. Always.",
+      "ja": "あの値段なら、宇宙飛行士と一緒に月まで連れて行ってくれるべきですよね？僕の予算はもっとユニクロ寄りですよ。いつも。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mine too.",
+      "ja": "私もよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And Japan secured a deal for a 25% hike in the larger bluefin tuna catch quota.",
+      "ja": "そして、日本は大型クロマグロの漁獲枠を25%増やす交渉を確保しましたね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Ah, the tuna. That's a big increase.",
+      "ja": "ああ、マグロね。それは大きな増加だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I wonder how that affects the price. My wife loves bluefin tuna. I hope it gets cheaper.",
+      "ja": "ええ。それが値段にどう影響するんだろう。妻がクロマグロ大好きなんですよ。安くなるといいなぁ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I don't think it usually works that way, Alex.",
+      "ja": "普通はそうはいかないと思うわ、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah. Probably not. That's not going to change at my office, either. Always chasing numbers.",
+      "ja": "ああ。そうでしょうね。僕のオフィスでもそれは変わらないだろうな。いつも数字を追いかけてるし。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You know, tomorrow is November 22nd. Which is 'Good Couple's Day.' いい夫婦の日.",
+      "ja": "あのね、明日は11月22日よ。つまり「いい夫婦の日」ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, really? I didn't know that. What's 'Good Couple's Day' about?",
+      "ja": "ああ、そうなんですか？知りませんでした。いい夫婦の日って何のことですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a day for couples to appreciate each other. The date '11/22' sounds like 'ii fufu,' meaning 'good couple.'",
+      "ja": "夫婦がお互いに感謝し合う日よ。「11/22」が「いい夫婦」という言葉に聞こえるからね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. That's clever. I should probably do something nice for my wife. With the baby, sometimes it's hard to find time.",
+      "ja": "ああ、なるほど。うまいですね。妻に何かしてあげないと。赤ちゃんがいると、なかなか時間を見つけるのが難しいんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It is. It gets easier as they get older, but then you have different challenges.",
+      "ja": "そうね。大きくなれば楽になるけど、また別の課題が出てくるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. Sometimes my kid is just so full of energy, so... *exuberant*, all the time. It's great, but wow. I'm exhausted.",
+      "ja": "ええ。うちの子、時々もうエネルギーに満ち溢れてて、いつも*元気いっぱいで*。すごいんですけど、参っちゃいます。僕、疲れ切ってますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Exuberant means full of energy, excitement, and cheerfulness. Yes, that's babies.",
+      "ja": "Exuberantは、エネルギー、興奮、陽気さに満ちているという意味ね。ええ、赤ちゃんってそういうものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, exactly. Exhausting cheerfulness. My little one is trying to climb everything now. I'm constantly on alert.",
+      "ja": "ええ、まさに。疲れるほどの陽気さですよ。うちの子、今は何でも登ろうとするんです。僕は常に警戒してます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "My kids were like that too. You just have to keep an eye on them. It passes.",
+      "ja": "うちの子たちもそうだったわ。目を離さないようにするしかないのよ。すぐに終わるから。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You make it sound so easy. My house is like a disaster zone sometimes. I jump at everything these days. Pretty sure it's the baby.",
+      "ja": "サラさんが言うと、すごく簡単に聞こえますね。うちの家は時々災害現場みたいですよ。最近は何にでも飛び上がっちゃいます。きっと赤ちゃんが原因でしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It probably is.",
+      "ja": "きっとそうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, speaking of disaster zones, I should probably get ready for my next meeting.",
+      "ja": "まあ、災害現場の話はこれくらいにして、次の会議の準備をしないと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Me too. Have a good one, Alex.",
+      "ja": "私もよ。良い一日を、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "You too, Sarah. This has been The Daily Tanu-chan Show. See you next time.",
+      "ja": "サラさんも。The Daily Tanu-chan Showでした。また次回。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Mainly clear",
+      "temp_max": 12.8,
+      "temp_min": 4.3,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "NASA chief hopes to see U.S., Japan astronauts together on moon",
+        "summary": "Jared Isaacman, administrator of the National Aeronautics and Space Administration, said Thursday he looks forward to seeing U.S. and Japanese astronauts stand side by side on the lunar…",
+        "link": "https://japantoday.com/category/national/nasa-chief-hopes-to-see-u.s.-japan-astronauts-together-on-moon"
+      },
+      {
+        "title": "Gucci’s Japanese-style 'owl fan' is kind of cute, and also baffling expensive",
+        "summary": "As someone who buys most of his clothing at always-affordable Uniqlo, and usually when there’s a sale going on, I have to admit that some of the finer…",
+        "link": "https://japantoday.com/category/features/guccis-japanese-style-owl-fan-is-kind-of-cute-and-also-baffling-expensive"
+      },
+      {
+        "title": "Japan secures deal on 25% hike in larger bluefin tuna catch quota",
+        "summary": "An international fisheries committee agreed to increase the catch quota for larger Pacific bluefin tuna by 25 percent, as proposed by Japan, the Fisheries Agency said Friday.\nThe…",
+        "link": "https://japantoday.com/category/national/update1-japan-secures-deal-on-25-hike-in-larger-bluefin-tuna-catch-quota"
+      }
+    ],
+    "wikipedia": {
+      "title": "いい夫婦の日",
+      "description": "1988（昭和63）年、「いい（11）ふうふ（22）」の語呂合わせより、通産省と余暇開発センターが制定。日本中の夫婦にいっそう素敵な関係を築いてもらいたいとの想いから。"
+    }
+  }
+}
