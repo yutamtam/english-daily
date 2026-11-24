@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T04:10:24.292022+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Tuesday, November 24th, 2026.",
+      "ja": "おはようございます、サラさん。2026年11月24日、火曜日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It's definitely a rainy one today.",
+      "ja": "おはよう、アレックス。今日は本当に雨の日だね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 100% chance of moderate rain, they said. It's actually not that cold, though, a low of 6.4 degrees. Still feels pretty damp.",
+      "ja": "ええ、100%の確率で並の雨って言ってましたね。でも、そんなに寒くないんですよ、最低気温6.4度。やっぱりちょっとじめじめしますけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It does. I had my morning walk early, before it got too heavy. Even so, the air felt a bit thick.",
+      "ja": "するね。私は朝の散歩を早めにしてきたの、雨が本格的になる前に。それでも、空気がちょっと重く感じたわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, that's smart. I definitely needed my coffee to get going today. Just had a big mug.",
+      "ja": "ああ、それは賢いですね。僕は今日、動き出すのに絶対コーヒーが必要でしたよ。大きなマグで一杯飲んできました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Good start. Did you see the news about the snowplow accident in Fukui?",
+      "ja": "いいスタートね。福井の除雪車の事故のニュース、見た？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I did. A 71-year-old woman, hit by a reversing snowplow. That's just terrible.",
+      "ja": "見ました。71歳の女性が、バックしてきた除雪車に轢かれたって。本当にひどい話です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It really is. Such a tragic accident, especially as the snow season is just beginning.",
+      "ja": "本当にね。雪の季節が始まったばかりなのに、とても悲劇的な事故だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. On a different note, though, did you see that article about the steampunk event in Harajuku?",
+      "ja": "ええ。でも話は変わって、原宿のスチームパンクのイベントについての記事、見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I saw that headline. It sounds like a unique take on the style.",
+      "ja": "その見出しは見たわ。そのスタイルにユニークな解釈を加えているようね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "They said it's 'Japan-inspired steampunk.' I saw a photo, it's like Victorian clothes but with gears and weird gadgets. It's kind of... anachronistic, right?",
+      "ja": "「日本発のスチームパンク」って書いてありました。写真を見たら、ビクトリア時代の服に歯車とか変なガジェットが付いてるんです。なんか…時代錯誤的、っていうか、anachronistic、ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, 'anachronistic' means something that seems to belong to a different time period. Like a samurai wearing a smartwatch.",
+      "ja": "そうね、「anachronistic」は、本来とは異なる時代に属しているように見えるものを指すわ。まるでスマートウォッチをつけた侍のようなね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I get it. Like someone bringing an old rotary phone to a modern office meeting. That actually sounds kind of fun, though. I wonder if they'll have workshops.",
+      "ja": "ああ、なるほど。現代のオフィス会議に昔のダイヤル式の電話を持ってくる、みたいな。でもそれ、なんか面白そうですね。ワークショップとかやるのかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Maybe. Another piece of news, Japan is down to its last captive sea otter. Kira, an 18-year-old female, passed away.",
+      "ja": "そうかもしれないわね。それからもう一つニュースだけど、日本で飼育されているラッコが最後の1頭になったそうよ。キラという18歳のメスが亡くなったの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, only one left? That's really sad. I remember seeing them at the aquarium when I was a kid.",
+      "ja": "わあ、あと1頭だけですか？それは本当に悲しいですね。子どもの頃、水族館で見た記憶があります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Their numbers have declined significantly over the decades. It's a global issue.",
+      "ja": "この数十年で、その数はかなり減少しているの。世界的な問題よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hmm. Anyway, this is The Daily Tanu-chan Show. It's almost 7:00 AM. Also, did you know what today is?",
+      "ja": "うーん。さて、こちらは「ザ・デイリー・たぬちゃんショー」。もうすぐ午前7時です。ところで、今日が何の日かご存知ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I think I do. Isn't it Katsuobushi Day?",
+      "ja": "ええ、たぶん知っているわ。鰹節の日じゃないかしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's right! November 24th, 'いいふし'. From Yamaki. They do special events to promote bonito flakes. My little one actually loves the smell of dashi.",
+      "ja": "その通りです！11月24日、「いいふし」。ヤマキさんが制定したんですよね。鰹節をPRするための特別イベントとかもやるそうです。うちの子、実は出汁の匂いが大好きなんですよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's cute. My kids used to love sniffing the dashi stock when I was cooking.",
+      "ja": "それは可愛いわね。うちの子たちも、私が料理しているときに、出汁の匂いを嗅ぐのが好きだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "He's almost a year and a half now, walking around everywhere. I'm constantly chasing him. My senses are just so heightened all the time.",
+      "ja": "もうすぐ1歳半で、どこでも歩き回るんですよ。常に追いかけ回してます。僕の感覚がいつも研ぎ澄まされてて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "'Heightened' means made more intense or stronger. It's pretty common for new parents. Your awareness just expands.",
+      "ja": "「Heightened」は、より強く、より鋭敏になるという意味よ。新しい親にはよくあることね。意識が広がるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, like, I jump at everything these days. The phone rings, and I nearly drop my mug. It's like my brain is always expecting an emergency.",
+      "ja": "ええ、なんか最近は些細なことにもビクッとするんです。電話が鳴ると、マグカップを落としそうになったり。まるで脳がいつも緊急事態を予期しているみたいで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's normal. It calms down eventually, I promise. Just keep drinking your coffee.",
+      "ja": "それは普通よ。そのうち落ち着くから、大丈夫。コーヒーを飲み続けていればね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I'm counting on it. I think I need another cup right now, actually. This rain makes me feel sleepy.",
+      "ja": "そうだといいんですけど。今、もう一杯必要かもしれません、実は。この雨のせいで眠くなります。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'll stick with my tea.",
+      "ja": "私は紅茶でいいわ。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 17.6,
+      "temp_min": 6.4,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Woman dies after being struck by a reversing snowplow in Fukui",
+        "summary": "A 71-year-old woman died after being struck by a reversing snowplow in Katsuyama City, Fukui Prefecture, on Saturday.\nAccording to police, the accident occurred at around 10 a.m.…",
+        "link": "https://japantoday.com/category/national/woman-dies-after-being-struck-by-a-reversing-snowplow-in-fukui"
+      },
+      {
+        "title": "Two-day event will bring unique Japan-inspired steampunk style to Harajuku",
+        "summary": "While the steampunk style generally incorporates 19th century industrial technology and Victorian aesthetics, Japan’s largest steampunk event, Steam Garden, showcases the fashion with its own unique twist. Drawing…",
+        "link": "https://japantoday.com/category/features/two-day-event-will-bring-unique-japan-inspired-steampunk-style-to-harajuku"
+      },
+      {
+        "title": "Japan down to last captive sea otter as species remains endangered",
+        "summary": "Japan has been left with just one endangered sea otter in captivity, down from over a hundred several decades ago, after 18-year-old female Kira died at an aquarium…",
+        "link": "https://japantoday.com/category/national/japan-down-to-last-captive-sea-otter-as-species-remains-endangered"
+      }
+    ],
+    "wikipedia": {
+      "title": "鰹節の日",
+      "description": "「い（1）い（1）ふ（2）し（4）」の語呂合わせから、鰹節のメーカー、ヤマキが制定。鰹節のPRを目的に、鰹節の切り削り実演販売や、だしの取り方教室などを実施。"
+    }
+  }
+}
