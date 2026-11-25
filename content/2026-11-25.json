@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T02:55:33.816752+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 25th, 2026. Can you believe it's already this late in the year?",
+      "ja": "おはようございます、サラさん。2026年11月25日。もうこんなに年末なんですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. Time does fly, doesn't it? Welcome everyone to The Daily Tanu-chan Show.",
+      "ja": "おはよう、アレックス。本当に時間はあっという間ね。皆さん、『ザ・デイリー・タヌちゃんショー』へようこそ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It feels like just yesterday I was getting used to my baby sleeping through the night, and now they're trying to walk everywhere. Exhausting.",
+      "ja": "赤ちゃんが夜通し寝てくれるようになったのが昨日のことのようですけど、もうどこでも歩こうとしています。疲れますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They grow up fast. My kids are just getting ready for school now, it's a different kind of morning chaos.",
+      "ja": "成長は早いわよね。うちの子たちは今、学校に行く準備をしているところ。また違う種類の朝の混乱よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I can imagine. So, the weather today. My app says it's pretty cloudy out there. Overcast.",
+      "ja": "ええ、想像できます。それで、今日の天気ですが、私のアプリではかなり曇っているようです。どんよりと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Mmm, it is. About 13 degrees for the high, and dropping to just under 7 degrees tonight.",
+      "ja": "ええ、そうね。最高気温は13度くらいで、今夜は7度を下回るくらいまで下がるみたい。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Only a 20% chance of rain, though. My umbrella can stay home for once. Thank goodness.",
+      "ja": "でも雨の確率は20%だけですね。たまには傘を家に置いておけます。ありがたい。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's good. Always a relief not to carry it around all day.",
+      "ja": "それは良かった。一日中持ち歩かなくていいのはいつもホッとするわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Absolutely. Did you see the news about JR East? The Suica penguin mascot is getting replaced.",
+      "ja": "まったくですね。JR東日本のニュース見ましたか？Suicaのペンギンのマスコットが交代するそうです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, the purple rabbit. I saw a picture. It's kind of cute.",
+      "ja": "ああ、紫色のウサギね。写真を見たわ。ちょっと可愛いわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A purple rabbit, huh? I mean, the penguin was classic. Is it just going to... hop away forever?",
+      "ja": "紫色のウサギですか？あのペンギンは定番でしたよね。ただ...永遠にぴょんぴょん跳ねて去っていくんでしょうか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They just said it's being 'succeeded by.' It's a new character. Things change.",
+      "ja": "ただ『後継』って言ってたわ。新しいキャラクターなのよ。物事は変わるものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Anyway, on a more serious note, there was that rock climbing accident in Nagano. A man fell 20 meters.",
+      "ja": "そうですね。ところで、もっと深刻な話ですが、長野でロッククライミングの事故があったそうですね。男性が20メートル落下したと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's terrible. So dangerous. I always worry about people doing those extreme sports.",
+      "ja": "それはひどい。すごく危険ね。ああいうエクストリームスポーツをする人たちのことはいつも心配になるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, me too. Not something I'd ever try. But speaking of interesting things, there's a story about a Japanese craftsman who built a stunning tiny house on wheels.",
+      "ja": "ええ、私もです。絶対にやろうとは思わないですね。でも、面白い話といえば、日本の職人さんが素晴らしいタイニーハウスを車輪付きで建てたという記事がありました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, those are so clever. I saw one online where the inside was incredibly well designed. The `proprietor` of that house must be so proud.",
+      "ja": "ああ、そういうのって本当に clever よね。オンラインで、中が信じられないくらいよくデザインされているのを見たわ。あの家の『proprietor』はきっとすごく誇りに思っているでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Proprietor? What does that mean?",
+      "ja": "プロプライエター？それはどういう意味ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means the owner, especially of a business or property. So, the craftsman who owns the tiny house.",
+      "ja": "それは所有者という意味よ。特にビジネスや不動産の。だから、そのタイニーハウスを所有している職人さんのことね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. The owner of the tiny house. Right, that makes sense. I can imagine feeling very proud of something like that.",
+      "ja": "ああ、なるほど。タイニーハウスの所有者。ええ、納得です。そういうものだとすごく誇りに感じるでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Definitely. It's a real achievement.",
+      "ja": "間違いなくそうね。本当に素晴らしい功績よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Hey, did you know that today, November 25th, is actually 'OL no Hi'? Office Lady Day?",
+      "ja": "そういえば、今日11月25日は『OLの日』なんですよ。オフィスレディの日です。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, really? I hadn't heard that. How did that come about?",
+      "ja": "ああ、そうなの？それは知らなかったわ。どうしてそうなったの？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Apparently, in 1963, a women's magazine did a survey asking what to call working women, and 'Office Lady' came out on top. It just stuck.",
+      "ja": "どうやら1963年に女性誌が、働く女性を何と呼ぶかアンケートを取ったところ、『オフィスレディ』が一番になったらしいです。それが定着したと。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's interesting. I remember my mother sometimes used 'BG,' short for Business Girl. Language really changes over time.",
+      "ja": "それは興味深いわね。私の母は『BG』、ビジネスガールの略を時々使っていたのを思い出すわ。言葉って本当に時代とともに変わるものね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, 'BG' sounds really old now. I had to `peruse` a whole article about it this morning. It was quite a read.",
+      "ja": "ええ、『BG』は今聞くと本当に古い響きですね。今朝、それについての記事を丸々『peruse』しなければなりませんでした。かなり読み応えがありましたよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Peruse? Is that like to read very carefully?",
+      "ja": "ペルーズ？それはとても注意深く読むという意味かしら？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. To read something thoroughly, often in a detailed way. So, not just skimming. It actually took a while.",
+      "ja": "その通りです。何かを徹底的に、しばしば詳細に読むことです。だから、ただざっと読むのとは違います。実際、結構時間がかかりました。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I see. It's good to take your time with things sometimes.",
+      "ja": "なるほど。時には物事に時間をかけるのもいいことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My mind is usually racing, especially after chasing my baby around all morning. I swear, they have endless energy.",
+      "ja": "僕の頭は普段、特に毎朝赤ちゃんを追いかけ回した後は、いつもフル回転ですよ。本当に、彼らは無限のエネルギーを持っていると誓えます。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, I know. Mine are teenagers now, but they still have those bursts of energy when it's least convenient.",
+      "ja": "ああ、わかるわ。うちの子たちはもうティーンエイジャーだけど、一番都合の悪い時にそういうエネルギーの発作がまだあるのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really need another coffee before my first meeting. This one isn't quite kicking in yet.",
+      "ja": "最初の会議の前に、もう一杯コーヒーが必要です。これはまだ効いてきていない気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You do that, Alex. Have a good rest of your day.",
+      "ja": "そうしなさい、アレックス。良い一日をね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 13.0,
+      "temp_min": 6.6,
+      "rain_probability": 20
+    },
+    "news": [
+      {
+        "title": "JR East's Suica penguin mascot to be succeeded by purple rabbit",
+        "summary": "East Japan Railway Co (JR East) on Wednesday unveiled a purple rabbit character to succeed the outgoing penguin mascot of Suica, a smart card used for public transportation…",
+        "link": "https://japantoday.com/category/national/jr-east%27s-suica-penguin-mascot-to-be-succeeded-by-purple-rabbit"
+      },
+      {
+        "title": "Tokyo man dies after falling 20 meters while rock climbing in Nagano",
+        "summary": "A 51-year-old man from Tokyo died Monday after falling about 20 meters while rock climbing on a mountain in Nagano Prefecture, central Japan, police said.\nAn emergency call…",
+        "link": "https://japantoday.com/category/national/tokyo-man-dies-after-falling-20-meters-while-rock-climbing-in-central-japan"
+      },
+      {
+        "title": "Japanese master craftsman builds stunning tiny house on wheels",
+        "summary": "We’ve seen some amazing examples of tiny houses in Japan, but this might just be one of our all-time favourites. Recently featured on YouTube channel &quot;Living Big in…",
+        "link": "https://japantoday.com/category/features/japanese-master-craftsman-builds-stunning-tiny-house-on-wheels"
+      }
+    ],
+    "wikipedia": {
+      "title": "OLの日",
+      "description": "1963（昭和38）年のこの日、週刊誌「女性自身」のアンケート「働く女性の総称は？」で、オフィスレディー（OL）が第1位となり、OLという言葉が世間に浸透。OLネットワークシステムが制定。"
+    }
+  }
+}
