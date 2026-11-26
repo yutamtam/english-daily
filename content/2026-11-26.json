@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T02:01:41.460815+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. Wow, November 26th already? Feels like yesterday was summer.",
+      "ja": "おはようございます、サラさん。もう11月26日ですか？ついこの間まで夏だった気がします。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Morning, Alex. It does fly by. Happy Thursday.",
+      "ja": "おはよう、アレックス。あっという間だね。良い木曜日を。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Happy Thursday. And a very necessary coffee for me this morning. Did you see the weather forecast?",
+      "ja": "良い木曜日を。そして、今朝の僕にはコーヒーが欠かせません。天気予報見ました？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I did. Still overcast here in Tokyo, but no rain, which is nice. I'm having my tea.",
+      "ja": "見ましたよ。東京はまだ曇りだけど、雨は降らないから嬉しいね。私はお茶を飲んでる。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, no rain is good. It's supposed to get up to 14 degrees today. Not bad for late November, I guess.",
+      "ja": "うん、雨が降らないのはいいですね。今日は14度まで上がるらしいですよ。11月下旬にしては悪くないかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's manageable. Better than those really cold, windy days.",
+      "ja": "過ごしやすいね。すごく寒くて風が強い日よりはましだ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Definitely. You know, I just saw this news headline about TEPCO. Integrating some units at Fukushima.",
+      "ja": "本当に。そういえば、TEPCOのニュースを見たんですけど。福島でいくつかの部署を統合するって。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, decommissioning and compensation divisions. It's a big, complex task.",
+      "ja": "ええ、廃炉と賠償の部門ですね。大きくて複雑な仕事だ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "It feels like I read something about this every year. Not that it's going to change anything at my office, thankfully.",
+      "ja": "毎年こういうニュースを読んでいる気がします。僕の会社では何も変わらないですけどね、ありがたいことに。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "No, probably not.",
+      "ja": "ええ、そうでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "And this other one, about Santa wearing gray because of rising prices for his suit. That's... a statement.",
+      "ja": "あと、このニュースも。物価高でサンタがスーツの代わりにグレーを着るって。それは…すごいですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a Christmas display in western Japan. I imagine the kids might be a bit confused.",
+      "ja": "西日本のクリスマス展示の話ね。子供たちは少し戸惑うかもしれないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "My little one won't care yet, thankfully. He's only a year and five months. But my wallet cares about rising prices.",
+      "ja": "うちの子はまだ気にしないでしょうね、ありがたいことに。まだ1歳5ヶ月なので。でも、僕の財布は物価高を気にしますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I think everyone does. Speaking of kids, there was a piece about Japanese college students comparing anime high school to real high school.",
+      "ja": "みんなそうだと思うわ。子供たちの話だけど、日本の大学生がアニメの高校と現実の高校を比較する記事があったわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I saw that too! My nephew is really into those slice-of-life anime. I guess real high school is a lot less dramatic.",
+      "ja": "ああ、僕もそれを見ました！僕の甥っ子が、そういう日常系アニメにすごくハマってるんですよ。現実の高校はもっとドラマチックじゃないんでしょうね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "A lot less. More homework, less spontaneous beach trips during exams, I imagine.",
+      "ja": "全然違うわね。宿題が多くて、試験中に急にビーチに行くなんてことはないでしょうね、きっと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, definitely less dramatic. This whole week has been quite arduous, actually, with all the client meetings. I could use a spontaneous trip.",
+      "ja": "ええ、確かにドラマチックじゃないですね。今週は、クライアントとの会議が続いて、結構大変でしたよ。僕も急な旅行がしたいです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Arduous means difficult and tiring. Yes, I can imagine. It sounds like you're ready for the weekend.",
+      "ja": "大変というのは、難しくて疲れるということね。ええ、想像できるわ。週末が待ち遠しいでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Absolutely. Oh, I almost forgot. We're on The Daily Tanu-chan Show today, November 26th, 2026. Just a quick reminder for everyone joining us.",
+      "ja": "本当にそうですよ。あっ、忘れてました。今日は2026年11月26日、ザ・デイリー・タヌちゃんショーです。聞いてくださっている皆さんへの短いお知らせでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Thank you, Alex. And speaking of things that help with a tough week, today is いい風呂の日.",
+      "ja": "ありがとう、アレックス。そして、大変な週に役立つものといえば、今日は「いい風呂の日」なのよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Iie Furo no Hi? What's that?",
+      "ja": "いい風呂の日？それって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's 'Good Bath Day'. The numbers 11 and 26 can be read as 'ii furo'. It was established to encourage people to use bath additives and enjoy bathing.",
+      "ja": "「良いお風呂の日」よ。11と26が「いい風呂」と読めるから。入浴剤の使用を促進して、お風呂を楽しんでもらうために制定されたの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, I didn't know that. A good bath sounds amazing right now. Maybe a nice long soak after the baby finally crashes tonight.",
+      "ja": "へえ、知りませんでした。今すぐ良いお風呂に入りたい気分ですよ。今夜、赤ちゃんがやっと寝た後に、ゆっくり浸かるのもいいな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That sounds like a plan. A hot bath is always good for unwinding.",
+      "ja": "いい計画ね。熱いお風呂はリラックスするのにいつも最高だわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I was trying to adjust something on the baby's crib last night and ended up waking him up. Not ideal.",
+      "ja": "ええ。昨夜、赤ちゃんのベビーベッドを調整しようとして、結局起こしちゃったんですよ。最悪でした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The baby's bed with high sides, you mean. Yes, that's not ideal at all.",
+      "ja": "赤ちゃんの、柵がついたベッドのことね。ええ、それは全然理想的じゃないわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the crib. I thought he was sound asleep. Anyway, a good bath would definitely help me forget that.",
+      "ja": "ええ、そのベビーベッドです。ぐっすり眠ってると思ったのに。とにかく、良いお風呂に入ればきっと忘れられますよ。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I agree. I like a hot bath, especially after working in the garden. My herbs are still doing well, even this late in the year.",
+      "ja": "そうね。私も熱いお風呂が好きよ、特に庭仕事の後なんて。ハーブは年の暮れでもまだ元気で育ってるわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, you have a garden? I didn't know that.",
+      "ja": "へえ、庭があるんですか？それは知りませんでした。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Just a small one. My tomatoes didn't do so great this summer, but the basil was excellent.",
+      "ja": "小さいものよ。今年の夏はトマトがあまり良くなかったけど、バジルは最高だったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That sounds nice. Maybe when my kids are a bit older, I'll try gardening.",
+      "ja": "いいですね。うちの子がもう少し大きくなったら、ガーデニングもやってみようかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's satisfying.",
+      "ja": "やりがいがあるわよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I can imagine. Well, I think I'm going to grab another coffee before I dive into the morning reports. Maybe a gray one.",
+      "ja": "想像できます。さて、午前の報告書に取りかかる前に、もう一杯コーヒーを淹れてきます。グレーのやつかな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Make it a good one, Alex.",
+      "ja": "良いものにしてね、アレックス。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Overcast",
+      "temp_max": 14.3,
+      "temp_min": 4.2,
+      "rain_probability": 0
+    },
+    "news": [
+      {
+        "title": "TEPCO to integrate Fukushima nuclear decommissioning, compensation units",
+        "summary": "Tokyo Electric Power Company Holdings Inc plans to integrate its units for decommissioning its Fukushima nuclear power plants with a division handling compensation and reconstruction as early as…",
+        "link": "https://japantoday.com/category/national/update1-tepco-to-integrate-fukushima-nuclear-decommissioning-compensation-units"
+      },
+      {
+        "title": "Japan's rising prices leave Santa in gray at Christmas display",
+        "summary": "With rising prices putting a new red suit beyond his budget, Santa Claus is wearing gray instead of his usual red at a Christmas display in the western…",
+        "link": "https://japantoday.com/category/national/japan%27s-rising-prices-leave-santa-in-gray-at-christmas-display"
+      },
+      {
+        "title": "Japanese college students share four ways anime high school is different from real high school",
+        "summary": "Compared to other forms of media, Japanese animation has always had a penchant for teenage protagonists, and the rising popularity of slice-of-life-genre anime means that every TV season…",
+        "link": "https://japantoday.com/category/features/japanese-college-students-share-four-ways-anime-high-school-is-different-from-real-high-school"
+      }
+    ],
+    "wikipedia": {
+      "title": "いい風呂の日",
+      "description": "11（いい）26（ふろ）の語呂合わせから、日本浴用剤工業会が入浴剤の使用促進を目的として制定。"
+    }
+  }
+}
