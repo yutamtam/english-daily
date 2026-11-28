@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T01:46:30.576399+00:00",
+  "vocab_level": 3,
+  "script": [
+    {
+      "speaker": "Alex",
+      "text": "Morning, Sarah. November 28th, right?",
+      "ja": "おはようございます、サラさん。11月28日ですよね？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's right. Good morning, Alex.",
+      "ja": "そうです。おはよう、アレックス。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, it's really coming down out there. My coffee is barely keeping me awake today.",
+      "ja": "うわー、すごい雨ですね。今日のコーヒーも全然効かないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's a proper deluge, isn't it? The forecast said 100% rain. It's about 18 degrees high today, but feels colder with this much water.",
+      "ja": "本当にひどい雨ね。予報通り100%の雨だわ。今日は最高気温18度くらいだけど、これだけ降るともっと寒く感じるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "A deluge? What's a deluge, exactly?",
+      "ja": "デリュージ？デリュージって何ですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It means a lot of rain, like a flood. Heavy, heavy rain.",
+      "ja": "大量の雨、洪水みたいな。すごく激しい雨のことよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Ah, I see. Yeah, definitely a deluge. My shoes are already soaked just walking from the station. My kid would love this though, splashing in puddles. I don't know why, but they just love water right now.",
+      "ja": "ああ、なるほど。ええ、確かにデリュージですね。駅から歩いてくるだけで靴がもうびしょ濡れですよ。うちの子はこれ好きだろうな、水たまりで飛び跳ねるの。なんでかわからないけど、今水遊びが大好きで。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "They often do at that age. My daughter used to be the same.",
+      "ja": "その年頃の子はよくそうね。私の娘も昔はそうだったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Speaking of things to enjoy, I saw the news about Kyoto's autumn colors. They look amazing. All those reds and yellows.",
+      "ja": "楽しむことと言えば、京都の紅葉のニュースを見ました。本当にきれいですね。あの赤と黄色のコントラストが。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I saw that too. People marveling at the brilliant foliage. It's a popular time to visit. My son actually went last year for a school trip.",
+      "ja": "ええ、私も見たわ。人々が鮮やかな紅葉に感嘆しているって。人気の観光シーズンよね。私の息子も去年、修学旅行で行ったわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I really want to go. I'm thinking about taking some time off next year, maybe doing a quick trip somewhere. Somewhere with nature. My little one would probably just try to eat the leaves, though.",
+      "ja": "僕も本当に行きたいです。来年、休みを取って、どこかへサッと旅行に行きたいな。自然のある場所へ。うちの子は多分、葉っぱを食べようとするだけでしょうけど。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "That's true. They put everything in their mouth.",
+      "ja": "そうね。何でも口に入れる時期だもの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I also saw something about Yuki Tsumugi silk from Tochigi. It sounds really unique. How they make it, the history.",
+      "ja": "あと、栃木の結城紬のニュースも見ました。すごくユニークですね。作り方とか、歴史とか。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, that's a traditional craft. It's very beautiful, known for its soft texture and durability.",
+      "ja": "ああ、あれは伝統工芸品ね。とても美しいし、柔らかい手触りと丈夫さで知られているわ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, and there was also a story about a designer, Keisuke Unosawa. It said his career is far from ordinary. No fancy design school. I like that, someone just making things work.",
+      "ja": "ええ、それと、デザイナーの宇野澤啓介さんの話もありましたね。彼のキャリアは普通じゃないって書いてあって。一流のデザイン学校とかも出てないって。そういうの、いいですよね。自分で道を切り開く人。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "He focuses on making everyday objects special, doesn't he? It's about finding beauty in the ordinary.",
+      "ja": "彼は日常のものを特別にするデザインに力を入れているのよね？普通のものの中に美しさを見出すこと。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right. Like the aesthetics of a simple cup. Sometimes I think about that. How things look. Like, I really want some new camping gear, and the aesthetics are almost as important as how useful it is.",
+      "ja": "そうです。シンプルなカップの美的感覚とか。たまに考えますね、ものの見た目って。例えば、新しいキャンプ用品が本当に欲しいんですけど、機能性と同じくらい見た目の美しさも大事で。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "The aesthetics?",
+      "ja": "美的感覚？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, the aesthetics. Like, the visual style, how it feels to look at it. Does it look cool? Does it fit the vibe of being out in nature?",
+      "ja": "ええ、美的感覚。例えば、見た目のスタイル、見ていてどう感じるか。かっこいいか？自然の中にいる雰囲気に合うか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I see. The overall visual appeal.",
+      "ja": "なるほどね。全体的な見た目の魅力ね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. I'm always looking at new tents and stoves, dreaming about a weekend trip. But with the baby still pretty young, it's hard to find the time for anything more than a short walk in a park.",
+      "ja": "まさに。いつも新しいテントとかストーブとか見て、週末のキャンプを夢見てるんですけど。でも、赤ちゃんがまだ小さいから、公園での短い散歩くらいしか時間が取れなくて。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It will get easier. You just need to choose the right gear for a family, too.",
+      "ja": "もっと楽になるわよ。家族向けに適切な道具を選ぶ必要もあるわね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "I guess so. Anyway, speaking of things that happen today, did you know what November 28th is?",
+      "ja": "そうですね。ところで、今日のことなんですけど、11月28日が何の日か知ってますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Oh, right. 税関記念日, Customs Day, isn't it?",
+      "ja": "ああ、そうね。税関記念日でしょう？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's it! How did you know?",
+      "ja": "それです！なんで知ってるんですか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "It's an annual thing. It commemorates when the Unjosho — the places handling foreign trade — were renamed to Zeikan, which means Customs, back in 1872.",
+      "ja": "毎年あるものよ。1872年に外国貿易を扱っていた運上所が税関と改称されたことを記念しているの。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Wow, 1872. That's a long time ago. It's funny how some things stay the same, even the names.",
+      "ja": "へえ、1872年。ずいぶん昔ですね。名前まで変わらず、ずっと同じものがあるって面白いですね。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Well, the function is still vital. It's important to keep track of what comes in and out of the country.",
+      "ja": "まあ、機能は今でも非常に重要だからね。国に出入りするものを把握するのは大切よ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah, I guess so. Can you imagine trying to expedite that process back then?",
+      "ja": "ええ、そうですね。当時、そのプロセスを迅速に進めようとするのは想像できますか？"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Expedite?",
+      "ja": "迅速に進める？"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Oh, expedite. Like, make it go faster, speed it up.",
+      "ja": "ああ、迅速に進める。つまり、早くする、スピードアップさせるってことです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Yes, I understand. Back then, they probably didn't have much choice but to take their time.",
+      "ja": "ええ、わかったわ。当時は、時間をかけるしかなかったでしょうね。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Yeah. I can't imagine trying to explain customs forms to someone who only uses scrolls.",
+      "ja": "そうですね。巻物しか使わない人に税関の書類を説明しようとするなんて想像できないな。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Right. Times change.",
+      "ja": "そうね。時代は変わるものよ。"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Well, that's it for The Daily Tanu-chan Show today. It's been good catching up, Sarah.",
+      "ja": "さて、今日のザ・デイリー・たぬちゃんショーはここまでですね。サラさん、お話しできてよかったです。"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "You too, Alex. Have a good day, and try not to get too wet.",
+      "ja": "私もよ、アレックス。良い一日を。あまり濡れないようにね。"
+    }
+  ],
+  "sources": {
+    "weather": {
+      "location": "Tokyo",
+      "description": "Moderate rain",
+      "temp_max": 18.8,
+      "temp_min": 7.5,
+      "rain_probability": 100
+    },
+    "news": [
+      {
+        "title": "Yuki Tsumugi: Tochigi Prefecture’s unique take on silk manufacturing",
+        "summary": "Just north of Tokyo, in Tochigi Prefecture, high-rises gradually disappear and space opens up ever wider between buildings to make room for farm fields silvered with rivers. Mountains…",
+        "link": "https://japantoday.com/category/features/yuki-tsumugi-tochigi-prefectures-unique-take-on-silk-manufacturing"
+      },
+      {
+        "title": "Tourists enjoy brilliant autumn colours in Kyoto",
+        "summary": "Visitors from Japan and overseas marveled at the brilliant reds and yellows of Kyoto's autumn foliage season on Friday, as it transformed the city's temples, gardens and mountains…",
+        "link": "https://japantoday.com/category/national/tourists-enjoy-brilliant-autumn-colours-in-kyoto"
+      },
+      {
+        "title": "Making the ordinary extraordinary with Keisuke Unosawa",
+        "summary": "The story of Keisuke Unosawa’s design career is far from ordinary. You won’t find skills developed at a prestigious design school or an expensive intern program abroad; there…",
+        "link": "https://japantoday.com/category/features/making-the-ordinary-extraordinary-with-keisuke-unosawa"
+      }
+    ],
+    "wikipedia": {
+      "title": "税関記念日",
+      "description": "1872（明治5）年のこの日、長崎・横浜・箱館（函館）に設けられていた外国との貿易を扱う「運上所」が「税関」と改称されたことにちなみ、1952（昭和27）年、大蔵省が制定。"
+    }
+  }
+}
